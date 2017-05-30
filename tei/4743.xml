@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To His Royal Highness the Duke of Cumberland, on his birth-day. April the 15th, 1732. By Stephen Duck</title>
+            <author>Duck, Stephen, 1705-1756.</author>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>University of Oxford Text Archive</name>
+               <address>
+                  <addrLine>Oxford University Computing Services</addrLine>
+                  <addrLine>13 Banbury Road</addrLine>
+                  <addrLine>Oxford</addrLine>
+                  <addrLine>OX2 6NN</addrLine>
+               </address>
+               <email>ota@oucs.ox.ac.uk</email>
+            </distributor>
+            <idno type="ota">http://ota.ox.ac.uk/id/4743</idno>
+            <idno type="isbn10">1106017420</idno>
+            <idno type="isbn13">9781106017420</idno>
+            <idno type="TCP">K073282.000</idno>
+            <idno type="BIBNO">CW3315121706</idno>
+            <idno type="ECLL">0904400400</idno>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/3.0/">
+	  Distributed by the University of Oxford under a Creative Commons
+	  Attribution-ShareAlike 3.0 Unported License
+	</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To His Royal Highness the Duke of Cumberland, on his birth-day. April the 15th, 1732. By Stephen Duck</title>
+                  <author>Duck, Stephen, 1705-1756.</author>
+               </titleStmt>
+               <extent>[2],5-7,[1]p. ; 2⁰.</extent>
+               <publicationStmt>
+                  <publisher>printed for J. Jackson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1732.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>Foxon, D481</note>
+                  <note>English Short Title Catalog, ESTCT90236.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">English</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:0904400400:1"/>
+            <p>TO HIS
+ROYAL HIGHNESS
+The DUKE of
+<hi>C<g ref="char:V">Ʋ</g>MBERLAND,</hi>
+ON HIS
+BIRTH-DAY.</p>
+            <p>
+               <hi>April</hi> the 15th, 1732.</p>
+            <p>By <hi>STEPHEN DUCK.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi>
+Printed for <hi>J. Jackſon</hi> in <hi>Pall-Mall.</hi> (Price 4 <hi>d.</hi>) 1732.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="5" facs="tcp:0904400400:2"/>
+            <head>TO HIS
+ROYAL HIGHNESS
+The DUKE of
+CUMBERLAND, &amp;c.</head>
+            <l>
+               <seg rend="decorInit">T</seg>Welve Times hath <hi>Sol</hi> his annual Race begun,</l>
+            <l>Since <hi>Jove</hi> deſcended from his radiant Throne.</l>
+            <l>Around the pendent Globe the God purſu'd</l>
+            <l>His circling March, and human Actions view'd,</l>
+            <l>But griev'd that Virtue droop'd her languid Head,</l>
+            <l>While Vice from Clime to Clime contagious ſpread.</l>
+            <l>Back to his native Seat he ſternly flies,</l>
+            <l>And ſends an Edict thro' the ſpacious Skies,</l>
+            <l>To call th'ethereal Pow'rs ſwift flew his Word,</l>
+            <l>Th'ethereal Pow'rs as ſwift attend their Lord.</l>
+            <l>
+               <pb n="6" facs="tcp:0904400400:3"/>
+Upon <hi>Olympus'</hi> Top the Synod met,</l>
+            <l>Where high inthron'd the thund'ring Monarch ſat,</l>
+            <l>And with a Nod that ſhook the Spheres, he ſwore</l>
+            <l>The Minor Gods ſhould viſit Earth no more.</l>
+            <l>What muſt your earthly Sons, <hi>Minerva</hi> cry'd,</l>
+            <l>Explore their doubtful Way without a Guide?</l>
+            <l>If <hi>Pallas</hi> muſt no more to Mortals go,</l>
+            <l>Let <hi>Pallas</hi> beg a Subſtitute below.</l>
+            <l>Worthy to rule the World, whoſe noble Mind</l>
+            <l>May copy out the Gods to human Kind.</l>
+            <l>She lowly bow'd, and <hi>Jove</hi> conſenting ſmil'd,</l>
+            <l>Go form ſaid he, this new imagin'd Child.</l>
+            <l>Collect the beſt Materials where you will,</l>
+            <l>And let us ſee for once <hi>Minerva</hi>'s Skill.</l>
+            <l>He ſaid, ſhe haſtens o'er the bright Abodes,</l>
+            <l>Selecting each Perfection of the Gods.</l>
+            <l>From <hi>Mars</hi> ſhe warlike Strength and Courage took,</l>
+            <l>But ſoften'd them with <hi>Venus'</hi> graceful Look.</l>
+            <l>To theſe ſhe added <hi>Hermes'</hi> Eloquence,</l>
+            <l>And crown'd it with her own ſuperior Senſe.</l>
+            <l>
+               <pb n="7" facs="tcp:0904400400:4"/>
+Some of <hi>Apollo</hi>'s piercing Rays ſhe ſtole,</l>
+            <l>And while the Muſes play'd ſhe form'd a Soul.</l>
+            <l>When thus compos'd the bright Ingredients lay,</l>
+            <l>She nobly dreſt 'em in ethereal Clay.</l>
+            <l>
+               <hi>Jove</hi> touch'd the Maſs with his enliv'ning Hand,</l>
+            <l>And vital Warmth inſpir'd a <hi>CUMBERLAND.</hi>
+            </l>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
+

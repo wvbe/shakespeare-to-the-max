@@ -1,0 +1,2235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Amoretti and Epithalamion</title>
+            <author>Spenser, Edmund, 1552?-1599</author>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>University of Oxford Text Archive</name>
+               <address>
+                  <addrLine>Oxford University Computing Services</addrLine>
+                  <addrLine>13 Banbury Road</addrLine>
+                  <addrLine>Oxford</addrLine>
+                  <addrLine>OX2 6NN</addrLine>
+               </address>
+               <email>ota@oucs.ox.ac.uk</email>
+            </distributor>
+            <idno type="ota">http://ota.ox.ac.uk/id/3201</idno>
+            <idno type="isbn10">1106002008</idno>
+            <idno type="isbn13">9781106002006</idno>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/3.0/">
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License
+      </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Revised version of  <relatedItem type="older" target="http://ota.ox.ac.uk/id/1640"/>
+            </bibl>
+            <biblFull>
+               <titleStmt>
+                  <title>Spenser's minor poems / edited by Ernest De Sélincourt</title>
+                  <title level="m">The poetical works of Edmund Spenser in three volumes</title>
+                  <author>Spenser, Edmund, 1552?-1599</author>
+                  <editor role="editor">De Selincourt, Ernest, 1870-1943</editor>
+               </titleStmt>
+               <extent>v. 1 ; 22 cm.</extent>
+               <publicationStmt>
+                  <publisher>Clarendon Press</publisher>
+                  <pubPlace>Oxford</pubPlace>
+                  <date>1910</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note anchored="true">With reproductions of original title-pages</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="OTASH">
+               <bibl>University of Oxford Text Archive Subject Headings</bibl>
+            </taxonomy>
+            <taxonomy xml:id="LCSH">
+               <bibl>Library of Congress Subject Headings</bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <creation>
+            <date/>
+         </creation>
+         <langUsage>
+            <language ident="eng">English</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="#LCSH">
+               <term type="person">Spenser, Edmund, 1552?-1599</term>
+            </keywords>
+            <keywords scheme="#LCSH">
+               <term type="genre">Poems -- England -- 16th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2010-09-30">Header normalised</change>
+      </revisionDesc>
+  </teiHeader>
+  <text>
+      <front>
+         <titlePage>
+            <titlePart type="main">
+               <title>AMORETTI<lb/>
+AND<lb/>Epithalamion.</title>
+            </titlePart>
+            <lb/>
+            <byline>Written not long since<lb/>
+by <docAuthor>Edmunde<lb/>
+Spenser,</docAuthor>
+            </byline>
+            <lb/>
+            <titlePart type="main">
+               <figure>
+                  <figDesc>[crest of book in cameo with sunburst--P. in bottom 
+left corner S. in bottom right. with latin in border: "ET 
+VS QVE AD NIBES VERITAS TUA"</figDesc>
+               </figure>
+            </titlePart>
+            <docImprint>Printed for William<lb/>
+Ponsonby.1595.</docImprint>
+         </titlePage>
+      </front>
+      <body>
+         <opener>
+            <salute>To the Right Worship-<lb/>
+ful Sir Robart Need-<lb/>
+ham Knight.<lb/>
+Sir, to gratulate your safe return from Ireland, I had nothing 
+so readie, nor thought any thing so meete, as these sweete conceited 
+Sonets, the deede of that wel deseruing gentleman, maister Edmond 
+Spenser: whose name sufficiently warranting the worthinesse of the 
+work:  I do more confidently presume to publish it in his 
+absence, vnder your name to whom (in my poore opinion) the patronage 
+therof, doth in some respectes properly appertaine.  For, besides 
+your iudgement and delighte in learned poesie: This gentle Muse 
+for her former perfection long wished for in Englande, nowe at the 
+length crossing the Seas in your happy companye, (though to your 
+selfe vnknowne) seemeth to make choyse of you, as meetest to 
+giue her deserued countenaunce, after her retourne: entertaine her, 
+then, (Right worshipfull) in sorte best beseeming your gentle minde, 
+and her merite, and take in worth my good will herein, who seeke no 
+more, but to shew my selfe yours in all dutifull affection.<lb/> 
+W.P. </salute>
+         </opener>
+         <pb n="371"/>
+         <div type="part">
+            <head>AMORETTI.</head>
+            <div type="poem">
+               <salute>G: W. senior, to the Author</salute>
+               <lb/>
+               <l>Darke is the day, when <hi rend="italic">Phoebus</hi> face is shrowded,</l>
+               <l>  and weaker sights may wander soone astray:</l>
+               <l>but when they see his glorious raies vnclowded,</l>
+               <l>with steddy steps they keepe the perfect way:</l>
+               <l>So while this Muse in forraine landes doth stay,</l>
+               <l>  inuention weepes, and pens are cast aside,</l>
+               <l>  the time like night, depriud of chearefull day,</l>
+               <l>  and few do write, but (ah) too soone may slide.</l>
+               <l>Then, hie thee home, that art our perfect guide,</l>
+               <l>  and with thy wit illustrate Englands fame,</l>
+               <l>  dawnting thereby our neighbours auncient pride,</l>
+               <l>  that do for poesie, challendge cheefest name.</l>
+               <l>So we that liue and ages that succeede,</l>
+               <l>  With great applause thy learned works shall reede.</l>
+               <lb/>
+               <lb/>
+               <l>
+                  <hi rend="italic">Ah Colin, whether on the lowly plaine,</hi>
+               </l>
+               <l>
+                  <hi rend="italic">pyping to shepherds thy sweete roundelaies:</hi>
+               </l>
+               <l>
+                  <hi rend="italic">or whether singing in some lofty vaine,</hi>
+               </l>
+               <l>
+                  <hi rend="italic">heroick deedes, of past, or present daies.</hi>
+               </l>
+               <l>
+                  <hi rend="italic">Or whether in thy louely mistris praise,</hi>
+               </l>
+               <l>
+                  <hi rend="italic">thou list to exercise thy learned quill,</hi>
+               </l>
+               <l>
+                  <hi rend="italic">thy muse hath got such grace, and power to please,</hi>
+               </l>
+               <l>
+                  <hi rend="italic">with rare inuention bewtified by skill.</hi>
+               </l>
+               <l>
+                  <hi rend="italic">As who therein can euer ioy their fill!</hi>
+               </l>
+               <l>
+                  <hi rend="italic">O therefore let that happy muse proceede</hi>
+               </l>
+               <l>
+                  <hi rend="italic">to clime the height of vertues sacred hill,</hi>
+               </l>
+               <l>
+                  <hi rend="italic">where endles honor shall be made thy meede.</hi>
+               </l>
+               <l>
+                  <hi rend="italic">Because no malice of succeeding daies,</hi>
+               </l>
+               <l>
+                  <hi rend="italic">can rase those records of thy lasting praise.</hi>
+               </l>
+               <signed>G.W.I</signed>
+               <pb n="372"/>
+            </div>
+            <div n="I" type="poem">
+               <l>Happy ye leaues when as those lilli hands,</l>
+               <l>  which hold my life in their dread doing might,</l>
+               <l>  shall handle you and hold in loues soft bands,</l>
+               <l>  lyke captiues trembling at the victors sight.</l>
+               <l>And happy lines, on which with starry light,</l>
+               <l>  those lamping eyes will deigne sometimes to look</l>
+               <l>  and reade the sorrowes of my dying spright,</l>
+               <l>  written with teares in harts close bleeding book.</l>
+               <l>And happy rymes bath'd in the sacred brooke,</l>
+               <l>  of <hi rend="italic">Helicon</hi> whence she deriued is,</l>
+               <l>  when ye behold that Angels blessed looke,</l>
+               <l>  my soules long lacked foode, my heauens blis.</l>
+               <l>Leaues, lines, and rymes, seeke her to please alone,</l>
+               <l>  whom if ye please, I care for other none.</l>
+            </div>
+            <div n="II" type="poem">
+               <l>Vnquiet thought, whom at the first I bred,</l>
+               <l>  Of th'inward bale of my loue pined hart:</l>
+               <l>  and sithens haue with sighes and sorrowes fed,</l>
+               <l>  till greater then my wombe thou woxen art.</l>
+               <l>Breake forth at length out of the inner part,</l>
+               <l>  in which thou lurkest lyke to vipers brood:</l>
+               <l>  and seeke some succour both to ease my smart</l>
+               <l>  and also to sustayne thy selfe with food.</l>
+               <l>But if in presence of that fayrest proud</l>
+               <l>  thou chance to come, fall lowly at her feet:</l>
+               <l>  and with meeke humblesse and afflicted mood,</l>
+               <l>  pardon for thee, and grace for me intreat.</l>
+               <l>Which if she graunt, then liue, and my loue cherish,</l>
+               <l>  if not, die soone, and I with thee will perish.</l>
+            </div>
+            <pb n="373"/>
+            <div n="III" type="poem">
+               <l>The souerayne beauty which I doo admyre,</l>
+               <l>  witnesse the world how worthy to be prayzed:</l>
+               <l>  the light wherof hath kindled heauenly fyre,</l>
+               <l>  in my fraile spirit by her from basenesse raysed.</l>
+               <l>That being now with her huge brightnesse dazed,</l>
+               <l>  base thing I can no more endure to view:</l>
+               <l>  but looking still on her I stand amazed,</l>
+               <l>  at wondrous sight of so celestiall hew.</l>
+               <l>So when my toung would speak her praises dew,</l>
+               <l>  it stopped is with thoughts astonishment:</l>
+               <l>  and when my pen would write her titles true,</l>
+               <l>  it rauisht is with fancies wonderment:</l>
+               <l>Yet in my hart I then both speake and write</l>
+               <l>  the wonder that my wit cannot endite.</l>
+            </div>
+            <div n="IIII" type="poem">
+               <l>New yeare forth looking out of Ianus gate,</l>
+               <l>  Doth seeme to promise hope of new delight:</l>
+               <l>  and bidding th'old Adieu, has passed date</l>
+               <l>  bids all old thoughts to die in dumpish spright.</l>
+               <l>And calling forth out of sad Winters night,</l>
+               <l>  fresh loue, that long hath slept in cheerlesse bower:</l>
+               <l>  wils him awake, and soone about him dight</l>
+               <l>  his wanton wings and darts of deadly power.</l>
+               <l>For lusty spring now in his timely howre,</l>
+               <l>  is ready to come forth him to receiue:</l>
+               <l>  and warnes the Earth with diuers colord flowre,</l>
+               <l>  to decke hir selfe, and her faire mantle weaue.</l>
+               <l>Then you faire flowre, in whom fresh youth doth raine,</l>
+               <l>  prepare your selfe new loue to entertaine.
+ <pb n="374"/>
+               </l>
+            </div>
+            <div n="V" type="poem">
+               <l>Rvdely thou wrongest my deare harts desire,</l>
+               <l>  In finding fault with her too portly pride:</l>
+               <l>  the thing which I doo most in her admire,</l>
+               <l>  is of the wordly vnworthy most enuide.</l>
+               <l>For in those lofty lookes is close implide,</l>
+               <l>  scorn of base things, and sdeigne of foule dishonor:</l>
+               <l>  thretning rash eies which which gaze on her so wide,</l>
+               <l>  that loosely they ne dare to looke vpon her.</l>
+               <l>Such pride is praise, such portlinesse is honor,</l>
+               <l>  that boldned innocence beares in hir eies:</l>
+               <l>  and her faire countenance like a goodly banner,</l>
+               <l>  spreds in defiaunce of all enemies.</l>
+               <l>Was neuer in this world ought worthy tride,</l>
+               <l>  without some spark of such self-pleasing pride.</l>
+            </div>
+            <div n="VI" type="poem">
+               <l>Be nought dismayd that her vnmoued mind</l>
+               <l>  doth still persist in her rebellious pride:</l>
+               <l>  such loue not lyke to lusts of baser kynd,</l>
+               <l>  the harder wonne, the firmer will abide.</l>
+               <l>The durefull Oake, whose sap is not yet dride,</l>
+               <l>  is long ere it conceiue the kindling fyre:</l>
+               <l>  but when it once doth burne, it doth diuide</l>
+               <l>  great heat, and makes his flames to heauen aspire.</l>
+               <l>So hard it is to kindle new desire,</l>
+               <l>  in gentle brest that shall endure for euer:</l>
+               <l>  deepe is the wound, that dints the parts entire</l>
+               <l>  with chast affects, that naught but death can seuer.</l>
+               <l>Then thinke not long in taking litle paine,</l>
+               <l>  to knit the knot, that euer shall remaine.
+ <pb n="375"/>
+               </l>
+            </div>
+            <div n="VII" type="poem">
+               <l>Fayre eyes, the myrrour of my mazed hart,</l>
+               <l>  what wondrous vertue is contaynd in you,</l>
+               <l>  the which both lyfe and death forth from you dart</l>
+               <l>  into the obiect of your mighty view?</l>
+               <l>For when ye mildly looke with louely hew,</l>
+               <l>  then is my soule with life and loue inspired:</l>
+               <l>  but when ye lowre, or looke on me askew,</l>
+               <l>  then doe I die, as one with lighning fyred.</l>
+               <l>But since that lyfe is more then death desyred,</l>
+               <l>  looke euer louely, as becomes you best,</l>
+               <l>  that your bright beams of my weak eies admyred,</l>
+               <l>  may kindle liuing fire within my brest.</l>
+               <l>Such life should be the honor of your light,</l>
+               <l>  such death the sad ensample of your might.</l>
+            </div>
+            <div n="VIII" type="poem">
+               <l>More then most faire, full of the liuing fire,</l>
+               <l>  Kindled aboue vnto the maker neere:</l>
+               <l>  no eies but ioyes, in which al powers conspire,</l>
+               <l>  that to the world naught else be counted deare.</l>
+               <l>Thrugh your bright beams doth not the blinded guest,</l>
+               <l>  shoot out his darts to base affections wound:</l>
+               <l>  but Angels come to lead fraile mindes to rest</l>
+               <l>  in chast desires on heauenly beauty bound.</l>
+               <l>You frame my thoughts and fashion me within,</l>
+               <l>  you stop my toung, and teach my hart to speake,</l>
+               <l>  you calme the storme that passion did begin,</l>
+               <l>  strong thrugh your cause, but by your vertue weak.</l>
+               <l>Dark is the world, where your light shined neuer;</l>
+               <l>  well is he borne, that may behold you euer.
+ <pb n="376"/>
+               </l>
+            </div>
+            <div n="IX" type="poem">
+               <l>Long-while I sought to what I might compare</l>
+               <l>  those powerfull eies, which lighten my dark spright,</l>
+               <l>  yet find I nought on earth to which I dare</l>
+               <l>  resemble th'ymage of their goodly light.</l>
+               <l>Not to the Sun: for they doo shine by night;</l>
+               <l>  nor to the Moone: for they are chaunged neuer;</l>
+               <l>  nor to the Starres: for they haue purer sight;</l>
+               <l>  nor to the fire: for they consume not euer;</l>
+               <l>Nor to the lightning: for they still perseuer;</l>
+               <l>  nor to the Diamond: for they are more tender;</l>
+               <l>  nor vnto Christall: for nought may them suer;</l>
+               <l>  nor vnto glasse: such basenesse mought offend her;</l>
+               <l>Then to the Maker selfe they likest be,</l>
+               <l>  whose light doth lighten all that here we see.</l>
+            </div>
+            <div n="X" type="poem">
+               <l>Vnrighteous Lord of loue, what law is this,</l>
+               <l>  That me thou makest thus tormented be:</l>
+               <l>  the whiles she lordeth in licentious blisse</l>
+               <l>  of her freewill, scorning both thee and me.</l>
+               <l>See how the Tyrannesse doth ioy to see</l>
+               <l>  the huge massacres which her eyes do make:</l>
+               <l>  and humbled harts brings captiues vnto thee,</l>
+               <l>  that thou of them mayst mightie vengeance take.</l>
+               <l>But her proud hart doe thou a little shake</l>
+               <l>  and that high look, with which she doth comptroll</l>
+               <l>  all this worlds pride, bow toa baser make,</l>
+               <l>  and al her faults in thy black booke enroll.</l>
+               <l>That I may laugh at her in equall sort,</l>
+               <l>  as she doth laugh at me and makes my pain her sport.
+ <pb n="377"/>
+                  <pb n="377"/>
+               </l>
+            </div>
+            <div n="XI" type="poem">
+               <l>Dayly when I do seeke and sew for peace,</l>
+               <l>  And hostages doe offer for my truth:</l>
+               <l>  she cruell warriour doth her selfe addresse</l>
+               <l>  to battell, and the weary war renew'th,</l>
+               <l>Ne wilbe moou'd with reason or with rewth,</l>
+               <l>  to graunt small respit to my restlesse toile:</l>
+               <l>  but greedily her fell intent poursewth,</l>
+               <l>  Of my poore life to make vnpittied spoile.</l>
+               <l>Yet my poore life, all sorrowes to assoyle,</l>
+               <l>  I would yield, her wrath to pacify:</l>
+               <l>  but when she seekes with torment and turmoyle,</l>
+               <l>  to force me liue, and will not let me dy.</l>
+               <l>All paine hath end and euery war hath peace,</l>
+               <l>  but mine no price nor prayer may surcease.</l>
+            </div>
+            <div n="XII" type="poem">
+               <l>One day I sought with her hart-thrilling eies</l>
+               <l>  to make a truce, and termes to entertaine:</l>
+               <l>  all fearelesse then of so false enimies,</l>
+               <l>  which sought me to entrap in treasons traine.</l>
+               <l>So as I then disarmed did remaine,</l>
+               <l>  a wicked ambush which lay hidden long</l>
+               <l>  in the close couert of her guilefull eyen,</l>
+               <l>  thence breaking forth did thick about me thring.</l>
+               <l>Too feeble I t'abide the brunt so strong,</l>
+               <l>  was forst to yeeld my selfe into their hands:</l>
+               <l>  who me captiuing streight with rigorous wrong,</l>
+               <l>  haue euer since me kept in cruell bands.</l>
+               <l>So Ladie, now to you I doo complaine,</l>
+               <l>  against your eies that iustice I may gaine.
+ <pb n="378"/>
+               </l>
+            </div>
+            <div n="XIII" type="poem">
+               <l>In that proud port, which her so goodly graceth,</l>
+               <l>  whiles her faire face she reares vp to the skie:</l>
+               <l>  and to the ground her eie lids low embaseth,</l>
+               <l>  most goodly temperature ye may descry,</l>
+               <l>Myld humblenesse mixt with awfull maiesty.</l>
+               <l>  For looking on the earth whence she was borne,</l>
+               <l>  her minde remembreth her mortalitie,</l>
+               <l>  what so is fayrest shall to earth returne.</l>
+               <l>But that same lofty countenance seemes to scorne</l>
+               <l>  base thing, and thinke how she to heauen may clime:</l>
+               <l>  treading downe earth as lothsome and forlorne,</l>
+               <l>  that hinders heauenly thoughts with drossy slime.</l>
+               <l>Yet lowly still vouchsafe to looke on me,</l>
+               <l>  such lowliness shall make you lofty be.</l>
+            </div>
+            <div n="XIIII" type="poem">
+               <l>Retourne agaynee my forces late dismayd,</l>
+               <l>  Vnto the siege by you abandon'd quite,</l>
+               <l>  great shame it is to leaue like one afrayd,</l>
+               <l>  so fayre a peece for one repulse so light.</l>
+               <l>Gaynst such strong castles needeth greater might,</l>
+               <l>  then those small forts which ye were wont belay:</l>
+               <l>  such haughty mynds enur'd to hardy fight,</l>
+               <l>  disdayne to yield vnto the first assay.</l>
+               <l>Bring therefore all the forces that ye may,</l>
+               <l>  and lay incessant battery to her heart,</l>
+               <l>  playnts, prayers, vowes, ruth, sorrow, and dismay,</l>
+               <l>  those engins can the proudest loue conuert.</l>
+               <l>And if those fayle, fall downe and dy before her,</l>
+               <l>  so dying liue, and liuing do adore her.
+ <pb n="379"/>
+               </l>
+            </div>
+            <div n="XV" type="poem">
+               <l>Ye tradefull Merchants, that with weary toyle,</l>
+               <l>  do seeke most pretious things to make your gain;</l>
+               <l>  and both the Indias of their treasures spoile,</l>
+               <l>  what needeth you to seeke so farre in vaine?</l>
+               <l>For loe my loue doth in her selfe containe</l>
+               <l>  all this worlds riches that may farre be found,</l>
+               <l>  if Saphyres, loe her eies be Saphyres plaine,</l>
+               <l>  if Rubies, loe hir lips be Rubies sound:</l>
+               <l>If Pearles, hir teeth be pearles both pure and round;</l>
+               <l>  if Yuorie, her forhead yuory weene;</l>
+               <l>  if Gold, her locks are finest gold on ground;</l>
+               <l>  if siluer, her faire hands are siluer sheene.</l>
+               <l>But that which fairest is, but few behold,</l>
+               <l>  her mind adornd with vertues manifold.</l>
+            </div>
+            <div n="XVI" type="poem">
+               <l>One day as I vnwarily did gaze</l>
+               <l>  on those fayre eyes my loues immortall light:</l>
+               <l>  the whiles my stonisht hart stood in amaze,</l>
+               <l>  through sweet illusion of her lookes delight.</l>
+               <l>I mote perceiue how in her glauncing sight,</l>
+               <l>  legions of loues with little wings did fly:</l>
+               <l>  darting their deadly arrowes fyry bright,</l>
+               <l>  at euery rash beholder passing by.</l>
+               <l>One of those archers closely I did spy,</l>
+               <l>  ayming his arrow at my very hart:</l>
+               <l>  when suddenly with twincle of her eye,</l>
+               <l>  the Damzell broke his misintended dart.</l>
+               <l>Had she not so doon, sure I had been slayne,</l>
+               <l>  yet as it was, I hardly scap't with paine.
+ <pb n="380"/>
+               </l>
+            </div>
+            <div n="XVII" type="poem">
+               <l>The glorious pourtraict of that Angels face,</l>
+               <l>  Made to amaze weake mens confused skil:</l>
+               <l>  and this worlds worthlesse glory to embase,</l>
+               <l>  what pen, what pencill can expresse her fill?</l>
+               <l>For though he colours could deuize at will,</l>
+               <l>  and eke his learned hand at pleasure guide,</l>
+               <l>  least trembling it his workmanship should spill,</l>
+               <l>  yet many wondrous things there are beside.</l>
+               <l>The sweet eye-glaunces, that like arrowes glide,</l>
+               <l>  the charming smiles, that rob sence from the hart:</l>
+               <l>  the louely pleasance and the lofty pride,</l>
+               <l>  cannot expressed be by any art.</l>
+               <l>A greater craftesmans hand thereto doth neede,</l>
+               <l>  that can expresse the life of things indeed.</l>
+            </div>
+            <div n="XVIII" type="poem">
+               <l>The rolling wheele that runneth often round,</l>
+               <l>  The hardest steele in tract of time doth teare:</l>
+               <l>  and drizling drops that often doe redound,</l>
+               <l>  the firmest flint doth in continuance weare.</l>
+               <l>Yet cannot I, with many a dropping teare,</l>
+               <l>  and long intreaty, soften her hard hart:</l>
+               <l> that she will once vouchsafe my plaint to heare,</l>
+               <l>  or looke with pitty on my payneful smart.</l>
+               <l>But when I pleade, she bids me play my part,</l>
+               <l>  and when I weep, she sayes teares are but water:</l>
+               <l>  and when I sigh, she sayes I know the art,</l>
+               <l>  and when I waile she turnes hir selfe to laughter.</l>
+               <l>Soe doe I weepe, and wayle, and pleade in vaine,</l>
+               <l>  whiles she as steele and flint doth still remayne.
+ <pb n="381"/>
+               </l>
+            </div>
+            <div n="XIX" type="poem">
+               <l>The merry Cuckow, messenger of Spring,</l>
+               <l>  His trompet shrill hath thrise already sounded:</l>
+               <l>  that warnes al louers wayt vpon their king,</l>
+               <l>  who now is comming forth with girland crouned.</l>
+               <l>With noyse whereof the quyre of Byrds resounded</l>
+               <l>  their anthemes sweet devized of loues prayse,</l>
+               <l>  that all the woods theyr ecchoes back rebounded,</l>
+               <l>  as tif they knew the meaning of their layes.</l>
+               <l>But mongst them all, which did Loues honor rayse</l>
+               <l>  no word was heard of her that most it ought,</l>
+               <l>  but she his precept proudly disobayes,</l>
+               <l>  and doth his ydle message set at nought.</l>
+               <l>Therefore O loue, vnlesse she turne to thee</l>
+               <l>  ere Cuckow end, let her a rebell be.</l>
+            </div>
+            <div n="XX" type="poem">
+               <l>In vaine I seeke and sew to her for grace,</l>
+               <l>  and doe myne humbled hart before her poure:</l>
+               <l>  the whiles her foot she in my necke doth place,</l>
+               <l>  and tread my life downe in the lowly floure.</l>
+               <l>And yet the Lyon that is Lord of power,</l>
+               <l>  and reigneth ouer euery beast in field,</l>
+               <l>  in his most pride disdeigneth to deuoure</l>
+               <l>  the silly lambe that to his might doth yield.</l>
+               <l>But she more cruell and more saluage wylde,</l>
+               <l>  then either Lyon or the Lyonesse:</l>
+               <l>  shames not tone with guiltlesse bloud defylde,</l>
+               <l>  but taketh glory in her cruelnesse.</l>
+               <l>Fayrer then fayrest, let none euer say,</l>
+               <l>  that ye were blooded in a yeelded pray.
+ <pb n="382"/>
+               </l>
+            </div>
+            <div n="XXI" type="poem">
+               <l>Was it the worke of nature or of Art,</l>
+               <l>  which tempred so the feature of her face,</l>
+               <l>  that pride and meeknesse mixt by equall part,</l>
+               <l>  doe both appeare t'adorne her beauties grace?</l>
+               <l>For with mild pleasance, which doth pride displace,</l>
+               <l>  she to her loue doth lookers eyes allure:</l>
+               <l>  and with sterne countenance back again doth chace</l>
+               <l>  their looser lookes that stir vp lustes impure.</l>
+               <l>With such strange termes her eyes she doth inure,</l>
+               <l>  that with one looke she doth my life dismay:</l>
+               <l>  and with another doth it streight recure,</l>
+               <l>  her smile me drawes, her frowne me driues away.</l>
+               <l>Thus doth she traine and teach me with her lookes,</l>
+               <l>  such art of eyes I neuer read in bookes.</l>
+            </div>
+            <div n="XXII" type="poem">
+               <l>This holy season fit to fast and pray,</l>
+               <l>  Men to deuotion ought to be inclynd:</l>
+               <l>  therefore, I lykewise on so holy day,</l>
+               <l>  for my sweet Saynt some seruice fit will find.</l>
+               <l>Her temple fayre is built within my mind,</l>
+               <l>  in which her glorious ymage placed us,</l>
+               <l>  on which my thoughts doo day and night attend</l>
+               <l>  lyke sacred priests that neuer thinke amisse.</l>
+               <l>There I to her as th'author of my blisse,</l>
+               <l>  will builde an alter to appease her yre:</l>
+               <l>  and on the same my hart will sacrifise,</l>
+               <l>  burning in flames of pure and chast desyre:</l>
+               <l>The which vouchsafe O goddesse to accept,</l>
+               <l>  amongst thy deerest relicks to be kept.
+ <pb n="383"/>
+               </l>
+            </div>
+            <div n="XXIII" type="poem">
+               <l>
+                  <hi rend="italic">Penelope</hi> for her <hi rend="italic">Vlisses</hi> sake,</l>
+               <l>  Deuiz'd a Web her wooers to deceaue:</l>
+               <l>  in which the worke that she all day did make</l>
+               <l>  the same at night she did againe vnreaue.</l>
+               <l>Such subtile craft my Damzell doth conceaue,</l>
+               <l>  th'importune suit of my desire to shonne:</l>
+               <l>  for all that I in many dayes doo weaue,</l>
+               <l>  in one short houre I find by her vndonne.</l>
+               <l>So when I thinke to end that I begonne,</l>
+               <l>  I must begin and neuer bring to end:</l>
+               <l>  for with one looke she spils that long I sponne,</l>
+               <l>  and with one word my whole years work doth rend.</l>
+               <l>Such labour like the Spyders web I fynd,</l>
+               <l>  whose fruitlesse worke is broken with least wynd.</l>
+            </div>
+            <div n="XXIIII" type="poem">
+               <l>When I behold that beauties wonderment,</l>
+               <l>  And rare perfection of each goodly part:</l>
+               <l>  of natures skill the onely complement,</l>
+               <l>  I honor and admire the makers art.</l>
+               <l>But when I feele the bitter balefull smart,</l>
+               <l>  which her fayre eyes vnwares doe worke in mee:</l>
+               <l>  that death out theyr shiny beames doe dart,</l>
+               <l>  I thinke that I a new <hi rend="italic">Pandora</hi> see;</l>
+               <l>Whom all the Gods in councell did agree,</l>
+               <l>  into this sinfull world from heauen to send:</l>
+               <l>  that she to wicked men a scourge should bee,</l>
+               <l>  for all their faults with which they did offend.</l>
+               <l>But since ye are my scourge I will intreat,</l>
+               <l>  that for my faults ye will me gently beat.
+ <pb n="384"/>
+               </l>
+            </div>
+            <div n="XXV" type="poem">
+               <l>How long shall this lyke dying lyfe endure,</l>
+               <l>  And know no end of her owne mysery:</l>
+               <l>  but wast and weare away in termes vnsure,</l>
+               <l>  twixt feare and hope depending doubtfully.</l>
+               <l>Yet better were attonce to let me die,</l>
+               <l>  and shew the last ensample of your pride:</l>
+               <l>  then to torment me thus with cruelty,</l>
+               <l>  to proue your powre, which I too wel haue tride.</l>
+               <l>But yet if in your hardned brest ye hide,</l>
+               <l>  a close intent at last to shew me grace:</l>
+               <l>  then all the woes and wrecks which I abide,</l>
+               <l>  as meanes of blisse I gladly wil embrace.</l>
+               <l>And wish that more and greater they might be,</l>
+               <l>  that greater meede at last may turne to mee.</l>
+            </div>
+            <div n="XXVI" type="poem">
+               <l>Sweet is the Rose, but growes vpon a brere;</l>
+               <l>  Sweet is the Iunipere, but sharpe his bough;</l>
+               <l>  sweet is the Eglantine, but pricketh nere;</l>
+               <l>  sweet is the firbloome, but his braunches rough.</l>
+               <l>Sweet is the Cypresse, but his rynd is tough,</l>
+               <l>  sweet is the nut, but bitter is his pill;</l>
+               <l>  sweet is the broome-flore, but yet sowre enough;</l>
+               <l>  and sweet is Moly, but his root is ill.</l>
+               <l>So euery sweet with soure is tempred still,</l>
+               <l>  that maketh it be coueted the more:</l>
+               <l>  for easie things that may be got at will,</l>
+               <l>  most sorts of men doe set but little store.</l>
+               <l>Why then should I accoumpt of little paine,</l>
+               <l>  that endlesse pleasure shall vnto me gaine.
+ <pb n="385"/>
+               </l>
+            </div>
+            <div n="XXVII" type="poem">
+               <l>Faire proud now tell me why should faire be proud,</l>
+               <l>  Sith all worlds glorie is but drosse vncleane:</l>
+               <l>  and in the shade of death it selfe shall shroud,</l>
+               <l>  how euer now thereof ye little weene.</l>
+               <l>That goodly Idoll now so gay beseene,</l>
+               <l>  shall doffe her fleshes borrowd fayre attyre:</l>
+               <l>  and be forgot as it had neuer beene,</l>
+               <l>  that many now much worship and admire.</l>
+               <l>Ne any then shall after it inquire,</l>
+               <l>  ne any mention shall thereof remaine:</l>
+               <l>  but what this verse, that neuer shall expyre,</l>
+               <l>  shall to you purchas with her thankles paine.</l>
+               <l>Faire be no lenger proud of that shall perish,</l>
+               <l>  but that which shal you make immortall, cherish.</l>
+            </div>
+            <div n="XXVIII" type="poem">
+               <l>The laurell leafe, which you this day doe weare,</l>
+               <l>  giues me great hope of your relenting mynd:</l>
+               <l>  for since it is the badg which I doe beare,</l>
+               <l>  ye bearing it doe seeme to me inclind:</l>
+               <l>The powre thereof, which ofte in me I find,</l>
+               <l>  let it lykewise your gentle brest inspire</l>
+               <l>  with sweet infusion, and put you in mind</l>
+               <l>  of that proud mayd, whom now those leaues attyre:</l>
+               <l>Proud <hi rend="italic">Daphne</hi> scorning Phaebus louely fyre,</l>
+               <l>  on the Thessalian shore from him did flie:</l>
+               <l>  for which the gods in theyr reuengefull yre</l>
+               <l>  did her transforme into a laurell tree.</l>
+               <l>Then fly no more fayre loue from Phebus chace,</l>
+               <l>  but in your brest his leafe and loue embrace.
+ <pb n="386"/>
+               </l>
+            </div>
+            <div n="XXIX" type="poem">
+               <l>See how the stubborne damzell doth depraue</l>
+               <l>  my simple meaning with disdaynfull scorne:</l>
+               <l>  and by the bay which I vnto her gaue,</l>
+               <l>  acoumpts my selfe her captiue quite forlorne.</l>
+               <l>The bay (quoth she) is of the victours borne,</l>
+               <l>  yielded them by the vanquisht as theyr meeds,</l>
+               <l>  and they therewith doe poetes heads adorne,</l>
+               <l>  to sing the glory of their famous deedes.</l>
+               <l>But sith she will the conquest challeng needs,</l>
+               <l>  let her accept me as her faithfull thrall,</l>
+               <l>  that her great triumph which my skill exceeds,</l>
+               <l>  I may in trump of fame blaze ouer all.</l>
+               <l>Then would I decke her head with glorious bayes,</l>
+               <l>  and fill the world with her victorious prayse.</l>
+            </div>
+            <div n="XXX" type="poem">
+               <l>My loue is lyke to yse, and I to fyre;</l>
+               <l>  how comes it then that this her cold so great</l>
+               <l>  is not dissolu'd through my so hot desyre,</l>
+               <l>  but harder growes the more I her intreat?</l>
+               <l>Or how comes it that my exceeding heat</l>
+               <l>  is not delayd by her hart frosen cold:</l>
+               <l>  but that I burne much more in boyling sweat,</l>
+               <l>  and feele my flames augmented manifold?</l>
+               <l>What more miraculous thing may be told</l>
+               <l>  that fire which all thing melts, should harden yse:</l>
+               <l>  and yse which is congeald with sencelesse cold,</l>
+               <l>  should kindle fyre by wonderfull deuyse?</l>
+               <l>Such is the powre of loue in gentle mind,</l>
+               <l>  that it can alter all the course of kynd.
+ <pb n="387"/>
+               </l>
+            </div>
+            <div n="XXXI" type="poem">
+               <l>Ah why hath nature to so hard a hart</l>
+               <l>  giuen so goodly giftes of beauties grace?</l>
+               <l>  whose pryde depraues each other better part,</l>
+               <l>  and all those pretious ornaments deface.</l>
+               <l>Sith to all other beastes of bloody race,</l>
+               <l>  a dreadfull countenaunce she giuen hath:</l>
+               <l>  that with theyr terrour al the rest may chace,</l>
+               <l>  and warne to shun the daunger of theyr wrath.</l>
+               <l>But my proud one doth worke the greater scath,</l>
+               <l>  through sweet allurement of her louely hew:</l>
+               <l>  that she the better may in bloody bath</l>
+               <l>  of such poore thralls her cruell hands embrew.</l>
+               <l>Did she know how ill these two accord,</l>
+               <l>  such cruelty she would haue soone abhord.</l>
+            </div>
+            <div n="XXXII" type="poem">
+               <l>The paynefull smith with force of feruent heat,</l>
+               <l>  the hardest yron soone doth mollify:</l>
+               <l>  that with his heauy sledge he can it beat,</l>
+               <l>  and fashion to what he it list apply.</l>
+               <l>Yet cannot all these flames in which I fry,</l>
+               <l>  her hart more harde then yron soft awhit:</l>
+               <l>  ne all the playnts and prayers with which I</l>
+               <l>  doe beat on th'anduyle of her stubberne wit:</l>
+               <l>But still the more she feruent sees my fit,</l>
+               <l>  the more she frieseth in her wilfull pryde:</l>
+               <l>  and harder growes the harder she is smit,</l>
+               <l>  with all the playnts which to her be applyde.</l>
+               <l>What then remaines but I to ashes burne,</l>
+               <l>  and she to stones at length all frosen turne?
+ <pb n="388"/>
+               </l>
+            </div>
+            <div n="XXXIII" type="poem">
+               <l>Great wrong I doe, I can it not deny,</l>
+               <l>  to that most sacred Empresse my dear dred,</l>
+               <l>  not finishing her Queene of fae5ry,</l>
+               <l>  that mote enlarge her liuing prayses dead:</l>
+               <l>But lodwick, this of grace to me aread:</l>
+               <l>  doe ye not thinck th'accomplishment of it,</l>
+               <l>  sufficient worke for one mans simple head,</l>
+               <l>  all were it as the rest but rudely writ.</l>
+               <l>How then should I without another wit,</l>
+               <l>  thinck euer to endure so taedious toyle,</l>
+               <l>  sins that this one is tost with troublous fit,</l>
+               <l>  of a proud loue, that doth my spirite spoyle.</l>
+               <l>Ceasse then, she vouchsafe to grawnt me rest,</l>
+               <l>  or lend you me another liuing brest.</l>
+            </div>
+            <div n="XXXIIII" type="poem">
+               <l>Lyke as a ship that through the Ocean wyde,</l>
+               <l>  by conduct of some star doth make her way,</l>
+               <l>  whenas a storme hath dimd her trusty guyde,</l>
+               <l>  out of her course doth wander far astray.</l>
+               <l>So I whose star, that wont with her bright ray,</l>
+               <l>  me to direct, with cloudes is ouercast,</l>
+               <l>  doe wander now in darknesse and dismay,</l>
+               <l>  through hidden perils round about me plast.</l>
+               <l>Yet hope I well, that when this storme is past</l>
+               <l>  my <hi rend="italic">Helice</hi> the lodestar of my lyfe</l>
+               <l>  will shine again, and looke on me at last,</l>
+               <l>  with louely light to cleare my cloudy grief.</l>
+               <l>Till then I wander carefull comfortlesse,</l>
+               <l>  in secret sorow and sad pensiuenesse.
+ <pb n="389"/>
+               </l>
+            </div>
+            <div n="XXXV" type="poem">
+               <l>My hungry eyes through greedy couetize,</l>
+               <l>  still to behold the obiect of their paine,</l>
+               <l>  with no contentment can themselues suffize:</l>
+               <l>  but hauing pine and hauing not complaine.</l>
+               <l>For lacking it they cannot lyfe sustayne,</l>
+               <l>  and hauing it they gaze on it the more:</l>
+               <l>  in their amazement lyke <hi rend="italic">Narcissus</hi> vaine</l>
+               <l>  whose eyes him staru'd: so plenty makes me poore.</l>
+               <l>Yet are mine eyes so filled with the store</l>
+               <l>  of that faire sight, that nothing else they brooke,</l>
+               <l>  but lothe the things which they did like before,</l>
+               <l>  and can no more endure on them to looke.</l>
+               <l>All this worlds glory seemeth vayne to me,</l>
+               <l>  and all their showes but shadowes, sauing she.</l>
+            </div>
+            <div n="XXXVI" type="poem">
+               <l>Tell me when shall these wearie woes haue end,</l>
+               <l>  Or shall their ruthlesse torment neuer cease:</l>
+               <l>  but al my dayes in pining languor spend,</l>
+               <l>  without hope of aswagement or release.</l>
+               <l>Is there no meanes for me to purchace peace,</l>
+               <l>  or make agreement with her thrilling eyes:</l>
+               <l>  but that cruelty doth still increace,</l>
+               <l>  and dayly more augment my miseryes.</l>
+               <l>But when ye haue shewed all extremityes,</l>
+               <l>  then thinke how litle glory ye haue gayned:</l>
+               <l>  by slaying him, whose lyfe though ye despyse,</l>
+               <l>  mote haue your life in honour long maintayned.</l>
+               <l>But by his death which some perhaps will mone,</l>
+               <l>  ye shall condemned be of many a one.
+ <pb n="390"/>
+               </l>
+            </div>
+            <div n="XXXVII" type="poem">
+               <l>What guyle is this, that those her golden tresses,</l>
+               <l>  She doth attyre vnder a net of gold:</l>
+               <l>  and with sly skill so cunningly them dresses,</l>
+               <l>  that which is gold or heare, may scarse be told?</l>
+               <l>Is it that mens frayle eyes, which gaze too bold,</l>
+               <l>  she may entangle in that golden snare:</l>
+               <l>  and being caught may craftily enfold,</l>
+               <l>  theyr weaker harts, which are not wel aware?</l>
+               <l>Take heed therefore, myne eyes, how ye doe stare</l>
+               <l>  henceforth too rashly on that guilefull net,</l>
+               <l>  in which if euer ye entrapped are,</l>
+               <l>  out of her bands ye by no meanes shall get.</l>
+               <l>Fondnesse it were for any being free,</l>
+               <l>  to couet fetters, though they golden bee.</l>
+            </div>
+            <div n="XXXVIII" type="poem">
+               <l>
+                  <hi rend="italic">Arion</hi>, when through tempests cruel wracke,</l>
+               <l>  He fortg was thrown into the greedy seas:</l>
+               <l>  through the sweet musick which his harp did make</l>
+               <l>  allu'rd a Dolphin him from death to ease.</l>
+               <l>But my rude musick, which was wont to please</l>
+               <l>  some dainty eares, cannot with any skill,</l>
+               <l>  the dreadfull tempest of her wrath appease,</l>
+               <l>  nor moue the Dolphin from her stubborne will.</l>
+               <l>But in her pride she dooth perseuer still,</l>
+               <l>  all carelesse how my life for her decayse:</l>
+               <l>  yet with one word she can it saue or spill,</l>
+               <l>  to spill were pitty, but to saue were prayse.</l>
+               <l>Chose rather to be praysd for dooing good,</l>
+               <l>  then to be blam'd for spilling guiltlesse blood.
+ <pb n="391"/>
+               </l>
+            </div>
+            <div n="XXXIX" type="poem">
+               <l>Sweet smile, the daughter of the Queene of loue,</l>
+               <l>  Expressing all thy mothers powerfull art:</l>
+               <l>  with which she wonts to temper angry Ioue,</l>
+               <l>  when all the gods he threats with thundring dart.</l>
+               <l>Sweet is thy vertue as thy selfe sweet art,</l>
+               <l>  for when on me thou shinedst late in sadnesse,</l>
+               <l>  a melting pleasance ran through euery part,</l>
+               <l>  and me reuiued with hart robbing gladnesse.</l>
+               <l>Whylest rapt with ioy resembling heauenly madnes,</l>
+               <l>  my soule was rauisht quite as in a traunce:</l>
+               <l>  and feeling thence no more her sorowes sadnesse,</l>
+               <l>  fed on the fulnesse of that chearefull glaunce.</l>
+               <l>More sweet than Nectar or Ambroisiall meat,</l>
+               <l>  seemd euery bit, which thenceforth I did eat.</l>
+            </div>
+            <div n="XL" type="poem">
+               <l>Mark when she smiles with amiable cheare,</l>
+               <l>  And tell me whereto can ye lyken it:</l>
+               <l>  when on each eyelid sweetly doe appeare</l>
+               <l>  an hundred Graces as in shade to sit.</l>
+               <l>Lykest it seemeth in my simple wit</l>
+               <l>  vnto the fayre sunshine in somers day:</l>
+               <l>  that when a dreadfull storme away is flit,</l>
+               <l>  thrugh the broad world doth spred his goodly ray:</l>
+               <l>At sight whereof each bird that sits on spray,</l>
+               <l>  and euery brest that to his den was fled</l>
+               <l>  comes forth afresh out of their late dismay,</l>
+               <l>  and to the light lift vp theyr drouping hed.</l>
+               <l>So my storme beaten hart likewise is cheared,</l>
+               <l>  with that sunshine when cloudy looks are cleared.
+ <pb n="392"/>
+               </l>
+            </div>
+            <div n="XLI" type="poem">
+               <l>Is it her nature or is it her will,</l>
+               <l>  to be so cruell to an humbled foe?</l>
+               <l>  if nature, then she may it mend with skill,</l>
+               <l>  if will, then she at will may will forgoe.</l>
+               <l>But if her nature and her wil be so,</l>
+               <l>  that she will plague the man that loues her most:</l>
+               <l>  and take delight t'encrease a wretches woe,</l>
+               <l>  then all her natures goodly guifts are lost.</l>
+               <l>And that same glorious beauties ydle boast,</l>
+               <l>  is but a bayt such wretches to beguile:</l>
+               <l>  as being long in her loues tempest tost,</l>
+               <l>  she meanes at last to make her piteous spoyle.</l>
+               <l>O fayrest fayre let neuer it be named,</l>
+               <l>  that so fayre beauty was so fowly shamed.</l>
+            </div>
+            <div n="XLII" type="poem">
+               <l>The loue which me so cruelly tormenteth,</l>
+               <l>  So pleasing is in my extreamest paine:</l>
+               <l>  that all the more my sorrow it augmenteth,</l>
+               <l>  the more I loue and doe embrace my bane.</l>
+               <l>Ne doe I wish (for wishing were but vaine)</l>
+               <l>  to be acquit fro my continuall smart:</l>
+               <l>  but ioy her thrall for euer to remayne,</l>
+               <l>  and yield for pledge my poore captyued hart;</l>
+               <l>The which that it from her may neuer start,</l>
+               <l>  let her, yf please her, bynd with adamant chayne:</l>
+               <l>  and from all wandring loues which mote peruart,</l>
+               <l>  his safe assurance strongly it restrayne.</l>
+               <l>Onely let her abstaine from cruelty,</l>
+               <l>  and doe me not before my time to dy.
+ <pb n="393"/>
+               </l>
+            </div>
+            <div n="XLIII" type="poem">
+               <l>Shall I then silent be or shall I speake?</l>
+               <l>  And if I speake, her wrath renew I shall:</l>
+               <l>  and if I silent be, my hart will breake,</l>
+               <l>  or choked be with ouerflowing gall.</l>
+               <l>What tyranny is this both my hart to thrall,</l>
+               <l>  and eke my toung with proud restraint to tie?</l>
+               <l>  that neither I may speake nor thinke at all,</l>
+               <l>  but like a stupid stock in silence die.</l>
+               <l>Yet I my hart with silence secretly</l>
+               <l>  will teach to speak, and mu iust cause to plead:</l>
+               <l>  and eke mine eies with meeke humility,</l>
+               <l>  loue learned letters to her eyes to read.</l>
+               <l>Which her deep wit, that true harts thought can spel,</l>
+               <l>  will soone conceiue, and learne to construe well.</l>
+            </div>
+            <div n="XLIIII" type="poem">
+               <l>When those renoumed noble Peres of Greece,</l>
+               <l>  thrugh stubborn pride amongst themselues did iar</l>
+               <l>  forgetfull of the famous golden fleece,</l>
+               <l>  then Orpheus with his harp theyr strife did bar.</l>
+               <l>But this continuall cruell ciuill warre,</l>
+               <l>  the which my selfe against my selfe doe make:</l>
+               <l>  whilest my weak powres of passions warreid arre,</l>
+               <l>  no skill can stint nor reason can aslake.</l>
+               <l>But when in hand my tunelesse harp I take,</l>
+               <l>  then doe I more augment my foes despight:</l>
+               <l>  and griefe renew, and passions doe awake</l>
+               <l>  to battaile, fresh against my selfe to fight.</l>
+               <l>Mongst whome the more I seeke to settle peace,</l>
+               <l>  the more I fynd their malice to increace.
+ <pb n="394"/>
+               </l>
+               <l>Leaue lady in your glasse of chpistall chene,</l>
+               <l>  Your goo'ly selfe fop euermore to vew:</l>
+               <l>  and in my selfe, my inward selfe I meane,</l>
+               <l>  most hiuely like behold your semblant trew.</l>
+               <l>Within my hart, though hardly it can shew</l>
+               <l>  things so diuine to vew of earthly eye,</l>
+               <l>  the fayre Idea of your celestiall hew,</l>
+               <l>  and euery part remaines immortally:</l>
+               <l>And were it not that through your cruelty,</l>
+               <l>  with sorrow dimmed and deformd it were:</l>
+               <l>  the goodly ymage of your visnomy,</l>
+               <l>  clearer then christall would therein appere.</l>
+               <l>But if your selfe in me playne will see,</l>
+               <l>  remoue the cause by which your fayre beames darkned be.</l>
+            </div>
+            <div n="XLVI" type="poem">
+               <l>When my abodes prefixed time is spent,</l>
+               <l>  My cruell fayre streight bids me wend my way:</l>
+               <l>  but then from heauen most hideous stormes are sent</l>
+               <l>  as willing me against her will to stay.</l>
+               <l>Whom then shall I or heauen or her obay?</l>
+               <l>  the heauens know best what is the best for me:</l>
+               <l>  but as she will, whose will my life doth sway,</l>
+               <l>  my lower heauen, so it perforce must bee.</l>
+               <l>But ye high heauens, that all this sorowe see,</l>
+               <l>  sith all your tempests cannot hold me backe:</l>
+               <l>  aswage your stormes, or else both you and she,</l>
+               <l>  will both together me too sorely wrack.</l>
+               <l>Enough it is for one man to sustaine</l>
+               <l>  the stormes, which she alone on me doth raine.
+ <pb n="395"/>
+               </l>
+            </div>
+            <div n="XLVII" type="poem">
+               <l>Trust not the treason of those smyling lookes,</l>
+               <l>  vntill ye haue theyr guylefull traynes will tryde:</l>
+               <l>  for they are lyke but vnto gooden hookes,</l>
+               <l>  that from the foolish fish theyr bayts doe hyde:</l>
+               <l>So she with flattring smyles weake harts doth guyde</l>
+               <l>  vnto her loue, and tempte to theyr decay,</l>
+               <l>  whome being caught she kills with cruell pryde,</l>
+               <l>  and feeds at pleasure on the wretched pray:</l>
+               <l>Yet euen whylst her bloody hands them slay,</l>
+               <l>  her eyes looke louely and vpon them smyle:</l>
+               <l>  that they take pleasure in her cruell play,</l>
+               <l>  and dying doe them selues of payne beguyle.</l>
+               <l>O mighty charm which makes men loue theyr bane,</l>
+               <l>  and thinck they dy with pleasure, liue with payne.</l>
+            </div>
+            <div n="XLVIII" type="poem">
+               <l>Innocent paper, whom too cruell hand</l>
+               <l>  Did make the matter to auenge her yre:</l>
+               <l>  and ere she could thy cause wel vnderstand,</l>
+               <l>  did sacrifize vnto the greedy fyre.</l>
+               <l>Well worthy thou to haue found better hyre,</l>
+               <l>  then so bad end for hereticks ordayned:</l>
+               <l>  yet heresy nor treason didst conspire,</l>
+               <l>  but plead thy maisters cause vniustly payned.</l>
+               <l>Whom she all carelesse of his griefe constrayned</l>
+               <l>  to vtter forth the anguish of his hart:</l>
+               <l>  and would not heare, when he to her complayned,</l>
+               <l>  the piteous passion of his dying smart.</l>
+               <l>Yet liue for euer, though against her will,</l>
+               <l>  and speake her good, though she requite it ill.
+ <pb n="396"/>
+               </l>
+            </div>
+            <div n="XLIX" type="poem">
+               <l>Fayre cruell, why are ye so fierce and cruell?</l>
+               <l>  Is it because your eyes haue powre to kill?</l>
+               <l>  then know, that mercy is the mighties iewell,</l>
+               <l>  and greater glory thinke to saue, then spill.</l>
+               <l>But if it be your pleasure and proud will,</l>
+               <l>  to shew the powre of your imperious eyes:</l>
+               <l>  then not on him that neuer thought you ill,</l>
+               <l>  but bend your force against your enemyes.</l>
+               <l>Let them feele th'utmost of your crueltyes,</l>
+               <l>  and kill with looks, as Cockatrices doo:</l>
+               <l>  but him that at your footstoole humbled lies,</l>
+               <l>  with mercifull regard, giue mercy too.</l>
+               <l>Such mercy shal you make admyred to be,</l>
+               <l>  so shall you liue by giuing life to me.</l>
+            </div>
+            <div n="L" type="poem">
+               <l>Long languishing in double malady,</l>
+               <l>  of my harts wound and of my bodies griefe,</l>
+               <l>  there came to me a leach that would apply</l>
+               <l>  fit medicines for my bodies best reliefe.</l>
+               <l>Vayne man (quod I) that hast but little priefe:</l>
+               <l>  in deep discouery of the mynds disease,</l>
+               <l>  is not the hart of all the body chiefe?</l>
+               <l>  and rules the members as it selfe doth please.</l>
+               <l>Then with some cordialls seeke first to appease</l>
+               <l>  the inward languor of my wounded hart,</l>
+               <l>  and then my body shall haue shortly ease:</l>
+               <l>  but such sweet cordialls passe Physitions art.</l>
+               <l>Then my lyfes Leach doe you your skill reueale,</l>
+               <l>  and with one salue both hart and body heale.
+ <pb n="397"/>
+               </l>
+            </div>
+            <div n="LI" type="poem">
+               <l>Doe I not see that fayrest ymages</l>
+               <l>  Of hardest Marble are of purpose made?</l>
+               <l>  for that they should endure through many ages,</l>
+               <l>  ne let theyr famous moniments to fade.</l>
+               <l>Why then doe I, vntrainde in louers trade,</l>
+               <l>  her hardnes blame which I should more commend?</l>
+               <l>  sith neuer ought was excellent assayde,</l>
+               <l>  which was not hard t'archiue and bring to end.</l>
+               <l>Ne ought so hard, but he that would attend,</l>
+               <l>  mote soften it and to his will allure:</l>
+               <l>  so doe I hope her stubborne hart to bend,</l>
+               <l>  and that it then more stedfast will endure.</l>
+               <l>Onely my paines wil be the more to get her,</l>
+               <l>  but hauing her, my ioy wil be the greater.</l>
+            </div>
+            <div n="LII" type="poem">
+               <l>So oft as homward I from her depart,</l>
+               <l>  I goe lyke one that hauing lost the field,</l>
+               <l>  is prisoner led away with heauy hart,</l>
+               <l>  despoyld of warlike armes and knowen shield.</l>
+               <l>So doe I now my selfe a prisoner yeeld,</l>
+               <l>  to sorrow and to solitary paine:</l>
+               <l>  from presence of my dearest deare exylde,</l>
+               <l>  longwhile alone in languor to remaine.</l>
+               <l>There let no thought of ioy or pleasure vaine,</l>
+               <l>  dare to approch, that may my solace breed:</l>
+               <l>  but sudden dumps and drery sad disdayne,</l>
+               <l>  of all worlds gladnesse more my torment feed.</l>
+               <l>So I her absens will my penaunce make,</l>
+               <l>  that of her presens I my meed may take.
+ <pb n="398"/>
+               </l>
+            </div>
+            <div n="LIII" type="poem">
+               <l>The Panther knowing that his spotted hyde</l>
+               <l>  Doth please all beasts, but that his looks them fray,</l>
+               <l>  within a bush his dreadfull head doth hide,</l>
+               <l>  to let them gaze whylest he on them may pray.</l>
+               <l>Right so my cruell fayre with me doth play,</l>
+               <l>  for with the goodly semblant of her hew</l>
+               <l>  she doth allure me to mine owne decay,</l>
+               <l>  and then no mercy will vnto me shew.</l>
+               <l>Great shame it is, thing so diuine in view,</l>
+               <l>  made for to be the worlds most ornament,</l>
+               <l>  to make the bayte her gazers to embrew,</l>
+               <l>  good shames to be to ill an instrument.</l>
+               <l>But mercy doth with beautie best agree,</l>
+               <l>  as in theyr maker ye them best may see.</l>
+            </div>
+            <div n="LIIII" type="poem">
+               <l>Of this worlds Theatre in which we stay,</l>
+               <l>  My loue lyke the Spectator ydly sits</l>
+               <l>  beholding me that all the pageants play,</l>
+               <l>  disguysing diuersly my troubled wits.</l>
+               <l>Sometimes I ioy when glad occasion fits,</l>
+               <l>  and mask in myrth lyke to a Comedy:</l>
+               <l>  soone after when my ioy to sorrow flits,</l>
+               <l>  I waile and make my woes a Tragedy.</l>
+               <l>Yet she beholding me with constant eye,</l>
+               <l>  delights not in my merth nor rues my smart:</l>
+               <l>  but when I laugh she mocks, and when I cry</l>
+               <l>  she laughes, and hardens euermore her hart.</l>
+               <l>What then can moue her?  if nor merth nor mone,</l>
+               <l>  she is no woman, but a sencelesse stone.
+ <pb n="399"/>
+               </l>
+            </div>
+            <div n="LV" type="poem">
+               <l>So oft as I her beauty doe behold,</l>
+               <l>  And therewith doe her cruelty compare,</l>
+               <l>  I maruaile of what substance was the mould</l>
+               <l>  the which her made attonce so cruell faire.</l>
+               <l>Not earth; for her high thoghts more heauenly are,</l>
+               <l>  not water; for her loue doth burne like fyre:</l>
+               <l>  not ayre; for she is not so light or rare,</l>
+               <l>  not fyre; for she doth friese with faint desire.</l>
+               <l>Then needs another Element inquire</l>
+               <l>  whereof she mote be made; that is the skye.</l>
+               <l>  for to the heauen her haughty lookes aspire:</l>
+               <l>  and eke her mind is pure immortall hye.</l>
+               <l>Then sith to heauen ye lykened are the best,</l>
+               <l>  be lyke in mercy as in all the rest:</l>
+            </div>
+            <div n="LVI" type="poem">
+               <l>Fayre ye be sure, but cruell and vnkind,</l>
+               <l>  As is a Tygre that with greedinesse</l>
+               <l>  hunts after bloud, when he by hance doth find</l>
+               <l>  a feeble beast, doth felly him oppresse.</l>
+               <l>Fayre be ye sure, but proud and pittilesse,</l>
+               <l>  as is a storme, that all things doth prostrate:</l>
+               <l>  finding a tree alone all comfortlesse,</l>
+               <l>  beats on it strongly it to ruinate.</l>
+               <l>Fayre be ye sure, but hard and obstinate,</l>
+               <l>  as is a rocke amidst the raging floods:</l>
+               <l>  gaynst which a ship of succour desolate,</l>
+               <l>  doth suffer wreck both of her selfe and goods.</l>
+               <l>That ship, that tree, and that same beast am I,</l>
+               <l>  whom ye doe wreck, doe ruine, and destroy.</l>
+            </div>
+            <div n="LVII" type="POEM">
+               <l>SWeet warriour when shall I haue peace with you?</l>
+               <l>High time it is, this warre now ended were:</l>
+               <l>which I no lenger can endure to sue,</l>
+               <l>ne your incessant battry more to beare:</l>
+               <l>So weake my powres, so sore my wounds appeare,</l>
+               <l>that wonder is how I should liue a iot,</l>
+               <l>seeing my hart through launched euery where</l>
+               <l>with thousand arrowes, which your eies haue shot:</l>
+               <l>Yet shoot ye sharpely still, and spare me not,</l>
+               <l>but glory thinke to make these cruel stoures,</l>
+               <l>ye cruell one, what glory can be got,</l>
+               <l>in slaying him that would liue gladly yours?</l>
+               <l>Make peace therefore, and graunt me timely grace.</l>
+               <l>that al my wounds will heale in little space.</l>
+            </div>
+            <div n="LVIII" type="POEM">
+               <l>
+                  <hi rend="italic">By her that is most assured to her selfe.</hi>
+               </l>
+               <lb/>
+               <l>WEake is th'assurance that weake flesh reposeth,</l>
+               <l>In her owne powre and scorneth others ayde:</l>
+               <l>that soonest fals when as she most supposeth,</l>
+               <l>her selfe assurd, and is of nought affrayd.</l>
+               <l>All flesh is frayle, and all her strength vnstayd,</l>
+               <l>like a vaine bubble blowen vp with ayre:</l>
+               <l>deuouring tyme &amp; changeful chance haue prayd,</l>
+               <l>her glories pride that none may it repayre.</l>
+               <l>Ne none so rich or wise, so strong or fayre,</l>
+               <l>but fayleth trusting on his owne assurance:</l>
+               <l>and he that standeth on the hyghest stayre</l>
+               <l>fals lowest: for on earth nought hath endurance.</l>
+               <l>Why then doe ye proud fayre, misdeeme so farre,</l>
+               <l>that to your selfe ye most assured arre.</l>
+            </div>
+            <div n="LIX" type="POEM">
+               <l>THrise happie she, that is so well assured</l>
+               <l>Vnto her selfe and setled so in hart:</l>
+               <l>that nether will for better be allured,</l>
+               <l>ne feard with worse to any chaunce to start,</l>
+               <l>But like a steddy ship doth strongly part</l>
+               <l>the raging waues and keepes her course aright:</l>
+               <l>ne ought for tempest doth from it depart,</l>
+               <l>ne ought for fayrer weathers false delight.</l>
+               <l>Such selfe assurance need not feare the spight,</l>
+               <l>of grudging foes, ne fauour seek of friends:</l>
+               <l>but in the stay of her owne stedfast might,</l>
+               <l>nether to one her selfe nor other bends.</l>
+               <l>Most happy she that most assured doth rest,</l>
+               <l>but he most happy who such one loues best.</l>
+            </div>
+            <div n="LX" type="POEM">
+               <l>THey that in course of heauenly spheares are skild,</l>
+               <l>To euery planet point his sundry yeare:</l>
+               <l>in which her circles voyage is fulfild,</l>
+               <l>as Mars in three score yeares doth run his spheare</l>
+               <l>So since the winged God his planet cleare,</l>
+               <l>began in me to moue, one yeare is spent:</l>
+               <l>the which doth longer vnto me appeare,</l>
+               <l>then al those fourty which my life outwent.</l>
+               <l>Then by that count, which louers books inuent,</l>
+               <l>the spheare of Cupid fourty yeares containes:</l>
+               <l>which I haue wasted in long languishment,</l>
+               <l>that seemd the longer for my greater paines.</l>
+               <l>But let me loues fayre Planet short her wayes</l>
+               <l>this yeare ensuing, or else short my dayes.</l>
+            </div>
+            <div n="LXI" type="POEM">
+               <l>THe glorious image of the makers beautie,</l>
+               <l>My souerayne faynt, the Idoll of my thought,</l>
+               <l>dare not henceforth aboue the bounds of dewtie,</l>
+               <l>t'accuse of pride, or rashly blame for ought.</l>
+               <l>For being as she is diuinely wrought,</l>
+               <l>and of the brood of Angels heuenly borne:</l>
+               <l>and with the crew of blessed Saynts vpbrought,</l>
+               <l>each of which did her with theyr guifts adorne;</l>
+               <l>The bud of ioy, the blossome of the morne,</l>
+               <l>the beame of light, whom mortal eyes admyre:</l>
+               <l>what reason is it then but she should scorne,</l>
+               <l>base things that to her loue too bold aspire?</l>
+               <l>Such heauenly formes ought rather worshipt be,</l>
+               <l>then dare be lou'd by men of meane degree.</l>
+            </div>
+            <div n="LXII" type="POEM">
+               <l>THe weary yeare his race now hauing run,</l>
+               <l>The new begins his compast course anew:</l>
+               <l>with shew of morning mylde he hath begun,</l>
+               <l>betokening peace and plenty to ensew,</l>
+               <l>So let vs, which this chaunge of weather vew,</l>
+               <l>chaunge eeke our mynds and former liues amend</l>
+               <l>the old yeares sinnes forepast let vs eschew,</l>
+               <l>and fly the faults with which we did offend.</l>
+               <l>Then shall the new yeares ioy forth freshly send,</l>
+               <l>into the glooming world his gladsome ray:</l>
+               <l>and all these stormes which now his beauty blend,</l>
+               <l>shall turne to caulmes and tymely cleare away.</l>
+               <l>So likewise loue cheare you your heauy spright,</l>
+               <l>and chaunge old yeares annoy to new delight.</l>
+            </div>
+            <div n="LXIII" type="POEM">
+               <l>AFter long stormes and tempests sad assay,</l>
+               <l>Which hardly I endured heretofore:</l>
+               <l>in dread of death and daungerous dismay,</l>
+               <l>with which my silly barke was tossed sore.</l>
+               <l>I doe at length descry the happy shore,</l>
+               <l>in which I hope ere long for to arryue,</l>
+               <l>fayre soyle it seemes from far &amp; fraught with store</l>
+               <l>of all that deare and daynty is alyue.</l>
+               <l>Most happy he that can at last atchyue,</l>
+               <l>the ioyous safety of so sweet a rest:</l>
+               <l>whose least delight sufficeth to depriue,</l>
+               <l>remembrance of all paines which him opprest.</l>
+               <l>All paines are nothing in respect of this,</l>
+               <l>all sorrowes short that gaine eternall blisse.</l>
+            </div>
+            <div n="LXIIII" type="POEM">
+               <l>COmming to kisse her lyps, (such grace I found)</l>
+               <l>Me seemd I smelt a gardin of sweet flowres:</l>
+               <l>that dainty odours from them threw around</l>
+               <l>for damzels fit to decke their louers bowres.</l>
+               <l>Her lips did smell lyke vnto Gillyflowers,</l>
+               <l>her ruddy cheekes lyke vnto Roses red:</l>
+               <l>her snowy browes lyke budded Bellamoures,</l>
+               <l>her louely eyes lyke Pincks but newly spred,</l>
+               <l>Her goodly bosome lyke a Strawberry bed,</l>
+               <l>her neck lyke to a bounch of Cullambynes:</l>
+               <l>her brest lyke lillyes, ere theyr leaues be shed,</l>
+               <l>her nipples lyke yong blossomd Iessemynes,</l>
+               <l>Such fragrant flowres doe giue most odorous smell,</l>
+               <l>but her sweet odour did them all excell.</l>
+            </div>
+            <div n="LXV" type="POEM">
+               <l>THe doubt which ye misdeeme, fayre loue, is vaine</l>
+               <l>That fondly feare to loose your liberty,</l>
+               <l>when loosing one, two liberties ye gayne,</l>
+               <l>and make him bond that bondage earst dyd fly.</l>
+               <l>Sweet be the bands, the which true loue doth tye,</l>
+               <l>without constraynt or dread of any ill:</l>
+               <l>the gentle birde feeles no captiuity</l>
+               <l>within her cage, but singes and feeds her fill.</l>
+               <l>There pride dare not approch, nor discord spill</l>
+               <l>the league twixt them, that loyal loue hath bound:</l>
+               <l>but simple truth and mutuall good will,</l>
+               <l>seekes with sweet peace to salue each others wou[n]d</l>
+               <l>There fayth doth fearlesse dwell in brasen towre,</l>
+               <l>and spotlesse pleasure builds her sacred bowre.</l>
+            </div>
+            <div n="LXVI" type="POEM">
+               <l>TO all those happy blessings which ye haue,</l>
+               <l>with plenteous hand by heauen vpon you thrown:</l>
+               <l>this one disparagement they to you gaue,</l>
+               <l>that ye your loue lent to so meane a one.</l>
+               <l>Yee whose high worths surpassing paragon,</l>
+               <l>could not on earth haue found one fit for mate,</l>
+               <l>ne but in heauen matchable to none,</l>
+               <l>why did ye stoup vnto so lowly state.</l>
+               <l>But ye thereby much greater glory gate,</l>
+               <l>then had ye sorted with a princes pere:</l>
+               <l>for now your light doth more it selfe dilate,</l>
+               <l>and in my darknesse greater doth appeare.</l>
+               <l>Yet since your light hath once enlumind me,</l>
+               <l>with my reflex yours shall encreased be.</l>
+            </div>
+            <div n="LXVII" type="POEM">
+               <l>Lyke as a huntsman after weary chace,</l>
+               <l>Seeing the game from him escapt away:</l>
+               <l>sits downe to rest him in some shady place,</l>
+               <l>with panting hounds beguiled of their pray.</l>
+               <l>So after long pursuit and vaine assay,</l>
+               <l>when I all weary had the chace forsooke,</l>
+               <l>the gentle deare returnd the selfe-same way,</l>
+               <l>thinking to quench her thirst at the next brooke.</l>
+               <l>There she beholding me with mylder looke,</l>
+               <l>sought not to fly, but fearelesse still did bide:</l>
+               <l>till I in hand her yet halfe trembling tooke,</l>
+               <l>and with her owne goodwill hir fyrmely tyde.</l>
+               <l>Strange thing me seemed to see a beast so wyld,</l>
+               <l>so goodly wonne with her owne will beguyld.</l>
+            </div>
+            <div n="LXVIII" type="POEM">
+               <l>MOst glorious Lord of lyfe that on this day,</l>
+               <l>Didst make thy triumph ouer death and sin:</l>
+               <l>and hauing harrowd hell didst bring away,</l>
+               <l>captiuity thence captiue vs to win.</l>
+               <l>This ioyous day, deare Lord, with ioy begin,</l>
+               <l>and grant that we for whom thou didest dye</l>
+               <l>being with thy deare blood clene washt from sin,</l>
+               <l>may liue for euer in felicity.</l>
+               <l>And that thy loue we weighing worthily,</l>
+               <l>may likewise loue thee for the same againe:</l>
+               <l>and for thy sake that all lyke deare didst buy,</l>
+               <l>with loue may one another entertayne.</l>
+               <l>So let vs loue, deare loue, lyke as we ought,</l>
+               <l>loue is the lesson which the Lord vs taught.</l>
+            </div>
+            <div n="LXIX" type="POEM">
+               <l>THe famous warriors of the anticke world,</l>
+               <l>Vsed Trophees to erect in stately wize:</l>
+               <l>in which they would the records haue enrold,</l>
+               <l>of theyr great deeds and valarous emprize.</l>
+               <l>What trophee then shall I most fit deuize,</l>
+               <l>in which I may record the memory</l>
+               <l>of my loues conquest, peerelesse beauties prise,</l>
+               <l>adorn'd with honour, loue, and chastity.</l>
+               <l>Euen this verse vowd to eternity,</l>
+               <l>shall be thereof immortall moniment:</l>
+               <l>and tell her prayse to all posterity,</l>
+               <l>that may admire such worlds rare wonderment.</l>
+               <l>The happy purchase of my glorious spoile,</l>
+               <l>gotten at last with labour and long toyle.</l>
+            </div>
+            <div n="LXX" type="POEM">
+               <l>FResh spring the herald of loues mighty king,</l>
+               <l>In whose cote armour richly are displayd,</l>
+               <l>all sorts of flowers the which on earth do spring</l>
+               <l>in goodly colours gloriously arrayd.</l>
+               <l>Goe to my loue, where she is carelesse layd,</l>
+               <l>yet in her winters bowre not well awake:</l>
+               <l>tell her the ioyous time wil not be staid</l>
+               <l>vnlesse she doe him by the forelock take.</l>
+               <l>Bid her therefore her selfe soone ready make,</l>
+               <l>to wayt on loue amongst his louely crew:</l>
+               <l>where euery one that misseth then her make,</l>
+               <l>shall be by him amearst with penance dew.</l>
+               <l>Make hast therefore sweet loue, whilest it is prime,</l>
+               <l>for none can call againe the passed time.</l>
+            </div>
+            <div n="LXXI" type="POEM">
+               <l>I Ioy to see how in your drawen work,</l>
+               <l>Your selfe vnto the Bee ye doe compare;</l>
+               <l>and me vnto the Spyder that doth lurke,</l>
+               <l>in close awayt to catch her vnaware.</l>
+               <l>Right so to your selfe were caught in cunning snare</l>
+               <l>of a deare foe, and thralled to his loue:</l>
+               <l>in whose streight bands ye now captiued are</l>
+               <l>so firmely, that ye neuer may remoue.</l>
+               <l>But as your worke is wouen all about,</l>
+               <l>with woodbynd flowers and fragrant Eglantine:</l>
+               <l>so sweet your prison you in time shall proue,</l>
+               <l>with many deare delights bedecked fyne.</l>
+               <l>And all thensforth eternall peace shall see.</l>
+               <l>betweene the Spyder and the gentle Bee.</l>
+            </div>
+            <div n="LXXII" type="POEM">
+               <l>OFt when my spirit doth spred her bolder winges,</l>
+               <l>In mind to mount vp to the purest sky:</l>
+               <l>it down is weighd with thoght of earthly things:</l>
+               <l>and clogd with burden of mortality,</l>
+               <l>Where when that souerayne beauty it doth spy,</l>
+               <l>resembling heauens glory in her light:</l>
+               <l>drawne with sweet pleasures bayt, it back doth fly,</l>
+               <l>and vnto heauen forgets her former flight.</l>
+               <l>There my fraile fancy fed with full delight,</l>
+               <l>doth bath in blisse and mantleth most at ease:</l>
+               <l>ne thinks of other heauen, but how it might</l>
+               <l>her harts desire with most contentment please,</l>
+               <l>Hart need not with none other happinesse,</l>
+               <l>but here on earth to haue such heuens blisse.</l>
+            </div>
+            <div n="LXXIII" type="POEM">
+               <l>BEing my selfe captyued here in care,</l>
+               <l>My hart, whom none with seruile bands can tye:</l>
+               <l>but the fayre tresses of your golden hayre,</l>
+               <l>breaking his prison forth to you doth fly.</l>
+               <l>Lyke as a byrd that in ones hand doth spy</l>
+               <l>desired food, to it doth make his flight:</l>
+               <l>euen so my hart, that wont on your fayre eye</l>
+               <l>to feed his fill, flyes backe vnto your sight.</l>
+               <l>Doe you him take, and in your bosome bright,</l>
+               <l>gently encage, that he may be your thrall:</l>
+               <l>perhaps he there may learne with rare delight,</l>
+               <l>to sing your name and prayses ouer all.</l>
+               <l>That it hereafter may you not repent,</l>
+               <l>him lodging in your bosome to haue lent.</l>
+            </div>
+            <div n="LXXIIII" type="POEM">
+               <l>MOst happy letters fram'd by skilfull trade,</l>
+               <l>with which that happy name was first defynd:</l>
+               <l>the which three times thrise happy hath me made,</l>
+               <l>with guifts of body, fortune and of mind.</l>
+               <l>The first my being to me gaue by kind,</l>
+               <l>from mothers womb deriu'd by dew descent,</l>
+               <l>the second is my souereigne Queene most kind,</l>
+               <l>that honour and large richesse to me lent.</l>
+               <l>The third my loue, my liues last ornament,</l>
+               <l>by whom my spirit out of dust was raysed:</l>
+               <l>to speake her prayse and glory excellent,</l>
+               <l>of all aliue most worthy to be praysed.</l>
+               <l>Ye three Elizabeths for euer liue,</l>
+               <l>that three such graces did vnto me giue.</l>
+            </div>
+            <div n="LXXV" type="POEM">
+               <l>ONe day I wrote her name vpon the strand,</l>
+               <l>but came the waues and washed it a way:</l>
+               <l>agayne I wrote it with a second hand,</l>
+               <l>but came the tyde, and made my paynes his pray.</l>
+               <l>Vayne man, sayd she, that doest in vaine assay,</l>
+               <l>a mortall thing so to immortalize.</l>
+               <l>for I my selue shall lyke to this decay,</l>
+               <l>and eek my name bee wyped out lykewize.</l>
+               <l>Not so, (quod I) let baser things deuize,</l>
+               <l>to dy in dust, but you shall liue by fame:</l>
+               <l>my verse your vertues rare shall eternize,</l>
+               <l>and in the heuens wryte your glorious name.</l>
+               <l>Where whenas death shall all the world subdew,</l>
+               <l>our loue shall liue, and later life renew.</l>
+            </div>
+            <div n="LXXVI" type="POEM">
+               <l>FAyre bosome fraught with vertues richest tresure,</l>
+               <l>The neast of loue, the lodging of delight:</l>
+               <l>the bowre of blisse, the paradice of pleasure,</l>
+               <l>the sacred harbour of that heuenly spright.</l>
+               <l>How was I rauisht with your louely sight,</l>
+               <l>and my frayle thoughts too rashly led astray?</l>
+               <l>whiles diuing deepe through amorous insight,</l>
+               <l>on the sweet spoyle of beautie they did pray.</l>
+               <l>And twixt her paps like early fruit in May,</l>
+               <l>whose haruest seemd to hasten now apace:</l>
+               <l>they loosely did theyr wanton winges display,</l>
+               <l>and there to rest themselues did boldly place.</l>
+               <l>Sweet thoughts I enuy your so happy rest,</l>
+               <l>which oft I wisht, yet neuer was so blest.</l>
+            </div>
+            <div n="LXXVII" type="POEM">
+               <l>Was it a dreame, or did I see it playne,</l>
+               <l>a goodly table of pure yvory:</l>
+               <l>all spred with iuncats, fit to entertayne,</l>
+               <l>the greatest Prince with pompous roialty.</l>
+               <l>Mongst which there in a siluer dish did ly,</l>
+               <l>twoo golden apples of vnualewd price:</l>
+               <l>far passing those which Hercules came by,</l>
+               <l>or those which Atalanta did entice.</l>
+               <l>Exceeding sweet, yet voyd of sinfull vice,</l>
+               <l>That many sought yet none could euer taste,</l>
+               <l>sweet fruit of pleasure brought from paradice:</l>
+               <l>By loue himselfe and in his garden plaste.</l>
+               <l>Her brest that table was so richly spredd,</l>
+               <l>my thoughts the guests, which would thereon haue fedd.</l>
+            </div>
+            <div n="LXXVIII" type="POEM">
+               <l>Lackyng my loue I go from place to place,</l>
+               <l>lyke a young fawne that late hath lost the hynd:</l>
+               <l>and seeke each where, where last I sawe her face,</l>
+               <l>whose ymage yet I carry fresh in mynd.</l>
+               <l>I seeke the fields with her late footing fynd,</l>
+               <l>I seeke her bowre with her late presence deckt,</l>
+               <l>yet nor in field nor bowre I her can fynd:</l>
+               <l>yet field and bowre are full of her aspect,</l>
+               <l>But when myne eyes I thereunto direct,</l>
+               <l>they ydly back returne to me agayne,</l>
+               <l>and when I hope to see theyr trew obiect,</l>
+               <l>I fynd my selfe but fed with fancies vayne.</l>
+               <l>Ceasse then myne eyes, to seeke her selfe to see,</l>
+               <l>and let my thoughts behold her selfe in mee:</l>
+            </div>
+            <div n="LXXIX" type="POEM">
+               <l>MEn call you fayre, and you doe credit it,</l>
+               <l>For that your selfe ye dayly such doe see:</l>
+               <l>but the trew fayre, that is the gentle wit,</l>
+               <l>and vertuous mind is much more praysd of me.</l>
+               <l>For all the rest, how euer fayre it be,</l>
+               <l>shall turne to nought and loose that glorious hew:</l>
+               <l>but onely that is permanent and free</l>
+               <l>from frayle corruption, that doth flesh ensew.</l>
+               <l>That is true beautie: that doth argue you</l>
+               <l>to be diuine and borne of heauenly seed:</l>
+               <l>deriu'd from that fayre Spirit, from whom al true</l>
+               <l>and perfect beauty did at first proceed.</l>
+               <l>He only fayre, and what he fayre hath made,</l>
+               <l>all other fayre lyke flowres vntymely fade.</l>
+            </div>
+            <div n="LXXX" type="POEM">
+               <l>AFter so long a race as I haue run</l>
+               <l>Through Faery land, which those six books co[m]pile</l>
+               <l>giue leaue to rest me being halfe fordonne,</l>
+               <l>and gather to my selfe new breath awhile.</l>
+               <l>Then as a steed refreshed after toyle,</l>
+               <l>out of my prison I will breake anew:</l>
+               <l>and stoutly will that second worke assoyle,</l>
+               <l>with strong endeuour and attention dew.</l>
+               <l>Till then giue leaue to me in pleasant mew,</l>
+               <l>to sport my muse and sing my loues sweet praise:</l>
+               <l>the contemplation of whose heauenly hew,</l>
+               <l>my spirit to an higher pitch will rayse.</l>
+               <l>But let her prayses yet be low and meane,</l>
+               <l>fit for the handmayd of the Faery Queene.</l>
+            </div>
+            <div n="LXXXI" type="POEM">
+               <l>Fayre is my loue, when her fayre golden heares,</l>
+               <l>with the loose wynd ye wauing chance to marke:</l>
+               <l>fayre when the rose in her red cheekes appeares,</l>
+               <l>or in her eyes the fyre of loue does sparke.</l>
+               <l>Fayre when her brest lyke a rich laden barke,</l>
+               <l>with pretious merchandize she forth doth lay:</l>
+               <l>fayre whe[n] that cloud of pryde, which oft doth dark</l>
+               <l>her goodly light with smiles she driues away.</l>
+               <l>But fayrest she, when so she doth display,</l>
+               <l>the gate with pearles and rubyes richly dight:</l>
+               <l>throgh which her words so wise do make their way</l>
+               <l>to beare the message of her gentle spright,</l>
+               <l>The rest be works of natures wonderment,</l>
+               <l>but this the worke of harts astonishment.</l>
+            </div>
+            <div n="LXXXII" type="POEM">
+               <l>Ioy of my life, full oft for louing you</l>
+               <l>I blesse my lot, that was so lucky placed:</l>
+               <l>but then the more your owne mishap I rew,</l>
+               <l>that are so much by so meane loue embased.</l>
+               <l>For had the equall heuens so much you graced</l>
+               <l>in this as in the rest, ye mote inuent</l>
+               <l>som heuenly wit, whose verse could haue enchased</l>
+               <l>your glorious name in golden moniment.</l>
+               <l>But since ye deignd so goodly to relent</l>
+               <l>to me your thrall, in whom is little worth,</l>
+               <l>that little that I am, shall all be spent,</l>
+               <l>in setting your immortall prayses forth.</l>
+               <l>Whose lofty argument vplifting me,</l>
+               <l>shall lift you vp vnto an high degree.</l>
+            </div>
+            <div n="LXXXIII" type="POEM">
+               <l>MY hungry eyes, through greedy couetize,</l>
+               <l>Still to behold the obiect of theyr payne:</l>
+               <l>with no contentment can themselues suffize,</l>
+               <l>but hauing pine, and hauing not complayne</l>
+               <l>For lacking it, they cannot lyfe sustayne,</l>
+               <l>and seeing it, they gaze on it the more:</l>
+               <l>in theyr amazement lyke Marcissus vayne</l>
+               <l>whose eyes him staru'd: so plenty makes me pore.</l>
+               <l>Yet are myne eyes so filled with the store</l>
+               <l>of that fayre sight, that nothing else they brooke:</l>
+               <l>but loath the things which they did like before,</l>
+               <l>and can no more endure on them to looke.</l>
+               <l>All this worlds glory seemeth vayne to me,</l>
+               <l>and all theyr shewes but shadowes sauing she.</l>
+            </div>
+            <div n="LXXXIIII" type="POEM">
+               <l>LEt not one sparke of filthy lustfull fyre</l>
+               <l>breake out, that may her sacred peace molest:</l>
+               <l>ne one light glance of sensuall desyre:</l>
+               <l>Attempt to work her gentle mindes vnrest.</l>
+               <l>But pure affections bred in spotlesse brest,</l>
+               <l>&amp; modest thoughts breathd fro[m] wel te[m]pred sprites</l>
+               <l>goe visit her in her bowre of rest,</l>
+               <l>accompanyde with angelick delightes.</l>
+               <l>There fill your selfe with those most ioyous sights,</l>
+               <l>the which my selfe could neuer yet attayne:</l>
+               <l>but speake no word to her of these sad plights,</l>
+               <l>which her too constant stiffenesse doth constrayn.</l>
+               <l>Onely behold her rare perfection,</l>
+               <l>and blesse your fortunes fayre election.</l>
+            </div>
+            <div n="LXXXV" type="POEM">
+               <l>THe world that cannot deeme of worthy things,</l>
+               <l>when I doe praise her, say I doe but flatter:</l>
+               <l>so does the Cuckow, when the Mauis sings,</l>
+               <l>begin his witlesse note apace to clatter.</l>
+               <l>But they that skill not of so heauenly matter,</l>
+               <l>all that they know not, enuy or admyre,</l>
+               <l>rather then enuy let them wonder at her,</l>
+               <l>but not to deeme of her desert aspyre.</l>
+               <l>Deepe in the closet of my parts entyre,</l>
+               <l>her worth is written with a golden quill:</l>
+               <l>that me with heauenly fury doth inspire,</l>
+               <l>and my glad mouth with her sweet prayses fill.</l>
+               <l>Which when as fame in her shrill trump shal thunder</l>
+               <l>let the world chose to enuy or to wonder.</l>
+            </div>
+            <div n="LXXXVI" type="POEM">
+               <l>VEnemous toung tipt with vile adders sting,</l>
+               <l>Of that selfe kynd with which the Furies tell</l>
+               <l>theyr snaky heads doe combe, from which a spring</l>
+               <l>of poysoned words and spitefull speeches well.</l>
+               <l>Let all the plagues and horrid paines of hell,</l>
+               <l>vpon thee fall for thine accursed hyre:</l>
+               <l>that with false forged lyes, which thou didst tel,</l>
+               <l>in my true loue did stirre vp coles of yre,</l>
+               <l>The sparkes whereof let kindle thine own fyre,</l>
+               <l>and catching hold on thine owne wicked hed</l>
+               <l>consume thee quite, that didst with guile conspire</l>
+               <l>in my sweet peace such breaches to haue bred.</l>
+               <l>Shame be thy meed, and mischiefe thy reward.</l>
+               <l>dew to thy selfe that it for me prepard.</l>
+            </div>
+            <div n="LXXXVII" type="POEM">
+               <l>SInce I did leaue the presence of my loue,</l>
+               <l>Many long weary dayes I haue outworne:</l>
+               <l>and many nights, that slowly seemd to moue,</l>
+               <l>theyr sad protract from euening vntill morne.</l>
+               <l>For when as day the heauen doth adorne,</l>
+               <l>I wish that night the noyous day would end:</l>
+               <l>and when as night hath vs of light forlorne,</l>
+               <l>I wish that day would shortly reascend.</l>
+               <l>Thus I the time with expectation spend,</l>
+               <l>and faine my griefe with chaunges to beguile,</l>
+               <l>that further seemes his terme still to extend,</l>
+               <l>and maketh euery minute seeme a myle.</l>
+               <l>So sorrow still doth seeme too long to last,</l>
+               <l>but ioyous houres doo fly away too fast.</l>
+            </div>
+            <div n="LXXXVIII" type="POEM">
+               <l>SInce I haue lackt the comfort of that light,</l>
+               <l>The which was wont to lead my thoughts astray:</l>
+               <l>I wander as in darkenesse of the night,</l>
+               <l>affrayd of euery dangers least dismay.</l>
+               <l>Ne ought I see, though in the clearest day,</l>
+               <l>when others gaze vpon theyr shadowes vayne:</l>
+               <l>but th'onely image of that heauenly ray,</l>
+               <l>whereof some glance doth in mine eie remayne.</l>
+               <l>Of which beholding th'Idaea playne,</l>
+               <l>throgh contemplation of my purest part:</l>
+               <l>with light thereof I doe my selfe sustayne,</l>
+               <l>and thereon feed my loue-affamisht hart.</l>
+               <l>But with such brightnesse whylest I fill my mind,</l>
+               <l>I starue my body and mine eyes doe blynd.</l>
+            </div>
+            <div n="LXXXIX" type="POEM">
+               <l>LYke as the Culuer on the bared bough,</l>
+               <l>Sits mourning for the absence of her mate;</l>
+               <l>and in her songs sends many a wishfull vew,</l>
+               <l>for his returne that seemes to linger late.</l>
+               <l>So I alone now left disconsolate,</l>
+               <l>mourne to my selfe the absence of my loue:</l>
+               <l>and wandring here and there all desolate,</l>
+               <l>seek with my playnts to match that mournful doue</l>
+               <l>Ne ioy of ought that vnder heauen doth houe,</l>
+               <l>can comfort me, but her owne ioyous sight:</l>
+               <l>whose sweet aspect both God and man can moue,</l>
+               <l>in her vnspotted pleasauns to delight.</l>
+               <l>Dark is my day, whyles her fayre light I mis,</l>
+               <l>and dead my life that wants such liuely blis.</l>
+            </div>
+            <div type="POEM">
+               <l>IN youth before I waxed old.</l>
+               <l>The blynd boy Venus baby,</l>
+               <l>For want of cunning made me bold,</l>
+               <l>In bitter byue to grope for honny.</l>
+               <l>But when he saw me stung and cry,</l>
+               <l>He tooke his wings and away did fly.</l>
+               <l>As Diane hunted on a day,</l>
+               <l>She chaunst to come where Cupid lay,</l>
+               <l>his quiuer by his head:</l>
+               <l>One of his shafts she stole away,</l>
+               <l>And one of hers did close conuay,</l>
+               <l>into the others stead:</l>
+               <l>With that loue wounded my loues hart,</l>
+               <l>but Diane beasts with Cupids dart.</l>
+               <l>I Saw in secret to my Dame,</l>
+               <l>How little Cupid humbly came:</l>
+               <l>and sayd to her All hayle my mother.</l>
+               <l>But when he saw me laugh, for shame:</l>
+               <l>His face with bashfull blood did flame,</l>
+               <l>not knowing Venus from the other,</l>
+               <l>Then neuer blush Cupid (quoth I)</l>
+               <l>for many haue err'd in this beauty.</l>
+               <l>VPon a day as loue lay sweetly slumbring,</l>
+               <l>all in his mothers lap:</l>
+               <l>A gentle Bee with his loud trumpet murm'ring,</l>
+               <l>about him flew by hap.</l>
+               <l>Whereof when he was wakened with the noyse,</l>
+               <l>and saw the beast so small:</l>
+               <l>Whats this (quoth he) that giues so great a voyce,</l>
+               <l>that wakens men withall.</l>
+               <l>In angry wize he flyes about,</l>
+               <l>and threatens all with corage stout.</l>
+               <l>To whom his mother closely smiling sayd,</l>
+               <l>twixt earnest and twixt game:</l>
+               <l>See thou thy selfe likewise art lyttle made,</l>
+               <l>if thou regard the same.</l>
+               <l>And yet thou suffrest neyther gods in sky,</l>
+               <l>nor men in earth to rest:</l>
+               <l>But when thou art disposed cruelly,</l>
+               <l>theyr sleepe thou doost molest.</l>
+               <l>Then eyther change thy cruelty,</l>
+               <l>or giue lyke leaue vnto the fly.</l>
+               <l>Nathlesse the cruell boy not so content,</l>
+               <l>would needs the fly pursue:</l>
+               <l>And in his hand with heedlesse hardiment,</l>
+               <l>him caught for to subdue.</l>
+               <l>But when on it he hasty hand did lay,</l>
+               <l>the Bee him stung therefore:</l>
+               <l>Now out alasse (he cryde) and welaway,</l>
+               <l>I wounded am full sore:</l>
+               <l>The fly that I so much did scorne,</l>
+               <l>hath hurt me with his little horne.</l>
+               <l>Vnto his mother straight he weeping came,</l>
+               <l>and of his griefe complayned:</l>
+               <l>Who could not chose but laugh at his fond game,</l>
+               <l>though sad to see him pained.</l>
+               <l>Think now (quod she) my sonne how great the smart</l>
+               <l>of those whom thou dost wound:</l>
+               <l>Full many thou hast pricked to the hart,</l>
+               <l>that pitty neuer found:</l>
+               <l>Therefore henceforth some pitty take,</l>
+               <l>when thou doest spoyle of louers make.</l>
+               <l>She tooke him streight full pitiously lamenting,</l>
+               <l>and wrapt him in her smock:</l>
+               <l>She wrapt him softly, all the while repenting,</l>
+               <l>that he the fly did mock.</l>
+               <l>She drest his wound and it embaulmed wel</l>
+               <l>with salue of soueraigne might:</l>
+               <l>And then she bath'd him in a dainty well</l>
+               <l>the well of deare delight.</l>
+               <l>Who would not oft be stung as this,</l>
+               <l>to be so bath'd in Venus blis.</l>
+               <l>The wanton boy was shortly wel recured,</l>
+               <l>of that his malady:</l>
+               <l>But he soone after fresh againe enured,</l>
+               <l>his former cruelty.</l>
+               <l>And since that time he wounded hath my selfe</l>
+               <l>with his sharpe dart of loue:</l>
+               <l>And now forgets the cruell carelesse elfe,</l>
+               <l>his mothers heast to proue.</l>
+               <l>So now I languish till he please,</l>
+               <l>my pining anguish to appease.</l>
+               <l>
+                  <hi rend="italic">FINIS.</hi>
+               </l>
+            </div>
+         </div>
+         <pb n="422"/>
+         <div type="poem">
+            <head>Epithalamion.</head>
+            <l>Ye learned sisters which haue oftentimes</l>
+            <l>Beene to me ayding, others to adorne:</l>
+            <l>Whom ye thought worthy of your gracefull rymes,</l>
+            <l>That euen the greatest did not greatly scorne</l>
+            <l>To heare theyr names sung in your simple layes,</l>
+            <l>But ioyed in theyr prayse.</l>
+            <l>And when ye list your owne mishaps to mourne,</l>
+            <l>Which death, or loue, or fortunes wreck did rayse,</l>
+            <l>Your string could soone to sadder tenor turne,</l>
+            <l>And teach the woods and waters to lament</l>
+            <l>Your dolefull dreriment.</l>
+            <l>Now lay those sorrowfull complaints aside,</l>
+            <l>And hauing all your heads with girland crownd,</l>
+            <l>Helpe me mine owne loues prayses to resound,</l>
+            <l>Ne let the same of any be enuide:</l>
+            <l>So Orpheus did for his owne bride,</l>
+            <l>Si I vnto my selfe alone will sing,</l>
+            <l>The woods shall to me answer and my Eccho ring.</l>
+            <l>Early before the worlds light giuing lampe,</l>
+            <l>His golden beame vpon the hils doth spred,</l>
+            <l>Hauing disperst the nights vnchearefull dampe,</l>
+            <l>Doe ye awake, and with fresh lusty hed,</l>
+            <l>Go to the bowre of my beloued loue,</l>
+            <l>My truest turtle doue,</l>
+            <l>Bid her awake; for Hymen is awake,</l>
+            <l>And long since ready forth his maske to moue,</l>
+            <l>With his bright Tead that flames with many a flake,</l>
+            <l>And many a bachelor to waite on him,</l>
+            <l>In theyr fresh garments trim.</l>
+            <l>Bid her awake therefore and soone her dight,</l>
+            <l>For lo the wished day is come at last,</l>
+            <l>That shall for al the paynes and sorrowes past,</l>
+            <l>Pay to her vsury of long delight:</l>
+            <l>And whylest she doth her dight,</l>
+            <l>Doe ye to her of ioy and solace sing,</l>
+            <l>That all the woods may answer and your eccho ring.</l>
+            <l>Bring with you all the Nymphes that you can heare</l>
+            <l>Both of the riuers and the forrests greene:</l>
+            <l>And of the sea that neighbours to her neare,</l>
+            <l>Al with gay girlands goodly wel beseene.</l>
+            <l>And let them also with them bring in hand,</l>
+            <l>Another gay girland</l>
+            <l>For my fayre loue of lillyes and of roses,</l>
+            <l>Bound trueloue wize with a blew silke riband.</l>
+            <l>And let them make great store of bridale poses,</l>
+            <l>And let them eeke bring store of other flowers</l>
+            <l>To deck the bridale bowers.</l>
+            <l>And let the ground whereas her foot shall tread,</l>
+            <l>For feare the stones her tender foot should wrong</l>
+            <l>Be strwed with fragrant flowers all along,</l>
+            <l>And diapred lyke the discolored mead.</l>
+            <l>Which done, doe at her chamber dore awayt,</l>
+            <l>For she will waken strayt,</l>
+            <l>The whiles doe ye this song vnto her sing,</l>
+            <l>The woods shall to you answer and your Eccho ring.</l>
+            <l>Ye Nymphes of Mulla which with carefull heed,</l>
+            <l>The siluer scaly trouts doe tend full well,</l>
+            <l>And greedy pikes which vse therein to feed,</l>
+            <l>(Those trouts and pikes all others doo excell)</l>
+            <l>And ye likewise which keepe the rushy lake,</l>
+            <l>Where none doo fishes take,</l>
+            <l>Bynd vp the locks the which hang scatterd light,</l>
+            <l>And in his waters which your mirror make,</l>
+            <l>Behold your faces as the christall bright,</l>
+            <l>That when you come whereas my loue doth lie,</l>
+            <l>No blemish she may spie.</l>
+            <l>And eke ye lightfoot mayds which keepe the deere,</l>
+            <l>That on the hoary mountayne vse to towre,</l>
+            <l>And the wylde wolues which seeke them to deuoure,</l>
+            <l>With your steele darts doo chace from comming neer</l>
+            <l>Be also present heere,</l>
+            <l>To helpe to decke her and to help to sing,</l>
+            <l>That all the woods may answer and your eccho ring.
+ <pb n="424"/>
+            </l>
+            <l>Wake, now my loue, awake; for it is time,</l>
+            <l>The Rosy Morne long since left Tithones bed,</l>
+            <l>All ready to her siluer coche to clyme,</l>
+            <l>And Phoebus gins to shew his glorious hed.</l>
+            <l>Hark how the cheerefull birds do chaunt theyr laies</l>
+            <l>And carroll of loues praise.</l>
+            <l>The merry Larke hir mattins sings aloft,</l>
+            <l>The thrush replyes, the Mauis descant playes,</l>
+            <l>The Ouzell shrills, the Ruddock warbles soft,</l>
+            <l>So goodly all agree with sweet consent,</l>
+            <l>To this dayes merriment.</l>
+            <l>Ah my deere loue why doe ye sleepe thus long,</l>
+            <l>When meeter were that ye should now awake,</l>
+            <l>T'awayt the comming of your ioyous make,</l>
+            <l>And hearken to the birds louelearned song,</l>
+            <l>The deawy leaues among.</l>
+            <l>For they ioy and pleasance to you sing,</l>
+            <l>That all the woods them answer and theyr eccho ring.</l>
+            <l>My loue is now awake out of her dreame,</l>
+            <l>And her fayre eyes like stars that dimmed were</l>
+            <l>With darksome cloud, now shew theyr goodly beames</l>
+            <l>More bright then Hesperus his head doth rere.</l>
+            <l>Come now ye damzels, daughters of delight,</l>
+            <l>Helpe quickly her to dight,</l>
+            <l>But first come ye fayre houres which were begot</l>
+            <l>In Ioues sweet paradice, of Day and Night,</l>
+            <l>Which doe the seasons of the yeare allot,</l>
+            <l>And all that euer in this world is fayre</l>
+            <l>Doe make and still repayre.</l>
+            <l>And ye three handmayds of the Cyprian Queene,</l>
+            <l>The which doe still adorne her beauties pride,</l>
+            <l>Helpe to addorne my beautifullest bride:</l>
+            <l>And as ye her array, still throw betweene</l>
+            <l>Some graces to be seene,</l>
+            <l>And as ye vse to Venus, to her sing,</l>
+            <l>The whiles the woods shall answer and your eccho ring.
+ <pb n="425"/>
+            </l>
+            <l>Now is my loue all ready forth to come,</l>
+            <l>Let all the virgins therefore well awayt,</l>
+            <l>And ye fresh boyes that tend vpon her groome</l>
+            <l>Prepare your selues; for he is comming strayt.</l>
+            <l>Set all your things in seemely good aray</l>
+            <l>Fit for so ioyfull day,</l>
+            <l>The ioyfulst day that euer sunne did see.</l>
+            <l>Faire Sun, shew forth thy fauourable ray,</l>
+            <l>And let thy lifull heat not feruent be</l>
+            <l>For feare of burning her sunshyny face,</l>
+            <l>Her beauty to disgrace.</l>
+            <l>O fayrest Phoebus, father of the Muse,</l>
+            <l>If euer I did honour thee aright,</l>
+            <l>Or sing the thing, that mote thy mind delight,</l>
+            <l>Doe not thy seruants simple boone refuse,</l>
+            <l>But let this day let this one day be myne,</l>
+            <l>Let all the rest be thine.</l>
+            <l>Then I thy souerayne prayses loud wil sing,</l>
+            <l>That all the woods shal answer and theyr eccho ring.</l>
+            <l>Harke how the Minstrels gin to shrill aloud</l>
+            <l>Their merry Musick that resounds from far,</l>
+            <l>The pipe,  the tabor, and the trembling Croud,</l>
+            <l>That will agree withouten breach or iar.</l>
+            <l>But most of all the Damzels doe delite,</l>
+            <l>When they their tymbrels smyte,</l>
+            <l>And thereunto doe daunce and carrol sweet,</l>
+            <l>That all the sences they doe rauish quite,</l>
+            <l>The whyles the boyes run vp and downe the street,</l>
+            <l>Crying aloud with strong confused noyce,</l>
+            <l>As if it were one voyce.</l>
+            <l>Hymen io Hymen, Hymen they do shout,</l>
+            <l>That euen to the heauens theyr shouting shrill</l>
+            <l>Doth reach, and all the firmament doth fill,</l>
+            <l>To which the people standing all about,</l>
+            <l>As in approuance doe thereto applaud</l>
+            <l>And loud aduaunce her laud,</l>
+            <l>And euer they Hymen Hymen sing,</l>
+            <l>That al the woods them answer and theyr eccho ring.
+ <pb n="426"/>
+            </l>
+            <l>Loe where she comes along with portly pace</l>
+            <l>Lyke Phoebe from her chamber of the East,</l>
+            <l>Arysing forth to run her mighty race,</l>
+            <l>Clad all in white, that seemes a virgin best.</l>
+            <l>So well it her beseemes that ye would weene</l>
+            <l>Some angell she had beene.</l>
+            <l>Her long loose yellow locks lyke golden wyre,</l>
+            <l>Sprinckled with perle, and perling flowres a tweene,</l>
+            <l>Doe lyke a golden mantle her attyre,</l>
+            <l>And being crowned with a girland greene,</l>
+            <l>Seeme lyke some mayden Queene.</l>
+            <l>Her modest eyes abashed to behold</l>
+            <l>So many gazers, as on her do stare,</l>
+            <l>Vpon the lowly ground affixed are.</l>
+            <l>Ne dare lift vp her countenance too bold,</l>
+            <l>But blush to heare her prayses sung so loud,</l>
+            <l>So farre from being proud.</l>
+            <l>Nathlesse doe ye still loud her prayses sing.</l>
+            <l>That all the woods may answer and your eccho ring.</l>
+            <l>Tell me ye merchants daughters did ye see</l>
+            <l>So fayre a creature in your towne before,</l>
+            <l>So sweet, so louely, and so mild as she,</l>
+            <l>Adornd with beautyes grace and vertues store,</l>
+            <l>Her goodly eyes lyke Saphyres shining bright,</l>
+            <l>Her forehead yuory white,</l>
+            <l>Her cheekes lyke apples which the sun hath rudded,</l>
+            <l>Her lips lyke cherryes charming men to byte,</l>
+            <l>Her brest like to a bowle of creame vncrudded,</l>
+            <l>Her papa lyke lyllies budded,</l>
+            <l>Her snowie necke lyke to a marble towre,</l>
+            <l>And all her body like a pallace fayre,</l>
+            <l>Ascending vppe with many a stately stayre,
+ <pb n="427"/>
+            </l>
+            <l>To honors seat and chastities sweet bowre.</l>
+            <l>Why stand ye still ye virgins in amaze,</l>
+            <l>Vpon her so to gaze,</l>
+            <l>Whiles ye forget your former lay to sing,</l>
+            <l>To which the woods did answer and your eccho ring.</l>
+            <l>But if ye saw that which no eyes can see,</l>
+            <l>The inward beauty of her liuely spright,</l>
+            <l>Garnisht with heauenly guifts if high degree,</l>
+            <l>Much more then would ye wonder at that sight,</l>
+            <l>And stand astonisht lyke to those which red</l>
+            <l>Medusaes mazeful hed.</l>
+            <l>There dwels sweet loue and constant chastity,</l>
+            <l>Vnspotted fayth and comely womanhood,</l>
+            <l>Regard of honour and mild modesty,</l>
+            <l>There vertue raynes as Queene in royal throne,</l>
+            <l>And giueth lawes alone.</l>
+            <l>The which the base affections doe obay,</l>
+            <l>And yeeld theyr seruices vnto her will,</l>
+            <l>Ne thought of thing cncomely euer may</l>
+            <l>Thereto approch to tempt her mind to ill.</l>
+            <l>Had ye once seene these her celestial threasures,</l>
+            <l>And vnreuealed pleasures,</l>
+            <l>Then would ye wonder and her prayses sing,</l>
+            <l>That al the woods should answer and your echo ring.</l>
+            <l>Open the temple gates vnto my loue,</l>
+            <l>Open them wide that she may enter in,</l>
+            <l>And all the postes adorne as doth behoue,</l>
+            <l>And all the pillours deck with girlands trim,</l>
+            <l>For to recyue this Saynt with honour dew,</l>
+            <l>That commeth in to you.</l>
+            <l>With trembling steps and humble reuerence,</l>
+            <l>She commeth in, before th'almighties vew,</l>
+            <l>Of her ye virgins learne obedience,</l>
+            <l>When so ye come into those holy places,</l>
+            <l>To humble your proud faces:
+ <pb n="428"/>
+            </l>
+            <l>Bring her vp to th'high altar, that she may</l>
+            <l>The sacred ceremonies there partake,</l>
+            <l>The which do endlesse matrimony make,</l>
+            <l>And let the roring Organs loudly play</l>
+            <l>The praises of the Lord in liuely notes,</l>
+            <l>The whiles with hollow throates</l>
+            <l>The Choristers the ioyous Antheme sing,</l>
+            <l>That al the woods may answere and their eccho ring.</l>
+            <l>Behold whiles she before the altar stands</l>
+            <l>Hearing the holy priest that to her speakes</l>
+            <l>And blesseth her with his two happy hands,</l>
+            <l>How the red roses flush vp in her cheekes,</l>
+            <l>And the pure snow with goodly vermill stayne,</l>
+            <l>Like crimsin dyde in grayne,</l>
+            <l>That euen th'Angels which continually,</l>
+            <l>About the sacred Altare doe remaine,</l>
+            <l>Forget their seruice and about her fly,</l>
+            <l>Ofte peeping in her face that seemes more fayre,</l>
+            <l>The more they on it stare.</l>
+            <l>But her sad eyes still fastened on the ground,</l>
+            <l>Are gouerned with goodly modesty,</l>
+            <l>That suffers not one looke to glaunce awry,</l>
+            <l>Which may let in a little thought vnsownd.</l>
+            <l>Why blush ye loue to giue to me your hand,</l>
+            <l>The pledge of all our band?</l>
+            <l>Sing ye sweet Angels, Alleluya sing,</l>
+            <l>That all the woods may answere and your eccho ring.</l>
+            <l>Now al is done; bring home the bride againe,</l>
+            <l>Bring home the triumph of our victory,</l>
+            <l>Bring home with you the glory of her gaine,</l>
+            <l>With ioyance bring her and with iollity.</l>
+            <l>Neuer had man more ioyfull day then this,</l>
+            <l>Whom heauen would heape with blis.
+ <pb n="429"/>
+            </l>
+            <l>Make feast therefore now all this liue long day,</l>
+            <l>This day for euer to me holy is,</l>
+            <l>Poure out the wine without restraint or stay,</l>
+            <l>Poure not by cups, but by the belly full,</l>
+            <l>Poure out to all that wull,</l>
+            <l>And sprinkle all the postes and wals with wine,</l>
+            <l>That they may sweat, and drunken be withall.</l>
+            <l>Crowne ye God Bacchus with a coronall,</l>
+            <l>And Hymen also crowne with wreathes of vine,</l>
+            <l>And let the Graces daunce vnto the rest;</l>
+            <l>For they can doo it best:</l>
+            <l>The whiles the maydens doe theyr carroll sing,</l>
+            <l>To which the woods shal answer and theyr eccho ring.</l>
+            <l>Ring ye the bels, ye yong men of the towne,</l>
+            <l>And leaue your wonted labors for this day:</l>
+            <l>This day is holy; doe ye write it downe,</l>
+            <l>That ye for euer it remember may.</l>
+            <l>This day the sunne is in his chiefest hight,</l>
+            <l>With Barnaby the bright,</l>
+            <l>From whence declining daily by degrees,</l>
+            <l>He somewhat loseth of his heat and light,</l>
+            <l>When once the Crab behind his back he sees.</l>
+            <l>But for this time it ill ordained was,</l>
+            <l>To chose the longest day in all the yeare,</l>
+            <l>And shortest night, when longest fitter weare:</l>
+            <l>Yet neuer day so long, but late would passe.</l>
+            <l>Ring ye bels, to make it weare away,</l>
+            <l>And bonefiers make all day,</l>
+            <l>And daunce about them, and about them sing:</l>
+            <l>that all the woods may answer, and your eccho ring.</l>
+            <l>Ah when will this long weary day haue end,</l>
+            <l>And lende me leaue to come vnto my loue?</l>
+            <l>How slowly do the houres theyr numbers spend?</l>
+            <l>How slowly does sad Time his feathers moue?</l>
+            <l>Hast thee O fayrest Planet to thy home</l>
+            <l>Within the Westerne fome:
+ <pb n="430"/>
+            </l>
+            <l>Thy tyred steedes long since haue need of rest.</l>
+            <l>Long though it be, at last I see it gloome,</l>
+            <l>And the bright euening star with golden creast</l>
+            <l>Appeare out of the East.</l>
+            <l>Fayre childe of beauty, glorious lampe of loue</l>
+            <l>That all the host of heauen in rankes doost lead,</l>
+            <l>And gudest louers through the nightes dread,</l>
+            <l>How chearefully thou lookest from aboue,</l>
+            <l>And seemst to laugh atweene thy twinkling light</l>
+            <l>As ioying in the sight</l>
+            <l>Of these glad many which for ioy doe sing,</l>
+            <l>That all the woods them answer and their eccho ring.</l>
+            <l>Now ceasse ye damsels your delights forepast;</l>
+            <l>Enought is it, that all the day was youres:</l>
+            <l>Now day is doen, and night is nighing fast:</l>
+            <l>Now bring the Bryde into the brydall boures.</l>
+            <l>Now night is come, now soone her disaray,</l>
+            <l>And in her bed her lay;</l>
+            <l>Lay her in lillies and in violets,</l>
+            <l>And silken courteins ouer her display,</l>
+            <l>And odourd sheetes, and Arras couerlets.</l>
+            <l>Behold now goodly my faire loue does ly</l>
+            <l>In proud humility;</l>
+            <l>Like vnto Maia, when as Ioue her tooke,</l>
+            <l>In Tempe, lying on the flowry gras,</l>
+            <l>Twixt sleepe and wake, after she weary was,</l>
+            <l>With bathing in the Acidalian brooke.</l>
+            <l>Now it is night, ye damsels may be gon,</l>
+            <l>And leaue my loue alone,</l>
+            <l>And leaue likewise your former lay to sing:</l>
+            <l>The woods no more shal answere, nor your echo ring.</l>
+            <l>Now welcome night, thou night so long expected,</l>
+            <l>That long daies labour doest at last defray,</l>
+            <l>And all my care, which cruell loue collected,</l>
+            <l>Hast sumd in one, and cancelled for aye:
+ <pb n="431"/>
+            </l>
+            <l>Spread thy broad wing ouer my loue and me,</l>
+            <l>That no man may vs see,</l>
+            <l>And in thy sable mantle vs enwrap,</l>
+            <l>From feare of perill and foule horror free.</l>
+            <l>Let no false treason seeke vs to entrap,</l>
+            <l>Nor any dread disquiet once annoy</l>
+            <l>The safety of our ioy:</l>
+            <l>But let the night be calme and quietsome,</l>
+            <l>Without tempestuous storms or sad afray:</l>
+            <l>Lyke as when Ioue with fayre Alcmena lay,</l>
+            <l>When he begot the great Tirynthian groome:</l>
+            <l>Or lyke as when he with thy selfe did lie,</l>
+            <l>And begot Maiesty.</l>
+            <l>And let the mayds and yongmen cease to sing:</l>
+            <l>Ne let the woods them answer, nor theyr eccho ring.</l>
+            <l>Let no lamenting cryes, nor dolefull teares,</l>
+            <l>Be heard all night within nor yet without:</l>
+            <l>Ne let false whispers, breeding hidden feares,</l>
+            <l>Breake gentle sleepe with misconceiued dout.</l>
+            <l>Let no deluding dreames, nor dreadful sights</l>
+            <l>Make sudden sad affrights;</l>
+            <l>Ne let housefyres, nor lightnings helpelesse harmes,</l>
+            <l>Ne let the Pouke, nor other euill sprights,</l>
+            <l>Ne let mischiuous witches with theyr charmes,</l>
+            <l>Ne let hob Goblins, names whose sence we see not,</l>
+            <l>Fray vs with things that be not.</l>
+            <l>Let not the shriech Oule, nor the Storke be heard:</l>
+            <l>Nor the night Rauen that still deadly yels,</l>
+            <l>Nor damned ghosts cald vp with mighty spels,</l>
+            <l>Nor griesly vultures make vs once affeard:</l>
+            <l>Ne let th'unpleasant Quyre of Frogs still croking</l>
+            <l>Make vs to wish theyr choking.</l>
+            <l>Let none of these theyr drery accents sing;</l>
+            <l>Ne let the woods them answer, nor theyr eccho ring.
+ <pb n="432"/>
+            </l>
+            <l>But let stil Silence trew night watches keepe,</l>
+            <l>That sacred peace may in assurance rayne,</l>
+            <l>And tymely sleep, when it is tyme to sleepe,</l>
+            <l>May poure his limbs forth on your pleasant playne,</l>
+            <l>The whiles an hundred little winged loues,</l>
+            <l>Like diuers fethered doues,</l>
+            <l>Shall fly and flutter round about your bed,</l>
+            <l>And in the secret darke, that none reproues,</l>
+            <l>Their prety stealthes shal worke, and snares shal spread</l>
+            <l>To filch away sweet snatches of delight,</l>
+            <l>Conceald through couert night.</l>
+            <l>Ye sonnes of Venus, play your sports at will,</l>
+            <l>For greedy pleasure, carelesse of your toyes,</l>
+            <l>Thinks more vpon her paradise of ioyes,</l>
+            <l>Then what ye do, albe it good or ill.</l>
+            <l>All night therefore attend your merry play,</l>
+            <l>For it will soone be day:</l>
+            <l>Now none doth hinder you, that say or sing,</l>
+            <l>Ne will the woods now answer, nor your Eccho ring.</l>
+            <l>Who is the same, which at my window peepes?</l>
+            <l>Or whose is that faire face, that shines so bright,</l>
+            <l>Is it not Cinthia, she that neuer sleepes,</l>
+            <l>But walkes about high heauen al the night?</l>
+            <l>O fayrest goddesse, do thou not enuy</l>
+            <l>My loue with me to spy:</l>
+            <l>For thou likewise didst loue, though now vnthought,</l>
+            <l>And for a fleece of woll, which priuily,</l>
+            <l>The Latmian shephard once vnto thee brought,</l>
+            <l>His pleasures with thee wrought.</l>
+            <l>Therefore to vs be fauorable now;</l>
+            <l>And sith of wemens labours thou hast charge,</l>
+            <l>And generation goodly dost enlarge,</l>
+            <l>Encline thy will t'effect our wishfull vow,</l>
+            <l>And the chast wombe informe with timely seed,</l>
+            <l>That may our comfort breed:</l>
+            <l>Till which we cease our hopefull hap to sing,</l>
+            <l>Ne let the woods vs answere, nor our Eccho ring.
+ <pb n="433"/>
+            </l>
+            <l>And thou great Iuno, which with awful might</l>
+            <l>The lawes of wedlock still doest patronize,</l>
+            <l>And the religion of the faith first plight</l>
+            <l>With sacred rites hast taught to solemnize:</l>
+            <l>And eeke for comfort often called art</l>
+            <l>Of women in their smart,</l>
+            <l>Eternally bind thou this louely band,</l>
+            <l>And all thy blessings vnto us impart.</l>
+            <l>And thou glad Genius, in whose gentle hand,</l>
+            <l>The bridale bowre and geniall bed remaine,</l>
+            <l>Without a blemish or staine,</l>
+            <l>And the sweet pleasures of theyr loues delight</l>
+            <l>With secret ayde doest succour and supply,</l>
+            <l>Till they bring forth the fruitfull progeny,</l>
+            <l>Send vs the timely fruit of this same night.</l>
+            <l>And thou fayre Hebe, and thou Hymen free,</l>
+            <l>Grant that it may so be.</l>
+            <l>Til which we cease your further prayse to sing,</l>
+            <l>Ne any woods shal answer, nor your Eccho ring.</l>
+            <l>And ye high heauens, the temple of the gods,</l>
+            <l>In which a thousand torches fllaming bright</l>
+            <l>Doe burne, that to vs wretched earthly clods,</l>
+            <l>In dreadful darkenesse lend desired light;</l>
+            <l>And all ye powers which in the same remayne,</l>
+            <l>More them we men can fayne,</l>
+            <l>Poure out your blessing on vs plentiously,</l>
+            <l>And happy influence vpon vs raine,</l>
+            <l>That we may raise a large posterity,</l>
+            <l>Which from the earth, which they may long possesse,</l>
+            <l>With lasting happinesse,</l>
+            <l>Vp to your haughty pallaces may mount,</l>
+            <l>And for the guerdon of theyr glorious merit</l>
+            <l>May heauenly tabernacles there inherit,</l>
+            <l>Of blessed Saints for to increase the count.</l>
+            <l>So let vs rest, sweet loue, in hope of this,</l>
+            <l>And cease till then our tymely ioyes to sing,</l>
+            <l>The woods no more vs answer, nor eccho ring.
+ <pb n="434"/>
+            </l>
+            <l>Sone made in lieu of many ornaments,</l>
+            <l>With which my loue should duly haue bene dect,</l>
+            <l>Which cutting off through hasty accidents,</l>
+            <l>Ye would not stay your dew time to expect,</l>
+            <l>But promist both to recompens,</l>
+            <l>Be vnto her a goodly ornament,</l>
+            <l>And for short time an endlesse moniment.</l>
+            <lb/>
+            <p>FINIS</p>
+            <lb/>
+            <lb/>
+            <lb/>
+            <lb/>
+            <p>Imprinted by P.S. for Wil-<lb/>
+liam Ponsonby.</p>
+         </div>
+      </body>
+  </text>
+</TEI>
+

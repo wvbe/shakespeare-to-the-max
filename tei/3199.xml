@@ -1,0 +1,739 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">London and the vanity of human wishes</title>
+            <author>Johnson, Samuel, 1709-1784</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>deposited by<name type="person">Burnard, Lou</name>
+               <name key="ota" type="department">University of Oxford Text Archive</name>
+               <name key="oucs" type="organisation">Oxford University Computing Services</name>
+               <name type="place">Oxford</name>
+            </authority>
+            <distributor>
+               <name>University of Oxford Text Archive</name>
+               <address>
+                  <addrLine>Oxford University Computing Services</addrLine>
+                  <addrLine>13 Banbury Road</addrLine>
+                  <addrLine>Oxford</addrLine>
+                  <addrLine>OX2 6NN</addrLine>
+               </address>
+               <email>ota@oucs.ox.ac.uk</email>
+            </distributor>
+            <idno type="ota">http://ota.ox.ac.uk/id/3199</idno>
+            <idno type="isbn10">1106001982</idno>
+            <idno type="isbn13">9781106001986</idno>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/3.0/">
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License
+      </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Revised version of  <relatedItem type="older" target="http://ota.ox.ac.uk/id/1597"/>
+            </bibl>
+            <biblFull>
+               <titleStmt>
+                  <title>London, 1738 and 1748, [and], The vanity of human wishes, 1794 and 1755</title>
+                  <author>Johnson, Samuel, 1709-1784</author>
+               </titleStmt>
+               <editionStmt>
+                  <p>Facsimile reprint edition</p>
+               </editionStmt>
+               <publicationStmt>
+                  <publisher>Scolar Press</publisher>
+                  <pubPlace>Menston</pubPlace>
+                  <date>1970</date>
+                  <idno type="isbn">0854173870</idno>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Facsimile reprints of London, originally published, London : Printed for R. Doddesley [i.e. Dodsley], 1738 with original t.p.: London : a poem in imitation of the third satire of Juvenal., and Vol. 1. pp. 101-115 in A collection of poems by several hands, London : Printed for R. Dodsley, 1748; Vanity of human wishes, originally published, London : Printed for R. Dodsley, 1849 with original t.p.: The vanity of human wishes : the tenth satire of Juvenal imitated by Samuel Johnson, and Vol. 4. pp. 156-170 in A collection of poems by several hands, London : Printed by J. Hughes, for R. and J. Dodsley, 1755</note>
+                  <note>London reproduced from 1st folio ed. in Edinburgh University Library (shelfmark *S.18.32/8) and from British Museum copy of Dodsley's Collection (shelfmark 11602 c.6); Vanity of human wishes reproduced from British Museum copies of 1749 quarto (shelfmark 840 K.4(6)) and Dodsley's Collection (shelfmark C.117.aa.16)</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="OTASH">
+               <bibl>University of Oxford Text Archive Subject Headings</bibl>
+            </taxonomy>
+            <taxonomy xml:id="LCSH">
+               <bibl>Library of Congress Subject Headings</bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <creation>
+            <date notAfter="1738"/>
+         </creation>
+         <langUsage>
+            <language ident="eng">English</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="#LCSH">
+               <term type="genre">English poetry -- 18th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2010-09-30">Header normalised</change>
+      </revisionDesc>
+  </teiHeader>
+  <text xml:id="johlova">
+      <body>
+         <milestone unit="page" n="101"/>
+         <div>
+            <head>LONDON: A POEM, <lb/>In Imitation of the Third Satire of Juvenal.<lb/>By Mr. Samuel Johnson.
+        <lb/>
+               <emph>— quis ineptae</emph>
+            </head>
+            <l>Tam patiens urbis, tam ferreus ut teneat se?</l>
+            <l n="1">  Juv.</l>
+            <l>Tho' grief and fondness in my breast rebel,</l>
+            <l>When injur'd THALES bids the town farewell,</l>
+            <l>Yet still my calmer thoughts his choice commend,</l>
+            <l>I praise the hermit, but regret the friend,</l>
+            <l>Who now resolves, from vice and LONDN far,</l>
+            <l>To breathe in distant fields a purer air,</l>
+            <l>And, fix'd on Cambria's solitary shore,</l>
+            <l>Give to St. David one true Briton more.</l>
+            <milestone unit="page" n="102"/>
+            <l>For who would leave, unbrib'd, Hibernia's land,</l>
+            <l>Or change the rocks of Scotland for the Strand?</l>
+            <l>There none are swept by sudden fate away,</l>
+            <l>But all whom hunger spares, with age decay:</l>
+            <l>Here malice, rapine, accident, conspire,</l>
+            <l>And now a rabble rages, now a fire;</l>
+            <l>Their ambush here relentless ruffians lay,</l>
+            <l>Here falling houses thunder on your head</l>
+            <l>And here a female atheist talks you dead.</l>
+            <l>While THALES waits the wherry that contains</l>
+            <l>Of dissipated wealth the small remains,</l>
+            <l>On Thames's banks, in silent thought we stood,</l>
+            <l>Where Greenwich smiles upon the silver flood:</l>
+            <l>Struck with the seat that gave Eliza birth,</l>
+            <l>We kneel, and kiss the consecrated earth;</l>
+            <l>In pleasing dreams the blissful age renew,</l>
+            <l>And call Britannia's glories back to view;</l>
+            <l>Behold her cross triumphant on the main,</l>
+            <l>The guard of commerce, and the dread of Spain,</l>
+            <milestone unit="page" n="103"/>
+            <l>Ere masquerades debauch'd, excise oppress'd,</l>
+            <l>Or English honour grew a standing jest.</l>
+            <l>A transient calm the happy scenes bestow,</l>
+            <l>And for a moment lull the sense of woe.</l>
+            <l>At length awaking, with contemptuous frown.</l>
+            <l>Indignant THALES eyes the neighb'ring town.</l>
+            <l>Wants ev'n the cheap reward of empty praise;</l>
+            <l>In those curst walls, devote to vice and gain,</l>
+            <l>Since unrewarded science toils in vain;</l>
+            <l>Since hope but sooths to double my distress,</l>
+            <l>And ev'ry moment leaves my little less;</l>
+            <l>While yet my steddy steps no staff sustains,</l>
+            <l>And life still vig'rous revels in my veins;</l>
+            <l>Grant me, kind heaven, to find some happier place,</l>
+            <l>Where honesty and sense are no disgrace;</l>
+            <l>Some pleasing bank where verdant osiers play,</l>
+            <l>Some peaceful vale with nature's paintings gay;</l>
+            <l>Where once the harrass'd Briton found repose,</l>
+            <l>And safe in poverty defy'd his foes;</l>
+            <milestone unit="page" n="104"/>
+            <l>Some secret cell, ye pow'rs, indulgent give.</l>
+            <l>Let--live here, for--has learn'd to live.</l>
+            <l>Here let those reign, whom pensions can incite</l>
+            <l>To vote a patriot black, a courtier white;</l>
+            <l>Explain their country's dear-bought rights away,</l>
+            <l>And plead for pirates in the face of day;</l>
+            <l>With slavish tenets taint our poison'd youth,</l>
+            <l>And lend a lye the confidence of truth.</l>
+            <l>Let such raise palaces, and manors buy,</l>
+            <l>Collect a tax, or farm a lottery,</l>
+            <l>With warbling eunuchs fill a licens'd stage,</l>
+            <l>And lull to servitude a thoughtless age.</l>
+            <l>Heroes, proceed! what bounds your pride shall hold?</l>
+            <l>What check restrain your thirst of pow'r and gold?</l>
+            <l>Behold rebellious virtue quite o'erthrown,</l>
+            <l>Behold our fame, our wealth, our lives your own.</l>
+            <l>To such, a groaning nation's spoils are giv'n,</l>
+            <l>When publick crimes inflame the wrath of heav'n:</l>
+            <l>But what, my friend, what hope remains for me,</l>
+            <l>Who start at theft, and blush at perjury?</l>
+            <milestone unit="page" n="105"/>
+            <l>Who scarce forbear, tho'BRITAIN's Court he sing,</l>
+            <l>To pluck a titled Poet's borrow'd wing;</l>
+            <l>A Statesman's logic unconvinc'd can hear,</l>
+            <l>And dare to slumber o'er the Gazetteer;</l>
+            <l>Despise a fool in half his pension drest,</l>
+            <l>And strive in vain to laugh at H----y's jest.</l>
+            <l>Can sap the principles, or taint the heart;</l>
+            <l>With more address a lover's note convey,</l>
+            <l>Or bribe a virgin's innocence away.</l>
+            <l>Well may they rise, while I, whose rustic tongue</l>
+            <l>Ne'er knew to puzzle right, or varnish wrong,</l>
+            <l>Spurn'd as a begger, dreaded as a spy,</l>
+            <l>Live unregarded, unlamented die.</l>
+            <l>For what but social guilt the friend endears?</l>
+            <l>Who shares Orgilio's crimes, his fortune shares.</l>
+            <l>Bu,t thou  should tempting villainy present</l>
+            <l>All Marlb'rough hoarded, or all Villiers spent,</l>
+            <l>Turn from the glitt'ring bribe thy scornful eye,</l>
+            <l>Nor sell for gold, what gold could never buy,</l>
+            <milestone unit="page" n="106"/>
+            <l>The peaceful slumber, self-approving day,</l>
+            <l>Unsullied fame, and conscience ever gay.</l>
+            <l>The cheated nation's happy fav'rites, see!</l>
+            <l>Mark whom the great caress, who frown on me!</l>
+            <l>LONDON! the needy villain's gen'ral home,</l>
+            <l>The common shore of Paris and of Rome;</l>
+            <l>With eager thirst, by folly or by fate,</l>
+            <l>Sucks in the dregs of each corrupted state.</l>
+            <l>Forgive my transports on a theme like this,</l>
+            <l>I cannot bear a French metropolis.</l>
+            <l>Illustrious EDWARD! from the realms of day,</l>
+            <l>The land of heroes and saints survey;</l>
+            <l>Nor hope the British lineaments to trace,</l>
+            <l>The rustic grandeur, or the surly grace,</l>
+            <l>But soft in thoughtless ease, and empty show,</l>
+            <l>Behold the warrior dwindled to a beau ;</l>
+            <l>Sense, freedom, piety, refin'd away,</l>
+            <l>Of France the mimic, and of Spain the prey.</l>
+            <l>All that at home no more can beg or steal,</l>
+            <l>Or like a gibbet better than a wheel;</l>
+            <l>Hiss'd from the stage, or hooted from the court,</l>
+            <l>Their air, their dress, their politicks import;</l>
+            <milestone unit="page" n="107"/>
+            <l>Obsequious, artful, voluble and gay,</l>
+            <l>On Britain's fond credulity they prey.</l>
+            <l>No gainful trade their industry can 'scape,</l>
+            <l>They sing, they dance, clean shoes, or cure a clap;</l>
+            <l>All sciences a fasting Monsieur knows,</l>
+            <l>Ah! what avails it, that, from slav'ry far,</l>
+            <l>I drew the breath of life in English air;</l>
+            <l>Was early taught a Briton's right to prize,</l>
+            <l>And lisp the tale of HENRY's victories;</l>
+            <l>If the gull'd conqueror receives the chain,</l>
+            <l>And flattery subdues when arms are vain.</l>
+            <l>Studious to please, and ready to submit,</l>
+            <l>The supple Gaul was born a parasite:</l>
+            <l>Still to his int'rest true, where'er he goes.</l>
+            <l>Wit, brav'ry, worth, his lavish tongue bestows;</l>
+            <l>In ev'ry face a thousand graces shine,</l>
+            <l>From ev'ry tongue flows harmony divine.</l>
+            <milestone unit="page" n="108"/>
+            <l>These arts in vain our rugged natives try,</l>
+            <l>Strain out with fault'ring diffidence a lie,</l>
+            <l>And gain a kick for aukward flattery.</l>
+            <l>Besides, with justice, this discerning age</l>
+            <l>Admires their wond'rous talents for the stage:</l>
+            <l>Well may they venture on the mimic's art,</l>
+            <l>Who play from morn to night a borrow'd part;</l>
+            <l>Practis'd their master's notions to embrace,</l>
+            <l>Repeat his maxims, and reflect his face;</l>
+            <l>With ev'ry wild absurdity comply,</l>
+            <l>And view each object with another's eye;</l>
+            <l>To shake with laughter ere the jest they hear,</l>
+            <l>To pour at will the counterfeited tear,</l>
+            <l>And as their patron hints the cold or heat,</l>
+            <l>To shake in dog-days, in December sweat.</l>
+            <l>How, when competitors like these contend,</l>
+            <l>Can surly virtue hope to fix a friend?</l>
+            <l>Slaves that with serious impudence beguile,</l>
+            <l>And lye without a blush, without a smile;</l>
+            <milestone unit="page" n="109"/>
+            <l>Exalt each trifle, ev'ry vice adore,</l>
+            <l>Your taste in snuff, your judgment in a whore;</l>
+            <l>Can Balbo's eloquence applaud, and swear</l>
+            <l>He gropes his breeches with a monarch's air.</l>
+            <l>For arts like these preferr'd, admir'd, carest,</l>
+            <l>They first invade your table, then your breast;</l>
+            <l>Explore your secrets with insidious art,</l>
+            <l>Watch the weak hour, and ransack all the heart;</l>
+            <l>Then soon your ill-plac'd confidence repay,</l>
+            <l>By numbers here from shame or censure free,</l>
+            <l>All crimes are safe, but hated poverty.</l>
+            <l>This, only this, the rigid law pursues,</l>
+            <l>This, only this, provokes the snarling muse.</l>
+            <l>The  sober trader at a tatter'd cloak,</l>
+            <l>Wakes from his dream, and labours for a joke;</l>
+            <l>With brisker air the silken courtiers gaze,</l>
+            <l>And turn the varied taunt a thousand ways.</l>
+            <l>Of all the griefs that harrass the distrest,</l>
+            <l>Sure the most bitter is a scornful jest;</l>
+            <l>Fate never wounds more deep the gen'rous heart,</l>
+            <l>Than when a blockhead's insult points the dart.</l>
+            <milestone unit="page" n="110"/>
+            <l>Has heaven reserv'd, in pity to the poor,</l>
+            <l>No pathless waste, or undiscover'd shore;</l>
+            <l>No peaceful desart yet unclaim'd by SPAIN?</l>
+            <l>Quick let us rise, the happy seats explore,</l>
+            <l>And bear oppression's insolence no more.</l>
+            <l>This mournful truth is ev'ry where consest,</l>
+            <l>SLOW RISES WORTH, BY POVERTY DEPREST:</l>
+            <l>But here more slow, where all are slaves to gold,</l>
+            <l>Where looks are merchandise, and smiles are sold;</l>
+            <l>Where won by bribes, by flatteries implor'd,</l>
+            <l>The groom retails the favours of his lord.</l>
+            <l>But hark! th'affrighted croud's tumultuous cries</l>
+            <l>Roll thro' the streets, and thunder to the skies;</l>
+            <l>Rais'd from some pleasing dream of wealth and pow'r,</l>
+            <l>Some pompous palace, or some blissful bow'r</l>
+            <l>Aghast you start, and scarce with aking sight</l>
+            <l>Sustain th' approaching fire's tremendous light;</l>
+            <l>Swift from pursuing horrors take your way,</l>
+            <l>And leave your little all to flames a prey;</l>
+            <milestone unit="page" n="111"/>
+            <l>Then thro' the world a wretched vagrant roam,</l>
+            <l>For where can starving merit find a home?</l>
+            <l>In vain your mournful narrative disclose,</l>
+            <l>While all neglect, and most insult your woes.</l>
+            <l>Should heaven's just bolts Orgilio's wealth confound</l>
+            <l>And spread his flaming palace on the ground,</l>
+            <l>Swift o'er the land the dismal rumour flies,</l>
+            <l>The laureat tribe in servile verse relate,</l>
+            <l>How virtue wars with persecuting fate;</l>
+            <l>With well-feign'd gratitude the pension'd band</l>
+            <l>Refund the plunder of the begger'd land.</l>
+            <l>See! while he builds, the gaudy vassals come,</l>
+            <l>And crowd with sudden wealth the rising dome;</l>
+            <l>The price of boroughs and of souls restore,</l>
+            <l>and raise his treasures higher than before.</l>
+            <l>Now bless'd with all the baubles of the great,</l>
+            <l>The polish'd marble, and the shining plate,</l>
+            <milestone unit="page" n="112"/>
+            <l>Orgillio sees the golden pile aspire,</l>
+            <l>And hopes from angry heav'n another fire.</l>
+            <l>Could'st thou resign the park and play content,</l>
+            <l>For the fair banks of Severn or of Trent;</l>
+            <l>There might'st thou find some elegant retreat,</l>
+            <l>Some hireling senator's deserted seat;</l>
+            <l>And stretch they prospects o'er the smiling land,</l>
+            <l>There prune thy walks, support thy drooping flow'rs,</l>
+            <l>Direct thy rivulets, and twine thy bow'rs</l>
+            <l>And, while thy beds a cheap repast afford,</l>
+            <l>Despise the dainties of a venal lord:</l>
+            <l>There ev'ry bush with nature's musick rings,</l>
+            <l>There ev'ry breeze bears heath upon its wings;</l>
+            <l>On all thy hours security shall smile,</l>
+            <l>And bless thine evening walk and morning toil.</l>
+            <l>Prepare for death, if here at night you roam,</l>
+            <l>And sign your will before you sup from home.</l>
+            <milestone unit="page" n="113"/>
+            <l>Fome fiery sop, with new commission vain,</l>
+            <l>Who sleeps on brambles till he kills his man;</l>
+            <l>Some frolick drunkard, reeling from a feast,</l>
+            <l>Provokes a broil, and stabs you for a jest.</l>
+            <l>Yet ev'n these heroes, mischievously gay,</l>
+            <l>Lords of the street, and terrors of the way;</l>
+            <l>Flush'd as they are with folly, youth and wine,</l>
+            <l>Their prudent insults to the poor confine;</l>
+            <l>Afar they mark the flambeau's bright approach,</l>
+            <l>And shun the shining train, and golden coach.</l>
+            <l>In vain, these dangers past, your doors you close,</l>
+            <l>And hope the balmy blessings of repose:</l>
+            <l>The midnight murd'rer bursts the faithless bar;</l>
+            <l>Invades the sacred hour of silent rest,</l>
+            <l>And plants, unseen, a dagger in your breast.</l>
+            <l>Scarce can our fields, such crowds at Tyburn die,</l>
+            <l>With hemp the gallows and the fleet supply.</l>
+            <milestone unit="page" n="114"/>
+            <l>Propose your schemes, ye Senatorian band,</l>
+            <l>Whose Ways and Means support the sinking land;</l>
+            <l>Lest ropes be wanting in the tempting spring,</l>
+            <l>To rig another convoy for the k--g.</l>
+            <l>A single jail, in ALFRED's golden reign,</l>
+            <l>Could half the nation's criminals contain;</l>
+            <l>Fair Justice then without constraint ador'd,</l>
+            <l>Held high the steady scale, but deep'd the sword;</l>
+            <l>No spies were paid, no special juries known,</l>
+            <l>Blest age! but ah! how diff'rent from our own!</l>
+            <l>Much could I add, ---- but fee the boat at hand,</l>
+            <l>The tide retiring, calls me from the land:</l>
+            <l>Farewel!--When youth, and health, and fortune spent</l>
+            <l>Thou fly'ft for refuge to the wilds of Kent;</l>
+            <l>And tir'd like me with follies and with crimes,</l>
+            <l>In angry numbers warn st succeeding times;In angry numbers warn'st succeeding times;</l>
+            <milestone unit="page" n="115"/>
+            <l>Then shall thy friend, nor thou refuse his aid,</l>
+            <l>Still foe to vice, forsake his Cambrian shade;</l>
+            <l>In virtue's cause once more exert his rage,</l>
+            <l>Thy satire point, and animate thy page.</l>
+            <milestone unit="page" n="156"/>
+            <l>THE</l>
+            <l>VANITY OF HUMAN WISHES.</l>
+            <l>THE</l>
+            <l>tenth Satire of Juvenal,</l>
+            <l>IMITATED</l>
+            <l>BY SAMUEL JOHNSON.</l>
+            <l>Let observation with extensive view,</l>
+            <l>Survey mankind, from China to Peru;</l>
+            <l>Remark each anxious toil, each eager strife,</l>
+            <l>And watch the busy scenes of crouded life;</l>
+            <l>Then say how hope and fear, desire and hate,</l>
+            <l>O'erspread with snares the clouded maze of fate,</l>
+            <l>Where wav'ring man, betray'd by vent'rous pride,</l>
+            <l>As treach'rous phantoms in the mist delude,</l>
+            <l>Shuns fancied ills, or chases airy good.</l>
+            <l>How rarely reason guides the stubborn choice,</l>
+            <l>Rules the bold hand, or promps the suppliant voice,</l>
+            <milestone unit="page" n="157"/>
+            <l>How nations sink, by darling schemes oppress'd,</l>
+            <l>When vengeance listens to the fool's request.</l>
+            <l>Fate wings with ev'ry wish th' affictive dart,</l>
+            <l>Each gift of nature and each grace of art,</l>
+            <l>With fatal heat impetuous courage glows,</l>
+            <l>With fatal sweetness elocution flows,</l>
+            <l>Impeachment stops the speaker's pow'rful breath,</l>
+            <l>And restless fire precipitates on death.</l>
+            <l>But scarce observ'd the knowing and the bold.</l>
+            <l>Fall in the gen'ral massacre of gold;</l>
+            <l>Wide-wasting pest! that rages unconfin'd,</l>
+            <l>And crouds with crimes the records of mankind,</l>
+            <l>For gold his sword the hireling ruffian draws,</l>
+            <l>For gold the hireling judge distorts the laws;</l>
+            <l>Wealth heap'd on wealth, nor truth nor safety buys,</l>
+            <l>The dangers gather as the treasures rise.</l>
+            <l>Let hist'ry tell where rival kings command,</l>
+            <l>And dubious title shakes the madded land,</l>
+            <l>When statutes glean the refuse of the sword,</l>
+            <l>How much more safe the vassal than the lord,</l>
+            <l>Low sculks the hind beneath the rage of pow'r,</l>
+            <l>And leaves the wealthy traytor in the Tow'r,</l>
+            <l>Untouch'd his cottage, and his slumbers sound,</l>
+            <l>Tho' confiscation's vulturs  hover round.</l>
+            <l>The needy traveller, ferenc and gay,</l>
+            <l>Walks the wild heath, and sings his toil away.</l>
+            <milestone unit="page" n="158"/>
+            <l>Does envy seize thee? crush th' upbraiding joy,</l>
+            <l>Increase his riches and his peace destroy,</l>
+            <l>New fears in dire vicissitude invade,</l>
+            <l>The rustling brake alarms, and quiv'ring shade,</l>
+            <l>Nor light nor darkness bring his pain relief,</l>
+            <l>One shews the plunder, and one hides the thief.</l>
+            <l>Yet still one gen'ral cry the skies assails,</l>
+            <l>And gain and grandeur load the tainted gales;</l>
+            <l>Few know the toiling statesman's fear or care,</l>
+            <l>Once more, Democritus, arise on earth,</l>
+            <l>With chearful wisdom and instructive mirth,</l>
+            <l>See motly life in modern trappings dress'd,</l>
+            <l>And feed with varied fools th' eternal jest:</l>
+            <l>Thou who couldst laugh where want enchain'd caprice,</l>
+            <l>Toil crush'd conceit, and man was of a piece;</l>
+            <l>Where wealth unlov'd without a mourner dy'd,</l>
+            <l>And scarce a sycophant was fed by pride;</l>
+            <l>Where ne'er was known the form of mock debate,</l>
+            <l>Or seen a new-made mayor's unwieldy state;</l>
+            <l>Where change of fav'rites made no change of laws,</l>
+            <l>And senates heard before they judg'd a cause;</l>
+            <l>How wouldst thou shake at Britain's modish tribe,</l>
+            <l>Dart the quick taunt, and edge the piercing gibe?</l>
+            <l>Attentive truth and nature to decry,</l>
+            <l>And pierce each scene with philosophic eye.</l>
+            <milestone unit="page" n="159"/>
+            <l>To thee were solemn toys or empty shew,</l>
+            <l>The robes of pleasure and the veils of woe:</l>
+            <l>All aid the farce, and all thy mirth maintain,</l>
+            <l>Whose joys are causeless, or whose griefs are vain.</l>
+            <l>Such was the scorn that fill'd the sage's mind,</l>
+            <l>Renew'd at ev'ry glance on humankind;</l>
+            <l>How just that scorn ere yet thy voice declare,</l>
+            <l>Search every state, and canvass ev'ry pray'r.</l>
+            <l>Unnumber'd suppliants croud Preferment's gate,</l>
+            <l>Athirst for wealth, and burning to be great;</l>
+            <l>Delusive Fortune hears th' incessant call,</l>
+            <l>They mount, they shine, evaporate, and fall.</l>
+            <l>On ev'ry stage the foes of peace attend,</l>
+            <l>Hate dogs their slight, and insult mocks their end.</l>
+            <l>Love ends with hope the sinking statesman's door</l>
+            <l>Pours in the morning worshiper no more;</l>
+            <l>For growing names the weekly scribbler lies,</l>
+            <l>To growing wealth the dedicator flies,</l>
+            <l>From every room descends the painted face,</l>
+            <l>That hung the bright Palladium of the place,</l>
+            <l>And smoak'd in kitchens, or in auctions sold,</l>
+            <l>To better features yields the fame of gold;</l>
+            <l>For now no more we trace in ev'ry line</l>
+            <l>The form distorted justifies the fall,</l>
+            <l>And detestation rids th' indignant wall.</l>
+            <milestone unit="page" n="160"/>
+            <l>But will not Britain hear the last appeal,</l>
+            <l>Sign her foes doom, or guard her fav'rites zeal;</l>
+            <l>Through Freedom's sons no more remonstrance rings,</l>
+            <l>Degrading nobles and controuling kings;</l>
+            <l>Our supple tribes repress their patriot throats,</l>
+            <l>And ask no questions but the price of votes;</l>
+            <l>With weekly libels and septennial ale,</l>
+            <l>Sheir with is full to riot and to rail.</l>
+            <l>In full-blown dignity, fee Wolsey stand,</l>
+            <l>Law in his voice, and fortune in his hand,</l>
+            <l>To him the church, the realm, their pow'rs consign,</l>
+            <l>Thro' him the rays of regal bounty shine,</l>
+            <l>Still to new heights his restless wishes tow'r,</l>
+            <l>Claim leads to claim, and pow'r advances pow'r;</l>
+            <l>Till conquest unresisted ceas'd to please,</l>
+            <l>And rights submitted, left him none to seize.</l>
+            <l>At length his sov'reign frowns ------ the train of state</l>
+            <l>Mark the keen glance, and watch the sign to hate.</l>
+            <l>Where-e'er he turns he meets a stranger's eye,</l>
+            <l>His suppliants scorn him, and his followers fly;</l>
+            <l>At once is lost the pride of aweful state,</l>
+            <l>The golden canopy, the glitt'ring plate,</l>
+            <l>With age, with cares, with maladies oppress'd,</l>
+            <l>He seeks the refuge of monastic rest.</l>
+            <milestone unit="page" n="161"/>
+            <l>Grief aids disease, remember'd folly stings,</l>
+            <l>And his last sighs reproach the faith of kings.</l>
+            <l>Speak thou, whose thoughts at humble peace repine,</l>
+            <l>Shall Wolsey's wealth, with Wolsey's end be thine?</l>
+            <l>Or liv'st thou now, with safer pride content,</l>
+            <l>Trhe wisest justice on the banks of Tent?</l>
+            <l>For why did Wolsey near the steeps of fate,</l>
+            <l>On weak foundations raise th' enormous weight?</l>
+            <l>Why but to sink beneath misfortune's blow,</l>
+            <l>With louder ruin to the gulphs below?</l>
+            <l>What gave great Villiers to th' assassin's knife,</l>
+            <l>And fix'd disease on Harley's closing life?</l>
+            <l>By kings protected, and to kings ally'd?</l>
+            <l>What but their wish indulg'd in courts to shine,</l>
+            <l>And pow'r too great to keep, or to resign?</l>
+            <l>When first the college rolls receive his name,</l>
+            <l>The young enthusiast quits his ease for fame;</l>
+            <l>Through all his veins the fever of renown</l>
+            <l>Spreads from the strong contagion of the gown;</l>
+            <l>O'er Bodley's dome his future labours spread,</l>
+            <l>And Bacon's mansion trembles o'er his head.</l>
+            <l>Are these thy views? proceed, illustrious youth,</l>
+            <l>And virtue guard thee to the throne of Truth!</l>
+            <milestone unit="page" n="162"/>
+            <l>Yet should thy soul indulge the gen'rous heat,</l>
+            <l>Till captive Science yields her last retreat;</l>
+            <l>Should Reason guide thee with her brightest ray,</l>
+            <l>And pour on misty Doubt resistless day;</l>
+            <l>Should no false Kindness lure to loose delight,</l>
+            <l>Nor Praise relax, nor Difficulty fright;</l>
+            <l>Should tempting Novelty thy cell refrain</l>
+            <l>And Sloth effuse her opiate fumes in vain;</l>
+            <l>Should Beauty blunt on fops her fatal dart,</l>
+            <l>Nor claim the triumph of a letter'd heart;</l>
+            <l>Should no Disease thy torpid veins invade,</l>
+            <l>Nor Melancholy's phantoms haunt thy shade;</l>
+            <l>Deign on the passing world to turn thine eyes,</l>
+            <l>And pause awhile from letters, to be wise;</l>
+            <l>There mark what ills the scholar's life assail,</l>
+            <l>Toil, envy, want, the patron, and the jail.</l>
+            <l>See nations slowly wise, and meanly just,</l>
+            <l>To buried merit raise the tardy bust.</l>
+            <l>If dreams yet flatter, once again attend,</l>
+            <l>Hear Lydiat's life, and Galileo's end.</l>
+            <l>Nor deem, when learning her last prize bestows</l>
+            <l>The glitt'ring eminence exempt from foes;</l>
+            <l>See when the vulgar 'scape, despis'd or aw'd,</l>
+            <l>Rebellion's vengeful talons seize on Laud.</l>
+            <l>From meaner minds, tho' smaller fines content</l>
+            <l>The plunder'd palace or sequester'd rent;</l>
+            <milestone unit="page" n="163"/>
+            <l>Mark'd out by dangerous parts he meets the shock,</l>
+            <l>And fatal Learning leads him to the block:</l>
+            <l>But hear his death ye blockheads, hear and sleep.</l>
+            <l>The festal blazes, the triumphal show,</l>
+            <l>The ravish'd standard, and the captive foe,</l>
+            <l>The senates's thanks, the gazette's pompous tale,</l>
+            <l>With force resistless o'er the brave prevail.</l>
+            <l>Such bribes the rapid Greek o'er Asia whirl'd</l>
+            <l>For such the steady Romans shook the world;</l>
+            <l>For such in distant lands the Britons shine,</l>
+            <l>And stain with blood the Danube or the Rhine;</l>
+            <l>Thais pow'r has prise, that virtue scarce can warm,</l>
+            <l>Till fame supplies the universal charm.</l>
+            <l>Yet Reason frowns on War's unequal game,</l>
+            <l>Where wasted nations raise a single name,</l>
+            <l>And mortgag'd states their grandsires wreaths regret,</l>
+            <l>From age to age in everlasting debt;</l>
+            <l>Wreathes which at last the dear-bought right convey</l>
+            <l>To rust on medals, or on stones decay.</l>
+            <l>On what foundation stands the warrior's pride,</l>
+            <l>How just his hopes let Swedish Charles decide;</l>
+            <l>A frame of adamant, a soul of fire,</l>
+            <l>No dangers fright him, and no labours tire;</l>
+            <l>O'er love, o'er fear extends his wide domain,</l>
+            <l>Unconquer'd lord of pleasure and of pain;</l>
+            <milestone unit="page" n="164"/>
+            <l>No joys to him pacific scepters yield,</l>
+            <l>War sounds the trump, he rushes to the field;</l>
+            <l>Behold surrounding kings their pow'r combine,</l>
+            <l>And one capitulate, and one resign;</l>
+            <l>Peace courts his hand, but spreads her charms in vain;</l>
+            <l>Think nothing gain'd, he cries, till nought remain,</l>
+            <l>On Moscow's wall till Gothic standards fly,</l>
+            <l>And all be mine beneath the polar sky.</l>
+            <l>The March begins in military state,</l>
+            <l>And nations on his eye suspended wait;</l>
+            <l>Stern Famine guards the solitary coast,</l>
+            <l>And Winter barricades the realms of Frost;</l>
+            <l>He comes, not want and cold his course delay;--------</l>
+            <l>Hide, blushing Glory, hide Pultowa's day:</l>
+            <l>The vanquish'd hero leaves his broken bands,</l>
+            <l>And shews his miseries in distant lands;</l>
+            <l>While ladies interpose, and slaves debate.</l>
+            <l>But did not Chance at length her error mend?</l>
+            <l>Did no subverted empire mark his end?</l>
+            <l>Did rival nonarchs give the fatal wound?</l>
+            <l>Or hostile millions press him to the ground?</l>
+            <l>His fall was destin'd to a barren strand,</l>
+            <l>A petty fortress, and a dubious hand;</l>
+            <l>He left the name, at which the world grew pale,</l>
+            <l>To point a moral, or adorn a tale.</l>
+            <milestone unit="page" n="165"/>
+            <l>All times their scenes of pompous woes afford,</l>
+            <l>From Persia's tyrant to Bavaria's lord.</l>
+            <l>In gay hostility, and barb'rous pride,</l>
+            <l>With half mankind embattled at his side,</l>
+            <l>Great Xerxes comes to seize the certain prey,</l>
+            <l>And starves exhausted regions in his way;</l>
+            <l>Attendant Flatt'ry counts his myriads o'er,</l>
+            <l>Till counted myriads sooth his pride no more;</l>
+            <l>Fresh praise is try'd till madness fires his mind,</l>
+            <l>The waves he lashes, and enchains the wind;</l>
+            <l>New pow'rs are claim'd, new pow'rs are still bestow'd,</l>
+            <l>Till rude resistance lops the spreading god;</l>
+            <l>The daring Greeks deride the martial show,</l>
+            <l>And heap their vallies with the gaudy foe;</l>
+            <l>Th'insulted sea with humbler thoughts he gains,</l>
+            <l>Through purple billows and a floating host.</l>
+            <l>The bold Bavarian, in a luckless hour,</l>
+            <l>Tries the dread summits of Cesarean pow'r,</l>
+            <l>With unexpected legions bursts away,</l>
+            <l>And fees desenceless realms receive his sway;</l>
+            <l>Short sway! fair Austria spreads her mournful charms,</l>
+            <l>The queen, the beauty, sets the world in arms;</l>
+            <l>From hill to hill the beacons rousing blaze</l>
+            <l>Spreads wide the hope of plunder and of praise;</l>
+            <milestone unit="page" n="166"/>
+            <l>The fierce Croatian, and the wild Hussar,</l>
+            <l>And all the sons of ravage croud the war;</l>
+            <l>The baffled prince in honour's flatt'ring bloom</l>
+            <l>Of hasty greatness finds the fatal doom,</l>
+            <l>His foes derision, and his subjects blame,</l>
+            <l>And steals to death from anguish and from shame.</l>
+            <l>In health, in sickness, thus the suppliant prays;</l>
+            <l>Hides from himself his state, and shuns to know,</l>
+            <l>That life protracted is protracted woe.</l>
+            <l>Time hovers o'er impatient to destroy,</l>
+            <l>And shuts up all the passages of joy:</l>
+            <l>In vain their gifts the bounteous seasons pour,</l>
+            <l>The fruit autumnal, and the vernal flow'r,</l>
+            <l>With listless eyes the dotard views the shore,</l>
+            <l>He views, and wonders that they please no more;</l>
+            <l>Now pall the tastless tears, and joyless wines,</l>
+            <l>And luxury with sighs her slave resigns.</l>
+            <l>Approach, ye minstrels, try the soothing strain,</l>
+            <l>And yield the tuneful lenitives of pain:</l>
+            <l>No sounds alas would touch th' impervious ear,</l>
+            <l>Though dancing mountains witness'd Orpheus near;</l>
+            <l>Nor lute nor lyre his feeble pow'rs attend,</l>
+            <l>Nor sweeter musick of a virtuous friend,</l>
+            <l>But everlasting dictates croud his tongue,</l>
+            <l>Perversely grave, or positively wrong.</l>
+            <milestone unit="page" n="167"/>
+            <l>The still returning tale, and ling'ring jest,</l>
+            <l>Perplex the fawning niece and pamper'd guest,</l>
+            <l>While growing hopes scarce awe the gath'ring sneer,</l>
+            <l>And scarce a legacy can bribe to hear;</l>
+            <l>The watchful guests still hint the last offence,</l>
+            <l>The daughter's petulance, the son's expence,</l>
+            <l>Improve his heady rage with treach'rous skill,</l>
+            <l>And mould his passions till they make his will.</l>
+            <l>Unnumber'd maladies his joints invade,</l>
+            <l>Lay siege to life and press the dire bockade;</l>
+            <l>But unextinguish'd Av'rice still remains,</l>
+            <l>And dreaded losses aggravate his pains;</l>
+            <l>He turns, with anxious heart and cripplpled hands,</l>
+            <l>His bonds of debt, and mortgages of lands;</l>
+            <l>Or views his coffers with suspicious eyes,</l>
+            <l>Unlocks his gold, and counts it till he dies.</l>
+            <l>But grant, the virtues of a temp'rate prime</l>
+            <l>Bless with an age exempt from scorn or crime;</l>
+            <l>An age that melts in unperceiv'd decay,</l>
+            <l>And glides in modest Innocence away;</l>
+            <l>Whose night congratulating Conscience cheers;</l>
+            <l>The gen'ral fav'rite as the gen'ral friend:</l>
+            <l>Such age there is, and who could wish its end?</l>
+            <l>Yet e'n on this her load Misfortune slings,</l>
+            <l>To press the weary minutes flagging wings:</l>
+            <l>New sorrow rises as the day returns,</l>
+            <l>A sister sickens, or a daughter mourns.</l>
+            <milestone unit="page" n="168"/>
+            <l>Now kindred Merit fills the sable bier,</l>
+            <l>Now lacerated Friendship claims a tear.</l>
+            <l>Year chases year, decay pursues decay,</l>
+            <l>Still drops some joy from with'ring life away;</l>
+            <l>New forms arise, and diff'rent views engage,</l>
+            <l>Superfluous lags the vet'ran on the stage</l>
+            <l>Till pitying Nature signs the last release,</l>
+            <l>And bids afflicted worth retire to peace.</l>
+            <l>But few there are whom hours like these await,</l>
+            <l>Who set unclouded in the gulphs of fate.</l>
+            <l>From Lydia's monarch should the search descend,</l>
+            <l>By Solon caution'd to regard his end,</l>
+            <l>In life's last scene what prodigies surprise,</l>
+            <l>Fears of the brave, and follies of the wise?</l>
+            <l>From Marlb'rough's eyes the streams of dotage flow,</l>
+            <l>And Swift expires a driv'ler and a show.</l>
+            <l>The teeming mother, anxious for her race,</l>
+            <l>Begs for each birth the fortune of a face:</l>
+            <l>Yet Vane could tell what ills from beauty spring;</l>
+            <l>And Sedley curs'd the form that pleas'd a king.</l>
+            <l>Ye nymphs of rosy lips and radiant eyes,</l>
+            <l>Whom Pleasure keeps too busy to be wise,</l>
+            <l>By day the frolick, and the dance by night,</l>
+            <l>Who frown with vanity, who smile with art,</l>
+            <l>And ask the latest fashion of the heart,</l>
+            <milestone unit="page" n="169"/>
+            <l>What care, what rules your heedless charms shall save,</l>
+            <l>Each nymph your rival, and each youth your slave?</l>
+            <l>Against your fame with fondness hate combines,</l>
+            <l>The rival batters, and the lover mines.</l>
+            <l>With distant voice neglected Virtue calls,</l>
+            <l>Less heard and less, the saint remonstrance falls;</l>
+            <l>Tir'd with contempt, she quits the slipp'ry reign,</l>
+            <l>In croud at once, where none the pass defend,</l>
+            <l>The harmless Freedom, and the private Friend.</l>
+            <l>The guardians yield, by force superior ply'd;</l>
+            <l>By Int'rest, Prudence; and by Flatt'ry, Pride.</l>
+            <l>Now Beauty falls betray'd, despis'd, distress'd,</l>
+            <l>And hissing infamy proclaims the rest.</l>
+            <l>Where then shall Hope and Fear their objects find?</l>
+            <l>Must dull Suspence corrupt the stagnant mind?</l>
+            <l>Must helpless man, in ignorance sedate,</l>
+            <l>Roll darkling down the torrent of his fate?</l>
+            <l>Must no dislike alarm, no wishes rise,</l>
+            <l>No cries attempt the mercies of the skies?</l>
+            <l>Enquirer, cease, petitions yet remain,</l>
+            <l>Which heav'n  may hear, nor deem religion vain.</l>
+            <l>Still raise for good the supplicating voice,</l>
+            <l>But leave to heav'n the measure and the choice.</l>
+            <l>Safe in his pow'r, whose eyes discern afar</l>
+            <l>The secret ambush of a specious pray'r.</l>
+            <milestone unit="page" n="170"/>
+            <l>Implore his aid, in his decisions rest,</l>
+            <l>Secure whate'er he gives, he gives the best.</l>
+            <l>Yet when the sense of sacred presence fires,</l>
+            <l>And strong devotion to the skies aspires,</l>
+            <l>Pour forth thy fervours for a healthful mind,</l>
+            <l>Obedient passions, and a will resign'd;</l>
+            <l>For love, which scarce collective man can fill;</l>
+            <l>Sor patience fov'reign o'er transmuted ill;</l>
+            <l>for faith, that panting for a happier seat,</l>
+            <l>Counts death kind Nature's signal of retrea:</l>
+            <l>These goods for man the laws of heav'n ordain,</l>
+            <l>These goods he grants, who grants the pow'r to gain;</l>
+            <l>With these celestial wisdom calms the mind,</l>
+            <l>And makes the Happiness she does not find.</l>
+         </div>
+      </body>
+  </text>
+</TEI>
+

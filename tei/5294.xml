@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The judgment of Paris: a masque. Written by Mr. Congreve. Set severally to musick, by Mr. John Eccles, Mr. Finger, Mr. Purcel, and Mr. Weldon.</title>
+            <author>Congreve, William, 1670-1729.</author>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>University of Oxford Text Archive</name>
+               <address>
+                  <addrLine>Oxford University Computing Services</addrLine>
+                  <addrLine>13 Banbury Road</addrLine>
+                  <addrLine>Oxford</addrLine>
+                  <addrLine>OX2 6NN</addrLine>
+               </address>
+               <email>ota@oucs.ox.ac.uk</email>
+            </distributor>
+            <idno type="ota">http://ota.ox.ac.uk/id/5294</idno>
+            <idno type="isbn10">1106022939</idno>
+            <idno type="isbn13">9781106022936</idno>
+            <idno type="TCP">K112418.000</idno>
+            <idno type="BIBNO">CW3312904376</idno>
+            <idno type="ECLL">0482800500</idno>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/3.0/">
+	  Distributed by the University of Oxford under a Creative Commons
+	  Attribution-ShareAlike 3.0 Unported License
+	</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The judgment of Paris: a masque. Written by Mr. Congreve. Set severally to musick, by Mr. John Eccles, Mr. Finger, Mr. Purcel, and Mr. Weldon.</title>
+                  <author>Congreve, William, 1670-1729.</author>
+               </titleStmt>
+               <extent>[4],14p. ; 4⁰.</extent>
+               <publicationStmt>
+                  <publisher>printed for Jacob Tonson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1701.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a half-title.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>Pforzheimer, 200</note>
+                  <note>English Short Title Catalog, ESTCT144407.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">English</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:0482800500:1"/>
+            <p>THE JUDGMENT OF PARIS.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:0482800500:2" rendition="simple:additions"/>
+            <p>JUDGMENT OF PARIS: A MASQUE.</p>
+            <p>Written by Mr. <hi>Congreve.</hi>
+            </p>
+            <q>
+               <l>
+                  <hi>—Vincis utramque Venus.</hi>
+               </l>
+               <bibl>Ov. Art. Am. L. 1.</bibl>
+            </q>
+            <p>Set ſeverally to Muſick, by Mr. <hi>John Eccles,</hi> Mr. <hi>Finger,</hi> Mr. <hi>Purcel,</hi> and Mr. <hi>Weldon.</hi>
+            </p>
+            <q>
+               <l>
+                  <hi>Invitat pretiis animos, &amp; praemia ponit.</hi>
+               </l>
+               <bibl>Virg. Aen. 5.</bibl>
+            </q>
+            <q>
+               <l>
+                  <hi>Nemo ex hoc Numero—non donatus abibit.</hi>
+               </l>
+               <bibl>Ibid.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Jacob Tonſon</hi> at <hi>Gray</hi>'s-<hi>Inn-Gate,</hi> next <hi>Gray</hi>'s-<hi>Inn-Lane.</hi> 1701.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:0482800500:3"/>
+            <head>THE Judgment of Paris. A Maſque.</head>
+            <stage>The SCENE is a Landskip of a beautiful Paſture ſup<g ref="char:EOLhyphen"/>poſed on Mount <hi>Ida.</hi> The Shepherd <hi>Paris</hi> is ſeen ſeated under a Tree, and playing on his Pipe; his Crook and Scrip, &amp;c. lying by him. While a Sym<g ref="char:EOLhyphen"/>phony is playing, <hi>Mercury</hi> deſcends with his <hi>Ca<g ref="char:EOLhyphen"/>duceus</hi> in one Hand, and an Apple of Gold in the other: After the Symphony he ſings.</stage>
+            <sp>
+               <speaker>MERCURY.</speaker>
+               <l>FRom high <hi>Olympus</hi> and the Realms above,</l>
+               <l>Behold I come the Meſſenger of <hi>Jove;</hi>
+               </l>
+               <l>His dread Commands I bear,</l>
+               <l>Shepherd ariſe and hear;</l>
+               <l>
+                  <pb n="2" facs="tcp:0482800500:4"/>
+Ariſe and leave a while thy Rural care.</l>
+               <l>Forbear thy woolly Flock to feed,</l>
+               <l>And lay aſide thy tuneful Reed;</l>
+               <l>For thou to greater Honours art decreed.</l>
+            </sp>
+            <sp>
+               <speaker>PARIS.</speaker>
+               <l>O <hi>Hermes</hi> I thy Godhead know,</l>
+               <l>By thy winged Heels and Head,</l>
+               <l>By thy Rod that wakes the Dead,</l>
+               <l>And guides the Shades below.</l>
+               <l>Say wherefore doſt thou ſeek this humble Plain,</l>
+               <l>To greet a lowly Swain?</l>
+               <l>What does the mighty Thunderer Ordain?</l>
+            </sp>
+            <sp>
+               <speaker>MERCURY.</speaker>
+               <l>This Radiant Fruit behold,</l>
+               <l>More bright then burniſh'd Gold;</l>
+               <l>Three Goddeſſes for this Contend,</l>
+               <l>See now they deſcend,</l>
+               <l>And this way they bend.</l>
+               <l>
+                  <pb n="3" facs="tcp:0482800500:5"/>
+Shepherd take the Golden Prize,</l>
+               <l>Yield it to the brighteſt Eyes.</l>
+               <stage>(<hi>Juno, Pallas,</hi> and <hi>Venus,</hi> are ſeen at a diſtance deſcending in ſeveral Machines.)</stage>
+            </sp>
+            <sp>
+               <speaker>PARIS.</speaker>
+               <l>O Raviſhing Delight!</l>
+               <l>What Mortal can ſupport the Sight?</l>
+               <l>Alas too weak is Human Brain,</l>
+               <l>So much Rapture to Suſtain.</l>
+               <l>I faint, I fall, O take me hence,</l>
+               <l>Ere Ecſtacy invades my aking Senſe:</l>
+               <l>Help me <hi>Hermes</hi> or I dye,</l>
+               <l>Save me from Exceſs of Joy.</l>
+            </sp>
+            <sp>
+               <speaker>MERCURY.</speaker>
+               <l>Fear not Mortal, none ſhall harm thee,</l>
+               <l>With my Sacred Rod I'le Charm thee;</l>
+               <l>Freely gaze and view all over,</l>
+               <l>Thou may'ſt every Grace diſcover.</l>
+               <l>
+                  <pb n="4" facs="tcp:0482800500:6"/>
+Though a thouſand Darts fly round thee,</l>
+               <l>Fear not Mortal, none ſhall wound thee.</l>
+            </sp>
+            <sp>
+               <speaker>For two Parts. <hi>Paris.</hi>
+               </speaker>
+               <l>Happy thou of Human Race,</l>
+               <l>Gods with thee would change their place;</l>
+               <l>With no God I'd change my Place,</l>
+               <l>Happy I of Human Race.</l>
+               <stage>(Mercury <hi>aſcends.</hi>)</stage>
+            </sp>
+            <stage>While a Symphony is playing, <hi>Juno</hi> deſcends from her Machine, after the Symphony ſhe Sings.</stage>
+            <sp>
+               <speaker>JUNO.</speaker>
+               <l>
+                  <hi>Saturnia,</hi> Wife of Thundring <hi>Jove</hi> am I,</l>
+               <l>Belov'd by him, and Empreſs of the Sky;</l>
+               <l>Shepherd fix on me thy wondring Sight,</l>
+               <l>Beware, and view me well, and judge aright.</l>
+               <stage>(Symphony for <hi>Pallas.</hi>)</stage>
+            </sp>
+            <sp>
+               <speaker>PALLAS.</speaker>
+               <l>This way Mortal bend thy Eyes,</l>
+               <l>
+                  <hi>Pallas</hi> claims the golden Prize;</l>
+               <l>
+                  <pb n="5" facs="tcp:0482800500:7"/>
+A Virgin Goddeſs free from Stain,</l>
+               <l>And Queen of Arts, and Arms I Reign.</l>
+               <stage>(Symphony for <hi>Venus.</hi>)</stage>
+            </sp>
+            <sp>
+               <speaker>VENUS.</speaker>
+               <l>Hither turn thee gentle Swain,</l>
+               <l>Let not <hi>Venus</hi> ſue in vain;</l>
+               <l>
+                  <hi>Venus</hi> rules the Gods above,</l>
+               <l>Love rules them, and ſhe rules Love,</l>
+               <l>Hither turn thee gentle Swain.</l>
+            </sp>
+            <sp>
+               <speaker>PALLAS.</speaker>
+               <l>Hither turn to me again;</l>
+            </sp>
+            <sp>
+               <speaker>JUNO.</speaker>
+               <l>Turn to me for I am ſhe,</l>
+            </sp>
+            <sp>
+               <pb n="6" facs="tcp:0482800500:8"/>
+               <speaker>ALL 3.</speaker>
+               <l>To me, to me, for I am ſhe,</l>
+            </sp>
+            <sp>
+               <speaker>VENUS.</speaker>
+               <l>Hither turn thee Gentle Swain</l>
+            </sp>
+            <sp>
+               <speaker>JUNO. PALL.</speaker>
+               <l>She will deceive thee,</l>
+            </sp>
+            <sp>
+               <speaker>VENUS.</speaker>
+               <l>They will deceive thee, I'le never leave thee,</l>
+            </sp>
+            <sp>
+               <speaker>Chorus of all 3.</speaker>
+               <l>Hither turn to me again,</l>
+               <l>To me, to me, for I am ſhe</l>
+               <l>Hither turn thee Gentle Swain.</l>
+            </sp>
+            <sp>
+               <speaker> PARIS.</speaker>
+               <lg n="1">
+                  <head>I.</head>
+                  <l>Diſtracted I turn, but I cannot decide,</l>
+                  <l>So equal a Title ſure never was try'd,</l>
+                  <l>
+                     <pb n="7" facs="tcp:0482800500:9"/>
+United your Beauties, ſo dazle the Sight,</l>
+                  <l>That loſt in amaze,</l>
+                  <l>I giddily gaze,</l>
+                  <l>Confus'd and o'rewhelm'd with a Torrent of Light.</l>
+               </lg>
+               <lg n="2">
+                  <head>II.</head>
+                  <l>Apart let me View then each Heavenly fair,</l>
+                  <l>For three at a time there's no Mortal can bear;</l>
+                  <l>And ſince a gay Robe an ill ſhape may diſguiſe,</l>
+                  <l>When each is undreſt.</l>
+                  <l>I'le judge of the beſt,</l>
+                  <l>For tis not a face that muſt carry the Prize.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>JUNO Sings.</speaker>
+               <lg n="1">
+                  <head>I.</head>
+                  <l>Let Ambition fire thy Mind,</l>
+                  <l>Thou wert born o're Men to Reign,</l>
+                  <l>Not to follow Flocks deſign'd,</l>
+                  <l>Scorn thy Crook, and leave the Plain.</l>
+               </lg>
+               <lg n="2">
+                  <pb n="8" facs="tcp:0482800500:10"/>
+                  <head>II.</head>
+                  <l>Crowns I'le throw beneath thy Feet,</l>
+                  <l>Thou on Necks of Kings ſhalt tread,</l>
+                  <l>Joys in Circles Joys ſhall meet,</l>
+                  <l>Which way ere thy fancy's Lead.</l>
+               </lg>
+               <lg n="3">
+                  <head>III.</head>
+                  <l>Let not Toyls of Empire fright,</l>
+                  <l>(Toils of Empire pleaſures are)</l>
+                  <l>Thou ſhalt only know delight,</l>
+                  <l>All the Joy, but not the Care.</l>
+               </lg>
+               <lg n="4">
+                  <head>IV.</head>
+                  <l>Shepherd if thoul't yield the Prize,</l>
+                  <l>For the Bleſſings I beſtow,</l>
+                  <l>Joyful I'le aſcend the Skies,</l>
+                  <l>Happy thou ſhalt Reign below.</l>
+               </lg>
+            </sp>
+            <sp>
+               <pb n="9" facs="tcp:0482800500:11"/>
+               <speaker>CHORUS.</speaker>
+               <l>
+                  <hi>Let Ambition fire thy Mind,</hi>
+               </l>
+               <l>
+                  <hi>Thou wert born o're Men to Reign,</hi>
+               </l>
+               <l>
+                  <hi>Not to follow Flocks deſign'd,</hi>
+               </l>
+               <l>
+                  <hi>Scorn thy Crook and leave the Plain.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>PALLAS Sings alone.</speaker>
+               <lg n="1">
+                  <head>I.</head>
+                  <l>Awake, awake, thy Spirits raiſe,</l>
+                  <l>Waſt not thus thy youthful days,</l>
+                  <l>Pipeing, Toying,</l>
+                  <l>Nymphs decoying,</l>
+                  <l>Loſt in wanton and Inglorious eaſe.</l>
+               </lg>
+               <lg n="2">
+                  <head>II.</head>
+                  <l>Hark, Hark! the glorious Voice of War,</l>
+                  <l>Calls aloud for Arms prepare,</l>
+                  <l>
+                     <pb n="10" facs="tcp:0482800500:12"/>
+Drums are beating,</l>
+                  <l>Rocks repeating,</l>
+                  <l>Martial Muſick charms the joyful Air.</l>
+               </lg>
+            </sp>
+            <stage>Symphony.</stage>
+            <sp>
+               <speaker>PALLAS Sings.</speaker>
+               <l>O what Joys does Conqueſt yield!</l>
+               <l>When returning from the Field,</l>
+               <l>Oh how glorious 'tis to ſee</l>
+               <l>The Godlike <hi>Hero</hi> Crown'd with Victory!</l>
+               <l>Lawrel Wreaths his Head ſurrounding,</l>
+               <l>Banners waveing in the Wind,</l>
+               <l>Fame her golden Trumpet ſounding,</l>
+               <l>Every Voice in Chorus joyn'd;</l>
+               <l>To me kind Swain the Prize reſign,</l>
+               <l>And Fame and Conqueſt ſhall be thine:</l>
+            </sp>
+            <sp>
+               <speaker>CHORUS.</speaker>
+               <l>
+                  <hi>O how glorious 'tis to ſee,</hi>
+               </l>
+               <l>
+                  <hi>The God-like Hero Crown'd with Victory!</hi>
+               </l>
+            </sp>
+            <stage>
+               <pb n="11" facs="tcp:0482800500:13"/>
+(Symphony.)</stage>
+            <sp>
+               <speaker>VENUS Sings alone.</speaker>
+               <l>Stay lovely Youth, delay thy Choice,</l>
+               <l>Take heed leſt empty Names enthrall thee,</l>
+               <l>Attend to <hi>Cythereas</hi> Voice;</l>
+               <l>Lo! I who am Loves Mother call thee.</l>
+               <l>Far from thee be anxious Care:</l>
+               <l>And racking Thoughts that vex the Great,</l>
+               <l>Empires but a guilded Snare,</l>
+               <l>And fickle is the Warriours Fate;</l>
+               <l>One only Joy Mankind can know,</l>
+               <l>And Love alone can that beſtow.</l>
+            </sp>
+            <sp>
+               <speaker>CHORUS.</speaker>
+               <l>
+                  <hi>One only Joy,</hi> &amp;c.</l>
+            </sp>
+            <sp>
+               <pb n="12" facs="tcp:0482800500:14"/>
+               <speaker>VENUS Sings.</speaker>
+               <lg n="1">
+                  <head>I.</head>
+                  <l>Nature fram'd thee ſure for Loving,</l>
+                  <l>Thus adorn'd with every Grace;</l>
+                  <l>
+                     <hi>Venus</hi> ſelf thy Form approving,</l>
+                  <l>Looks with Pleaſure on thy Face.</l>
+               </lg>
+               <lg n="2">
+                  <head>II.</head>
+                  <l>Happy Nymph who ſhall enfold thee,</l>
+                  <l>Circled in her yielding Arms!</l>
+                  <l>Should bright <hi>Hellen</hi> once behold thee,</l>
+                  <l>She'd ſurrender all her Charms.</l>
+               </lg>
+               <lg n="3">
+                  <head>III.</head>
+                  <l>Faireſt ſhe, all Nymphs tranſcending,</l>
+                  <l>That the Sun himſelf has ſeen,</l>
+                  <l>
+                     <pb n="13" facs="tcp:0482800500:15"/>
+Were ſhe for the Crown contending,</l>
+                  <l>Thou wou'dſt own her beauties Queen.</l>
+               </lg>
+               <lg n="4">
+                  <head>IV.</head>
+                  <l>Gentle Shepherd if my Pleading,</l>
+                  <l>Can from thee the Prize obtain,</l>
+                  <l>Love himſelf thy Conqueſt aiding,</l>
+                  <l>Thou that Matchleſs Fair ſhalt gain.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>PARIS.</speaker>
+               <l>I yield, I yield, O take the Prize,</l>
+               <l>And ceaſe, O ceaſe, th' inchanting Song;</l>
+               <l>All Loves Darts are in thy Eyes,</l>
+               <l>And Harmony falls from thy Tongue.</l>
+               <l>Forbear O Goddeſs of deſire,</l>
+               <l>Thus my raviſh'd Soul to move,</l>
+               <l>Forbear to fan the raging Fire,</l>
+               <l>And be propitious to my Love.</l>
+            </sp>
+            <stage>Here <hi>Paris</hi> gives to <hi>Venus</hi> the golden Apple. Seve<g ref="char:EOLhyphen"/>ral Cupids deſcend, the three <hi>Graces</hi> alight from the Chariot of <hi>Venus,</hi> they call the <hi>Howrs,</hi> who aſſemble; with all the Attendants on <hi>Venus.</hi> All joyn in a Circle
+<pb n="14" facs="tcp:0482800500:16"/>
+round her, and ſing the laſt grand <hi>Chorus;</hi> while <hi>Juno</hi> and <hi>Pallas</hi> aſcend.</stage>
+            <sp>
+               <speaker>GRAND CHORUS.</speaker>
+               <l>
+                  <hi>Hither all ye Graces, all ye Loves;</hi>
+               </l>
+               <l>
+                  <hi>Hither all ye hours reſort,</hi>
+               </l>
+               <l>
+                  <hi>Billing Sparrows, Cooing Doves;</hi>
+               </l>
+               <l>
+                  <hi>Come all the train of</hi> Venus <hi>Court.</hi>
+               </l>
+               <l>
+                  <hi>Sing all great</hi> Cythereas <hi>Name;</hi>
+               </l>
+               <l>
+                  <hi>Over Empire, over Fame,</hi>
+               </l>
+               <l>
+                  <hi>Her Victory proclaim.</hi>
+               </l>
+               <l>
+                  <hi>Sing and ſpread the joyful News around,</hi>
+               </l>
+               <l>
+                  <hi>The Queen of Love, is Queen of Beauty Cround.</hi>
+               </l>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
+

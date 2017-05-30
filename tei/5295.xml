@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from Mr. Congreve to the Right Honourable the Lord Viscount Cobham</title>
+            <author>Congreve, William, 1670-1729.</author>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>University of Oxford Text Archive</name>
+               <address>
+                  <addrLine>Oxford University Computing Services</addrLine>
+                  <addrLine>13 Banbury Road</addrLine>
+                  <addrLine>Oxford</addrLine>
+                  <addrLine>OX2 6NN</addrLine>
+               </address>
+               <email>ota@oucs.ox.ac.uk</email>
+            </distributor>
+            <idno type="ota">http://ota.ox.ac.uk/id/5295</idno>
+            <idno type="isbn10">1106022947</idno>
+            <idno type="isbn13">9781106022943</idno>
+            <idno type="TCP">K112489.000</idno>
+            <idno type="BIBNO">CW3305209516</idno>
+            <idno type="ECSS">0550700200</idno>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/3.0/">
+	  Distributed by the University of Oxford under a Creative Commons
+	  Attribution-ShareAlike 3.0 Unported License
+	</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from Mr. Congreve to the Right Honourable the Lord Viscount Cobham</title>
+                  <author>Congreve, William, 1670-1729.</author>
+               </titleStmt>
+               <extent>6p. ; 2⁰.</extent>
+               <publicationStmt>
+                  <publisher>printed for A. Dodd, and E. Nutt,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1729.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>Foxon, C375</note>
+                  <note>Pforzheimer, 201</note>
+                  <note>English Short Title Catalog, ESTCT144509.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">English</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:0550700200:1" rendition="simple:additions"/>
+            <p>A LETTER FROM Mr. CONGREVE TO THE RIGHT HONOURABLE THE Lord Viſcount Cobham.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>A. Dodd</hi> near <hi>Temple-Bar,</hi> and <hi>E. Nutt</hi> under the <hi>Royal-Exchange,</hi> 1729. (Price Three-Pence.)</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:0550700200:2"/>
+            <head>A LETTER FROM Mr. Congreve, &amp;c.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">S</seg>INCEREST Critick of my Proſe, or Rhime,</l>
+               <l>Tell how thy pleaſing STOWE employs thy Time,</l>
+               <l>Say, COBHAM, what amuſes thy Retreat?</l>
+               <l>Or Stratagems of War, or Schemes of State?</l>
+               <l>Doſt thou recal to Mind with Joy, or Grief,</l>
+               <l>Great <hi>MALBRO</hi>'s Actions? That immortal Chief,</l>
+               <l>Whoſe ſlighteſt Trophy rais'd in each Campaign,</l>
+               <l>More than ſuffic'd to ſignalize a Reign?</l>
+               <l>Does thy remembrance riſing warm thy Heart,</l>
+               <l>With Glory paſt, where Thou thy ſelf hadſt Part,</l>
+               <l>Or doſt thou grieve indignant, now to ſee,</l>
+               <l>The fruitleſs End of all thy Victory?</l>
+               <l>To ſee th' Audacious Foe, ſo late ſubdu'd,</l>
+               <l>Diſpute thoſe Terms for which ſo long they ſu'd,</l>
+               <l>
+                  <pb n="4" facs="tcp:0550700200:3"/>
+As if BRITANNIA now were ſunk ſo low,</l>
+               <l>To beg that Peace ſhe wonted to beſtow,</l>
+               <l>Be far that Guilt! be never known that Shame!</l>
+               <l>That ENGLAND ſhou'd retract her rightful Claim,</l>
+               <l>Or ceaſing to be dreaded and ador'd,</l>
+               <l>Stain with her Pen the Luſtre of her Sword,</l>
+               <l>Or doſt thou give the Winds a far to blow.</l>
+               <l>Each vexing Thought, and heart-devouring Woe,</l>
+               <l>And fix thy Mind alone on rural Scenes,</l>
+               <l>To turn the level'd Lawns to liquid Plains,</l>
+               <l>To raiſe the creeping Rills from humble Beds,</l>
+               <l>And force the latent Springs to lift their Heads,</l>
+               <l>On watry Columns, Capitals to rear,</l>
+               <l>That mix their flowing Curls with upper Air.</l>
+               <l>Or doſt Thou, weary grown, theſe Works neglect,</l>
+               <l>No Temples Statues, Obbliſques erect,</l>
+               <l>But catch the morning Breeze from fragrant Meads,</l>
+               <l>Or ſhun the noontide Ray in wholſome Shades,</l>
+               <l>Or ſlowly walk along the mazy Wood,</l>
+               <l>To mediate on all that's wiſe and good,</l>
+               <l>For Nature bountiful in thee has join'd,</l>
+               <l>A Perſon pleaſing with a worthy Mind,</l>
+               <l>Not given the Form alone, but Means, and Art,</l>
+               <l>To draw the Eye, or to allure the Heart,</l>
+               <l>Poor were the Praiſe in Fortune to excel,</l>
+               <l>Yet want the Way to uſe that Fortune well.</l>
+               <l>
+                  <pb n="5" facs="tcp:0550700200:4"/>
+While thus adorn'd, while thus with Virtue crown'd,</l>
+               <l>At Home in Peace, Abroad in Arms renown'd,</l>
+               <l>Graceful in Form, and winning in Addreſs</l>
+               <l>While well you think, what aptly you expreſs,</l>
+               <l>With Health, with Honour, with a fair Eſtate,</l>
+               <l>A Table free, and eloquently neat.</l>
+               <l>What can be added more to mortal Bliſs?</l>
+               <l>What can he want who ſtands poſſeſt of this?</l>
+               <l>What can the fondeſt wiſhing Mother more</l>
+               <l>Of Heaven attentive for her Son implore?</l>
+               <l>And yet a Happineſs remains unknown,</l>
+               <l>Or to Philoſophy reveal'd alone;</l>
+               <l>A Precept, which unpractis'd renders vain,</l>
+               <l>Thy flowing Hopes, and Pleaſure turns to Pain.</l>
+               <l>Shou'd Hope, and Fear thy Heart alternate tear,</l>
+               <l>Or Love, or Hate, or Rage, or anxious Care,</l>
+               <l>Whatever Paſſions may thy Mind infeſt,</l>
+               <l>(Where is that Mind which Paſſions ne'er moleſt?)</l>
+               <l>Amidſt the Pangs of ſuch inteſtine Strife,</l>
+               <l>Still think the preſent Day, the laſt of Life;</l>
+               <l>Defer not till to Morrow to be wiſe,</l>
+               <l>To Morrow's Sun to thee may never riſe.</l>
+               <l>Or ſhou'd to Morrow chance to cheer thy Sight,</l>
+               <l>With her enliv'ning and unlookt-for Light,</l>
+               <l>How grateful will appear her dawning Rays!</l>
+               <l>As Favours unexpected doubly pleaſe.</l>
+               <l>
+                  <pb n="6" facs="tcp:0550700200:5"/>
+Who thus can think and who ſuch thoughts purſues,</l>
+               <l>Content may keep his Life, or calmly loſe;</l>
+               <l>All Proofs of this Thou may'ſt thy ſelf receive,</l>
+               <l>When Leiſure from Affairs will give thee Leave,</l>
+               <l>Come, ſee thy Friend, retir'd without Regret,</l>
+               <l>Forgetting Care, or ſtriving to forget;</l>
+               <l>In eaſy Contemplation ſoothing Time</l>
+               <l>With Morals much, and now and then with Rhime,</l>
+               <l>Not ſo robuſt in Body, as in Mind,</l>
+               <l>And always undejected, tho' declin'd;</l>
+               <l>Not wondering at the World's new wicked Ways,</l>
+               <l>Compar'd with thoſe of our Fore-fathers Days,</l>
+               <l>For Virtue now is neither more or leſs,</l>
+               <l>And Vice is only varied in the Dreſs;</l>
+               <l>Believe it, Men have ever been the ſame,</l>
+               <l>And all the Golden Age, is but a Dream.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
+

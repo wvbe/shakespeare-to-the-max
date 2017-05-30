@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The horse and the olive: or, war and peace.</title>
+            <author>Parnell, Thomas, 1679-1718.</author>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>University of Oxford Text Archive</name>
+               <address>
+                  <addrLine>Oxford University Computing Services</addrLine>
+                  <addrLine>13 Banbury Road</addrLine>
+                  <addrLine>Oxford</addrLine>
+                  <addrLine>OX2 6NN</addrLine>
+               </address>
+               <email>ota@oucs.ox.ac.uk</email>
+            </distributor>
+            <idno type="ota">http://ota.ox.ac.uk/id/3316</idno>
+            <idno type="isbn10">1106003152</idno>
+            <idno type="isbn13">9781106003157</idno>
+            <idno type="TCP">K000532.000</idno>
+            <idno type="BIBNO">cw3304367291</idno>
+            <idno type="ECSS">0099204400</idno>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/3.0/">
+	  Distributed by the University of Oxford under a Creative Commons
+	  Attribution-ShareAlike 3.0 Unported License
+	</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The horse and the olive: or, war and peace.</title>
+                  <author>Parnell, Thomas, 1679-1718.</author>
+               </titleStmt>
+               <extent>[2]p. ; 1/2⁰.</extent>
+               <publicationStmt>
+                  <publisher>Printed for John Morphew, near Stationers-hall,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1713]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Anonymous. By Thomas Parnell.</note>
+                  <note>Verse.</note>
+                  <note>Reproduction of original from the Harvard University Houghton Library.</note>
+                  <note>Foxon, P77</note>
+                  <note>English Short Title Catalog, ESTCN842.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">English</language>
+         </langUsage>
+      </profileDesc>
+  </teiHeader>
+  <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:0099204400:1"/>
+            <head>THE Horſe and the Olive: OR, WAR and PEACE.</head>
+            <lg>
+               <l>WITH <hi>Moral</hi> Tale let Ancient <hi>Wiſdom</hi> move,</l>
+               <l>Which thus I ſing to make the <hi>Moderns</hi> wiſe:</l>
+               <l>Strong <hi>Neptune</hi> once with ſage <hi>Minerva</hi> ſtrove,</l>
+               <l>And riſing <hi>Athens</hi> was the <hi>Victor</hi>'s Prize.</l>
+            </lg>
+            <lg>
+               <l>By <hi>Neptune, Plutus</hi> (Guardian Pow'r of Gain),</l>
+               <l>By Great <hi>Minerva,</hi> Bright <hi>Apollo</hi> ſtood:</l>
+               <l>But <hi>Jove</hi> ſuperior bad the Side obtain</l>
+               <l>Which beſt contriv'd to do the <hi>Nation</hi> Good.</l>
+            </lg>
+            <lg>
+               <l>Then <hi>Neptune</hi> ſtriking, from the parted Ground</l>
+               <l>The Warlike <hi>Horſe</hi> came pawing on the Plain,</l>
+               <l>And as it toſs'd its Mane, and pranc'd around,</l>
+               <l>By this, he cries, I'll make the <hi>People</hi> Reign.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Goddeſs</hi> ſmiling gently bow'd the Spear,</l>
+               <l>And, rather thus they ſhall be bleſs'd, ſhe ſaid;</l>
+               <l>Then upwards ſhooting in the Vernal Air</l>
+               <l>With loaded Boughs the fruitful <hi>Olive</hi> ſpread.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Jove</hi> ſaw what Gifts the <hi>Rival Pow'rs</hi> deſign'd,</l>
+               <l>And took th' impartial Scales, reſolv'd to ſhow,</l>
+               <l>If greater Bliſs in <hi>Warlike Pomp</hi> we find,</l>
+               <l>Or in the <hi>Calm</hi> which <hi>Peaceful Times</hi> beſtow.</l>
+            </lg>
+            <lg>
+               <l>On <hi>Neptune</hi>'s part he plac'd <hi>Victorious Days,</hi>
+               </l>
+               <l>Gay <hi>Trophies</hi> won, and <hi>Fame</hi> extending wide:</l>
+               <l>But <hi>Plenty, Safety, Science, Arts,</hi> and <hi>Eaſe,</hi>
+               </l>
+               <l>
+                  <hi>Minerva</hi>'s Scale with greater weight ſupply'd.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:0099204400:2" rendition="simple:additions"/>
+               <l>Fierce <hi>War</hi> devours whom gentle <hi>Peace</hi> wou'd ſave,</l>
+               <l>Sweet <hi>Peace</hi> reſtores what angry <hi>War</hi> deſtroys,</l>
+               <l>
+                  <hi>War</hi> made for <hi>Peace</hi> with that rewards the Brave,</l>
+               <l>While <hi>Peace</hi> its Pleaſures from it ſelf enjoys.</l>
+            </lg>
+            <lg>
+               <l>Hence vanquiſh'd <hi>Neptune</hi> to the Sea withdrew,</l>
+               <l>Hence wiſe <hi>Minerva</hi> rul'd <hi>Athenian</hi> Lands,</l>
+               <l>Her <hi>Athens</hi> hence in Arts and Honour grew,</l>
+               <l>And ſtill her <hi>Olives</hi> deck <hi>pacifick</hi> Hands.</l>
+            </lg>
+            <lg>
+               <l>From <hi>Fables</hi> thus diſclos'd, a Monarch's Mind</l>
+               <l>May form juſt Rules to chuſe the Truly-Great:</l>
+               <l>And <hi>Subjects</hi> weary'd with Diſtreſſes find</l>
+               <l>Whoſe kind Endeavours moſt befriend the State.</l>
+            </lg>
+            <lg>
+               <l>Ev'n <hi>Britain</hi> here may learn to place her Love,</l>
+               <l>If <hi>Cities</hi> won her <hi>Kingdoms</hi> Wealth have coſt,</l>
+               <l>If <hi>ANNA</hi>'s Thoughts the PATRIOT-SOULS approve</l>
+               <l>Whoſe Cares reſtore that Wealth the Wars had loſt.</l>
+            </lg>
+            <lg>
+               <l>But if we ask the <hi>Moral</hi> to diſcloſe</l>
+               <l>Whom beſt EUROPA'S <hi>Patroneſs</hi> it calls,</l>
+               <l>Great <hi>ANNA</hi>'s Title no Exception knows,</l>
+               <l>And unapply'd in this the <hi>Fable</hi> falls.</l>
+            </lg>
+            <lg>
+               <l>With Her no <hi>Neptune</hi> or <hi>Minerva</hi> vyes;</l>
+               <l>Whene'er ſhe pleas'd her <hi>Troops</hi> to Conqueſt flew,</l>
+               <l>Whene'er ſhe pleaſes <hi>Peaceful Times</hi> ariſe:</l>
+               <l>She gave the <hi>Horſe,</hi> and gives the <hi>Olive</hi> too.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>John Morphew,</hi> near <hi>Stationers-Hall.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
+

@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>John Cunningham, taylor, at the mahogany door, near the Chapel, King's Street Golden Square. Name on the door. The variety of advertisements by several master taylors in London,</title>
+            <author>Cunningham, John, taylor.</author>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>University of Oxford Text Archive</name>
+               <address>
+                  <addrLine>Oxford University Computing Services</addrLine>
+                  <addrLine>13 Banbury Road</addrLine>
+                  <addrLine>Oxford</addrLine>
+                  <addrLine>OX2 6NN</addrLine>
+               </address>
+               <email>ota@oucs.ox.ac.uk</email>
+            </distributor>
+            <idno type="ota">http://ota.ox.ac.uk/id/4857</idno>
+            <idno type="isbn10">1106018567</idno>
+            <idno type="isbn13">9781106018564</idno>
+            <idno type="TCP">K081121.000</idno>
+            <idno type="BIBNO">CW3306144110</idno>
+            <idno type="ECSS">0669701800</idno>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/3.0/">
+	  Distributed by the University of Oxford under a Creative Commons
+	  Attribution-ShareAlike 3.0 Unported License
+	</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>John Cunningham, taylor, at the mahogany door, near the Chapel, King's Street Golden Square. Name on the door. The variety of advertisements by several master taylors in London,</title>
+                  <author>Cunningham, John, taylor.</author>
+               </titleStmt>
+               <extent>1 sheet ; 1/4⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>[London,</pubPlace>
+                  <date>1770?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The phrase "Name .. door" in the title is enclosed in square brackets.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>English Short Title Catalog, ESTCT100785.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">English</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:0669701800:1"/>
+            <head>JOHN CUNNINGHAM, TAYLOR, At the Mahogany Door, near the Chapel, King's Street Golden Square.</head>
+            <head type="sub">[Name on the Door.]</head>
+            <p>THE variety of Advertiſements by ſeveral Maſter Taylors in London, who have candour and honeſty enough to adhere ſtrictly to the terms of their propoſals, induces him to offer his moſt humble addreſs to the Publick, in hopes of ſuch encouragement as his ability and integrity ſhall claim.—Gentlemen who are pleaſed to favour him with their commiſſions may rely upon their being executed according to the following rates:</p>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>A Suit of the beſt ſuperfine cloth;</cell>
+                     <cell>4</cell>
+                     <cell>15</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Half trimmed ditto,</cell>
+                     <cell>5</cell>
+                     <cell>5</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Full trimmed ditto,</cell>
+                     <cell>5</cell>
+                     <cell>18</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Superfine cloth coat;</cell>
+                     <cell>2</cell>
+                     <cell>15</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Waiſtcoat of ditto,</cell>
+                     <cell>1</cell>
+                     <cell>7</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Pair of Breeches of ditto,</cell>
+                     <cell>0</cell>
+                     <cell>18</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Suit of the beſt Second Cloth,</cell>
+                     <cell>3</cell>
+                     <cell>15</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Sattin Waiſtcoat,</cell>
+                     <cell>1</cell>
+                     <cell>15</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Corded Silk ditto,</cell>
+                     <cell>1</cell>
+                     <cell>13</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Silk knit Breeches,</cell>
+                     <cell>1</cell>
+                     <cell>11</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>Velveret ditto,</cell>
+                     <cell>1</cell>
+                     <cell>5</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Mancheſter ditto, ribed and plain,</cell>
+                     <cell>0</cell>
+                     <cell>19</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Worſted ditto, four thread,</cell>
+                     <cell>0</cell>
+                     <cell>16</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Fine Bath Coating Surtout Coats,</cell>
+                     <cell>1</cell>
+                     <cell>7</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Suits of India Nankeen for young gen<g ref="char:EOLhyphen"/>tlemen,</cell>
+                     <cell>1</cell>
+                     <cell>3</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Fine Jean Fuſtian ditto, Huſſar Dreſſes for Children, in pro<g ref="char:EOLhyphen"/>portion.</cell>
+                     <cell>1</cell>
+                     <cell>5</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Ladies Riding Habits of the beſt India Nankeen,</cell>
+                     <cell>2</cell>
+                     <cell>12</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Ladies Riding Habits of fine Dimitty, white or coloured,</cell>
+                     <cell>3</cell>
+                     <cell>10</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Ditto of Superfine Cloth, faced with Silk,</cell>
+                     <cell>5</cell>
+                     <cell>5</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Suit of the beſt Livery Cloth complete,</cell>
+                     <cell>3</cell>
+                     <cell>6</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Ditto, with waiſtcoat, coat, cuffs, and collar of coat laced,</cell>
+                     <cell>3</cell>
+                     <cell>12</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>If either of the above ſuits have Shag Breeches, it will add to the price</cell>
+                     <cell>0</cell>
+                     <cell>8</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Livery Drab Surtout Coats,</cell>
+                     <cell>2</cell>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Chairmens Great Coats,</cell>
+                     <cell>2</cell>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Thickſet Coats and Waitſcoats, lined,</cell>
+                     <cell>2</cell>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Ditto plain Fuſtian, lined,</cell>
+                     <cell>1</cell>
+                     <cell>16</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Coachbox Coats, lined with Padua Serge, and three Capes, complete,</cell>
+                     <cell>3</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Ruſſia Drab Frocks for Grooms,</cell>
+                     <cell>0</cell>
+                     <cell>14</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>Striped Flannel Waiſtcoats, lined, for ditto,</cell>
+                     <cell>0</cell>
+                     <cell>12</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>Inferior ſort, the Coat and Waiſtcoat together,</cell>
+                     <cell>0</cell>
+                     <cell>15</cell>
+                     <cell>6</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Laced or embroidered Clothes cheap in proportion, and executed with the greateſt elegance, propriety and diſpatch.</p>
+            <p>In caſes of emergency a Suit made for a gentleman on one day's notice.—Whole Sets of Liveries executed in two days after receiving the order.</p>
+            <p>Although the above Prices are much inferior to Taylors Bills in general, he undertakes to fur<g ref="char:EOLhyphen"/>niſh every article of the beſt quality.</p>
+            <p>Gentlemen finding their own Cloth, or ſervants liveries, will be equally acceptable; and when finiſhed, (upon calculation), will be found not to exceed the above eſtimation.</p>
+            <p>No ſcruple as to ſizes, like ſome of his advertiſing Brethren, admitting of all that comprehend common ſizes.—Silk Garters to Breeches underſtood.—Ladies Riding Habits and Childrens Clothes made with taſte, and to fit to a Nicety, which is what few Taylors attempt, and fewer perform to ſatisfaction.</p>
+            <p>A little conſideration muſt be productive of the poſſibility of the above Plan's being executed with honour and juſtice, eſpecially as every article is purchaſed with ready money; the underta<g ref="char:EOLhyphen"/>ker's ambition extending no further than doing juſtice to his cuſtomers, and procuring a genteel livelihood for his family, in preference to riches.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
+

@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lieder</title>
+            <title type="parallel">Songs</title>
+            <author>von Eschenbach, Wolfram, 12th cent.</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority xml:id="prijo1">deposited by<name type="person">Price-Wilkin, John</name>
+               <name type="department">Graduate Library Reference Department</name>
+               <name type="institution">University of Michigan</name>
+               <name type="place">Ann Arbor</name>
+               <address>
+                  <addrLine>Graduate Library Reference Department</addrLine>
+                  <addrLine>University of Michigan</addrLine>
+                  <addrLine>209 Hatcher Graduate Library</addrLine>
+                  <addrLine>Ann Arbor, MI, USA</addrLine>
+                  <addrLine>48109</addrLine>
+               </address>
+               <date>1992-03-13</date>
+            </authority>
+            <distributor>
+               <name>University of Oxford Text Archive</name>
+               <address>
+                  <addrLine>Oxford University Computing Services</addrLine>
+                  <addrLine>13 Banbury Road</addrLine>
+                  <addrLine>Oxford</addrLine>
+                  <addrLine>OX2 6NN</addrLine>
+               </address>
+               <email>ota@oucs.ox.ac.uk</email>
+            </distributor>
+            <idno type="ota">http://ota.ox.ac.uk/id/3227</idno>
+            <idno type="isbn10">1106002261</idno>
+            <idno type="isbn13">9781106002266</idno>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/3.0/">
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License
+      </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Revised version of  <relatedItem type="older" target="http://ota.ox.ac.uk/id/1665"/>
+            </bibl>
+            <biblFull>
+               <titleStmt>
+                  <title>Lieder</title>
+                  <title type="parallel">Songs</title>
+                  <author>von Eschenbach, Wolfram, 12th cent.</author>
+                  <editor>Lachmann, Karl, 1793-1851</editor>
+               </titleStmt>
+               <editionStmt>
+                  <p>6th ed.</p>
+               </editionStmt>
+               <publicationStmt>
+                  <publisher>Walter de Gruyter and Co.</publisher>
+                  <pubPlace>Berlin</pubPlace>
+                  <date>n.d</date>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="OTASH">
+               <bibl>University of Oxford Text Archive Subject Headings</bibl>
+            </taxonomy>
+            <taxonomy xml:id="LCSH">
+               <bibl>Library of Congress Subject Headings</bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <creation>
+            <date notAfter="1220"/>
+         </creation>
+         <langUsage>
+            <language ident="eng">English</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="#LCSH">
+               <term type="genre">Songs, German (Middle High German) -- 12th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2010-10-03">Header normalised</change>
+      </revisionDesc>
+  </teiHeader>
+  <text xml:id="wollied">
+      <body>
+         <div>
+            <milestone unit="page" n="3"/>
+            <l>Den morgenblic bî wahters sange erkôs</l>
+            <l>ein froue, dâ si tougen</l>
+            <l>an ir werden friundes arme lac;</l>
+            <l>dâ von si . . . . freuden vil verlôs.</l>
+            <l>des muosen liehtiu ougen</l>
+            <l>aver nazzen. si sprach "ôwê tac,</l>
+            <l>wilde und zam daz frewet sich dîn</l>
+            <l>und siht dich gerne,</l>
+            <l>wan ich ein. wie sol iz mir ergên!</l>
+            <l>nu enmac niht langer hie bî mir bestên</l>
+            <l>mîn vriunt: den jaget von mir dîn schîn."</l>
+            <l>Der tac mit kraft al durh diu venster dranc.</l>
+            <l>vil slôze si besluzzen:</l>
+            <l>daz half niht: des wart in sorge kunt.</l>
+            <l>diu friundîn den vriunt vast an sich dwanc:</l>
+            <l>ir ougen diu beguzzen</l>
+            <l>ir beider wangel. sus sprach zim ir munt.</l>
+            <l>"zwei herze und einen lîp hân wir</l>
+            <l>gar ungescheiden:</l>
+            <l>unser triwe mit ein ander vert.</l>
+            <l>der grôzen liebe der bin ich vil gar verhert,</l>
+            <l>wan sô du kumest und ich zuo dir."</l>
+            <l>Der trÛric man nam urloup balde alsus.</l>
+            <l>ir liehten vel diu slehten</l>
+            <l>kômen nâher. sus der tac erschein</l>
+            <l>weindiu ougen, süezer frouen kus.</l>
+            <milestone unit="page" n="4"/>
+            <l>sus kunden si dô vlehten</l>
+            <l>ir munde, ir brüste, ir arm, ir blankiu bein:</l>
+            <l>swelh schiltaer entwurfe daz</l>
+            <l>geselleclîche</l>
+            <l>als si lâgn, des waere ouch dem genuoc.</l>
+            <l>ir beider liebe doch vil sorgen truoc.</l>
+            <l>si phlâgen minne ân allen haz.</l>
+            <l>"Sîne klâwen</l>
+            <l>durh die wolken sint geslagen,</l>
+            <l>er stîget Ûf mit grôzer kraft,</l>
+            <l>ich sih in grâwen</l>
+            <l>tägelîch als er wil tagen,</l>
+            <l>den tac, der im geselleschaft</l>
+            <l>erwenden wil, dem werden man,</l>
+            <l>den ich mit sorgen în verliez.</l>
+            <l>ich bringe in hinnen, ob ich kan.</l>
+            <l>sîn vil manegiu tugent michz leisten hiez."</l>
+            <l>"Wahtaer, du singest</l>
+            <l>daz mir manege freude nimt</l>
+            <l>unde mêret mîne klage.</l>
+            <l>maer du bringest,</l>
+            <l>der mich leider niht gezimt,</l>
+            <l>immer morgens gegen dem tage.</l>
+            <l>diu solt du mir verswîgen gar.</l>
+            <l>daz biut ich den triwen dîn:</l>
+            <l>des lôn ich dir als ich getar.</l>
+            <l>sô belîbet hie der selle mîn."</l>
+            <l>"Er muoz et hinnen</l>
+            <l>balde und âne sÛmen sich:</l>
+            <l>nu gib im urloup, süezez wîp.</l>
+            <l>lâze in minnen</l>
+            <l>her nâch sô verholne dich,</l>
+            <l>daz er behalte êr und den lîp.</l>
+            <l>er gab sich mîner triwe alsô,</l>
+            <l>daz ih in braehte ouch wider dan.</l>
+            <l>ez ist nu tac: naht was ez dô</l>
+            <l>mit druck an brust dîn kus mirn an gewan."</l>
+            <l>"Swaz dir gevalle,</l>
+            <l>wahtaer, sinc, und lâ den hie,</l>
+            <l>der minne brâht und minne enphienc.</l>
+            <l>von dînem schalle</l>
+            <l>ist er und ich erschrocken ie:</l>
+            <milestone unit="page" n="5"/>
+            <l>sô ninder morgenstern Ûf gienc</l>
+            <l>Ûf in, der her nâch minne ist komen,</l>
+            <l>noch ninder lÛhte tages lieht,</l>
+            <l>du hâst in dicke mir benomen</l>
+            <l>von blanken armen, und Ûz herzen nieht."</l>
+            <l>Von den blicken,</l>
+            <l>die der tac tet durh diu glas,</l>
+            <l>und dô der wahtaer warnen sanc,</l>
+            <l>si muose erschricken</l>
+            <l>durch den der dâ bî ir was.</l>
+            <l>ir brüstelîn an brust si dwanc.</l>
+            <l>der rîter ellens niht vergaz</l>
+            <l>(des wold in wenden wahters dôn):</l>
+            <l>urloup nâh un nâher baz</l>
+            <l>mit kusse und anders gab in minne lôn.</l>
+            <l>Ein wîp mac wol erlouben mir</l>
+            <l>daz ich ir neme mit triuwen war.</l>
+            <l>ich ger (mir wart ouch nie diu gir</l>
+            <l>verhabet) mîn ougen swingen dar.</l>
+            <l>wie bin ich sus iuwelnslaht?</l>
+            <l>si siht mîn herze in vinster naht.</l>
+            <l>Si treit den helfelîchen gruoz,</l>
+            <l>der mich an vröiden rîchen mac,</l>
+            <l>dar Ûf ich iemer dienen muoz.</l>
+            <l>vil lîhte erschînet noch der tac</l>
+            <l>daz man mir muoz vröiden jehen.</l>
+            <l>noch groezer wunder is geschehen.</l>
+            <l>Seht waz ein storch den saeten schade:</l>
+            <l>noch minre schaden hânt mîn diu wîp.</l>
+            <l>ir haz ich ungern Ûf mich lade.</l>
+            <l>diu nu den schuldenhaften lîp</l>
+            <l>gegen mir treit, daz lâze ich sîn:</l>
+            <l>ich wil nu pflegen der zühte min.</l>
+            <l>Der helden minne ir klage</l>
+            <l>du sunge ie gegen dem tage,</l>
+            <l>daz sÛre nâch dem süezen.</l>
+            <l>swer minne und wîplich grüezen</l>
+            <l>alsô enpfienc</l>
+            <l>daz si sich muosen scheiden,</l>
+            <l>swaz du dô riete in beiden,</l>
+            <l>dô Ûf gienc</l>
+            <l>der morgensterne, wahtaer, swîc, dâ von niht gerne sienc.</l>
+            <milestone unit="page" n="6"/>
+            <l>Swer pfliget odr ie gepflac</l>
+            <l>daz er bî liebe lac</l>
+            <l>den merkern unverborgen,</l>
+            <l>der darf niht durch den morgen</l>
+            <l>dannen streben,</l>
+            <l>er mac des tages erbeiten:</l>
+            <l>man darf in niht Ûz leiten</l>
+            <l>Ûf sîn leben.</l>
+            <l>ein offen süeze wirtes wîp kan sölhe minne geben.</l>
+            <l>"Von der zinnen</l>
+            <l>wil ich gên, in tagewîse</l>
+            <l>sanc verbern.</l>
+            <l>die sich minnen</l>
+            <l>tougenlîche, und obe si prîse</l>
+            <l>ir minne wern,</l>
+            <l>so gedenken sêre</l>
+            <l>an sîne lêre,</l>
+            <l>dem lîp und êre</l>
+            <l>ergeben sîn.</l>
+            <l>der mich des baete,</l>
+            <l>dêswâr ich taete</l>
+            <l>im guote raete</l>
+            <l>und helfe schîn.</l>
+            <l>ritter, wache, hüete dîn.</l>
+            <l>Niht verkrenken</l>
+            <l>wil ich aller wahtaer triuwe</l>
+            <l>an werden man.</l>
+            <l>niht gedenken</l>
+            <l>solt du, vrowe, an scheidens riuwe</l>
+            <l>Ûf künfte wân.</l>
+            <l>ez waere unwaege,</l>
+            <l>swer minne pflaege,</l>
+            <l>daz Ûf im laege</l>
+            <l>meldes last.</l>
+            <l>ein sumer bringet</l>
+            <l>daz mîn munt singet:</l>
+            <l>durch wolken dringet</l>
+            <l>ein tagender glast.</l>
+            <l>hüet dîn, wache, süezer gast."</l>
+            <l>Er muos et dannen,</l>
+            <l>der si klagen ungerne hôrte.</l>
+            <l>dô sprach sîn munt</l>
+            <l>"allen mannen</l>
+            <l>trÛren nie sô gar zerstôrte</l>
+            <milestone unit="page" n="7"/>
+            <l>ir vröiden funt."</l>
+            <l>swie balde ez tagte,</l>
+            <l>der unverzagte</l>
+            <l>an ir bejagte</l>
+            <l>daz sorge in flôch:</l>
+            <l>unvrömedez rucken,</l>
+            <l>gar heinlîch smucken,</l>
+            <l>ir brüstel drucken</l>
+            <l>und mêr dannoch</l>
+            <l>urloup gap, des prîs was hôch.</l>
+            <l>Ursprinc bluomen, loup Ûz dringen,</l>
+            <l>und der luft des meigen urbort vogel ir alten dôn:</l>
+            <l>etswenn ich kan niuwez singen.</l>
+            <l>sô der rîfe ligt, guot wîp, noch allez ân dîn lôn.</l>
+            <l>die waltsinger und ir sanc</l>
+            <l>nâch halben sumers teile in niemens ôre enklanc.</l>
+            <l>Der bliclîchen bluomen glesten</l>
+            <l>sol des touwes anehanc erliutern, swâ si sint:</l>
+            <l>vogel die hellen und die besten,</l>
+            <l>al des meigen zît si wegent mit gesange ir kint.</l>
+            <l>dô slief niht diu nahtegal:</l>
+            <l>nu wache abr ich und singe Ûf berge und in dem tal.</l>
+            <l>Mîn sanc wil genâde suochen</l>
+            <l>an dich, güetlich wîp: nu hilf, sît helfe ist worden nôt.</l>
+            <l>dîn lôn dienstes sol geruochen,</l>
+            <l>daz ich iemer biute und biute unz an mînen tôt.</l>
+            <l>lâz mich von dir nemen den trôst</l>
+            <l>daz ich Ûz mînen langen klagen werde erlôst.</l>
+            <l>Guot wîp, mac mîn dienst ervinden,</l>
+            <l>ob dîn helfelîch gebot mich fröiden welle wern,</l>
+            <l>daz mîn trÛren müeze swinden</l>
+            <l>und ein liebez ende an dir bejagen mîn langez gern?</l>
+            <l>dîn güetlîch gelâz mich twanc</l>
+            <l>daz ich dir beide singe al kurz od wiltu lanc.</l>
+            <l>Werdez wîp, dîn süeziu güete</l>
+            <l>und dîn minneclîcher zorn hât mir vil fröide erwert.</l>
+            <l>maht du troesten mîn gemüete?</l>
+            <l>wan ein helfelîchez wort von dir mich sanfte ernert.</l>
+            <l>mache wendic mir mîn klagen,</l>
+            <l>sô daz ich werde grôz gemuot bî mînen tagen.</l>
+            <l>Ez ist nu tac. - daz ich wol mac - mit wârheit jehen,</l>
+            <l>ich wil niht langer sîn.</l>
+            <l>diu vinster naht - hât uns nu brâht - ze leide mir</l>
+            <l>den morgenlîchen schîn."</l>
+            <milestone unit="page" n="8"/>
+            <l>"sol er von mir scheiden nuo,</l>
+            <l>mîn friunt, diu sorge ist mir ze vruo:</l>
+            <l>ich weiz vil wol, daz ist ouch ime,</l>
+            <l>den ich in mînen ougen gerne burge,</l>
+            <l>möhte ich in alsô behalten.</l>
+            <l>mîn kumber wil sich breiten.</l>
+            <l>ôwê des, wie kumt ers hin?</l>
+            <l>der hôhste fride müez in noch wider an mînen arm geleiten."</l>
+            <l>Daz guote wîp - ir vriundes lîp - vast umbevienc:</l>
+            <l>der was entslâfen dô.</l>
+            <l>dô daz geschah - daz er ersach - den grâwen tac,</l>
+            <l>dô muose er sîn unfrô.</l>
+            <l>an sîne brüste dructe er sie,</l>
+            <l>und sprach "jâne erkande ich nie</l>
+            <l>kein trÛric scheiden alsô snel.</l>
+            <l>uns ist diu naht von hinnen alze balde:</l>
+            <l>wer hât si sô kurz gemezzen?</l>
+            <l>der tac wil niht erwinden.</l>
+            <l>hât diu minne an saelden teil,</l>
+            <l>diu helfe mir daz ich dich noch mit vröiden müeze vinden."</l>
+            <l>Sie beide luste - daz er kuste - sie genuoc:</l>
+            <l>gevluochet wart dem tage.</l>
+            <l>urlop er nam, - daz dô wol zam; - nu merket wie:</l>
+            <l>da ergienc ein schimpf bî klage.</l>
+            <l>sie heten beide sich bewegen,</l>
+            <l>ezn wart sô nâhe nie gelegen,</l>
+            <l>des noch diu minne hât den prîs:</l>
+            <l>obe der sunnen drî mit blicke waeren,</l>
+            <l>sin möhten zwischen si geliuhten.</l>
+            <l>er sprach "nu wil ich rîten.</l>
+            <l>dîn wîplich güete neme mîn war,</l>
+            <l>und sî mîn schilt hiut hin und her, und her nâch zallen zîten."</l>
+            <l>Ir ougen naz - dô wurden baz: - och twanc in klage:</l>
+            <l>er muose dan von ir.</l>
+            <l>si sprach hin zime - "urlop ich nime - zen vröiden mîn:</l>
+            <l>diu wil nu gar von mir,</l>
+            <l>sît daz ich vermîden muoz</l>
+            <l>dînen munt, der mangen gruoz</l>
+            <l>mir bôt und och dîn süezen kus,</l>
+            <l>als in dîn Ûz erweltiu güete lêrte,</l>
+            <l>und diu geselle dîn, diu triuwe.</l>
+            <milestone unit="page" n="9"/>
+            <l>weme wilt du mich lâzen?</l>
+            <l>nu kum schier wider Ûf rehten trôst.</l>
+            <l>ôwê dur daz enmac ich strenge sorge niht gemâzen."</l>
+            <l>[Guot wîp, ich bite dich minne,</l>
+            <l>ein teil dur daz,</l>
+            <l>sît ich dir niht gebieten mac.</l>
+            <l>du gib mir die gewinne,</l>
+            <l>daz ich baz</l>
+            <l>an dir gelebe noch lieben tac.</l>
+            <l>snel für mich, wilder danne ein tier,</l>
+            <l>mac mir dîn helfe entwenken.</l>
+            <l>wilt an triuwe gedenken,</l>
+            <l>saelic wîp,</l>
+            <l>sô gîst ein liebez ende mier.</l>
+            <l>Du treist sô vestez herze</l>
+            <l>Ûf mîne vlust:</l>
+            <l>wie sol der site an dir zergên?</l>
+            <l>ein mÛzervalke, ein terze,</l>
+            <l>dem mac brust</l>
+            <l>niht baz dan dir diu dîne stên.</l>
+            <l>dîn munt ist Ûf den kus gestalt,</l>
+            <l>dîn lachelîchez grüezen</l>
+            <l>mac mir wol gesüezen</l>
+            <l>sÛre nôt:</l>
+            <l>sus hât dîn minne mîn gewalt.</l>
+            <l>Möht ich die saelde reichen,</l>
+            <l>diu sô hôch</l>
+            <l>ob mîner fröide stêt gezilt!</l>
+            <l>got müez ir herze erweichen,</l>
+            <l>sît ez noch</l>
+            <l>der mîner swaere niht bevilt.</l>
+            <l>man siht mich alze selten geil.</l>
+            <l>ein vlins von donrestrâlen</l>
+            <l>möht ich zallen mâlen</l>
+            <l>hân erbeten,</l>
+            <l>daz im der herte entwiche ein teil.</l>
+            <l>Ir wengel wol gestellet</l>
+            <l>sint gevar</l>
+            <l>alsam ein towic rôse rôt.</l>
+            <l>diu schoen mir wol gevellet,</l>
+            <l>sist valsches bar.</l>
+            <l>ir ougen bringent mich in nôt.</l>
+            <l>si dringent in mîns herzen grunt:</l>
+            <l>so enzündet mich ir minne,</l>
+            <l>daz ich von ir brinne:</l>
+            <l>an der stat</l>
+            <l>bin ich von der süezenwunt.</l>
+            <milestone unit="page" n="10"/>
+            <l>Ir schoene fröide machet.</l>
+            <l>durliuhtic rôt</l>
+            <l>ist ir munt als ein rubbîn.</l>
+            <l>swem si von herzen lachet,</l>
+            <l>des sorge ist tôt.</l>
+            <l>sist mîn spilnder ougen schîn.</l>
+            <l>ir frömde krenketz herze mîn:</l>
+            <l>ich stirb, mir werde ir minne.</l>
+            <l>Vênus diu gotinne,</l>
+            <l>lebt si noch,</l>
+            <l>si müest bî ir verblichen sîn.</l>
+            <l>Ich wil des mînen ougen</l>
+            <l>sagen danc,</l>
+            <l>daz si si vunden alsô guot.</l>
+            <l>die ich dâ minne tougen</l>
+            <l>sunder wanc,</l>
+            <l>diu hât gehoehet mir den muot.</l>
+            <l>daz schaffet mir ir rôter munt:</l>
+            <l>ir minneclîchez lachen</l>
+            <l>kan mir wol gemachen</l>
+            <l>hôhen muot.</l>
+            <l>dâ von mir wirt ein fröide kunt.]</l>
+         </div>
+      </body>
+  </text>
+</TEI>
+

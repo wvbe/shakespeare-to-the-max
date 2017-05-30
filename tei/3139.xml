@@ -1,0 +1,2179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Observator: [Selections]</title>
+            <author>L'Estrange, Roger, Sir, 1616-1704</author>
+            <respStmt>
+               <resp>Text Keyer and Proofreader</resp>
+               <name>Kelly-Uhlig, Daria</name>
+            </respStmt>
+            <respStmt>
+               <resp>creation of machine-readable version</resp>
+               <name>Triggs, Jeffery</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority xml:id="TRIJE1">deposited by<name type="person">Triggs, Jeffery</name>
+               <address>
+                  <addrLine>North American Reading Project</addrLine>
+                  <addrLine>Oxford University Press (NY)</addrLine>
+                  <addrLine>c/o Bellcore</addrLine>
+                  <addrLine>
+                     <name type="email">triggs@bellcore.com</name>
+                  </addrLine>
+               </address>
+            </authority>
+            <distributor>
+               <name>University of Oxford Text Archive</name>
+               <address>
+                  <addrLine>Oxford University Computing Services</addrLine>
+                  <addrLine>13 Banbury Road</addrLine>
+                  <addrLine>Oxford</addrLine>
+                  <addrLine>OX2 6NN</addrLine>
+               </address>
+               <email>ota@oucs.ox.ac.uk</email>
+            </distributor>
+            <idno type="ota">http://ota.ox.ac.uk/id/3139</idno>
+            <idno type="isbn10">1106001389</idno>
+            <idno type="isbn13">9781106001382</idno>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/3.0/">
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License
+      </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Revised version of  <relatedItem type="older" target="http://ota.ox.ac.uk/id/2217"/>
+            </bibl>
+            <biblFull>
+               <titleStmt>
+                  <title>The Observator : [Selections]</title>
+                  <author>L'Estrange, Roger, Sir, 1616-1704</author>
+               </titleStmt>
+               <publicationStmt>
+                  <publisher>[Augustan Reprint Society]</publisher>
+                  <pubPlace>s.l.</pubPlace>
+                  <date>s.d.</date>
+               </publicationStmt>
+               <seriesStmt>
+                  <p>Augustan Reprint Society; 141</p>
+               </seriesStmt>
+               <notesStmt>
+                  <note>First published between 1681 and 1687</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="OTASH">
+               <bibl>University of Oxford Text Archive Subject Headings</bibl>
+            </taxonomy>
+            <taxonomy xml:id="LCSH">
+               <bibl>Library of Congress Subject Headings</bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1681" notAfter="1687"/>
+         </creation>
+         <langUsage>
+            <language ident="eng">English</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="#LCSH">
+               <term type="genre">Great Britain -- Politics and government -- 1660-1688</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2010-09-27">Header normalised</change>
+      </revisionDesc>
+  </teiHeader>
+  <text>
+      <front>
+         <titlePage>
+            <docTitle>
+               <titlePart type="main">
+                  <title type="main">Selections from The Observator</title>
+               </titlePart>
+            </docTitle>
+            <byline>by 
+<docAuthor>Roger L'Estrange</docAuthor>
+            </byline>
+            <docImprint>Augustan Reprint Society. Publication no. 141.</docImprint>
+         </titlePage>
+      </front>
+      <body>
+         <div type="preface">
+            <head>To the <hi>READER</hi>.</head>
+            <note anchored="true">1687?</note>
+            <p>MOst <hi>Prefaces</hi> are (Effectually) <hi>Apologies</hi>; and 
+neither the <hi>Book</hi>, nor the <hi>Author</hi>, one Jot the 
+<hi>Better</hi> for them. If the <hi>Book</hi> be <hi>Good</hi>, it 
+will not <hi>Need</hi> an <hi>Apology</hi>; If <hi>Bad</hi>, it will 
+not <hi>Bear</hi> One: For where a man thinks, by <hi>Calling</hi>
+himself <hi>Noddy</hi>, in the <hi>Epistle</hi>, to <hi>Atone</hi>, for 
+<hi>Shewing</hi> himself to be one, in the <hi>Test</hi>; He does 
+(with Respect to the Dignity of an <hi>Author</hi>) but <hi>Bind up 
+Two Fools</hi> in <hi>One Cover</hi>. But there's no more Trusting 
+some People with <hi>Pen</hi>, <hi>Ink</hi>, <hi>and Paper</hi>, then 
+the Maddest Extravagants in <hi>Bedlam</hi>, with <hi>Fire</hi>, 
+<hi>Sword</hi>, or <hi>Poyson</hi>. He that <hi>Writes Ill</hi>, and 
+<hi>Sees</hi> it, why does he <hi>Wrote on</hi>? And, with a kind of 
+<hi>Malice Prepense</hi>, <hi>Murder</hi> the <hi>Ingenious</hi> part 
+of <hi>Mankind</hi>? He that <hi>Really Believes</hi> he Writes 
+<hi>Well</hi>; why does he pretend to <hi>Think</hi> Otherwise? Now 
+take it which way you please, a man runs a Risque of his 
+<hi>Reputation</hi>, for want, either of <hi>Skill</hi>, and 
+<hi>Judgment</hi>, the <hi>One</hi> way; Or of <hi>Good Faith</hi>, and 
+<hi>Candor</hi> the <hi>Other</hi>. Beside a Mighty Oversight, in 
+<hi>Imagining</hi> to bring himself off, from an <hi>Ill</hi> Thing, 
+<hi>Done</hi>, or <hi>Said</hi>, by Telling the World that he did it 
+for <hi>This</hi> or <hi>That Reason</hi>. When a Book has once past 
+the <hi>Press</hi> into the <hi>Publique</hi>; there's no more 
+<hi>Recalling</hi> of it, then of a <hi>Word Spoken</hi>, out of the 
+<hi>Air</hi> again. And a man may as well hope to Reverse the 
+<hi>Decree</hi> of his <hi>Mortality</hi>, as the <hi>Fate</hi> of his 
+<hi>Writings</hi>. In short: When the <hi>Dice</hi> are <hi>Cast</hi>, 
+the <hi>Author</hi> must stand his <hi>Chance</hi>. 
+</p>
+            <p>Now that I may not be thought to Enterfere with my self, by 
+<hi>Declaiming</hi> against <hi>One Preface</hi> in <hi>Another</hi>: I 
+do here previously Renounce to All the Little Arts and Forms of 
+Bespeaking the <hi>Good Will</hi> of the <hi>Reader</hi>; As a 
+<hi>Practice</hi>, not only <hi>Mean</hi>, <hi>Light</hi>, and 
+<hi>Unprofitable</hi>; but wholly <hi>Contrary</hi> to the 
+<hi>Bent</hi> of <hi>My Inclination</hi>; as well as 
+<hi>Inconsistent</hi> with the very <hi>Drift</hi>, and 
+<hi>Quality</hi> of my <hi>Design</hi>. For These <hi>Papers</hi> were 
+<hi>Written</hi>, Indifferently, for the <hi>Enformation</hi> of the 
+<hi>Multitude</hi>; and for the <hi>Reproof</hi> of a <hi>Faction</hi>: 
+<hi>Two Interests</hi> that I am not much <hi>Sollicitous</hi>, or 
+<hi>Ambitious</hi>, to <hi>Oblige</hi>: And upon <hi>This 
+Consideration</hi> it is, that I have <hi>Address'd</hi> them to the 
+<hi>Reader</hi> in <hi>Generall</hi>; as a <hi>Calculation</hi> that 
+will serve for <hi>All Meridians</hi>: But if I could have Resolved 
+upon a <hi>Dedication</hi>, with any <hi>Particular Mark</hi>, or 
+<hi>Epithete</hi> of <hi>Distinction</hi>; it should have been, <hi>To 
+the IGNORANT</hi>, <hi>the SEDITIOUS</hi>, or <hi>the SCHISMATICAL 
+Reader</hi>; for <hi>There</hi>, properly, lies <hi>my Bus'ness</hi>. 
+</p>
+            <p>The Reader will find in the <hi>First Number</hi> of This 
+Collection, the <hi>True Intent</hi>, and <hi>Design</hi> of the 
+<hi>Undertaking</hi>; And he will likewise find, in the very 
+<hi>Date</hi> of it, (<hi>April</hi> 13, 1681.) the <hi>Absolute 
+Necessity</hi> of some Such <hi>Application</hi>, to Encounter the 
+<hi>Notorious Falshoods</hi>; the <hi>Malicious Scandals</hi>, and 
+the <hi>Poysonous Doctrines</hi> of <hi>That Season</hi>. 
+</p>
+            <p>Whether I had Sufficient <hi>Ground</hi>, or <hi>Reason</hi>, for the 
+Warmth I have Exprest in These Papers, upon Several Occasions, 
+(out of an Affectionate Sense of my <hi>Duty</hi>, and a 
+<hi>Zeal</hi> for the <hi>Peace</hi>, <hi>Welfare</hi>, and 
+<hi>Safety</hi> of my <hi>Country</hi>;) I <hi>Dare</hi>, and I <hi>Do 
+Appeal</hi> to the <hi>King</hi>, and his <hi>Ministers</hi>; to the 
+<hi>Consciences</hi> of as many of his Majesties <hi>Subjects</hi>, 
+as are not <hi>Stark Blind</hi> because they <hi>WILL</hi> not 
+<hi>See</hi>; and to the Justice of the Nation. I do <hi>Appeal</hi>, 
+I say, to his Majesties <hi>Proclamations</hi>; to his <hi>Royal 
+Declaration</hi>; Several <hi>Orders</hi> of <hi>Councel</hi>; the 
+<hi>Examinations</hi>, and <hi>Confessions</hi> of <hi>Unquestionable 
+Witnesses</hi>; The <hi>Solemnity</hi> of so many <hi>Tryals</hi>, 
+<hi>Sentences</hi>, and <hi>Executions</hi>; and the 
+<hi>Criminals</hi>, Every Man of 'em, Either <hi>Acknowledging</hi>
+the <hi>Crime</hi>, or <hi>Justifying</hi> the <hi>Treason</hi>: But 
+the <hi>FACT</hi>, however made as <hi>Clear</hi> as the <hi>Day</hi>. 
+There's the <hi>Flight</hi> of the <hi>Conspirators</hi>; Their 
+<hi>Arms Seiz'd</hi>; Their <hi>Councels Laid Open</hi>; <hi>Men 
+Listed</hi>; The <hi>Methods</hi> of the <hi>Confederacy 
+Detected</hi>, to the very <hi>Time</hi>, and <hi>Place</hi> for the 
+<hi>Perpetration</hi> of the <hi>Villany</hi>; to the very 
+<hi>Circumstance</hi> of the <hi>Providential Fire</hi> at 
+<hi>Newmarket</hi>, that <hi>Disappointed</hi> it. I have All These 
+<hi>Demonstrative Proofs</hi>, and <hi>Convincing Evidences</hi>, to 
+<hi>Warrant</hi> me in the most <hi>Violent Presumptions</hi> of a 
+<hi>Rebellion</hi> in <hi>Agitation</hi>: And the <hi>Phanatiques 
+Themselves</hi> made good the <hi>Worst</hi> Things that ever I said 
+of the <hi>Party</hi>: In <hi>Vindication</hi> of the 
+<hi>Importunity</hi> of All my <hi>Foreboding</hi>, if not 
+<hi>Prophetical Suspicions</hi>: Nay, they were come to the very 
+<hi>Point</hi>, and <hi>Crisis</hi> of the <hi>Operation</hi>, of That 
+<hi>Unaccountable</hi>, and <hi>Amazing Vote</hi>. [<hi>If his 
+Majesty shall come by Any Violent Death (which God Forbid) it 
+shall</hi> be <hi>Reveng'd to the Utmost upon the Papists</hi>.] 
+The <hi>King</hi>, and the <hi>Duke</hi> were to be <hi>Murder'd</hi>
+by <hi>Republican</hi>, and <hi>Fanatical Rebells</hi>: 
+<hi>There's</hi> your <hi>VIOLENT DEATH</hi>, And <hi>Then</hi>
+[<hi rend="bold">Reuenge it upon the Papists</hi>:] For [<hi>the 
+Thing</hi> (says <hi>Keeling</hi>) <hi>was to be laid upon the 
+Papists as a Branch of the Popish Plot</hi>. Walcots Tryal. 
+Fol.9.] And the <hi>Next</hi> Step was, for the <hi>Traytors</hi>
+to <hi>Unriddle</hi> the <hi>Mystery</hi>, and to <hi>Expound</hi>, 
+<hi rend="bold">Who</hi> were the <hi>Papists</hi>. [<hi>The Lord Mayor</hi>, 
+<hi>and the Sheriffs</hi>] <hi>were Three</hi> of 'em. 
+<hi>They</hi>, were to be Kill'd; And [<hi>as many of the</hi>
+Lieutenancy <hi>as they could get</hi>; <hi>And the Principal 
+Ministers of State</hi>; <hi>My Lord</hi> Halifax, <hi>My Lord</hi>
+Rochester, <hi>and my</hi> Lord Keeper: (<hi>They</hi> were <hi>Three 
+Papists more</hi>.) <hi>My Lord</hi> Keeper <hi>was to have been</hi>
+Hang'd <hi>upon the same Post that</hi> College <hi>had hung</hi>. 
+<hi>Sir</hi> John Moor <hi>to be</hi> Hung-up <hi>in</hi> Guildhall, 
+<hi>as a Betrayer of the Rights and Liberties of the City. And the 
+Judges Lordships to be</hi> Flayed, <hi>and</hi> Stuff'd, <hi>and</hi>
+Hung-up <hi>in</hi> Westminster Hall: <hi>And a great many of 
+the</hi> Pensionary Parliament Hang'd-up, <hi>as Betrayers of the 
+Rights of the People</hi>. Walcots Tryal, p.15.] You have 
+here, <hi>a Practical Explanation of</hi> the <hi>True-Protestant 
+Way</hi>, (in case of <hi>the King's Violent Death</hi>) <hi>of 
+Revenging it to the Utmost upon the Papists</hi>.] And This 
+Intended <hi>Assassination</hi> (says <hi>Ferguson</hi> (in the same 
+Page) [<hi>Is a Glorious Action, and such an Action as</hi> I 
+HOPE TO SEE PUBLIQUELY GRATIFY'D BY PARLIAMENT; <hi>And Question 
+not but you will be Fam'd for it, and</hi> Statues <hi>Erected for 
+you, with the Title of</hi> LIBERATORES PATRIAE. <hi>Ibid</hi>.] 
+Now when Matters were come to <hi>This Pass</hi> once, I think it 
+was High Time to Write <hi>Observators</hi>. 
+</p>
+            <p>I might Enlarge my self, upon the <hi>Inducements</hi> that Mov'd 
+me to Enter upon This <hi>Province</hi>; The <hi>Needfullness</hi>, 
+of some <hi>Popular Medium</hi> for the <hi>Rectifying</hi> of 
+<hi>Vulgar Mistakes</hi>, and for <hi>Instilling</hi> of 
+<hi>Dutyfull</hi>, and <hi>Honest Principles</hi> into the <hi>Common 
+People</hi>, upon That <hi>Turbulent</hi> and <hi>Seditious 
+Juncture</hi>: But I am not Willing to <hi>Clogg</hi> my 
+<hi>Preface</hi>, with the <hi>Repetition</hi> of what I have spoken 
+so <hi>Expressly</hi> to, in the <hi>Book</hi>. 
+</p>
+            <p>I am now to Advertise the <hi>Reader</hi>, in the next Place; That 
+as I have not Strain'd, so much as <hi>One Syllable</hi>, in the 
+<hi>Whole Course</hi> of <hi>These Papers</hi>, beyond the 
+<hi>Line</hi> of <hi>Truth</hi>, Nor let fall <hi>One Word</hi>, 
+<hi>Contrary</hi> to my <hi>Conscience;</hi> Nor <hi>Layd-on</hi> so 
+much as <hi>One False Colour</hi>, for a <hi>Blind</hi>, or a 
+<hi>Disguise</hi>: As I have not done any Thing of All This, I say; 
+Nor <hi>Gratify'd</hi> so much as <hi>One Passion</hi> to the 
+Prejudice, of any <hi>MAN</hi>, or <hi>THING</hi>; or of <hi>Common 
+Justice it Self</hi>: So neither, on the <hi>Other</hi> hand, was I 
+less <hi>Cautious</hi>, and <hi>Considerate</hi>, in the 
+<hi>Undertaking</hi> of This <hi>Duty</hi>, then I have been 
+<hi>Clear</hi>, and <hi>Impartial</hi>, in the <hi>Discharge</hi>, and 
+<hi>Manage</hi> of it. 
+</p>
+            <p>I was no sooner Possess't, of the <hi>Reason</hi>, and the 
+<hi>Expedience</hi> of the <hi>Thing</hi>; but I feel presently to 
+<hi>Deliberate</hi> upon the <hi>Individious Difficulties</hi>; The 
+<hi>Scandals</hi>, <hi>Reproaches</hi>, and a Thousand Other 
+<hi>Mischiefs</hi>, and <hi>Inconveniencies</hi>, that would probably 
+<hi>Attend</hi> it. I laid them All <hi>before</hi> me; And upon a 
+<hi>Full Computation</hi> of the <hi>Matter</hi>, <hi>Pro</hi> and 
+<hi>Con</hi>; I Resolv'd, at last, to Put <hi>pen to paper</hi>; not 
+without some <hi>Vanity</hi> perhaps, in <hi>Affecting</hi> the 
+<hi>Honour</hi> of being <hi>Revil'd</hi>, but the <hi>Blasphemers</hi>
+of <hi>God</hi>, and the <hi>King</hi>. I shall say Nothing of the 
+<hi>Traytors</hi>; The <hi>Papists</hi>; The <hi>Fidlers</hi>; The 
+<hi>All-manner-of-Rogues</hi>, and <hi>Debauchees</hi> that they have 
+<hi>made</hi> me: For their <hi>Cause</hi> is <hi>Founded</hi> upon a 
+<hi>Sacrilegious Hypocrisy</hi>; <hi>Maintain'd</hi> by <hi>Fraud</hi>, 
+<hi>Scandal</hi>, and <hi>Imposture</hi>. And when they have a mind 
+to <hi>Blacken</hi> a man, 'tis not a <hi>Straw</hi> matter, for any 
+<hi>Foundation</hi> of <hi>Fact</hi>, or <hi>History</hi>: But 
+<hi>Paint</hi> him as like the <hi>Devil</hi> as they <hi>Can</hi>; and 
+to make short Work on't, <hi>One Fanatique</hi> Sits to 
+<hi>Another</hi>, for the <hi>Picture</hi>. But <hi>These 
+Scurrilities</hi> have more of <hi>Noise</hi> in 'em, then of 
+<hi>Weight</hi>: And Those People that had the face to 
+<hi>Calumniate Charles the First</hi>, for a <hi>TYRANT</hi>, and a 
+<hi>PAPIST</hi>; And the <hi>Confidence</hi>, at This very day, to do 
+as much for <hi>Charles the Second</hi>; They that <hi>Preach 
+REBELLION</hi> out of the <hi>GOSPEL</hi>; Give it the <hi>Name</hi>
+of <hi>GOD'S TRUTH</hi>, <hi>GOD'S CAUSE</hi>; And offer up the 
+<hi>Bloud</hi> of <hi>Kings</hi> as an <hi>Acceptable Sacrifice</hi> to 
+<hi>Jesus Christ</hi>: What <hi>Christian</hi> will not <hi>Value</hi>
+himself, upon the <hi>Reputation</hi> of lying under the 
+<hi>Scourge</hi> of <hi>Those Tongues</hi>, and <hi>Pens</hi>, that 
+Offer these <hi>Outrages</hi> to their <hi>Maker</hi>, and their 
+<hi>Saviour</hi>? So that these <hi>Clamours</hi>, and 
+<hi>Maledictions</hi>, I look upon, as Matter, rather of 
+<hi>Advantage</hi>, then <hi>Discredit</hi>; Where <hi>Loyalty</hi> to 
+the <hi>King</hi>, and to the <hi>Church</hi>, is made the 
+<hi>Crime</hi>: But yet I must Confess, I had <hi>Some Other 
+Mortifications</hi> in my <hi>Thought</hi>, that went a little 
+<hi>Nearer</hi> me. 
+</p>
+            <p>As first, the <hi>Indecency</hi> of a <hi>Gentlemans</hi> Entring 
+into a <hi>Street-Brawl</hi>, (and <hi>Barefac'd</hi> too) with the 
+<hi>Sink</hi> of <hi>Mankind</hi>, both for <hi>Quality</hi>, and 
+<hi>Wickedness</hi>. 21y. The <hi>Disproportion</hi>, and the 
+<hi>Indecorum</hi> of the Thing, for an <hi>Old Fellow</hi> that now 
+Writes <hi>Sixty Eight</hi>, to run about, a <hi>Masquerading</hi>, 
+an <hi>Dialoguing</hi> of it, in <hi>Twenty Fantastical Shapes</hi>, 
+only to furnish a <hi>Popular Entertainment</hi>, and 
+<hi>Diversion</hi>. 31y. The <hi>Scandalous Appearance</hi> of it, 
+for Me to take up the <hi>Profession</hi>, and <hi>Bus'ness</hi> of a 
+<hi>Pamphleteer</hi>; and (almost) to Lose the <hi>Name</hi> of my 
+<hi>Family</hi>, by it, in <hi>Exchange</hi> for That of the 
+<hi>Observator</hi>. 41y. I had This Prospect before me too. What 
+<hi>Construction</hi> would be made upon't; (If I may speak it with 
+<hi>Modesty</hi>) even to the <hi>Lessening</hi> of my 
+<hi>Character</hi>; And Consequently, to my Detriment, Every way, 
+as well in Respect of <hi>Fortune</hi>, as <hi>Esteem</hi>: For men 
+are apt, in such Cases as This, to <hi>Mistake</hi>, the 
+<hi>Intent</hi>, as well as the <hi>Reason</hi> of the <hi>Office</hi>; 
+and to Impute the most <hi>Sacred</hi>, and <hi>Consciencious 
+Zeal</hi> of an <hi>Upright Heart</hi>, in the performance of the 
+most <hi>Important</hi>, and <hi>Necessary Duty</hi>, only to a 
+<hi>Levity</hi> of <hi>Mind</hi>, perchance; Or in Other Terms; to an 
+Over <hi>Officious</hi>, and <hi>Pragmatical Itch of Medling</hi>: It 
+makes a man to be lookt upon, as if a <hi>Pamphlet</hi> were his 
+<hi>Masterpiece</hi>; and when he's once <hi>Nail'd</hi> to <hi>That 
+Post</hi>, he may reckon upon't, that he' at the <hi>Top</hi> of his 
+<hi>Preferment</hi>. Upon These <hi>Four Difficulties</hi>, I 
+Reason'd with my self, after This Manner. To the <hi>First</hi>; 
+What do I care, for having so much <hi>Dirt</hi> Thrown at me, that 
+will <hi>Wash off</hi> again? And at the worst, the Engaging with 
+such a <hi>Rabble</hi> of <hi>Contaminated Varlets</hi>, is no more 
+than <hi>Leaping</hi> into the <hi>Mud</hi> to help my <hi>Father</hi>. 
+<hi>Secondly</hi>. <hi>'Tis not for a man in years</hi>, to do so and 
+so. Well! And here's a <hi>Reputative Circumstance</hi>, on the 
+<hi>One</hi> hand, against an <hi>Indispensable Duty</hi>, on the 
+<hi>Other</hi>. The <hi>Common people</hi> are <hi>Poyson'd</hi>, and 
+will run <hi>Stark Mad</hi>, if they be not <hi>Cur'd</hi>: Offer 
+them <hi>Reason</hi>, without <hi>Fooling</hi>, and it will never 
+<hi>Down</hi> with them: And give them <hi>Fooling</hi>, without 
+<hi>Argument</hi>, they're never the <hi>Better</hi> for't. Let 'em 
+<hi>Alone</hi>, and All's <hi>Lost</hi>. So that the <hi>Mixture</hi>
+is become as <hi>Necessary</hi>, as the <hi>Office</hi>; And it has 
+been <hi>My Part</hi>, only to <hi>Season</hi> the <hi>One</hi> with 
+the <hi>Other</hi>. <hi>Thirdly</hi>, I must Set the 
+<hi>Conscience</hi> of the Action, against the <hi>Reproch</hi>. And 
+<hi>Lastly</hi>; <hi>'Tis nothing to me what Other People</hi> Think, 
+<hi>so long as I am Conscious to my Self that I Do what I</hi>
+Ought. 
+</p>
+            <p>All This I Computed upon, <hi>before-hand</hi>; And thus far, I 
+have not been <hi>Deceiv'd</hi> in my <hi>Account</hi>. I have been 
+<hi>Baited</hi> with <hi>Thousands</hi> upon <hi>Thousands</hi> of 
+<hi>Libells</hi>. I have Created <hi>Enemies</hi> that do me the 
+<hi>Honour</hi> to <hi>Hate</hi> me, perhaps, next to the <hi>King 
+Himself</hi> (God Bless him) and the <hi>Royal Family</hi>. Their 
+<hi>Scandals</hi> are <hi>Blown over</hi>: Their <hi>Malice</hi>, 
+<hi>Defeated</hi>, And whenever <hi>my Hour comes</hi>, I am ready to 
+Deliver up my <hi>Soul</hi>, which the <hi>Conscience</hi> of an 
+<hi>Honest Man</hi>, as to what I have done, in <hi>This 
+Particular</hi>: And I do here Declare, in the <hi>Presence</hi> of 
+an <hi>All-Seeing</hi>, and an <hi>All-Knowing God</hi>, That as I 
+have never yet receiv'd any <hi>Answer</hi>, more then 
+<hi>Cavil</hi>, and <hi>Shuffling</hi>, to the <hi>Doctrine</hi>, and 
+<hi>Reasoning</hi> of <hi>These Papers</hi>: So I never <hi>made 
+use</hi> of Any <hi>Sophism</hi>, or <hi>Double Meaning</hi>, in 
+Defence of the <hi>Cause</hi> that I have here taken upon me to 
+<hi>Assert</hi>: but have dealt <hi>Plainly</hi>, and <hi>Above-Bord</hi>, 
+without either <hi>Fallacy</hi>, or <hi>Collusion</hi>. 
+</p>
+            <p>After This <hi>View</hi> of the <hi>Worst side</hi> of my 
+<hi>Case</hi>; (And (in truth) a kind of <hi>Abstract</hi> of it, in 
+<hi>Minutes</hi>) I should be Extremely wanting, both to <hi>God</hi>
+and <hi>Man</hi>, in not taking <hi>This Occasion</hi>, of making 
+<hi>known</hi> to the <hi>world</hi>, the <hi>Many Generous 
+Instances</hi> of <hi>Affection</hi>, and <hi>Respect</hi>, which I 
+have received, not only from the most <hi>Considerable</hi> Part of 
+his Majesties <hi>Loyal Subjects</hi> of <hi>All qualities</hi>, and 
+<hi>Degrees</hi>; but <hi>Particularly</hi> from the <hi>Two Famous 
+Universities themselves</hi>: And, in short, from the most 
+<hi>Eminent Persons</hi> of the <hi>Long Robe</hi>, in their 
+<hi>Several Professions</hi>: In <hi>Testimony</hi> of their 
+<hi>Favourable Acceptance</hi> of my <hi>Honest Endeavours</hi>
+toward the Service, both of the <hi>Church</hi>, &amp; the 
+<hi>State</hi>. And this I am Obliged to leave behind me, upon 
+<hi>Record</hi>; out of a <hi>Double Right</hi>, &amp; <hi>Regard</hi>, 
+as well to my <hi>Friends</hi>, as to my <hi>Self</hi>: For I reckon 
+upon it, as an <hi>Accumulation</hi> of <hi>Honour</hi>, to 
+<hi>Me</hi>, to be <hi>Rescu'd</hi> out of the hands of <hi>Publique 
+Enemies</hi>, and <hi>Apostates</hi>, by Men of the Clear 
+<hi>Contrary Character</hi>; That is to say; by Men of 
+<hi>Unquestionable Integrity</hi>, and of <hi>Unspotted Faith</hi>. 
+</p>
+            <p>My <hi>Back Friends</hi> are as <hi>Merry</hi>, now, as <hi>a Laugh on 
+One side of the Mouth</hi> can Make 'em; at the <hi>Conceit</hi> of 
+calling the several <hi>Presents</hi> which have been made me (and 
+they are very <hi>Considerable</hi>) by the name of a 
+<hi>Gathering</hi>; and they do not Stick to put it about, That I 
+was my <hi>Own Sollicitor</hi> for the <hi>Begging</hi> of it. I have 
+been Told of One, that <hi>said</hi> as much; <hi>for whose 
+sake</hi>, I would Advise <hi>All Parents</hi> to take it for a 
+<hi>Warning</hi>, not to <hi>Stuff</hi> their <hi>Childrens heads</hi>
+so Damnably, with <hi>Greek and Latin</hi> as to leave no 
+<hi>Room</hi> for <hi>Brains</hi>, and <hi>Good Manners</hi>. But what 
+if it <hi>be a Gathering</hi>? Are not All <hi>Publique 
+Benevolences</hi>; <hi>Publique Works</hi>; <hi>Publique 
+Acknowledgments</hi>; the <hi>same Thing</hi>? Neither do I find any 
+more <hi>Scandal</hi>, in receiving a <hi>Reward</hi> for a 
+<hi>Service</hi> in a <hi>Common Cause</hi>, then in a <hi>Lawyers</hi>
+taking a <hi>Fee</hi>, in a <hi>Private</hi> One: But be it what it 
+<hi>will</hi>: I shall Transmit the <hi>Acknowledgment</hi> of it, 
+with This Paper, as the <hi>Glory of my Life</hi>: And Value my 
+self Incomparably more upon so <hi>Eminent</hi> a <hi>Mark</hi> of a 
+<hi>General Esteem</hi>; then upon the <hi>Advantage</hi> of <hi>Ten 
+times a Greater sum</hi>, by <hi>Any Other way</hi>. But 
+<hi>Gatherings</hi>, with some People, are only <hi>Honourable</hi>, 
+when they are Apply'd to the <hi>Maintaining</hi> of 
+<hi>Conspirators</hi>, and <hi>Affidavit-Men</hi>: And they Account 
+<hi>Money</hi> much better <hi>Bestow'd</hi> upon the 
+<hi>Subversion</hi> of the <hi>Government</hi>, then toward the 
+<hi>Defending</hi> of it: but <hi>That Orange is Squeez'd a far as 
+'twill Drop, already</hi>. 
+</p>
+            <p>Now to the <hi>Calumny</hi> of <hi>My Setting This Bus'ness 
+afoot</hi>; <hi>First</hi>, I thank God, that neither my 
+<hi>Mind</hi>, nor my <hi>Condition</hi> were ever Sunk <hi>so</hi>
+Low, yet, as to <hi>Descend</hi> to <hi>That way of Application</hi>. 
+21<hi>y</hi>, As I hope to be Sav'd, the Matter was Proceeded upon, 
+in <hi>Several Places</hi>, and a <hi>Long time</hi>, before ever I 
+had the Least <hi>Inkling</hi>, or <hi>Imagination</hi> of it; and 
+when it was so far <hi>Advanc'd</hi>, <hi>without my Privity</hi>, I 
+must Certainly have been both a Great <hi>Fool</hi>, and a Great 
+<hi>Clown</hi>, either to have <hi>Oppos'd</hi>, or <hi>Refus'd</hi>, a 
+token of so <hi>Obliging</hi>, and so <hi>Generous</hi> a 
+<hi>Respect</hi>. To Conclude; If any man has been so 
+<hi>Misled</hi>, as to <hi>Intend</hi> That for a <hi>Personal 
+Charity</hi>; which I cannot <hi>Honourably</hi> Own the 
+<hi>Receiving</hi> of, under <hi>That Notion</hi>; I am ready to 
+Return him his Proportion, with a Thousand Acknowledgments: But 
+This shall not Hinder me yet, from <hi>Cherishing</hi> in my 
+<hi>Thoughts</hi>, the <hi>Remembrance</hi> of what <hi>Honour</hi>
+soever has been done me for the sake of the <hi>Publique</hi>. 
+</p>
+            <p>The Reflexions that have been Pass'd upon my <hi>Quality</hi>, and 
+<hi>Conversation</hi>, need no Further Answer, then to Appeal to my 
+very <hi>Name</hi>, and my <hi>Acquaintance</hi>: but for the 
+<hi>Charge</hi> of being a <hi>Papist</hi>, it is as <hi>False</hi>, as 
+it is <hi>Malicious</hi>. 
+</p>
+            <p>I am to say One Word more now, concerning my <hi>L. 
+Shaftsbury</hi>; whose <hi>Name</hi>, and <hi>Title</hi>, I have often 
+Occasion to make mention of, in This Book. The <hi>Reader</hi> is 
+to take Notice, that it is Intended of the <hi>Late Earl of 
+Shaftsbury</hi>, who Dy'd at <hi>Amsterdam</hi>, <hi>Jan</hi>. 1682/3. 
+<hi>The Surviving Heir of That Honour, and Family, having ever 
+Demean'd himself with a Remarkable Loyalty, and Respect, toward 
+the King, and his Government</hi>. 
+</p>
+         </div>
+         <div xml:id="a1" type="Article">
+            <head>Numb. 110</head>
+            <head>THE OBSERVATOR. In <hi>DIALOGUE</hi>.</head>
+            <head>
+               <hi rend="bold">SATURDAY</hi>, March 11. 1681. <note type="ed" anchored="true">sic</note>
+            </head>
+            <p>
+               <hi>WHIG</hi>.     COme; I'le shew ye my <hi>study,</hi> Tory. 
+</p>
+            <p>
+               <hi>TORY</hi>.     Why you have got a Brave <hi>Library</hi> here. 
+</p>
+            <p>
+               <hi>Wh</hi>.     For a <hi>Choice Collection,</hi> let me tell ye, as 
+any is in <hi>Christendom</hi>. 
+</p>
+            <p>
+               <hi>To</hi>.     You have all the <hi>Greek</hi> and <hi>Latin 
+Fathers,</hi> I suppose; the <hi>Councells,</hi> the 
+<hi>Schoolmen,</hi> and those People. 
+</p>
+            <p>
+               <hi>Wh</hi>.     I had'em all; but there's a great deal of 
+<hi>Trash;</hi> and so I e'en rid my hands of'em; though some of'em 
+did pretty well too; considering those <hi>Dark Times</hi>. Now 
+here can I sit as <hi>Snug</hi> as a <hi>Hare</hi> in her 
+<hi>Form,</hi> and Chat away a Winters Evening with a <hi>Good 
+Fire,</hi> a <hi>Pipe,</hi> and a <hi>Friend,</hi> and never feel how 
+the time spends. 
+</p>
+            <p>
+               <hi>To</hi>.     Well! Andy why should not You and I keep our 
+<hi>Conferences</hi> here too? 
+</p>
+            <p>
+               <hi>Wh</hi>.     Best of all: There's no body within hearing; and 
+then we have our <hi>Books</hi> and <hi>Papers</hi> about us, and all 
+in such Order, that I'le lay my Finger, Blindfold, upon any book 
+you'le call for. 
+</p>
+            <p>
+               <hi>To</hi>.     But what Subject are they mostly of? 
+</p>
+            <p>
+               <hi>Wh</hi>.     Matters of <hi>State, History, Travells,</hi> The 
+Rights and Power of the <hi>People, Reformation, Religion, 
+Discipline, Admonitions, Remonstrances, Petitions, Appeals;</hi>
+as ye see'em mark'd upon the Shelves. But all this is nothing, 
+you'l say, when y'ave seen my <hi>Gallery</hi>. Open that same Door 
+before ye. 
+</p>
+            <p>
+               <hi>To</hi>.     Bless me! What a Treasure's here? 
+</p>
+            <p>
+               <hi>Wh</hi>.     Look ye now. That side is all <hi>News-Books,</hi>
+and <hi>Political Divinity</hi>. 
+</p>
+            <p>
+               <hi>To</hi>.     You mean <hi>Polemical</hi> Divinity I suppose. 
+</p>
+            <p>
+               <hi>Wh</hi>.     Ay Ay; 'Tis all one for that. Now all to'ther side 
+is <hi>Dissenting Protestants;</hi> as <hi>Cartwright, Brown, 
+Barrow, Robinson, Hetherington, Trask, Naylor, Best, Biddle, 
+Muggleton</hi>. And here are your <hi>Muncerians, Apostoliques, 
+Separatists, Libertines, Georgites, Familists, Ranters Seekers, 
+Sweet-Singers, Antinomians, Arrians, Socinians, Millenayres, 
+Quakers:</hi> And in Two words; all the <hi>Godly Party</hi>. They 
+make Fourteen Folio's of Catalogue. 
+</p>
+            <p>
+               <hi>To</hi>.      But ha'ye no <hi>Manuscripts?</hi>
+            </p>
+            <p>
+               <hi>Wh</hi>.     Yes I have Three cases there beyond the Chimny, 
+that I wou'd not change for <hi>Bodlies Library</hi> three times 
+over. 
+</p>
+            <p>
+               <hi>To</hi>.     What do they treat of? 
+</p>
+            <p>
+               <hi>Wh</hi>.     Two of 'em are altogether upon the <hi>Art of 
+Government,</hi> and the <hi>Third</hi> is Cramm'd with 
+<hi>Lampoon</hi> and <hi>Satyr</hi>. You sha'not name me any one Copy 
+that has scap'd me; nor any Exigent of State; but I'le furnish ye 
+out of these Papers with an Expedient for't. 
+</p>
+            <p>
+               <hi>To</hi>.     And wherein does this <hi>Art of Government</hi>
+Consist? 
+</p>
+            <p>
+               <hi>Wh</hi>.    In <hi>Foresight, Experience, Presence of Thought, 
+Prudence of Direction,</hi> and <hi>Vigour of Execution</hi>. To be 
+short; Every Motion of the <hi>Head,</hi> the <hi>Eye,</hi> the 
+<hi>Hand,</hi> the <hi>Foot,</hi> the <hi>Body,</hi> Contributes a part 
+to this Great Work. 
+</p>
+            <p>
+               <hi>To</hi>.     Is it a Science that may be Convey'd by 
+<hi>Instruction</hi>? 
+</p>
+            <p>
+               <hi>Wh</hi>.     With as much Ease as <hi>Fencing,</hi> or 
+<hi>Dancing</hi>. There are Three or Four <hi>Dissenting 
+Academies</hi> here about the Town, where People are taught to 
+<hi>Nod, Wink, Gape, Cough, Spit;</hi> Nay the very <hi>Turning</hi>
+of their <hi>Hum's</hi> and <hi>Haw's,</hi> by <hi>Rule and 
+Method;</hi> when to <hi>Smite the Breast,</hi> and when to <hi>Dust 
+the Cushion;</hi> when to <hi>Leap</hi> in the <hi>Pulpit,</hi> and 
+when <hi>to Swim;</hi> when to be <hi>Serene,</hi> and when to 
+<hi>Thunder:</hi> Nay the <hi>Faces</hi> they are to make at every 
+<hi>Period;</hi> and the very <hi>Measure</hi> of their 
+<hi>pauses;</hi> that the <hi>Parenthesis</hi> may be large enough 
+for the <hi>Groans,</hi> &amp; <hi>Ejaculations</hi> of the <hi>Secret 
+ones</hi> to <hi>Play</hi> in; they are taught to Pray for the 
+<hi>King</hi> with <hi>One Tone</hi> and <hi>Countenance,</hi> and for 
+the <hi>Parliament</hi> with <hi>another</hi>. 
+</p>
+            <p>
+               <hi>To</hi>.     I have Observ'd them indeed to Cry with a Loud 
+Voice, <hi>Lord! strengthen the Hands of the One,</hi> &amp; then 
+to drop the Note into a kinde of a Piping whisper, with a 
+<hi>Lord! Turn the Heart of the Other;</hi> which is as much as to 
+say, <hi>Alas! the Poor Gentleman is out of his way, and we must 
+set all hands at work to bring him to comply with his</hi>
+Parliament, <hi>though that</hi> Handy work, <hi>at last, bring 
+his</hi> Royall Head <hi>to the</hi> Scaffold. 
+</p>
+            <p>
+               <hi>Wh</hi>.     If you wou'd not be a <hi>Rogue</hi> now and tell 
+tales, I could let ye in to the whole <hi>Popular Mystery;</hi> and 
+shew ye the <hi>Folly,</hi> and the <hi>Vanity</hi> of any other 
+Claim to <hi>Sovereign Power</hi>. And then <hi>I</hi> have all the 
+<hi>Prints</hi> brought me as soon as ever they come out. 
+</p>
+            <p>
+               <hi>To</hi>.     Pre'thee let's fall to work then. 
+</p>
+            <p>
+               <hi>Wh</hi>.     Come, I'le give you a sight of one of my 
+<hi>Boxes</hi> first; but I must be gone in a quarter of an hour 
+upon absolute Necessity. 
+</p>
+            <p>
+               <hi>To</hi>.     Well<hi>!</hi> And whether in such hast? 
+</p>
+            <p>
+               <hi>Wh</hi>.     There's One at <hi>Newington</hi> has promis'd me an 
+<hi>Answer</hi> to the <hi>Dissenters Sayings;</hi> and then I am 
+told of a <hi>Godly Divine</hi> at <hi>Clapham,</hi> that has a 
+<hi>Reply</hi> ready to the <hi>Notes upon College</hi>. 
+</p>
+            <p>
+               <hi>To</hi>.     Let's make the best of our time then. Stay a 
+little; what have we here? 
+</p>
+            <p>
+               <hi>Wh</hi>.     Every thing is <hi>Titled,</hi> ye see, ready to 
+your hand; so that you may Pick and Chuse. 
+</p>
+            <p>
+               <hi>To</hi>.     Let me see then. <hi>Pious Frauds; Mentall 
+Reservations; Infallibility of the Assembly; Baxters Saints; 
+Cases of Conscience; Dispensations, Contributions, Maxims, 
+Intelligence, Orders, Committees, Juryes, Caballs, Religion, 
+Property, Demands, Proposals, Grievances, Pretenses, Salvo's, 
+Distinctions, Explanations, Projects, Directions, Advices, 
+Resolutions, Invectives, Fictions, Forms of Reproaches,</hi>
+suited to <hi>All Persons, Orders,</hi> and <hi>Qualities; True-Protestant 
+Privileges;</hi> The <hi>Doctrine</hi> of 
+<hi>Probabilityes,</hi> and <hi>Implicit Obedience</hi>. 
+</p>
+            <p>
+               <hi>Wh</hi>.     Now upon all these Heads, ye have <hi>Authoritys, 
+Precedents;</hi> and all the <hi>Colours, Arguments,</hi> and 
+<hi>Elucidatons</hi> that the matter will bear. 
+</p>
+            <p>
+               <hi>To</hi>.     But your <hi>Pious Frauds, Mentall Reservations, 
+Infallibility, Dispensations, Salvo's, Distinctions, 
+Probabilityes, Implicit Faith;</hi> These are all <hi>Popish 
+Points</hi>. 
+</p>
+            <p>
+               <hi>Wh</hi>.     They are so, when they are apply'd to the service 
+of the Church of <hi>Rome:</hi> but the <hi>True Protestant-Cause 
+Sanctifies</hi> the <hi>Principle</hi>. As there's a great 
+difference betwixt the <hi>Popes Excommunicating</hi> of an 
+<hi>Hereticall Prince;</hi> and the <hi>Generall Assemblys 
+Excommunicating</hi> of an <hi>Antichristian, Episcopall 
+Prince;</hi> betwixt a <hi>Popish Gunpowder-Treason,</hi> in the 
+<hi>Cellers, under the Parliament-House;</hi> and a <hi>Gunpowder 
+Commission</hi> to <hi>Kill</hi> and <hi>Slay</hi> within the 
+<hi>walls</hi> of the <hi>Same House, above ground;</hi> though to 
+Carnal Eyes they may both appear to <hi>Center</hi> in the same 
+<hi>Point:</hi> And so in like manner, betwixt a <hi>Conspiracy</hi>
+of <hi>Papists</hi> to <hi>cut off the King,</hi> and <hi>Subvert the 
+Government;</hi> and a <hi>True-Protestant-Association,</hi> to the 
+very <hi>same Effect:</hi> Nay with this Advantage too; that the 
+Latter Propounds the Accomplishing of that, in a matter of a 
+<hi>month</hi> or <hi>six weeks,</hi> which the Zeal of their Fore-fathers 
+was at least <hi>Ten,</hi> or a <hi>dozen years a doing</hi>. 
+</p>
+            <p>
+               <hi>To</hi>.     'Tis a Great Ease for a man to have all these 
+subjects <hi>Common-Plac'd</hi> to his hand. 
+</p>
+            <p>
+               <hi>Wh</hi>.     Right. And where you may turn to any thing you 
+have a mind to see, with a <hi>wet Finger</hi>. 
+</p>
+            <p>
+               <hi>To</hi>.     But Pray'e How do you approve (in many of our 
+<hi>Seisures</hi>) of the <hi>Application</hi> of <hi>Popish 
+Trinkets</hi> to <hi>Prophane Uses,</hi> which were by them 
+Dedicated to the service of a <hi>Superstitious Religion?</hi>
+            </p>
+            <p>
+               <hi>Wh</hi>.     You cannot Imagine, though an <hi>Embroder'd 
+Cope</hi> may be an <hi>Abomination,</hi> what a <hi>Cordial the 
+Pearl</hi> of it is to a <hi>True-Protestant Professor</hi>. 
+<hi>Lambs-Wool</hi> drinks no way better than out of a 
+<hi>Chalice</hi>. Or in other Cases; 'Tis but Destroying the 
+<hi>Popish Form</hi> of an <hi>Idolatrous Vessell,</hi> and the 
+<hi>Intrinsick Value</hi> is never the less <hi>Current</hi>
+according to the <hi>Standard</hi> of the <hi>Reformation</hi>. The 
+<hi>Picture</hi> of the <hi>Blessed Virgin,</hi> with our 
+<hi>Saviour</hi> in her Arms, is never a jot the worse for 
+<hi>sale</hi> to a <hi>Painter,</hi> for being an object of 
+<hi>Idolatry</hi> about the <hi>Altar</hi>. 
+</p>
+            <p>
+               <hi>To</hi>.     And yet I have seen it Committed to the 
+<hi>Flames,</hi> but it has been an Oversight, betwixt the 
+<hi>Zeal</hi> and the <hi>Ignorance</hi> of the <hi>Magistrate</hi>. 
+How many <hi>Curious Crucifixes,</hi> and <hi>Reliques,</hi> with 
+<hi>Delicate Inlayings,</hi> and <hi>Carvings</hi> have I seen 
+Expos'd at <hi>Gill</hi> the <hi>Constables</hi> in 
+<hi>Westminster;</hi> truly, at very <hi>Reasonable Rates?</hi>
+            </p>
+            <p>
+               <hi>Wh</hi>.     Not likely; but then ye must know, they were 
+<hi>Seiz'd</hi> in <hi>One Capacity,</hi> and <hi>sold</hi> in 
+<hi>Another;</hi> for they were <hi>vended</hi> in the Contemplation 
+of the <hi>Workmanship,</hi> though they were <hi>taken</hi> as the 
+<hi>Fooleries</hi> of a <hi>False Religion</hi>. We have in our days 
+seen the <hi>Representation</hi> of the <hi>Trinity,</hi> Demolish'd 
+in a <hi>Church-Window,</hi> with Extraordinary <hi>Zeal</hi> and 
+<hi>Approbation</hi>. 
+</p>
+            <p>
+               <hi>To</hi>.     Why truly I am as much against the making of any 
+<hi>Image</hi> or <hi>Figure</hi> of <hi>God the Father</hi> under the 
+<hi>Form</hi> of a <hi>Man,</hi> as any body; for <hi>Twenty 
+Mistakes</hi> and <hi>Inconveniences</hi> that may arise upon the 
+consideration of such an <hi>Object;</hi> but I know no hurt in the 
+world in the Representing of our <hi>Saviour</hi> under a <hi>Human 
+shape;</hi> or of the <hi>Holy Ghost</hi> under the shadow of a 
+<hi>Dove:</hi> beside that the thing is presum'd to have been done 
+by <hi>Authority;</hi> for otherwise, the same <hi>Zeal</hi> that 
+Destroys but the <hi>Window</hi> of the <hi>Church,</hi> would not 
+stick at the Destroying perhaps of every thing else that belongs 
+to't. But prethee tell me One thing, suppose the <hi>Blessed 
+Trinity,</hi> so Represented, should be the <hi>Seal</hi> of an 
+<hi>Ancient</hi> Community, or <hi>Society</hi> of men, what's the 
+difference betwixt that <hi>Figure,</hi> in <hi>Graving,</hi> or in 
+<hi>Nealing;</hi> in <hi>Silver,</hi> or in <hi>Glass?</hi> Would not 
+you as much <hi>scruple</hi> that putting of that <hi>Seal</hi> to a 
+<hi>Lease,</hi> as the <hi>seeing</hi> of that <hi>Figure</hi> in a 
+<hi>Church-Window?</hi>
+            </p>
+            <p>
+               <hi>Wh</hi>.     No; by no means; for the <hi>One</hi> is Purely a 
+<hi>Civil Act;</hi> and the <hi>Other</hi> has a Regard to 
+<hi>Religious Worship</hi>. 
+</p>
+            <p>
+               <hi>To</hi>.     And yet this <hi>Image,</hi> or <hi>Pretended 
+Resemblance,</hi> is the <hi>same thing</hi> in the <hi>One,</hi> as 
+it is in the <hi>Other</hi>. Well! I am Extremly pleas'd with this 
+Private Corner for Liberty of Discourse. 
+</p>
+            <p>
+               <hi>Wh</hi>.     Here you may have all the <hi>Papers</hi> as they 
+come out, <hi>Fresh and Fresh:</hi> All the <hi>Arguments,</hi> and 
+<hi>Politiques</hi> of the <hi>Dissenting Party;</hi> Chuse <hi>your 
+own Theme,</hi> Take <hi>your own time,</hi> and Treat upon <hi>your 
+own Conditions</hi>. 
+</p>
+            <p>
+               <hi>To</hi>.     That's as fair as any Mortall can wish; So that 
+when the day does not afford other matter to work upon, we may 
+Look a little more narrowly into the <hi>Merits</hi> of the 
+<hi>Cause</hi>. And so much for that. But here let me ask ye a 
+Question: Do you know a <hi>Little Cause-Jobber</hi> yonder 
+somewhere about <hi>Kings-street, in Covent Garden?</hi>
+            </p>
+            <p>
+               <hi>Wh</hi>.     Does he not use the <hi>Christian Coffee-House?</hi>
+            </p>
+            <p>
+               <hi>To</hi>.     The very same. He was saying t'other day that 
+[<hi>L'Estrange</hi> was a <hi>Pensioner of Cromwels;</hi> a 
+<hi>Papist;</hi> and that he durst not bring his <hi>Action</hi>
+against any man for <hi>Calling</hi> him so: That he was a 
+<hi>Rogue;</hi> a <hi>Fidler;</hi> Liv'd in <hi>Covent-Garden</hi> a 
+good while, and got his <hi>Living</hi> by his <hi>Trade;</hi> And 
+that a <hi>Magistrate,</hi> not far from that place, would 
+<hi>Justify</hi> it. The Two first Points, I suppose, will be 
+Disputed in another place: And for the <hi>Fidler:</hi> 'Tis well 
+known that <hi>L'Estrange</hi> liv'd Eight or Nine years in one of 
+the <hi>Piazza-Houses</hi> there; and kept <hi>Servants</hi> that 
+would have Scorn'd to have Sorted themselves with any thing so 
+mean as this <hi>Paltry Varlet</hi>. But to the Business. How far 
+will the <hi>Privilege</hi> of a <hi>True-Protestant-Whig</hi>
+Justify a <hi>Villain</hi> in so many <hi>Scandalous Lyes?</hi>
+            </p>
+            <p>
+               <hi>Wh</hi>.     So far as the <hi>Common Good</hi> of the 
+<hi>Cause</hi> is more Valuable then the <hi>single Credit</hi> of a 
+<hi>Private Person</hi>. But say ye now to <hi>Curtis's 
+Advertisement</hi> (in his Last <hi>Mercury</hi>) of <hi>Tong's 
+Narrative,</hi> and <hi>Case;</hi> concerning <hi>L'Estrange,</hi>
+printed for C W? 
+</p>
+            <p>
+               <hi>To</hi>.     I say, 'tis <hi>first,</hi> a <hi>Cheat;</hi> for 'tis 
+none of <hi>Tong's Writing;</hi> 2<hi>1y,</hi> 'Tis <hi>Another 
+Cheat;</hi> for 'twas Printed for <hi>Langley Curtis,</hi> with his 
+Name to <hi>Tongs Appointment</hi> for the Printing of it: Only he 
+has Fobb'd a <hi>New,</hi> and a <hi>False Title-Page</hi> to't. But 
+what says Mr. <hi>Oates,</hi> all this while, to <hi>L'Estranges 
+Enformation</hi> against <hi>Tonge,</hi> in the <hi>Shammer 
+Shamm'd?</hi> where that young Fellow has the Impudence to declare 
+under his hand, the very <hi>Foundations</hi> of <hi>Oates's</hi>
+Plot to be a <hi>Cheat:</hi> And <hi>I appeal to all Good 
+Protestants for Justice upon that Scandalous Wretch</hi>. 
+</p>
+            <p>
+               <hi>Wh</hi>.     Nay, 'tis a horrible Abuse, and really the man 
+stands in's own light: What was't? 500 or a 1000 Pound that he 
+recover'd of One that did not say the Hundredth part of what this 
+comes to? The Lord Deliver me! I knew the Time when 'twas <hi>half 
+a Hanging-matter</hi> to have made the least doubt of any Branch 
+of the Hellish Plot: But for this Audacious Fool to say in 
+Expresse Terms, that [<hi>the</hi> Four Jesuites Letters, 
+<hi>wherein</hi> Oates <hi>pretended was the whole Discovery, 
+were</hi> counterfeits] is utterly Intolerable. I'le e'en go 
+my ways immediately, and talk with the Doctor about it. 
+</p>
+            <p>
+               <hi>London</hi>, Printed for <hi>Joanna Brome</hi>, at the Gun in S. 
+<hi>Pauls</hi> Church-yard. 
+</p>
+         </div>
+         <div xml:id="a2" type="Article">
+            <head>Numb. 1.</head>
+            <head>THE OBSERVATOR. In <hi>QUESTION</hi> and <hi>ANSWER</hi>.</head>
+            <head>
+               <hi rend="bold">WEDNESDAY</hi>, April 13, 1681.</head>
+            <p>
+               <hi>Q</hi>.     <hi>WELL! They are so. But do you think now to 
+bring'um to their Wits again with a</hi> Pamphlet? 
+</p>
+            <p>
+               <hi>A</hi>.     Come, Come; 'Tis the <hi>Press</hi> that has made'um 
+<hi>Mad</hi>, and the <hi>Press</hi> must set'um <hi>Right</hi> again. 
+The Distemper is <hi>Epidemical;</hi> and there's no way in the 
+world, but by <hi>Printing</hi>, to convey the <hi>Remedy</hi> to the 
+<hi>Disease</hi>. 
+</p>
+            <p>
+               <hi>Q</hi>.     <hi>But what is it that you call a</hi> Remedy? 
+</p>
+            <p>
+               <hi>A</hi>. The <hi>Removing</hi> of the <hi>Cause</hi>. That is to 
+say, the <hi>Undeceiving</hi> of the <hi>People:</hi> for they are 
+well enough Disposed, of themselves, to be Orderly, and Obedient; 
+if they were not misled by <hi>Ill Principles</hi>, and Hair'd and 
+Juggled out of their Senses with so many Frightful <hi>Stories</hi>
+and <hi>Impostures</hi>. 
+</p>
+            <p>
+               <hi>Q</hi>.     <hi>Well! to be Plain and Short; You call your self 
+the</hi> Observator: <hi>What is it now that you intend for the 
+Subject of your</hi> Observations&gt;
+</p>
+            <p>
+               <hi>A</hi>.     Take it in few words then. My business is, to 
+encounter the <hi>Faction</hi>, and to Vindicate the 
+<hi>Government;</hi> to detect their <hi>Forgeries;</hi> to lay open 
+the Rankness of their <hi>Calumnies</hi> and <hi>Malice;</hi> to 
+Refute their <hi>Seditious Doctrines;</hi> to expose their 
+<hi>Hypocrisy</hi>, and the <hi>bloudy Design</hi> that is carry'd 
+on, under the Name, and Semblance, of <hi>Religion</hi>; And, in 
+short, to lift up the Cloke of the <hi>True Protestant</hi> (as he 
+Christens himself) and to shew the People, the <hi>Jesuite</hi>
+that lies skulking under it. 
+</p>
+            <p>
+               <hi>Q</hi>.     <hi>Shall the</hi> Observator <hi>be a</hi> Weekly 
+Paper, <hi>or How?</hi>
+            </p>
+            <p>
+               <hi>A</hi>.     No, No; but oftner, or seldomer, as I see Occasion. 
+</p>
+            <p>
+               <hi>Q</hi>.     <hi>Pray favour me a word; When you speak of a</hi>
+True Protestant, <hi>don't you mean a</hi> Dissenting Protestant? 
+</p>
+            <p>
+               <hi>A</hi>.     Yes, I do: For your <hi>Assenting</hi> and 
+<hi>Consenting Protestant</hi> (you must know) is a 
+<hi>Christian</hi>. 
+</p>
+            <p>
+               <hi>Q</hi>.     <hi>And is not a</hi> Dissenting Protestant <hi>a</hi>
+Christian too? 
+</p>
+            <p>
+               <hi>A</hi>.     Peradventure, he <hi>is</hi> one; peradventure, 
+<hi>not:</hi> For a <hi>Dissenter</hi> has his Name from his 
+<hi>Disagreement</hi>, not from his <hi>Perswasion</hi>. 
+</p>
+            <p>
+               <hi>Q</hi>.     <hi>What is a Dissenter then?</hi>
+            </p>
+            <p>
+               <hi>A</hi>.     Tis Impossible to say either what a <hi>Dissenter 
+IS</hi>, or what he is <hi>NOT</hi>. For he's a <hi>NOTHING;</hi> that 
+may yet come to be <hi>ANY thing</hi>. He may be a 
+<hi>Christian;</hi> or he may be a <hi>Turk;</hi> But you'l find the 
+best account of him in his <hi>Name</hi>. <hi>A DISSENTER, is one 
+that thinks OTHERWISE</hi>. That is to say, let the 
+<hi>Magistrate</hi> think what he pleases, the <hi>Dissenter</hi>
+will be sure to be of <hi>another Opinion</hi>. A <hi>Dissenter</hi>
+is not of <hi>This</hi>, or of <hi>That</hi>, or of <hi>Any 
+Religion;</hi> but <hi>A Member Politique of an Incorporate 
+Faction</hi>: or Otherwise; A <hi>Protestant-Fault-Finder</hi> in a 
+<hi>Christian Commonwealth</hi>. 
+</p>
+            <p>
+               <hi>Q</hi>.     <hi>Well! but tho' a</hi> Dissenter <hi>may be</hi> any 
+thing; <hi>A</hi> Dissenting Protestant <hi>yet tells ye</hi> what 
+<hi>he</hi> Is. 
+</p>
+            <p>
+               <hi>A</hi>.     He does so, he tells ye that he <hi>is</hi> a 
+<hi>Negative</hi>: an <hi>Anti-Protester;</hi> One that <hi>Protests 
+AGAINST</hi>, but not <hi>FOR</hi> any thing. 
+</p>
+            <p>
+               <hi>Q</hi>.     <hi>Ay; but so long as he opposes the</hi>
+Corruptions <hi>of the Church of</hi> Rome. 
+</p>
+            <p>
+               <hi>A</hi>.     Well: And so he does the <hi>Rites</hi>, and 
+<hi>Constitutions</hi> of the Church of <hi>England</hi> too. As a 
+<hi>Protestant</hi>, he does the <hi>former;</hi> and the 
+<hi>Other</hi> as a <hi>Dissenter</hi>. 
+</p>
+            <p>
+               <hi>Q</hi>.     <hi>But there is no</hi> Uniting <hi>of These</hi>
+Dissenters? 
+</p>
+            <p>
+               <hi>A</hi>.     You shall as soon make the Winds blow the same way, 
+from all the Poynts of the Compass. 
+</p>
+            <p>
+               <hi>Q</hi>.     <hi>There are</hi> Good <hi>and</hi> Bad, <hi>of</hi> all 
+Opinions, <hi>there's no doubt on't: But do you think it fayr, to 
+Condemn a</hi> whole Party <hi>for some</hi> Ill men <hi>in't?</hi>
+            </p>
+            <p>
+               <hi>A</hi>.     No, by no means: The <hi>Party</hi> is neither the 
+<hi>Worse,</hi> for having <hi>Ill</hi> men in it, nor the 
+<hi>Better,</hi> for <hi>Good</hi>. For whatever the 
+<hi>Members</hi>are, the <hi>Party</hi> is a <hi>Confederacy;</hi> as 
+being a <hi>Combination</hi> against the <hi>Law</hi>. 
+</p>
+            <p>
+               <hi>Q</hi>.     But <hi>a man may</hi> Mean honestly, <hi>and yet 
+perhaps ly under some</hi> Mistake. <hi>Can any man help his 
+Opinion?</hi>
+            </p>
+            <p>
+               <hi>A</hi>.     A man may <hi>Mean well,</hi> and <hi>Do Ill</hi>; he 
+may shed <hi>Innocent Bloud,</hi> and <hi>think he does God good 
+Service</hi>. 'Tis True: A man cannot help <hi>Thinking'</hi> but he 
+may help <hi>Doing:</hi> He is <hi>Excusable</hi> for a 
+<hi>Private</hi> Mistake, for <hi>That's</hi> an Error only to 
+<hi>himself;</hi> but when it comes once to an <hi>Overt Act</hi>, 
+'tis an <hi>Usurpation</hi> upon the <hi>Magistrate</hi>, and there's 
+no Plea for't. 
+</p>
+            <p>
+               <hi>Q</hi>.     <hi>You have no kindnesse, I perceive, for a</hi>
+Dissenting Protestant; <hi>but what do you think of a bare</hi>
+Protestant <hi>without any</hi> Adjunct? 
+</p>
+            <p>
+               <hi>A</hi>.     I do look upon <hi>Such</hi> a <hi>Protestant</hi> to 
+be a kind of an <hi>Adjective Noun-Substantive; It requires 
+something to be joyn'd with it, to shew its Signification</hi>. By 
+<hi>Protestancy</hi> in <hi>General</hi> is commonly understood a 
+<hi>Separation</hi> of Christians from the Communion of the Church 
+of <hi>Rome:</hi> But to <hi>Oppose Errors,</hi> on the <hi>One 
+hand</hi>, is not Sufficient, without keeping our selves 
+<hi>Clear</hi> of Corruptions, on the <hi>Other</hi>. Now it was the 
+<hi>Reformation</hi>, not the <hi>Protestation</hi>, that Settled us 
+upon a <hi>true Medium</hi> betwixt the two <hi>Extremes</hi>. 
+</p>
+            <p>
+               <hi>Q</hi>.     <hi>So that you look upon the</hi> Protestation, 
+<hi>and the</hi> Reformation, <hi>it seems, as two several 
+things</hi>. 
+</p>
+            <p>
+               <hi>A</hi>.     Very right; But in such a manner only, that the 
+<hi>Former,</hi> by Gods Providence, made way for the <hi>Other</hi>. 
+</p>
+            <p>
+               <hi>Q</hi>.     <hi>But are not all</hi> Protestants <hi>Members of 
+the</hi> Reformed Religion? 
+</p>
+            <p>
+               <hi>A</hi>.     Take notice, <hi>First,</hi> that the <hi>Name</hi>
+came Originally from the <hi>Protestation</hi> in 1529. against the 
+<hi>Decree of Spires;</hi> and that the <hi>Lutheran Protestants</hi>
+and <hi>Ours</hi> of the Church of <hi>England,</hi> are not of the 
+<hi>Sam Communion</hi>. Now <hi>Secondly;</hi> If you take 
+<hi>Protestants</hi> in the <hi>Latitude</hi> with our 
+<hi>Dissenters,</hi> they are not so much a <hi>Religion,</hi> as a 
+<hi>Party;</hi> and whoever takes this Body of <hi>Dissenters</hi>
+for <hi>Members</hi> of the <hi>Reformed Religion</hi> sets up a 
+<hi>Reformation</hi> of a <hi>hundred and fifty Colours</hi> and as 
+may [sic] <hi>Heresies</hi>. The <hi>Anabaptists, Brownists, 
+Antinomians, Familists, &amp;c</hi>. do all of the set up for 
+<hi>Dissenting Protestants;</hi> but God forbid we should ever 
+enter these <hi>People</hi> upon the Roll of the 
+<hi>Reformation</hi>. 
+</p>
+            <p>
+               <hi>Q</hi>.     Well! <hi>but what do you think of</hi> Protestant 
+Smith <hi>and</hi> Protestant Harris? 
+</p>
+            <p>
+               <hi>A</hi>.     Just as I do of <hi>Protestant Muncer,</hi> and 
+<hi>Protestant Phifer;</hi> a Brace of <hi>Protestants</hi> that cost 
+the Empire 150000 Lives: and our own <hi>Pretended Protestants</hi>
+too, of Later Date, have cost <hi>This Nation little lesse</hi>. 
+</p>
+            <p>
+               <hi>Q</hi>.     <hi>Ay: But these are men of quite another Temper: 
+Do not you see how zealous they are for the Preservation of 
+the</hi> King's Person, <hi>the</hi> Government, <hi>and the</hi>
+Protestant Religion? 
+</p>
+            <p>
+               <hi>A</hi>.     I <hi>See</hi> well enough what they <hi>Say,</hi> and 
+I <hi>know</hi> what they <hi>do</hi>. Consider, <hi>First,</hi> that 
+they are Profess'd <hi>Anabaptists: Smith</hi> no less than a 
+<hi>pretended Prophet;</hi> and the <hi>Other,</hi> a kind of a 
+<hi>Wet Enthusiast</hi>. <hi>Secondly;</hi> 'tis the very 
+<hi>Doctrine</hi> of the <hi>Sect</hi> to root out <hi>Magistracy,</hi>
+Cancel <hi>Humane Laws; Kill,</hi> and take <hi>Possession;</hi> and 
+<hi>wash their Feet with the Bloud of the Ungodly;</hi> and where 
+ever they have set Footing, they have <hi>Practic'd</hi> what they 
+<hi>Taught</hi>. Are not these likely men now, to help out a 
+<hi>King,</hi> and a <hi>Religion,</hi> at a dead lift? If you would 
+be further satisfy'd in the Truth of things, reade <hi>Sleidan, 
+Spanhemius, Gastius, Hortensius, Bullinger, Pontanus,</hi> The 
+<hi>Dipper dipp'd, Bayly's Disswasive, Pagets Heresiography,</hi>
+&amp;c. <hi>Hortensius</hi> tells ye, how <hi>Jack of Leydens 
+Successor</hi> murthered his Wife, to make way to his Daughter, 
+<hi>P</hi>. 74. and after that, cut a girls throat, for fear she 
+should tell Tales. <hi>Gastius</hi> tells us of a Fellow that cut 
+off his brothers Head, as by Impulse, and then cry'd, <hi>The Will 
+of God is fulfilled, lib</hi>. I. <hi>Pa</hi>. 12. <hi>Jack of 
+Leyden</hi> started up from Supper, <hi>to do some business</hi> (he 
+said) <hi>which the Father had commanded him,</hi> and cut off a 
+Soldiers Head; and afterwards cut off his Wives head in the 
+<hi>Market-place</hi>. <hi>Sleydans Comment. Lib</hi>. 10. 
+</p>
+            <p>
+               <hi>Q</hi>.     <hi>You will not make the</hi> Protestant-Mercury 
+<hi>to be an</hi> Anabaptist <hi>too, will ye?</hi>
+            </p>
+            <p>
+               <hi>A</hi>.     If you do make him <hi>any thing,</hi> I'le make him 
+<hi>That</hi>. But in one word, they are <hi>Factious</hi> and 
+<hi>Necessitous;</hi> and consequently, the fittest Instruments in 
+the world, for the promoting of a <hi>Sedition</hi>. First, as they 
+are <hi>Principled</hi> for't; and then, in respect of their 
+<hi>Condition;</hi> for they are every man of them under the Lash 
+of the Law, and Retainers to Prisons; So that in their 
+<hi>Fortunes</hi> they can hardly be <hi>worse</hi>. Insomuch, that 
+it is a common thing for them to lend a Name to the countenancing 
+of a Libel which no body else dares own. 
+</p>
+            <p>
+               <hi>Q</hi>.     <hi>Well! but let them be as</hi> poor, <hi>and</hi>
+malicious <hi>as</hi> Devils, <hi>so long as they have neither</hi>
+Brains, <hi>nor</hi> Interest, <hi>what hurt can their Papers 
+do?</hi>
+            </p>
+            <p>
+               <hi>A</hi>.     The Intelligences, you must know, that bear their 
+<hi>Names,</hi> are not of <hi>their Composing,</hi> but the Dictates 
+of a <hi>Faction,</hi> and the Venom of a <hi>Club of Common-wealths-men</hi>
+instill'd into those Papers. 
+</p>
+            <p>
+               <hi>Q</hi>.     <hi>These are</hi> Words, <hi>all this while, 
+without</hi> Proofs; <hi>Can you shew us particularly where the 
+Venom lies?</hi>
+            </p>
+            <p>
+               <hi>A</hi>.     It is the business of every Sheet they Publish, to 
+Affront the <hi>Government</hi> the <hi>Kings Authority,</hi> and 
+<hi>Administration;</hi> the <hi>Privy-Council;</hi> the <hi>Church, 
+Bench, Juries, Witnesses;</hi> All <hi>Officers, Ecclesiastical, 
+Military,</hi> and <hi>Civil:</hi> and no matter for <hi>Truth</hi> or 
+<hi>Honesty,</hi> when a <hi>Forg'd Relation</hi> will serve their 
+turn. 'Tis a common thing with them, to get half a dozen 
+<hi>Schismaticall</hi> Hands to a <hi>Petition,</hi> or 
+<hi>Address</hi> in a corner, and then call it, the sense of the 
+Nation: and when all's done, they are not above twenty Persons, 
+that make all this clutter in the Kingdom. 
+</p>
+            <p>
+               <hi>Q</hi>.     <hi>But to what End do they all this?</hi>
+            </p>
+            <p>
+               <hi>A</hi>.     To make the Government <hi>Odious,</hi> and 
+<hi>Contemptible;</hi> to magnifie their own Party; and fright the 
+People out of their <hi>Allegeance,</hi> by <hi>Counterfeit Letters, 
+Reports,</hi> and <hi>false Musters,</hi> as if the sober and 
+considerable part of the Nation were all on their side. 
+</p>
+            <p>
+               <hi>Q</hi>.     <hi>We are in Common Charity</hi> to allow, 
+<hi>for</hi> Errors, <hi>and</hi> Mis-reports, <hi>and not presently 
+to make an Act of</hi> Malice, <hi>and</hi> Design, <hi>out of 
+every</hi> Mistake. <hi>Can you shew me any of these</hi>
+Counterfeits, <hi>and</hi> Impostures <hi>that you speak of? 
+These</hi> Cheats <hi>upon the</hi> People, <hi>and</hi> Affronts 
+<hi>upon the</hi> Government? 
+</p>
+            <p>
+               <hi>A</hi>.     Yes, yes; Abundantly. And Il'e give you Instances 
+immediately upon every poynt you'l ask me: Only This note, by the 
+way; That let them be <hi>mistakes,</hi> or <hi>Contrivances,</hi> or 
+what you will, they all run Unanimously <hi>against</hi> the 
+Government, without so much as one Syllable in <hi>favour</hi> of 
+it: Which makes the matter desperately suspitious. 
+</p>
+            <p>
+               <hi>Q</hi>.     <hi>Let me see then, in the First place, where 
+any</hi> Affront <hi>is put upon the</hi> Government. 
+</p>
+            <p>
+               <hi>A</hi>.     <hi>Some Persons</hi> (Says Smiths Prot. Int. N. 7.) 
+<hi>in</hi> Norwich, <hi>&amp;c. who have a greater stock of</hi>
+Confidence, <hi>and</hi> Malice, <hi>then</hi> Wisdom, <hi>and</hi>
+Honesty, <hi>are so far transported with</hi> Zeal <hi>to serve 
+the</hi> Devil, <hi>or his</hi> Emissaryes <hi>the</hi> Papists, 
+<hi>that they are now Prosecuting several</hi> Dissenting 
+Protestants <hi>upon</hi> Stat. 35. Eliz. <hi>&amp;c.</hi> (And so 
+the Protestant-Mercury, <hi>N.</hi> 15.) <hi>Some People at</hi>
+Norwich, <hi>are playing the</hi> Devil <hi>for</hi> Godsake: 
+<hi>several honest, peaceable,</hi> Protestant Dissenters, 
+<hi>having been troubled for not coming to</hi> Church, <hi>or 
+having been Present at</hi> Religious Meetings &amp;c.] Now 
+what greater <hi>Affront</hi> can there be to <hi>Government,</hi>
+then This language, <hi>First,</hi> from an <hi>Anabaptist</hi> that 
+is a <hi>Professed Enemy</hi> to <hi>all Government;</hi> and 
+<hi>Secondly,</hi> from a <hi>Private Person,</hi> Bare-fac'd, to 
+arraign a <hi>Solemn Law:</hi> A <hi>Law</hi> of this 
+<hi>Antiquity;</hi> a <hi>Law of Queen Elizabeth's,</hi> (a Princesse 
+so much Celebrated by our <hi>Dissenters themselves</hi> for her 
+<hi>Piety, Good Government,</hi> and <hi>Moderation;</hi>) a 
+<hi>Law</hi> which, upon Experience, has been found so 
+<hi>Necessary,</hi> that the bare <hi>Relaxing</hi> of it, cost the 
+<hi>Life</hi> of a <hi>Prince,</hi> the <hi>Bloud</hi> of <hi>two or 
+three hundred thousand</hi> of his <hi>Subjects</hi>, and a 
+<hi>Twenty-years-Rebellion?</hi> To say nothing of the dangerous 
+Consequence of making it <hi>Unsafe</hi> for <hi>Magistrates</hi> to 
+discharge their Dutyes, for fear of <hi>Outrages,</hi> and 
+<hi>Libells</hi>. 
+</p>
+            <p>
+               <hi>Q</hi>.     <hi>Well! but what have you to say now to the</hi>
+Kings Authority, <hi>his</hi> Administration, <hi>and his</hi> Privy 
+Council. 
+</p>
+            <p>
+               <hi>A</hi>.     <hi>Smith</hi> (in his <hi>Vox Populi, P.</hi> 13.) 
+saith, that <hi>the King is oblig'd to pass or Confirm those Laws 
+his People shall Chuse</hi>.] at which rate, if they shall 
+tender him a Bill for the <hi>Deposing</hi> of himself, he is bound 
+to <hi>agree</hi> to't. <hi>Secondly,</hi> in the same Page, <hi>he 
+Denies the Kings Power of Proroguing, or Dissolving 
+Parliaments;</hi> which is an <hi>Essential</hi> of 
+<hi>Government</hi> it self, under what Forms so-ever, and he's no 
+longer a <hi>King, without it</hi>. And then for his 
+<hi>Administration, P</hi>. 1. the <hi>Anabaptist</hi> charges upon 
+his Majesty [<hi>those many surprizing and astonishing 
+Prorogations, and Dissolutions</hi> (as he has worded his Meaning) 
+<hi>to be procur'd by the Papists</hi>.] And then, <hi>P</hi> 15. 
+he wounds both the <hi>King,</hi> and his <hi>Council,</hi> at a 
+Blow; in falling upon <hi>those that make the King break his 
+Coronation-Oath;</hi> arraigning his <hi>Council</hi> in the 
+<hi>First</hi> place, and the <hi>King himself</hi> in the 
+<hi>Second'</hi> and that for no less than the breach of 
+<hi>Oath,</hi> and <hi>Faith</hi>.——Wee'l talk out the Rest at our 
+next Meeting. 
+</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>H. Brome,</hi>, at the Gun in <hi>S. 
+Pauls</hi> Church-yard. 
+</p>
+         </div>
+         <div xml:id="a3" type="Article">
+            <head>Numb. 13.</head>
+            <head>THE OBSERVATOR In QUESTION and ANSWER.</head>
+            <head>
+               <hi rend="bold">SATURDAY</hi>, May 14, 1681.</head>
+            <p>
+               <hi>Q</hi>u.     <hi>But which way lies</hi> your <hi>Humour</hi> then? 
+</p>
+            <p>
+               <hi>A</hi>.     My way (and you must know) lies more to <hi>History,</hi> and 
+<hi>Books,</hi> and <hi>Politicks,</hi> and <hi>Religion,</hi> and <hi>such as 
+That,</hi> But take this along with you too; that I am for turning over of 
+<hi>Men,</hi> as well as <hi>Books;</hi> for that's the Profitable Study when 
+all's done. 
+</p>
+            <p>
+               <hi>Q</hi>.     <hi>Pre'thee commend me to the</hi> Common Hangman 
+<hi>then, If He that</hi> turns over <hi>the most</hi> men <hi>be the</hi>
+Greatest Philosopher. <hi>But how</hi> turning over <hi>of</hi> Men? 
+</p>
+            <p>
+               <hi>A</hi>.     That is to say, I <hi>Read</hi> Them; I <hi>Study</hi> them; I 
+speak of <hi>turning over</hi> their <hi>Actions,</hi> not their <hi>Body s</hi>. 
+And Pray observe my <hi>Simile</hi>. <hi>Every</hi> Action <hi>of a man s</hi>
+Life <hi>resembles</hi> a Page <hi>in a</hi> Book. D'ye Mark me? 
+</p>
+            <p>
+               <hi>Q</hi>.     <hi>I were to Blame else, But what are the Authors that you 
+would recommend to a body s Reading?</hi>
+            </p>
+            <p>
+               <hi>A</hi>.     Why thereafter as the Subject is, As for <hi>History;</hi> ye 
+have <hi>Clarks Lives,</hi> and <hi>Examples; Lloyd's Memoirs;</hi> the 
+<hi>Popes Warehouse,</hi> &amp;c. For <hi>Politicks;</hi> There's Mr. 
+<hi>Baxters Holy Commonwealth,</hi> the <hi>Assemblys Catechism,</hi>
+The Letter about the <hi>Black Box,</hi> &amp;c. For <hi>Law,</hi> ye have 
+Mr. <hi>Prinn's Soveraign Power of Parliaments; Smiths Vox Populi,</hi>
+&amp;c. For <hi>Morals,</hi> There's <hi>Youth's Behaviour;</hi> And then 
+For <hi>Deep Knowledge,</hi> ye have <hi>Brightman's Revelations 
+Reveal'd; Lilly's Hieroglyphicks;</hi> the <hi>Northern Star, Jones of the 
+Heart:</hi> All Excellent Pieces in their Kinds, and not Inferior (perhaps) to 
+any of the Ancients. 
+</p>
+            <p>
+               <hi>Q</hi>.     <hi>I was never so happy as to meet with any of these 
+Authors. But what d'ye think of</hi> Cornelius Tacitus? 
+</p>
+            <p>
+               <hi>A</hi>.     A <hi>Talking, Tedious, Empty Fellow</hi>. 
+</p>
+            <p>
+               <hi>Q</hi>.     <hi>Well but is not</hi> Titus Livius <hi>a pretty Good</hi>
+Historian? 
+</p>
+            <p>
+               <hi>A</hi>.     Ha Ha Ha. That Same <hi>Titus</hi> is an Errant <hi>Puppy,</hi>
+a <hi>Damn'd, Insipid, Lying Coxcomb</hi>. <hi>Titus Livius</hi> a good 
+<hi>Historian</hi> sayst thou? Why if I had a <hi>Schoolboy</hi> that writ 
+such <hi>Latin</hi> I'de tickle his <hi>Toby</hi> for him. 
+</p>
+            <p>
+               <hi>Q</hi>.     <hi>But what's your Opinion of</hi> Caesars Commentaries 
+<hi>then? I mean, for a</hi> Narrative? 
+</p>
+            <p>
+               <hi>A</hi>.     A <hi>Narrative</hi> d'ye say? Deliver me from such 
+<hi>Narratives!</hi> Why 'tis no more to be compar'd to the 
+<hi>Narratives</hi> that are written <hi>now aday s,</hi> then an <hi>Apple</hi>
+is to an <hi>Oyster</hi>. 
+</p>
+            <p>
+               <hi>Q</hi>.     <hi>But however He was a very</hi> Brave Fellow, <hi>was he 
+not?</hi>
+            </p>
+            <p>
+               <hi>A</hi>.     He was an <hi>Arbitrary,</hi> Oppressing, Tyrannical 
+<hi>Fellow</hi>. And then for his <hi>Bravery,</hi> he did pretty well at the 
+Battel of <hi>Leipsick,</hi> and after that, at <hi>Lepanto;</hi> and when you 
+have said that, you have said all. 
+</p>
+            <p>
+               <hi>Q</hi>.     <hi>You have read all these Authors, have you not?</hi>
+            </p>
+            <p>
+               <hi>A</hi>.     Why verily I <hi>have,</hi> and I have <hi>not</hi>. They are a 
+company of <hi>Lying, Ridiculing Rascals;</hi> They do not <hi>AFFECT</hi>
+me at all: they are below me, they are not worth my notice. 
+</p>
+            <p>
+               <hi>Q</hi>.     <hi>What would I give to be as well vers'd in</hi> History, <hi>as 
+you are?</hi>
+            </p>
+            <p>
+               <hi>A</hi>.     And that's Impossible, let me tell ye; Utterly Impossible: For I 
+reade just six times as much as any other Man. I have Read more 
+<hi>Folio's</hi> then ever <hi>Tostatus</hi> read <hi>Pages</hi>. In one Word; I 
+reade as much in <hi>one hour,</hi> as any other man reads in <hi>six</hi>. 
+</p>
+            <p>
+               <hi>Q</hi>.     <hi>Why how can that be?</hi>
+            </p>
+            <p>
+               <hi>A</hi>.     Why you must know I have a notable Faculty that way. I read 
+ye <hi>two Pages</hi> at a <hi>view:</hi> the <hi>Right-hand</hi> Page with 
+<hi>one eye,</hi> and the <hi>Left</hi> with <hi>t'other,</hi> and then I carry 
+<hi>three Lines</hi> before me at a time with <hi>each eye</hi>. 
+</p>
+            <p>
+               <hi>Q</hi>.     <hi>But can ye</hi> Keep <hi>what ye</hi> Reade, <hi>at this 
+rate?</hi>
+            </p>
+            <p>
+               <hi>A</hi>.     I <hi>remember</hi> six times more than I <hi>reade;</hi> for I 
+supply all that was left out, and yet 'tis a wonderfull thing, I cannot for my 
+heart's blood remember <hi>Faces</hi>. I dare swear I have taken one man 
+for another twenty times; but I am altogether for <hi>Things,</hi> and 
+<hi>Notions,</hi> d'ye see, and such like; <hi>Countenances,</hi> let me tell 
+ye, don't <hi>AFFECT</hi> me; And yet I have a strange aversion for the two 
+Faces I saw with you t'other day. 
+</p>
+            <p>
+               <hi>Q</hi>.     <hi>What D'ye mean,</hi> Kings-man <hi>and</hi> Church-man? 
+</p>
+            <p>
+               <hi>A</hi>.     <hi>Devil's-man</hi> and <hi>Damms-man:</hi> A couple of 
+<hi>Canary-Birds,</hi> I'le warrant 'em: But <hi>Kings-man</hi> is better yet 
+then <hi>Duke's-man</hi>. 
+</p>
+            <p>
+               <hi>Q</hi>.     <hi>Why do ye talk thus of men of Quality, and Considerable 
+Families?</hi>
+            </p>
+            <p>
+               <hi>A</hi>.     Well! but I may live to see their Honours laid in the dust tho' 
+for all that. Prethee why is not <hi>Circingle-man, Lawn-sleeve-man, Mitre-man,</hi>
+as good a name as <hi>Church-man?</hi> Pray what Family is the 
+same <hi>Church-man</hi> of, for I know a world of the <hi>Name?</hi> He's 
+of the <hi>Prelatical House,</hi> I suppose, Is he not? 
+</p>
+            <p>
+               <hi>Q</hi>.     <hi>Well, and is he ever the worse for that?</hi>
+            </p>
+            <p>
+               <hi>A</hi>.     Only <hi>Antichrist</hi> is the <hi>Head</hi> of the <hi>Family</hi>. 
+Come let me talk a little roundly to ye. How many sound <hi>Protestant 
+Divines</hi> may there be of that House now, d'ye think, in <hi>England,</hi>
+and <hi>Wales,</hi> and the Town of <hi>Berwick upon Tweed?</hi> not 
+above <hi>Six,</hi> if I be a <hi>Christian,</hi> and all the rest are 
+<hi>Tantivy's,</hi> and worshippers of the Beast: But I may live yet to have 
+the scowring of some of their Frocks for 'em. 
+</p>
+            <p>
+               <hi>Q</hi>.     <hi>Prethee when didst thou see Mr.</hi> Sancroft? 
+</p>
+            <p>
+               <hi>A</hi>.     Not a good while; but <hi>Harry</hi> and I had a Crash t'other 
+day yonder at <hi>Greenwich</hi>. 
+</p>
+            <p>
+               <hi>Q</hi>.     <hi>What's become of</hi> L'Estrange <hi>I wonder?</hi>
+            </p>
+            <p>
+               <hi>A</hi>.     Who! <hi>Towzer?</hi> that <hi>Impudent Dog;</hi> That 
+<hi>Tory-Rascal;</hi> That <hi>Fidling Curr</hi>. He's in the Plot with 
+<hi>Celiers,</hi> and young <hi>Tong,</hi> as sure as thou'rt alive, and as 
+Rank a <hi>Papist</hi> (let him swear what he will) as ever Piss't. 
+</p>
+            <p>
+               <hi>Q</hi>.     <hi>But has he not taken the</hi> Sacrament <hi>to the</hi>
+contrary? 
+</p>
+            <p>
+               <hi>A</hi>.     A <hi>Popish Proselyte</hi> is no more to be believ'd, upon his 
+<hi>Oath,</hi> than the <hi>Devil himself</hi> if he were to Expound upon the 
+<hi>Gospel</hi>. Why they have Dispensations to swear any thing. 
+</p>
+            <p>
+               <hi>Q</hi>.     <hi>What and continue Papists still?</hi>
+            </p>
+            <p>
+               <hi>A</hi>.     Yes: And go on still with the Hellish Popish Plot, as heartily as 
+ever they did before. Why don't you see how the Toad Brazens it out still 
+that he was not at <hi>Somerset-House?</hi> tho' <hi>Prance</hi> and 
+<hi>Mowbray</hi> swear they saw him there? 
+</p>
+            <p>
+               <hi>Q</hi>.     <hi>Well, But who knows best? He</hi> Himself, <hi>or the</hi>
+Witnesses? 
+</p>
+            <p>
+               <hi>A</hi>.     Not a fart matter; For whether 'twas so or not; It were better 
+Forty such Rogues were Hang'd then one Kings-Evidence Disparag'd. 
+</p>
+            <p>
+               <hi>Q</hi>.     <hi>But did they not swear a little short, think ye?</hi>
+            </p>
+            <p>
+               <hi>A</hi>.     Nay, they might have sworn <hi>homer,</hi> I must confess. 
+</p>
+            <p>
+               <hi>Q</hi>.     <hi>But now you mind me of</hi> Somerset-House; <hi>Do'nt 
+you remember a young Fellow of</hi> Cambridge <hi>that Refus'd to 
+receive the Sacrament, because (as he told his Master) he was reconcil'd 
+to the Church, of</hi> Rome, <hi>and Converted ,and Baptiz'd at</hi>
+Somerset-House? <hi>This is an old story ye must know. Why might not 
+this be</hi> Towzer? 
+</p>
+            <p>
+               <hi>A</hi>.     Nay as like as not, for the <hi>Universitys</hi> are the very 
+<hi>Seminarys</hi> of <hi>Popery,</hi> and it will never be well with 
+<hi>England</hi> till <hi>those Calves</hi> be turn'd a <hi>grazing</hi>. 
+</p>
+            <p>
+               <hi>Q</hi>.     <hi>But is there no believing of a</hi> Converted Papist 
+<hi>upon his</hi> Oath? <hi>Why does the Law receive 'em then (upon such 
+and such Certain Tests) for</hi> statutable Protestants? 
+</p>
+            <p>
+               <hi>A</hi>.     The <hi>Law</hi> never was among 'em as I have been. There's 
+no such thing (I tell ye) as a <hi>Converted Papist,</hi> and he shall sooner 
+change his <hi>shape,</hi> then his <hi>Nature: Kiss a Book, Kiss mine 
+Arse</hi>. 
+</p>
+            <p>
+               <hi>Q</hi>.     <hi>Why d'ye talk thus at random?</hi>
+            </p>
+            <p>
+               <hi>A</hi>.     Come, come, the <hi>Outlandish Doctor</hi> for my money: that 
+told one of the <hi>Macks</hi> t'other day in the face of the <hi>Bench,</hi>
+that <hi>he would let down his Breeches and shite upon him. Plain-dealing's a Jewell</hi>. 
+</p>
+            <p>
+               <hi>Q</hi>.     <hi>Thou'rt e'en as busy with a</hi> Backside <hi>as a</hi>
+Glyster-Pipe. <hi>But (sluttery a part) Pray have a care what ye say; for if 
+a</hi> Proselyted Papist <hi>be not to be trusted upon his</hi> Oath, <hi>what 
+becomes of the</hi> Kings Evidence <hi>that</hi> swear <hi>under the</hi>
+same Circumstances? <hi>But here's enough of this; and Pre'thee tell us 
+now, how go squares in the</hi> State <hi>all this while?</hi>
+            </p>
+            <p>
+               <hi>A</hi>.     Oh very bad, very bad, nothing but <hi>Tory-Rorys,</hi> from 
+the top to bottom. <hi>Tory-Judges; Tory-Jurys; Tory-Justices; Tory-officers; 
+Tory-Crackfarts; Tory-Pamphlets</hi>. All, <hi>Certiorari-men,</hi>
+and <hi>Yorkists</hi>. But I rattled up some of 'em there at the — <hi>What 
+d'ye call't-House</hi> — Oh they'r grown strangely Insolent since these 
+Bawling Addresses. 
+</p>
+            <p>
+               <hi>Q</hi>.     <hi>Why what do they do?</hi>
+            </p>
+            <p>
+               <hi>A</hi>.     Why they set ever <hi>Rascally Squire</hi> and <hi>Doctor 
+above</hi> me: Nay, they'l scarce put off their hats to me unless I begin; 
+and then they stand grinning at Me and my Train. Would you think now 
+that a fellow should have the Impudence to call Me to an account, for 
+nothing in the world, but saying, that <hi>he had</hi> a Bitch <hi>to his</hi>
+Wife, <hi>and</hi> she <hi>a</hi> Rogue <hi>to her</hi> Husband. And then to 
+be call'd <hi>Sirrah</hi> for my pains, only for telling a <hi>Court-Kinsman</hi>
+of his that <hi>I should Lace the Rogue, his Cozens Coat for 
+him</hi>. Well If I had not sent a Fool o'my errant I had had the Rascal in 
+<hi>Lob's</hi> Pound before this time. 
+</p>
+            <p>
+               <hi>Q</hi>.     <hi>And how came ye to miss?</hi>
+            </p>
+            <p>
+               <hi>A</hi>.     Why the Agent that I employ'd was so set upon his Guts, that 
+he never minded the discourse at the Table. We had had him else. Or if 
+he could but have got him to ha' me, we'd ha' done his business. 
+</p>
+            <p>
+               <hi>Q</hi>.     <hi>But d'ye take this to be fair dealing now; to set any man at 
+work to betray his Host; or give such language to people of Condition?</hi>
+            </p>
+            <p>
+               <hi>A</hi>.     What not when the <hi>Protestant Religion</hi> lies at 
+<hi>stake?</hi> Why Pre'thee I tell the Proudest of 'em all to their Teeth, 
+that they are <hi>Villains</hi> and <hi>Scoundrells</hi>. What do I care for 
+their <hi>Graces</hi> and <hi>Reverences</hi>. they <hi>Pimp</hi> for 
+<hi>Preferment,</hi> and some of 'em shall hear on't too <hi>next 
+Parliament</hi>. But Hark ye I have a great deal of work upon my hands, 
+and I want an <hi>Ammanuensis</hi> out of all Cry. 
+</p>
+            <p>
+               <hi>Q</hi>.     <hi>Why ye had a Pretty Fellow to'ther day, what's become of 
+him?</hi>
+            </p>
+            <p>
+               <hi>A</hi>.     I'l tell ye then. A <hi>Taylor</hi> had made him a 
+<hi>Garment:</hi> and afterwards coming to him for the <hi>mony,</hi> he 
+deny'd the Receit on't and being prest upon it, he offer'd to purge himself 
+upon <hi>Oath,</hi> that he never had any such Garment. Upon this, the 
+matter rested for a while; but any length, it was prov'd where he had 
+<hi>Sold</hi> it, and so the Taylor had satisfaction. In short, I turn'd him 
+away apon't, for he is no servant for me that's <hi>taken</hi> in a false Oath. 
+</p>
+            <p>
+               <hi>Q</hi>.     <hi>How is it possible for you to go through with all your 
+Writing-work?</hi>
+            </p>
+            <p>
+               <hi>A</hi>.     Nay that's true; considering what a deal of other business I 
+have; for really there would be no Justice done, if I did not look after 
+<hi>Witnesses, Jury's,</hi> Choice of <hi>City-Officers,</hi> Election of 
+<hi>Members</hi> to serve in <hi>Parliament,</hi> both for <hi>Town,</hi> and 
+<hi>Country;</hi> the disposing of <hi>Ecclesiastical Dignitys;</hi> the 
+<hi>Jurisdictions</hi> of <hi>Courts;</hi> the <hi>Government</hi> of 
+<hi>Prisons;</hi> the <hi>Regulation</hi> of <hi>Messengers Fees:</hi> In one 
+word, the stress of the whole Government lyes in a manner upon my 
+shoulders; And I am so <hi>Harrass'd</hi> with it, that I profess I was e'en 
+thinking, a little before the Meeting of the last Parliament, to lay out a 
+smatter of <hi>Twenty</hi> or <hi>Thirty Thousand Pound</hi> upon some 
+Pretty Seat in the Country, and Retire. 
+</p>
+            <p>
+               <hi>Q</hi>.     <hi>Why truly for a man that has seen the world as you have 
+done, what can he do better?</hi>
+            </p>
+            <p>
+               <hi>A</hi>.     Yes, I have seen the world to my Cost. 'Twas a sad thing for 
+me, you must think, that never went to bed in my Mothers House without 
+four or five Servants to wait upon me, (and if I had a mind to a <hi>Tart,</hi>
+a <hi>Custard,</hi> or a <hi>Cheesecake</hi> at any time, I had 'em all at 
+command:) to be <hi>Hackny'd,</hi> and <hi>Jolted</hi> up and down in a 
+Forreign Country like a <hi>Common Body</hi>. 
+</p>
+            <p>
+               <hi>Q</hi>.     <hi>But what was it that put you upon</hi> Travel? 
+</p>
+            <p>
+               <hi>A</hi>.     The Desire I had to see <hi>Religions,</hi> and 
+<hi>Fashions:</hi> And now it comes in my head. Did you ever see my 
+<hi>Grounds and Occasions of the Contempt of the Clergy?</hi>
+            </p>
+            <p>
+               <hi>Q</hi>.     <hi>Was That Yours Then?</hi>
+            </p>
+            <p>
+               <hi>A</hi>.     <hi>Mum;</hi> betwixt friends. But I shall have a touch ere long 
+at the <hi>Creed-making</hi> Rascal there. 
+</p>
+            <p>
+               <hi>Q</hi>.     <hi>Who's that?</hi> Athanasius? 
+</p>
+            <p>
+               <hi>A</hi>.     The very same. What a <hi>Declaration</hi> is there? 
+</p>
+            <p>
+               <hi>Q</hi>.     <hi>But how d'ye like the Kings Declaration?</hi>
+            </p>
+            <p>
+               <hi>A</hi>.     <hi>Not at all. Not at all</hi>. It runs so much upon the 
+<hi>Arbitrary,</hi> and the <hi>Prelatick?</hi> Yes, and upon something else 
+too. 
+</p>
+            <p>
+               <hi>Q</hi>.     <hi>Come, 'Faith we should not part with dry lips, What d'ye 
+think of one</hi> Roomer <hi>now to the Health of? (Hark, and I'le tell 
+ye.)</hi>
+            </p>
+            <p>
+               <hi>A</hi>.     I'le drink no <hi>Traitors</hi> Health. 
+</p>
+            <p>
+               <hi>Q</hi>.     <hi>Why prethee what is</hi> Civilly-Drinking <hi>his Health, 
+more then</hi> Dutifully Praying <hi>for't?</hi>
+            </p>
+            <p>
+               <hi>A</hi>.     No: I am of the mans mind that said, [I <hi>hope the Devil 
+will have him; and if there be any punishment in Hell greater then 
+another,</hi> I <hi>hope the Devil will tear his soul to pieces</hi>. So 
+Farewell. 
+</p>
+            <p>
+               <hi>Q</hi>.     <hi>What a Blessed sort of</hi> Subjects <hi>and</hi> Christians 
+<hi>are these, that value themselves in the</hi> One Capacity, <hi>for 
+their</hi> Contempt <hi>of</hi> Authority: <hi>And in the</hi> other, <hi>for the 
+Zeal of Flying out into</hi> Blasphemys, <hi>and</hi> Execrations, <hi>instead 
+of</hi> Prayers? <hi>But what shall</hi> I <hi>call this at last?</hi> A 
+Romantique, or <hi>an</hi> Historical Observator? 
+</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Johanna Brome,</hi> at the Gun in S. 
+<hi>Pauls</hi> Church-yard. 
+</p>
+         </div>
+         <div xml:id="a4" type="Article">
+            <head>Vol. 3, Numb. 88</head>
+            <head>THE OBSERVATOR</head>
+            <head>A Schism <hi>a Greater Judgment then a</hi> Pestilence. <hi>The</hi> Natural Rhetorique <hi>of the</hi> Non-Cons. <hi>The</hi> Danger <hi>of them</hi>. <hi>Several</hi> Sorts <hi>and</hi> Degrees <hi>of Danger</hi>. <hi>Of Coming</hi> About, <hi>or Coming</hi> Over. <hi>The</hi> Cause <hi>Transferr'd from</hi> Government <hi>to</hi> Religion.</head>
+            <head>
+               <hi rend="bold">Munday</hi>, September 28, 1685.</head>
+            <p>
+               <hi>OBSERVATOR</hi>.     If I were the <hi>Master</hi> of a <hi>Territory,</hi> I would as soon 
+<hi>Trust</hi> so many <hi>Spirits</hi> in my <hi>Pulpits, to Blow a Pestilence thorough my 
+Dominions,</hi> as so many of our <hi>Non-Conforming Divines;</hi> and reckon my 
+<hi>People</hi> much <hi>Safer</hi> too, under the Danger of a <hi>Plague,</hi> then under the 
+<hi>Consequences of a Schism:</hi> For the <hi>One Taints</hi> but the <hi rend="bold">Bodies</hi> of 
+Men; the <hi>Other Destroys</hi> their very <hi rend="bold">Souls</hi>; the <hi>One</hi> takes them 
+<hi>Promiscuously,</hi> the <hi>Good,</hi> and the <hi>Bad, One</hi> with <hi>Another:</hi> But 
+the <hi>'Tother Marks,</hi> and <hi>Singles-out</hi> the <hi>Best Men</hi> for <hi>Ruine,</hi> with 
+a <hi>Privilege</hi> of <hi>Exemption,</hi> to those that neither fear <hi>God,</hi> nor 
+<hi>Man</hi>. The <hi>One</hi> Sweeps away a number of Single <hi>Persons;</hi> the 
+<hi>Other</hi> Tears to pieces the <hi>Sinews</hi> of a <hi>Community</hi>. The <hi>One</hi>
+does, in <hi>some Degree,</hi> Conduce to the <hi>Purging</hi> of a <hi>Wicked Nation,</hi>
+when the <hi>Wrath</hi> of <hi>Heaven</hi> is <hi>Appeas'd</hi> by the <hi>Discharge</hi> of 
+some <hi>Dreadfull Judgment</hi> upon't; (as the <hi>Air</hi> is Clear'd by <hi>Thunder</hi>) 
+The <hi>Other</hi> does All that is <hi>Possible</hi> to the <hi>Filling-up</hi> of the 
+<hi>Measure</hi> of a <hi>Publique Iniquity;</hi> and the making of a Land <hi rend="bold">Ripe</hi> for 
+<hi>Vengeance</hi>. 
+</p>
+            <p>
+               <hi>TRIMMER</hi>.     Prethee what <hi>Danger?</hi> Or what needs this <hi>Lashing,</hi>
+when they are All <hi rend="bold">Tongue-Ty'd</hi>; and Driven into <hi>Holes,</hi> and <hi>Hiding-Places,</hi>
+to keep out of the way of <hi>Messengers,</hi> and <hi>Constables,</hi> and out of 
+the <hi>Clutches</hi> of the <hi>Corporation-Act,</hi> and <hi>Other Penal Laws</hi> against 
+their <hi>Private Meetings?</hi>
+            </p>
+            <p>
+               <hi>Obs</hi>.     What dost thou Talk of <hi rend="bold">Tongue-Ty'd</hi>? Why I will undertake it; (and 
+in <hi>Serious Good Earnest</hi> too) <hi>Gagg</hi> the Whole <hi rend="bold">Set</hi> of'em Give Every 
+man his <hi>Pulpit,</hi> or his <hi>Chair,</hi> and only a Bare <hi rend="bold">Standing</hi> in't; and if they 
+do not <hi>Wink,</hi> and a <hi>Nod,</hi> and <hi>Cuff</hi> any Prince in <hi>Christendom</hi>
+out of his <hi>Dominions,</hi> without a <hi>Word Speaking,</hi> I'le be thy <hi>Bond-slave</hi>. 
+Why they do not do their Bus'ness, man, by the Force of <hi>Logique, Grammar,</hi> or by 
+the <hi>Dint of Theology:</hi> But by <hi>Groans, Pangs, Tragical Ululations, Silent 
+Interjections, Whining Apostrophes, Melting Epiphonemas;</hi> and in a word; by the Helps 
+of <hi>Natural Rhetorick,</hi> without <hi>Need,</hi> of either <hi>Sense,</hi> or 
+<hi>Syllables</hi>. 
+</p>
+            <p>
+               <hi>Trim</hi>.     They <hi>Preach,</hi> and <hi>Pray,</hi> without <hi>Speaking</hi> then. 
+</p>
+            <p>
+               <hi>Obs</hi>.     No No. They do <hi rend="bold">Talk</hi> for <hi>Fashion</hi>-sake: But Observe it while 
+you will; They move the <hi>Passions</hi> of their <hi>Auditory,</hi> in the <hi>Belfry,</hi> or the 
+<hi>Church-Porch, Forty times more</hi> then Directly under the <hi>Pulpit:</hi> For the 
+<hi>Emphasis</hi> of an <hi>Action; a Motion, Tone,</hi> or <hi>Countenance,</hi> makes a 
+much Deeper <hi>Impression,</hi> than that of a <hi>Naked, Empty, Sound:</hi> And for 
+<hi>My Part,</hi> I fancy, it might do as well for 'em to <hi rend="bold">Whistle</hi> their 
+<hi>Preachments</hi> as to <hi rend="bold">Articulate</hi> them: For the <hi>Master-piece,</hi> or the 
+<hi rend="bold">All in All</hi> of it, lies Mainly, in <hi>Hitting</hi> the <hi>Tune</hi>. 
+</p>
+            <p>
+               <hi>Trim</hi>.     Dy'e call this <hi rend="bold">Reasoning</hi>, or <hi rend="bold">Ridiculing</hi>? 
+</p>
+            <p>
+               <hi>Obs</hi>.     'Tis <hi>Both</hi> in <hi>One:</hi> For it is the <hi>Ridiculous Truth,</hi> and the 
+<hi>Just Reason, Method,</hi> and <hi>State</hi> of the <hi>Matter:</hi> And when People are 
+once <hi>Juggled</hi>
+               <hi rend="bold">Out</hi>
+               <hi>of their Wits,</hi> they must be <hi>Fool'd</hi>
+               <hi rend="bold">Into</hi>
+               <hi>'em again</hi>. Now there needs no more to the doing of <hi>That Work,</hi>
+then the bare <hi>Drawing</hi> of the <hi>Curtain,</hi> and letting People into the <hi>Tyring-Room</hi>. 
+For the <hi>Cause,</hi> is all over, <hi>Theatrical:</hi> The <hi>Actors</hi> are 
+<hi>Hypocrites,</hi> in their <hi>Manners,</hi> as well as in the <hi>Etymon;</hi> and the whole 
+<hi>Manage,</hi> fitter for a <hi>Stage,</hi> then a <hi>Pulpit</hi>. So that the most <hi>Certain 
+Way</hi> in <hi>Nature,</hi> for the making of the <hi>Practice, Odious;</hi> and the 
+<hi>Disabusing</hi> of the <hi>Undiscerning Multitude,</hi> is to <hi>lay Open</hi> their 
+<hi>False Colours, Shapes,</hi> &amp; <hi>Disguises;</hi> and <hi>Expose</hi> Every thing in 
+its <hi>Naked Simplicity</hi> to the <hi>Light</hi>. 
+</p>
+            <p>
+               <hi>Trim</hi>.     And what if a man should <hi rend="bold">Allow</hi> This sort of People now, to be the 
+most <hi>Uncouth, Hideous Monsters</hi> of the <hi>Creation?</hi> To have the <hi>Teeth,</hi>
+the <hi>Nails,</hi> the <hi>Fierceness,</hi> the <hi>Strength,</hi> &amp; the <hi>Appetite</hi> of 
+the most <hi>Ravenous</hi> of <hi>Wild Beasts?</hi> This Discourse, of <hi>Caution,</hi> and 
+<hi>Description,</hi> might do well enough in the <hi>Countrys</hi> of <hi>Lyons,</hi> and 
+<hi>Tygers:</hi> But what's All This, to <hi>his Majesties Dominions,</hi> where there are 
+either <hi>None</hi> of These Creatures, <hi>at all,</hi> or No <hi>Other,</hi> at least, then such 
+as have their <hi>Nails Par'd,</hi> and their <hi>Chops Muzzled:</hi> And no more 
+<hi>Danger</hi> of them, at present, then of our <hi>Beeves,</hi> and <hi>Muttons</hi>. 
+</p>
+            <p>
+               <hi>Obs</hi>.     Dost not thou know that there are <hi>Several</hi>
+               <hi rend="bold">Sorts</hi>, &amp; 
+<hi rend="bold">Degrees</hi> of <hi>Danger?</hi> A man may be <hi rend="bold">Wheedled</hi> into a 
+<hi>Precipice,</hi> as well as <hi rend="bold">Thrown</hi> into't: A man may be <hi rend="bold">Hugg'd</hi> or 
+<hi rend="bold">Suck'd</hi> to <hi>Death,</hi> without any <hi rend="bold">Biting</hi>, or <hi rend="bold">Scratching</hi> in the 
+Case: A man may be <hi rend="bold">Poyson'd</hi> in his <hi>Porridge,</hi> as well as <hi rend="bold">Strangl'd</hi>
+in his <hi>Bed:</hi> A man may have <hi rend="bold">False Opinions</hi>
+               <hi>Impos'd</hi> upon him by a 
+<hi>Fallacy,</hi> or <hi>Fraud</hi> in <hi>Argument,</hi> as well as <hi rend="bold">Extorted</hi> from him, 
+by the Force of <hi>Menace,</hi> and <hi>Torment</hi>. And his Bus'ness, at last, is 
+<hi>done,</hi> as <hi rend="bold">Dead</hi>, <hi>One way</hi> as <hi>T'other:</hi> And so for the Degrees 
+of <hi>Danger;</hi> There's <hi>Danger at Hand;</hi> there's <hi>Danger</hi> at a <hi>Distance; 
+Danger</hi> in <hi>Design,</hi> and <hi>Danger</hi> in <hi>Practice;</hi> And <hi>Danger,</hi> in 
+fine, through All the <hi>Preparatory,</hi> and <hi>Mediate Tendencies</hi> to <hi>Mischief,</hi>
+to the <hi>Last Effect</hi> that <hi>Pushes</hi> it self forth to <hi>Execution</hi>. 
+</p>
+            <p>
+               <hi>Trim</hi>.     Very Good! And what are All These <hi>Sorts,</hi> and <hi>Degrees</hi> of 
+<hi>Danger</hi> to the <hi>Instances</hi> we have now <hi>Before</hi> us? 
+</p>
+            <p>
+               <hi>Obs</hi>.     'Tis true; The <hi>Faction</hi> is not in Condition to <hi>Attacque</hi> the 
+<hi>Government</hi> by <hi>Force:</hi> Their <hi>Armies</hi> are <hi>Scatter'd,</hi> and their 
+<hi>Squadrons Defeated;</hi> the <hi>Whole Party</hi> put to their <hi>Shifts;</hi> and the very 
+<hi>Best</hi> of 'em, has enough to do to <hi>save his Own Bacon</hi>. Their <hi>Teeth</hi> are 
+<hi>Drawn,</hi> I'le Allow ye, All but here and there a <hi>Stump;</hi> And yet they'l <hi>Pinch, 
+Plaguily,</hi> though they cannot <hi>Worry,</hi> and <hi>Tear:</hi> And with <hi>Time,</hi> and 
+<hi>Good Discipline,</hi> they'l come to <hi>Grow again</hi>. They have the <hi>Same 
+Principles</hi> to friend, that <hi>ever</hi> they had: Only they must be <hi>Manag'd Another 
+Way:</hi> And there can never Want <hi>Matter,</hi> for <hi>Artificial Flattery, Wheedling, 
+Imposture</hi> and <hi>Hypocrisy,</hi> to <hi>Work</hi> upon. They are not in Condition to 
+<hi>Advance,</hi> at this time of Day, in the face of the <hi>Sun,</hi> and of the 
+<hi>Government,</hi> with their <hi>Petticoats Flying,</hi> under the <hi>Auspicious 
+Direction</hi> of their <hi>Tutelary Angel, Ferguson;</hi> and [<hi rend="bold">Fear Nothing but 
+God</hi>] for their <hi>Motto</hi>. But they must Supply want of <hi>Strength,</hi> by 
+<hi>Stratagem;</hi> and <hi>Carry-on</hi> their <hi>Approaches,</hi>
+               <hi rend="bold">out of sight</hi>. 'Tis 
+only a little more <hi>Patience,</hi> and the <hi>Work</hi> will be brought about, as sure at the 
+<hi>Long-Run,</hi> by a <hi>Mine,</hi> as by a <hi>Battery:</hi> And the <hi>Certifying</hi> of 
+<hi>a Hundred and Fifty Perrots</hi> into the <hi>Service,</hi> and <hi>Protection</hi>
+               <hi rend="bold">Of</hi> the <hi>Government,</hi> will be of Greater <hi>Effect,</hi> then the <hi>Drawing-up</hi>
+of <hi>Ten Thousand men in Arms,</hi>
+               <hi rend="bold">Against</hi> it. Now <hi>These 
+Methods</hi> lye All <hi>Open</hi> still, only they are somewhat more <hi>About</hi>. Now as to 
+<hi>Dangers Remote,</hi> or <hi>Nearer hand; Dangers of Design,</hi> or <hi>Dangers of 
+Practice:</hi> All the <hi>Preparatories, &amp; Dispositions to Mischief,</hi> in their <hi>Secret 
+Impulses,</hi> and <hi>Causes,</hi> are as <hi>Vigorous</hi>
+               <hi rend="bold">Now</hi>, as <hi rend="bold">Ever</hi>
+they were, that is to say, within Two or Three Motions of a <hi>Publique Violence:</hi> Only 
+This Difference in the Case, that we have <hi>Hitherto,</hi> been in the <hi>Greatest 
+Danger</hi> of our <hi>Profess'd,</hi> &amp; <hi>Open Enemies:</hi> And <hi>Now,</hi> God 
+bless us from our <hi>Pretending Friends:</hi> For all on a Sudden, the <hi>Trimmers</hi> are 
+come-up to be <hi>Stark Church-of-England-men;</hi> And the <hi>Phanatiques,</hi> gotten a 
+<hi>Form Higher,</hi> into the <hi>Seat</hi> or <hi>Classes</hi> of the <hi>Trimmers</hi>. 
+</p>
+            <p>
+               <hi>Trim</hi>.     Thou art <hi>Well, neither Full nor Fasting</hi>. Neither <hi>Fanatique,</hi> nor 
+<hi>Trimmer,</hi> nor <hi>Church-of-England-man</hi> I perceive, will please ye; The 
+<hi>Controversy</hi> of a <hi rend="bold">New King</hi>; or a <hi rend="bold">Common-Wealth</hi>, is <hi>Out of 
+Doors;</hi> The Question of <hi rend="bold">Liberty of Conscience</hi>; The <hi>Privilege</hi> of 
+<hi>Private Meetings</hi> for <hi rend="bold">Religious Worship</hi>; And a <hi>Challenge</hi> of 
+<hi>Dispensation</hi> from the <hi>Rites, Ceremonies, and</hi>
+               <hi rend="bold">Discipline</hi>
+               <hi>of the 
+Church, are</hi>
+               <hi rend="bold">All layd aside</hi>. And All This will not serve the <hi>Turn</hi> yet. Now 
+if Men go to <hi>Church;</hi> Take <hi>Tests,</hi> make <hi>Declarations;</hi> And <hi>Do</hi>
+and <hi>Perform</hi> All that the <hi>Law Requires</hi> of'em; where's the <hi>Danger</hi> of 
+These People I beseech ye? 
+</p>
+            <p>
+               <hi>Obs</hi>.     Not in their <hi>coming over</hi> with their <hi>Bodies,</hi> but in <hi>Staying 
+behind,</hi> in their <hi>Good Wills,</hi> and <hi>Affections:</hi> Nay, and in their 
+<hi>Communicating</hi> with the <hi>Church</hi> in the <hi>Morning,</hi> and in the 
+<hi>Afternoon,</hi> with the <hi>Schism:</hi> And pray will you Note in them, One Thing 
+<hi>More</hi> too. 'Tis worth the while, when they <hi>Ramble</hi> from their <hi>Own 
+Parish,</hi> to <hi>Observe</hi> whither they go: For I have known the very <hi>Streets 
+Throng'd,</hi> out of Distance of <hi>Hearing One Word</hi> that the <hi>Minister says,</hi>
+with the <hi>Same Superstition,</hi> that the <hi>Quakers Flock</hi> to the <hi>Door,</hi> when 
+they are <hi>Lock'd-out</hi> of the <hi>Meeting-House:</hi> In which Case, It has yet the 
+<hi>Semblance</hi> of a <hi>Private Meeting;</hi> And in Truth, looks liker a <hi>Political 
+Muster,</hi> then a <hi>Religious Exercise:</hi> But Heark ye for One Word, before we go any 
+further; Suppose a Man should have sayd about the <hi>Beginning</hi> of <hi>July Last,</hi> in 
+a <hi>Brisk Reply</hi> to a <hi>Reflexion</hi> made upon the <hi>Western-Rebells;</hi> (at that 
+time in their <hi>Pride</hi> and <hi>Glory</hi>) [<hi rend="bold">The King has as Loyal Subjects in 
+That Army as Any are in T'other</hi>.] Wouldst thou have me, in Construction of 
+<hi>Common Sense,</hi> and <hi>Honesty,</hi> look upon <hi>That Person,</hi> to be, 
+Effectually <hi rend="bold">Come over</hi>, and in the <hi>State</hi> of <hi>a True Church-of-England-man;</hi>
+only for <hi>Keeping</hi> the <hi>Law,</hi> with his <hi>Heels,</hi> when he 
+<hi>Breaks</hi> it, with his <hi>Tongue,</hi> and <hi>Doctrine?</hi> Now this is more then I Owe 
+ye, upon the Matter in hand: For you have Carry'd the <hi>Question</hi> quite <hi>back</hi>
+again, from the <hi>Non-Con-Ministers,</hi> to the <hi>Generality,</hi> and the 
+<hi>Multitude</hi> of the <hi>Dissenters:</hi> which is a Point Wholly <hi>Excepted,</hi> and out 
+of the <hi>Limits</hi> of <hi>Our Debate:</hi> For All their <hi>Conventicles</hi> without a 
+<hi>Mouth,</hi> are <hi>Monsters;</hi> Meer <hi>Nullities,</hi> &amp; <hi>Bilks,</hi> without a 
+<hi>Teacher:</hi> So that I have <hi>Restrain'd</hi> my <hi>Applications,</hi> Singly, to the 
+<hi>Rabbi's</hi> of the <hi>Faction,</hi> as <hi>Including,</hi> and <hi>Implying</hi> the 
+<hi>Sense,</hi> and the <hi>Intent</hi> of their <hi>Disciples:</hi> Nay and <hi>so far 
+Including</hi> it, that they are <hi>Barely,</hi> the <hi>Passive Instruments</hi> of their 
+<hi>Leaders</hi>. Now These <hi>Heads</hi> of the <hi>Divided Parties,</hi> are a sort of 
+People, that do not, by any Means, fall within the <hi>Charitable Prospect</hi> of <hi>Your 
+Qualifications:</hi> For they <hi>Stand-off,</hi> in <hi>Contempt,</hi> and <hi>Defyance</hi> of 
+the <hi>Orders,</hi> &amp; <hi>Censures</hi> of the <hi>Church,</hi> and of the <hi>Law,</hi> as 
+much at <hi>This Instant,</hi> as <hi>ever</hi> they did. Their <hi>Followers Maintain,</hi> and 
+<hi>Support</hi> them in That <hi>Stubbornness</hi> of <hi>Disobedience;</hi> And so the 
+<hi>Opposition</hi> stands yet <hi>Firm,</hi> in <hi>Effect,</hi> though with <hi>Less Noise</hi>
+of <hi>Menace,</hi> and <hi>Tumult</hi>. The <hi>Branches,</hi> 'tis True, are <hi>Lopt;</hi> but 
+the <hi>Root,</hi> not so much as <hi>Touch'd;</hi> Nay, and in such a Condition of 
+<hi>Vegetative Virtue,</hi> and <hi>Vigour,</hi> that it wants nothing but <hi>Time,</hi> and a 
+<hi>Favourable Season</hi> to make it <hi>Sprout</hi> again. And This you may Assure your 
+self of, that Nothing less than an <hi>Utter,</hi> an <hi>Open,</hi> a <hi>Solemn,</hi> and an 
+<hi>Irrevocable Divorce,</hi> betwixt <hi>These Libertine-Seducers,</hi> and Those that have 
+been <hi>Trepann'd,</hi> and <hi>Inveigled,</hi> out of the <hi>Bosom</hi> of the <hi>Church,</hi>
+into the <hi>Arms</hi> of the <hi>Schism:</hi> Nothing I say, less then Some such 
+<hi>Unalterable Act,</hi> or <hi>Decree</hi> of <hi>Separation,</hi> can ever <hi>Secure,</hi>
+either the <hi>Church,</hi> or the <hi>State</hi> from the <hi>Pernicious Consequences</hi> of 
+this <hi>Intelligence:</hi> For betwixt <hi>Blind Pity,</hi> and <hi>Foolish Zeal,</hi> on the 
+<hi>One</hi> hand, and all the <hi>Arts,</hi> of <hi>Moving,</hi> and <hi>Provoking</hi> Those 
+<hi>Passions,</hi> and <hi>Affections,</hi> on the <hi>Other,</hi> there is <hi>kept-up,</hi> and 
+<hi>Cherish'd,</hi> a <hi>Communication</hi> of <hi>Reciprocal Kindness,</hi> between them 
+that keeps the <hi>Fire alive</hi> still in the <hi>Embers,</hi> 'till by <hi>Degrees,</hi> it 
+<hi>Blows-up</hi> All at last into a <hi>Common Flame</hi>. Now take away <hi>These 
+Bellows,</hi> and <hi>T'other Sparks,</hi> and a man may <hi>Sleep</hi> in his <hi>Bed,</hi>
+without <hi>Dreaming</hi> of <hi>Conflagrations,</hi> or the <hi>Dread</hi> of <hi rend="bold">Rising with 
+his Throat Cut</hi>. 
+</p>
+            <p>
+               <hi>Trim</hi>.     I will not Excuse some <hi>Hot-Headed Blades,</hi> that let their 
+<hi>Tongues</hi> run before their <hi>Wits;</hi> And make it a Point of <hi>Honour,</hi> to 
+<hi>Brave</hi> All the <hi>Terrors</hi> of <hi>Death,</hi> and <hi>Dungeons,</hi> in defence of 
+the <hi>Cause</hi> that they have <hi>Undertaken</hi>. The <hi>Less said,</hi> the 
+<hi>Better;</hi> Though a Body cannot, in <hi>Generosity,</hi> but have some sort of 
+<hi>Compassion,</hi> for a Man that Suffers <hi>Death,</hi> with <hi>Constancy of Mind,</hi>
+Even in a <hi rend="bold">Mistaken Cause</hi>, if it be according to his <hi>Conscience</hi>. 
+</p>
+            <p>
+               <hi>Obs</hi>.     If these <hi>Impressions</hi> were <hi>Inbred,</hi> and the <hi>Errors</hi> purely 
+their <hi>Own,</hi> it would be a <hi>Point,</hi> not only of <hi>Good Nature,</hi> but of 
+<hi>Common Justice,</hi> and <hi>Humanity,</hi> to have a <hi>Tenderness</hi> for 
+<hi>People</hi> under an <hi>Invincible Mistake:</hi> But you have Started the <hi>Strongest 
+Argument</hi> in the World, against your <hi>self</hi> here, by <hi>Enforcing</hi> the 
+<hi>Necessity</hi> of Clearing the <hi>Stage</hi> of the <hi>Seditious Oracles,</hi> that 
+<hi>Inspire These Desperate Resolutions</hi>. 
+</p>
+            <p>
+               <hi>Trim</hi>.     Why All matter of <hi>Violence, Heat</hi> of <hi>Dispute,</hi> and 
+<hi>Clamour</hi> of <hi>Argument,</hi> is at an <hi>End</hi>. You hear no more of your 
+<hi>Scottish,</hi> and <hi>Western Declarations;</hi> No more <hi>Competitors</hi> for the 
+<hi>Crown;</hi> or <hi>Confederates</hi> for a <hi>Republique:</hi> And therefore prethee, 
+<hi>let</hi> us be at <hi>Peace</hi> while we <hi>May</hi> be at <hi>Peace;</hi> and do not stand 
+<hi>Puzzling</hi> the <hi>People</hi> with <hi>Danger,</hi> where <hi>No Danger is</hi>. 
+</p>
+            <p>
+               <hi>Obs</hi>.     Soft, and Fair, <hi>Trimmer;</hi> those <hi>Declarations, Practices,</hi> and 
+<hi>Attempts,</hi> are not to be <hi>Repeated</hi> again in the <hi>same Age:</hi> But there are 
+<hi>more ways to the Wood then One:</hi> And 'tis All a case, to a man that's <hi>Robb'd,</hi>
+whether the <hi>Thieves</hi> came in at the <hi>Door,</hi> or at the <hi>Window</hi>. 'Tis very 
+Right, That, since the Breaking of the <hi>Rebellion,</hi> the <hi>Non-Cons</hi> lay their 
+<hi>Fingers</hi> upon their <hi>Mouths;</hi> and not <hi>One Word</hi> of <hi>Late,</hi> upon 
+the Subject of <hi>Liberties,</hi> and <hi>Properties;</hi> or of the Danger of <hi>Tyranny,</hi>
+and of <hi>Arbitrary Power:</hi> But All other <hi>Grievances</hi> are <hi rend="bold">Now</hi>
+               <hi>Swallow'd-up</hi> in <hi>One:</hi> They are All in <hi>Tears</hi> for fear of the 
+<hi>Protestant Religion;</hi> and <hi>That's the Topique that's now Carry'd-on, through All 
+Shapes, Figures, and Disguises</hi>. 
+</p>
+            <p>
+               <hi>Trim</hi>.     <hi rend="bold">We shall have fine Work, Next Bout!</hi>
+            </p>
+            <p>
+               <hi>London</hi>, Printed for <hi>Charles Brome,</hi> at the Gun in St. <hi>Paul's</hi> Church-Yard. 
+</p>
+         </div>
+         <div xml:id="a5" type="Article">
+            <head>Vol. 3, Numb. 202</head>
+            <head>THE OBSERVATOR.</head>
+            <head>
+               <hi>The way of Promoting</hi> Fears, <hi>and</hi> Jealousies.  <hi>The</hi> People <hi>meerly</hi> Passive <hi>in the Bus'ness</hi>.  <hi>Both Parts seem to</hi> Contend <hi>for the</hi> Same Common Principles. <hi>The</hi> Rise of Jelousies.</head>
+            <head>
+               <hi rend="bold">Saturday</hi>, August 21. 1686.</head>
+            <p>
+               <hi>TRIMMER</hi>.     The <hi>Accommodating</hi> of <hi rend="bold">Words</hi>, 
+<hi rend="bold">Phrases</hi>, and <hi rend="bold">Texts</hi> to the Matter in hand, with the 
+Interjecting, here and there, of Certain <hi>Emphatical Winks,</hi> and 
+<hi>Innuendo's,</hi> to the <hi>Common People,</hi> will do the 
+Bus'ness of <hi>Fears and Jelousies,</hi> you need never <hi>Doubt</hi>
+it, without any more Ceremony. 
+</p>
+            <p>
+               <hi>OBSERVATOR</hi>.     I do no more <hi>Doubt</hi> it, then I do, that a 
+<hi rend="bold">Proper Remedy</hi>; <hi rend="bold">Rightly Prepar'd</hi>; and 
+<hi rend="bold">Administer'd</hi> in the <hi>Due</hi>
+               <hi rend="bold">Time</hi> and 
+<hi rend="bold">Proportion</hi>, will <hi>Work</hi> such or such an <hi>Effect</hi>. 
+But the <hi>Skill</hi> lyes, in the <hi rend="bold">Judgment</hi> of the 
+<hi rend="bold">Distemper</hi>; The <hi rend="bold">Constitution</hi> of the <hi rend="bold">Patient</hi>; 
+The <hi rend="bold">Choice</hi> of the <hi rend="bold">Physick</hi>; The Prescription of the 
+<hi rend="bold">Composition</hi>, the <hi rend="bold">Preparation</hi>, and the <hi rend="bold">Dos</hi>. 
+Now <hi>Your</hi> way of <hi>Operating,</hi> is only the 
+<hi rend="bold">Mechanicall</hi>
+               <hi>Part of the Bus'ness;</hi> and no more, then 
+the giving of a <hi>Box,</hi> a <hi>Gally-pot,</hi> or a <hi>Glass,</hi> with a 
+Note of <hi>Directions,</hi> out of <hi>One</hi> hand into <hi>Another:</hi>
+which Any <hi>Porter</hi> that Plyes at the <hi>Next Corner,</hi> would 
+do as <hi>Dext'rously,</hi> as ever a <hi>Doctor</hi> of the 
+<hi>College</hi>. The <hi>Difficulty,</hi> and the <hi>Mystery,</hi> is 
+<hi rend="bold">Over</hi>, before <hi>You</hi> have any thing to <hi>Do</hi> with it: 
+The <hi>Poysonous,</hi> and <hi>Intoxicating Draught,</hi>
+               <hi rend="bold">Prepar'd</hi>; The <hi>Multitude</hi> set a-<hi rend="bold">Gaping</hi> for't, and 
+<hi rend="bold">Your</hi>
+               <hi>Office,</hi> is only at last, to <hi>Pour it down their 
+Throats</hi>. There's Matter of <hi>History,</hi> and <hi>Fact,</hi>
+enough, 'this true, to <hi>Satisfy any man,</hi> that People may be 
+made as <hi>Mad</hi> with <hi>Cant,</hi> and <hi>Gibberish,</hi> as if they 
+had taken <hi>Henbane;</hi> and that <hi>the</hi>
+               <hi rend="bold">Sting</hi>
+               <hi>of</hi>
+               <hi rend="bold">Jelousy</hi>, will put them out of their <hi>Wits</hi> as soon as 
+<hi>the</hi>
+               <hi rend="bold">Biting</hi>
+               <hi>of a</hi>
+               <hi rend="bold">Mad-Dog</hi>: But we are in 
+the <hi>Dark</hi> all this while, for the <hi rend="bold">Rise</hi>, the 
+<hi rend="bold">Progress</hi>, and the <hi rend="bold">Methods</hi> of <hi rend="bold">Enflaming</hi>
+               <hi>Jelousies,</hi> to bring'em up to that <hi>Pitch</hi>. Prethee let me 
+Understand a little of their <hi rend="bold">Birth</hi>, <hi rend="bold">Growth</hi>, 
+<hi rend="bold">Discipline</hi>, and <hi rend="bold">Education</hi>; How they are <hi rend="bold">Fed</hi>, 
+<hi rend="bold">Nourish'd</hi>, and <hi rend="bold">Entertain'd</hi>? What's the <hi rend="bold">End</hi>, 
+and <hi rend="bold">Use</hi> of them? What <hi rend="bold">Language</hi> do they 
+<hi>Speak;</hi> or how comes it to pass, that the <hi>Same</hi>
+               <hi rend="bold">Words</hi>, and <hi rend="bold">Phrases</hi>, without <hi>Any Intelligence</hi>
+with <hi>Grammar, Logique, Common Usage,</hi> or <hi>Propriety,</hi>
+should <hi>Transport</hi>
+               <hi rend="bold">Some</hi>
+               <hi>Men</hi> into <hi>Outrages, 
+Palpitations of the Heart, Horrors,</hi> and <hi>Tremblings,</hi> both of 
+<hi>Mind,</hi> and of <hi>Body;</hi> and yet Work no more upon 
+<hi rend="bold">Others</hi>, then they <hi>did,</hi> before the very <hi rend="bold">Letters</hi>
+of'em were taken out of the <hi>Alphabet?</hi> I do not call ye to a 
+<hi>Strict Shrift</hi> upon <hi>Every Point,</hi> but I Expect you shall say 
+something to the <hi>Whole Matter;</hi> for a <hi>Few Words,</hi> in 
+<hi rend="bold">Order</hi>, will give a man more <hi>Light</hi> to the <hi>Reason</hi>
+of a thing, then as many <hi>Volumes,</hi> in <hi rend="bold">Confusion</hi>. 
+</p>
+            <p>
+               <hi>Trim</hi>.     You are in the <hi>Right;</hi> that the <hi>Craft</hi> lies in 
+the <hi rend="bold">Project</hi>, and the <hi rend="bold">Preparatory</hi>
+               <hi>Manage</hi> of 
+this Affair, and that the <hi>Danger</hi> is gone too <hi>Far,</hi> when 
+the <hi>Mine</hi> is already <hi>Wrought;</hi> the <hi>Powder 
+Dispos'd,</hi> and nothing wanting to the <hi>Final Execution</hi> of 
+the <hi>Mischief,</hi> but the <hi>Lighting</hi> of the <hi>Match,</hi> and 
+the Applying of the <hi>Coal</hi> to the <hi>Train</hi>. You have 
+<hi>Well</hi> and <hi>Truly</hi> enough <hi>Observed,</hi> the 
+<hi>Wonderfull Force,</hi> that <hi>Some Certain</hi>
+               <hi rend="bold">Words</hi>, 
+and <hi rend="bold">Phrases</hi> have; upon the <hi>Affections</hi> of the 
+<hi>Multitude;</hi> without the Least <hi>Shadow</hi> of any 
+<hi rend="bold">Logical</hi>, <hi rend="bold">Grammatical</hi>, or <hi rend="bold">Philosophical</hi>
+               <hi>Reason</hi> for the <hi>Operation</hi> of them. Now you must know, 
+that <hi>These</hi>
+               <hi rend="bold">Words</hi>, and <hi rend="bold">Phrases</hi>, are made 
+<hi>Use</hi> of, and <hi>Understood,</hi> in the way of a <hi rend="bold">Cypher</hi>, 
+or a <hi rend="bold">Jargon</hi>, and not according to the <hi>Ordinary 
+Acceptation</hi> of them, in a <hi>Regular</hi> way of <hi>Writing,</hi> or 
+of <hi>Speaking;</hi> So that, Effectually, the <hi>Efficacy</hi> of such 
+<hi>Words,</hi> and <hi>Phrases,</hi> is given for <hi>Granted;</hi> and 
+how they come to <hi>Obtain that Force,</hi> remains the <hi>Single 
+Question</hi>. 
+</p>
+            <p>Now towards the <hi>Understanding</hi> of this Matter, you must 
+Consider, that no <hi>State</hi> can be <hi>Supplanted,</hi> but by 
+<hi>Turning</hi> the <hi>Peoples Hearts,</hi> against the <hi>Persons,</hi>
+&amp; the <hi>Actions</hi> of their <hi>Superiors:</hi> So that in <hi>All 
+Conspiracies</hi> to <hi>Destroy</hi> a <hi>Government,</hi>
+               <hi rend="bold">Fears 
+&amp; Jelousies</hi>, are <hi>the</hi>
+               <hi rend="bold">Corner Stone</hi>
+               <hi>of the 
+Babel</hi>. Their <hi rend="bold">Hearts</hi> are no sooner <hi>Lost,</hi> but they 
+withdraw their <hi rend="bold">Bodies</hi> too, and so, by <hi>Degrees, Erect</hi>
+               <hi rend="bold">Laws</hi>, and <hi rend="bold">Religions</hi> of their <hi rend="bold">Own</hi>; and look 
+upon themselves, by This time, as in <hi>Another Common-wealth</hi>. 
+</p>
+            <p>
+               <hi>Obs</hi>.     'Tis most <hi>Certainly True;</hi> and that in this 
+<hi>Separation,</hi> they set-up an <hi>Interest</hi> of <hi>Direct</hi>
+               <hi rend="bold">Spite</hi>, as well as <hi rend="bold">Opposition</hi>, to That of the 
+<hi>Church,</hi> and of the <hi>State</hi>. 
+</p>
+            <p>
+               <hi>Trim</hi>.     This is the very <hi rend="bold">Course</hi>, and <hi rend="bold">Progress</hi>
+of a <hi>Popular Jelousy:</hi> But pray take Notice as we go, that the 
+<hi>People,</hi> are thus far, <hi>Meerly</hi>
+               <hi rend="bold">Passive</hi>; and 
+<hi>Contribute No Otherwise,</hi> to the <hi>Ruine</hi> of the 
+<hi>Publique,</hi> then <hi>a</hi>
+               <hi rend="bold">Snapping Sea</hi> does, to the 
+<hi>Sinking</hi> of a <hi>Vessell,</hi> when the <hi>Billows</hi> are 
+<hi>Hurry'd-on</hi> by the <hi>Violence</hi> of an <hi rend="bold">Irresistible 
+Tempest</hi>: if the <hi>Winds</hi> would but let the <hi>Waves 
+alone,</hi> they'd be <hi>Quiet</hi>. When they come once to Gather 
+into [<hi rend="bold">Private Meetings</hi>,] (or as you call them, 
+<hi rend="bold">Conventicles</hi>) you may <hi>Then</hi> accompt upon it, that 
+they are as good as put to <hi>School,</hi> to <hi>Learn</hi> the 
+<hi rend="bold">Mystery</hi> of their <hi>Profession</hi>. For there are 
+<hi rend="bold">Canting-Schools</hi>, as well as <hi rend="bold">Reading-Schools</hi>; and under This 
+<hi>Discipline,</hi> they come by <hi>Insensible Degrees,</hi> to part 
+with their <hi>English</hi>
+               <hi rend="bold">Tongue</hi>, as well as with their 
+<hi>English</hi>
+               <hi rend="bold">Principles</hi>, and <hi rend="bold">Manners</hi>. Nay, and 
+Effectually, to take up such <hi>Uncouth, Novel,</hi> and 
+<hi>Strange</hi>
+               <hi rend="bold">Thoughts</hi>, <hi rend="bold">Opinions</hi>, and 
+<hi rend="bold">Practices</hi>, that it looks, as if the <hi rend="bold">English-Man</hi>, the 
+<hi rend="bold">Christian</hi>, and the <hi rend="bold">Subject</hi>, were <hi rend="bold">all lost in a 
+Disguise</hi>. They are now, you must know, under <hi rend="bold">New 
+Lords</hi>, and Consequently, under <hi rend="bold">New Laws</hi>; where they 
+are <hi>Train'd-up</hi> to <hi>New Ways</hi> of <hi rend="bold">Understanding</hi>
+Things, and to a <hi>New Idiome</hi> of <hi rend="bold">Expressing</hi> them. 
+<hi rend="bold">Religion</hi>, <hi rend="bold">Law</hi>, <hi rend="bold">Government</hi>, 
+<hi rend="bold">Conscience</hi>, <hi rend="bold">Good Manners</hi>, are so <hi>Sacred</hi> in 
+<hi rend="bold">Themselves</hi>, that the <hi>Worst</hi> of Men cannot but 
+<hi>Pretend</hi> a <hi>Veneration</hi> for them; but how to <hi>Baffle,</hi>
+or to <hi>Elude</hi> the <hi>Force,</hi> the <hi>Obligation,</hi> and the 
+<hi>Authority</hi> of them; and, at the Same Time, to set-up for the 
+<hi>Asserters,</hi> and <hi>Supporters</hi> of <hi>These Publique Rights, 
+Privileges,</hi> and <hi>Duties, There</hi> lies the <hi>Difficulty</hi> of the 
+<hi>Understanding</hi>. 
+</p>
+            <p>
+               <hi>Obs</hi>.     That is to say, how to <hi>Resolve</hi>
+               <hi rend="bold">Religion</hi>, 
+into an <hi>Empty</hi>
+               <hi rend="bold">Notion</hi>: To <hi rend="bold">Talk Christianity</hi> into 
+a <hi rend="bold">Paradox</hi>; and, with <hi rend="bold">Christ</hi> in our <hi>Mouths,</hi> at 
+<hi>London,</hi> to <hi>fall down,</hi> and <hi>Worship</hi>
+               <hi rend="bold">Mahomet</hi>, in <hi>Buda:</hi> How to <hi>Confound</hi>
+               <hi rend="bold">Gods</hi>, and the <hi rend="bold">Governments Friends</hi> and 
+<hi rend="bold">Enemies</hi>, so as to make the <hi>Common People</hi> take 
+<hi>One</hi> for <hi>T'other</hi>. Now This can be no way done, but by 
+setting-up the <hi rend="bold">Counterfeit</hi> of <hi rend="bold">Religion</hi>, <hi rend="bold">Law</hi>, 
+and <hi rend="bold">Conscience</hi>, against the <hi>Genuine,</hi> and 
+<hi>Authentique</hi>
+               <hi rend="bold">Original</hi>; and by making <hi rend="bold">Evil</hi>, to 
+be <hi rend="bold">Good</hi>, and <hi rend="bold">Good</hi>, to be <hi rend="bold">Evil</hi>. 
+</p>
+            <p>
+               <hi>Trim</hi>.     You must <hi>Note,</hi> further, that in This 
+<hi>Opposition,</hi> the <hi rend="bold">Main Cause</hi> appears to be the <hi>very 
+Same,</hi> on <hi>Both sides;</hi> and <hi>Both Parts</hi> seem to 
+<hi>Contend,</hi> for <hi>the</hi>
+               <hi rend="bold">Same Common Principles</hi>, of 
+<hi>Divine Worship,</hi> and of <hi>Civil Obedience</hi>. 
+</p>
+            <p>
+               <hi>Obs</hi>.     Only the <hi>One</hi> Flies to the <hi>Invisible Lights</hi>
+and <hi>Dictates</hi> of the <hi>Spirit,</hi> in Matter of <hi rend="bold">Religion</hi>; 
+(taking <hi rend="bold">Fancy</hi> for <hi rend="bold">Revelation</hi>) and, in the Matter of 
+<hi rend="bold">Government</hi>, has Recourse to Certain <hi>Unaccountable 
+Whimsies,</hi> of [<hi rend="bold">Powers Reserv'd</hi>,] where there 
+<hi>never was any Power at all; &amp; These Fooleries,</hi> they 
+<hi>Trump</hi> upon the <hi>Little People,</hi> under the <hi>Pompous 
+Name</hi> of [<hi>FUNDAMENTALS;</hi>] while the 
+<hi>Rulers,</hi> on the <hi>Other</hi> hand, Stick to the <hi rend="bold">Law</hi>, to 
+the <hi rend="bold">Text</hi>, and to the <hi>Approved Senses</hi> of the <hi rend="bold">Best 
+Interpreters</hi> of <hi rend="bold">Both</hi>, for their <hi>Guide</hi>. 
+</p>
+            <p>
+               <hi>Trim</hi>.     Very Good! And after they have <hi>Departed</hi> from 
+the <hi rend="bold">Common Rule</hi>, and <hi>Divided</hi> themselves from the 
+<hi rend="bold">Common Interest</hi>; it is but Reasonable to <hi>Expect,</hi> that 
+they will Set-up <hi rend="bold">Another Interest</hi>, and <hi rend="bold">Another Rule</hi> to 
+<hi>Themselves</hi>. 
+</p>
+            <p>
+               <hi>Obs</hi>.     Well<hi>!</hi> But how do they <hi>Manage That 
+Province</hi> all this while, as to the <hi>Subject,</hi> I mean, that we 
+were <hi>Speaking</hi> of? 
+</p>
+            <p>
+               <hi>Trim</hi>.     Why their way is, only to put <hi>Religion,</hi> and 
+<hi>Government</hi> in <hi>Another Dress;</hi> but under the 
+<hi rend="bold">Name</hi>, of [<hi rend="bold">Religion</hi>,] and 
+[<hi>Government,</hi>] <hi>Still;</hi> and then to lay on a 
+<hi>Superstructure,</hi> Answerable to the <hi>Foundation;</hi> I speak 
+of the <hi rend="bold">Leaders</hi> only; for their <hi rend="bold">Disciples</hi> are <hi>Blanck 
+Paper;</hi> and ready for <hi>any Impression</hi>. They <hi>Talk,</hi> to 
+the <hi rend="bold">Ears</hi>, and to the <hi rend="bold">Passions</hi> of their <hi>Hearers,</hi>
+not to their <hi rend="bold">Understandings</hi>: and their <hi>Auditors</hi> gather 
+more of their <hi>Meaning,</hi> from their <hi>Gestures, Actions, 
+Countenances,</hi> and from <hi>Pathetical Tones,</hi> then from the 
+<hi>Words Themselves</hi>. As for <hi>Sense,</hi> or <hi>No Sense,</hi>
+'tis <hi>all a Case;</hi> for 'tis the <hi>Jingle,</hi> not the <hi>Matter,</hi>
+that does <hi>Their Bus'ness</hi>. The <hi>Less</hi> the People 
+<hi rend="bold">Understand</hi>, the <hi>More</hi> they are <hi rend="bold">Edify'd</hi>; for they 
+take the <hi>Congruities</hi> of <hi rend="bold">Carnal Reason</hi>, for <hi rend="bold">Vain 
+Philosophy</hi>; and <hi rend="bold">Incomprehensible Nonsense</hi>, passes 
+for <hi>the Work of the</hi>
+               <hi rend="bold">Light Within</hi>. Their <hi>Religion</hi>
+lies alltogther in <hi rend="bold">Groan</hi>, and <hi rend="bold">Rapture</hi>: <hi>They 
+Sacrifice to the</hi>
+               <hi rend="bold">Unknown God</hi>; and in One Word; They 
+<hi>Supply</hi> the <hi>Want</hi> of <hi rend="bold">Knowledge</hi>, with an 
+<hi>Excess</hi> of <hi rend="bold">Zeal</hi>; and when they cannot 
+<hi>Understand</hi> the <hi rend="bold">Plain English</hi> of a <hi>Discourse,</hi>
+they Wrap Themselves up in the <hi rend="bold">Mystery</hi>. The making of a 
+<hi>Party,</hi> &amp; the Saving of their own <hi>Skins,</hi> are the 
+<hi>Two Main Points</hi> of the <hi>Leaders;</hi> and therefore, they 
+<hi>Cover</hi> themselves under <hi rend="bold">Ambiguity</hi>, &amp; 
+<hi rend="bold">Riddle</hi>; &amp; Compass those Matters, by <hi>Theatrical 
+Gesticulations,</hi> &amp; <hi>Actions,</hi> which they dare not 
+<hi>Venture</hi> upon, in <hi>Words</hi> at <hi>Length,</hi> or by the 
+<hi>Dint</hi> of <hi>Argument;</hi> for there is no <hi>Law</hi> against 
+<hi>making of</hi>
+               <hi rend="bold">Faces</hi>, <hi>and Dusting of</hi>
+               <hi rend="bold">Cushions</hi>, They are told <hi>Mightily,</hi> and <hi>Plainly,</hi> or 
+<hi>Heaven,</hi> and <hi>Hell;</hi> but in such a <hi>Manner,</hi> that they 
+will <hi>Never Allow</hi>
+               <hi rend="bold">God</hi>, and the <hi rend="bold">Government</hi> to 
+be <hi>Both of a side</hi>. <hi>Schism</hi> is Dignified with the 
+<hi>Name</hi> of <hi rend="bold">Conscience</hi>; the Story of their 
+<hi>Grievances,</hi> is the <hi>Bitterest</hi> of <hi rend="bold">Satyrs</hi>; Their very 
+<hi rend="bold">Petitions</hi> have the force of <hi>Invectives;</hi> and the 
+<hi>Smoother,</hi> the <hi>Softer,</hi> you find the <hi>Surface</hi> of 
+them, the <hi>Falser,</hi> and the more <hi>Dangerous</hi> they are at 
+the <hi>Bottom:</hi> For betwixt the <hi rend="bold">Persecution</hi> that is 
+<hi>Insinuated,</hi> on the part of the <hi>Government,</hi> &amp; the 
+<hi rend="bold">Innocence</hi>, the <hi rend="bold">Piety</hi>, and the <hi rend="bold">Modesty</hi>, on 
+that of the <hi rend="bold">Sufferers</hi>, Nothing can more Provoke, a 
+<hi>Horror,</hi> and <hi>Indignation</hi> for the <hi>One,</hi> or a 
+<hi>Tenderness,</hi> &amp; <hi>Compassion,</hi> for the <hi>Other</hi>. 
+</p>
+            <p>
+               <hi>Obs</hi>.     That is to say, among Those that are not <hi>Well 
+Enform'd,</hi> in the <hi>Reason,</hi> and the <hi>Equity of the Cause in 
+Question</hi>. 
+</p>
+            <p>
+               <hi>Trim</hi>.     Come Come. I tell ye <hi>Nakedly</hi> how things 
+<hi rend="bold">Are</hi>, and not how they <hi rend="bold">Ought</hi> to be: and I speak of 
+<hi>Those Men</hi> too, that neither <hi rend="bold">Do</hi>, nor <hi rend="bold">Will</hi>, nor 
+<hi rend="bold">Can</hi> make a <hi>Right Judgment</hi> upon the Matter in 
+<hi>Issue</hi>. They do not take down <hi>Reasons</hi> in 
+<hi rend="bold">Connexion</hi>; neither do their <hi>Teachers</hi> so much as 
+<hi rend="bold">Offer</hi> at'em; But <hi>their Work</hi> is, only to <hi>Feed</hi>
+               <hi rend="bold">Itching Ears</hi>, and <hi rend="bold">Humours</hi>, with <hi>New-Quoyn'd 
+Words. Affectate Phrases:</hi> And briefly, to <hi>Instruct</hi> their 
+<hi>Disciples,</hi> by <hi>Signs</hi> and <hi>Tokens,</hi> like so many 
+<hi>Dancing Horses</hi> to fall <hi rend="bold">Lame upon all Four</hi>, for the 
+<hi>Pope;</hi> to <hi rend="bold">come-over</hi>, for the <hi>Grand Vizier;</hi> and at 
+the very <hi>Sound</hi> of <hi rend="bold">Babylon</hi>, <hi rend="bold">Anti-Christ</hi>, or 
+<hi rend="bold">Absolute Power</hi>, to <hi rend="bold">Snort</hi>, and <hi rend="bold">Boggle</hi>, as if 
+they <hi>Smelt Fire</hi>. If I may tell ye the <hi>Arrant Truth,</hi> and 
+<hi>Simplicity</hi> of my <hi>Heart;</hi> This is the very <hi rend="bold">Train</hi> of 
+a <hi rend="bold">Popular Institution</hi>. They are <hi rend="bold">Tutor'd</hi>, and 
+<hi rend="bold">Inur'd</hi>, to the <hi rend="bold">Assuming</hi> of such and such 
+<hi>Passions,</hi> upon such and such <hi>Occasions;</hi> and they do 
+All their <hi>Ayres,</hi> and <hi>Tricks,</hi> by the Direction of the 
+<hi>Hand,</hi> or <hi>Eye</hi>. <hi>They Dance</hi> to <hi>Sounds, Hints, 
+Nodds, Forms,</hi> and <hi>Syllables;</hi> not to the force of <hi>Fair 
+Reasonings,</hi> and <hi>Natural Conclusion;</hi> Nay, they are 
+<hi rend="bold">Taught</hi>, when to be <hi>Angry;</hi> when to be <hi>Pleas'd;</hi>
+and their very <hi>Inclinations,</hi> and <hi>Aversions,</hi> are none of 
+their <hi>Own, Neither:</hi> The <hi>Whole Bus'ness,</hi> in short, is 
+<hi rend="bold">Artifice</hi>, <hi rend="bold">Manage</hi>, and <hi rend="bold">Practice</hi>; for <hi>All 
+their</hi>
+               <hi rend="bold">Mistakes</hi>, <hi>and</hi>
+               <hi rend="bold">Mis-understandings</hi>, 
+<hi>take the</hi>
+               <hi rend="bold">Same Biass</hi>. 
+</p>
+            <p>
+               <hi>Obs</hi>.     I do <hi>Observe,</hi> indeed, that they Shelter 
+themselves under the <hi>Dark Prophets,</hi> and the 
+<hi>Revelation</hi>. The <hi>Number of the Beast,</hi> they have all at 
+their <hi>Fingers Ends;</hi> the <hi>Geneva-bibles</hi> are 
+<hi>Thumm'd</hi> over and over, at the <hi>Same Texts:</hi> As upon the 
+Subject of the <hi>Groves,</hi> &amp; the <hi>High Places, Christian 
+Liberty, Will-Worship, Humane Inventions, Idolatry, Superstition,</hi>
+&amp;c. There's not a <hi>Verse</hi> in the whole <hi>Bible,</hi> against 
+<hi>Persecution,</hi> but makes them Shake their Heads at the 
+<hi>Government</hi>. <hi rend="bold">Popery</hi> by <hi>Interpretation,</hi> is 
+<hi rend="bold">Episcopacy</hi>: The <hi>Liberty</hi> of the <hi rend="bold">Subject</hi>, has an 
+<hi>Aking Tooth</hi> at the <hi>Prerogative</hi> of the <hi rend="bold">Prince</hi>: 
+but finally; such and such <hi rend="bold">Terms</hi>, and <hi rend="bold">Forms</hi> of 
+<hi rend="bold">Speaking</hi>, are by Common Consent, to pass for 
+<hi>Current,</hi> under such or such a <hi rend="bold">Sense</hi>, and 
+<hi rend="bold">Meaning</hi>, how <hi>Contrary</hi> soever, to their <hi>Proper,</hi>
+and <hi>Genuine Signification,</hi> or <hi>Import</hi>. But this speaks 
+only to the <hi rend="bold">Propagating</hi> of <hi>Jelousies,</hi> not to the 
+<hi rend="bold">Rise</hi> of them. 
+</p>
+            <p>
+               <hi>Trim</hi>.     If you Ask me the [<hi rend="bold">Rise</hi>] of 
+<hi>Jelousies,</hi> I must <hi>Answer</hi> ye, that they are 
+<hi>Begotten</hi> betwixt <hi rend="bold">Ambition</hi>, <hi rend="bold">Avarice</hi>, 
+<hi rend="bold">Hypocrisy</hi>, <hi rend="bold">Craft</hi>, <hi rend="bold">Malice</hi>, and 
+<hi rend="bold">Disloyalty</hi>, on the <hi>One</hi> side; and <hi rend="bold">Ignorance</hi>, 
+<hi rend="bold">Obstinacy</hi>, <hi rend="bold">Blind Zeal</hi>, and an <hi rend="bold">Impetuous 
+Temerity</hi>, on the <hi>Other</hi>. 
+</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Charles Brome,</hi> at the Gun in St. 
+<hi>Paul's</hi> Church-yard. 
+</p>
+         </div>
+      </body>
+  </text>
+</TEI>
+

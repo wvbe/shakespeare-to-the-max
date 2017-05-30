@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Content, a pastoral song: By the late Mr. Cunningham.</title>
+            <author>Cunningham, John, 1729-1773.</author>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>University of Oxford Text Archive</name>
+               <address>
+                  <addrLine>Oxford University Computing Services</addrLine>
+                  <addrLine>13 Banbury Road</addrLine>
+                  <addrLine>Oxford</addrLine>
+                  <addrLine>OX2 6NN</addrLine>
+               </address>
+               <email>ota@oucs.ox.ac.uk</email>
+            </distributor>
+            <idno type="ota">http://ota.ox.ac.uk/id/3950</idno>
+            <idno type="isbn10">1106009495</idno>
+            <idno type="isbn13">9781106009494</idno>
+            <idno type="TCP">K036444.000</idno>
+            <idno type="BIBNO">CW3314303192</idno>
+            <idno type="ECLL">0191202500</idno>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/3.0/">
+	  Distributed by the University of Oxford under a Creative Commons
+	  Attribution-ShareAlike 3.0 Unported License
+	</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Content, a pastoral song: By the late Mr. Cunningham.</title>
+                  <author>Cunningham, John, 1729-1773.</author>
+               </titleStmt>
+               <extent>1 sheet ; 1/8⁰.</extent>
+               <publicationStmt>
+                  <publisher>printed by Fowler,</publisher>
+                  <pubPlace>[Salisbury :</pubPlace>
+                  <date>1785?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A slip-song - "O'er moorlands and mountains, rude, barren, and bare,".</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>English Short Title Catalog, ESTCT34003.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">English</language>
+         </langUsage>
+      </profileDesc>
+  </teiHeader>
+  <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:0191202500:1" rendition="simple:additions"/>
+            <head>
+               <hi>CONTENT,</hi> A <hi>PASTORAL SONG.</hi>
+            </head>
+            <byline>By the late Mr. <hi>CUNNINGHAM.</hi>
+            </byline>
+            <lg>
+               <l>O'ER moorlands and mountains, rude, barren, and bare,</l>
+               <l>As wearied and wilder'd I roam,</l>
+               <l>A gentle young ſhepherdeſs ſees my deſpair,</l>
+               <l>And leads me o'er lawns to her home;</l>
+               <l>Yellow ſheaves from rich Ceres her cottage had crown'd,</l>
+               <l>Green ruſhes were ſtrew'd on the floor,</l>
+               <l>Her caſement ſweet woodbines crept wantonly round,</l>
+               <l>And deck'd the ſod ſeats at the door.</l>
+            </lg>
+            <lg>
+               <l>We ſat ourſelves down to a cooling repaſt,</l>
+               <l>Freſh fruits, and ſhe cull'd me the beſt;</l>
+               <l>Whilſt thrown from my guard, by ſome glances ſhe caſt,</l>
+               <l>Love ſlily ſtole into my breaſt:</l>
+               <l>I told my ſoft wiſhes, ſhe ſweetly reply'd.</l>
+               <l>(Ye virgins, her voice was divine!)</l>
+               <l>I've rich one's rejected, and great ones deny'd,</l>
+               <l>Yet take me, fond ſhepherd, I'm thine.</l>
+            </lg>
+            <lg>
+               <l>Her air was ſo modeſt, her aſpect ſo meek,</l>
+               <l>So ſimple, tho' ſweet, were her charms;</l>
+               <l>I kiſs'd the ripe roſes that glow'd on her cheek,</l>
+               <l>And lock'd the dear maid in my arms:</l>
+               <l>Now jocund together we tend a few ſheep,</l>
+               <l>And if on the banks by the ſtream,</l>
+               <l>Reclin'd on her boſom I ſink into ſleep,</l>
+               <l>Her image ſtill ſoftens my dream.</l>
+            </lg>
+            <lg>
+               <l>Together we range o'er the ſlow-riſing hills,</l>
+               <l>Delighted with paſtoral views;</l>
+               <l>Or reſt on the rock, whence the ſtreamlet diſtils,</l>
+               <l>And mark out new themes for my muſe.</l>
+               <l>To pomp, or proud titles, ſhe ne'er did aſpire,</l>
+               <l>The damſel's of humble deſcent;</l>
+               <l>The cottager Peace is well known for her ſire,</l>
+               <l>The ſhepherds have nam'd her CONTENT.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>
+

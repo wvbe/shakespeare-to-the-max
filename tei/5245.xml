@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hearts of oak</title>
+            <author>Garrick, David, 1717-1779.</author>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>University of Oxford Text Archive</name>
+               <address>
+                  <addrLine>Oxford University Computing Services</addrLine>
+                  <addrLine>13 Banbury Road</addrLine>
+                  <addrLine>Oxford</addrLine>
+                  <addrLine>OX2 6NN</addrLine>
+               </address>
+               <email>ota@oucs.ox.ac.uk</email>
+            </distributor>
+            <idno type="ota">http://ota.ox.ac.uk/id/5245</idno>
+            <idno type="isbn10">1106022440</idno>
+            <idno type="isbn13">9781106022448</idno>
+            <idno type="TCP">K109848.000</idno>
+            <idno type="BIBNO">CW3313137829</idno>
+            <idno type="ECLL">0530904100</idno>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/3.0/">
+	  Distributed by the University of Oxford under a Creative Commons
+	  Attribution-ShareAlike 3.0 Unported License
+	</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Hearts of oak</title>
+                  <author>Garrick, David, 1717-1779.</author>
+               </titleStmt>
+               <extent>1 sheet ; 1/8⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>[Edinburgh?,</pubPlace>
+                  <date>1776]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Anonymous. By David Garrick.</note>
+                  <note>A song.</note>
+                  <note>"Come chear up my lads it is to glory we steer," - Includes: 'Clout the cauldron'.</note>
+                  <note>Printed on the same sheet as 'A memorable song on the lamentable, bloody, and unhappy hunting Chevy-Chace'; intended to be separated.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>English Short Title Catalog, ESTCT139270.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">English</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:0530904100:1" rendition="simple:additions"/>
+            <head>Hearts of Oak.</head>
+            <lg>
+               <l>COme chear up my lads, 'tis to glory we ſteer,</l>
+               <l>to add ſomthing new to this wonderfull year</l>
+               <l>To honour we call you, not preſs you like ſlaves</l>
+               <l>For who is ſo free as we ſons of the waves?</l>
+               <l>Hearts of oak are our ſhips, hearts of oak are our men,</l>
+               <l>We always are ready;</l>
+               <l>Steddy, boys, ſteddy;</l>
+               <l>We'll fight and we'll conquer again and again.</l>
+            </lg>
+            <lg>
+               <l>We never meet our foes but we wiſh them to ſtay,</l>
+               <l>They never meet us but they wiſh us away:</l>
+               <l>If they run then we follow, and drive them aſhore,</l>
+               <l>For if they wont fight us, we cannot do more.</l>
+               <l>Hearts of Oak are our ſhips, &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Monſieur Thurot in the abſence of Boyce,</l>
+               <l>Went over to Ireland to brag the dear joys;</l>
+               <l>Near Man, Elliot met him, and gave him a blow,</l>
+               <l>Which ſent him to tell it to Pluto below,</l>
+               <l>Hearts of oak are our ſhips, &amp;c.</l>
+            </lg>
+            <lg>
+               <l>They talk to invade us, theſe terrible foes,</l>
+               <l>They frighten our women, our children, and beaux</l>
+               <l>But if their flat bottoms in darkneſs come o'er,</l>
+               <l>Sure Britons they'll find to receive them on ſhore,</l>
+               <l>Hearts of oak are our ſhips, &amp;c.</l>
+            </lg>
+            <lg>
+               <l>We'll make them to run, and we'll make them to ſweat</l>
+               <l>In ſpite of the devil and Bruſſels Gazette.</l>
+               <l>Then chear up my lads, with one heart let us ſing</l>
+               <l>Our ſoldiers, our ſailors, our ſtateſmen, and king,</l>
+               <l>Hearts of oak are our ſhips, &amp;c.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>Clout the Cauldron.</head>
+            <lg>
+               <l>HAve you any pots or pans?</l>
+               <l>Or any broken chandlers?</l>
+               <l>I am tinkler to my trade.</l>
+               <l>And newly come frae Fanders.</l>
+               <l>As ſcant of ſilver as of grace,</l>
+               <l>Diſbanded we've a bad run;</l>
+               <l>Gar tell the lady of the place,</l>
+               <l>I'm come to clout her caldron,</l>
+               <l>Fa adri, didle, didle, &amp;c.</l>
+               <l>Madam, if you have any wark for me</l>
+               <l>I'll do't to your contentment,</l>
+               <l>And dinna care a ſingle flea,</l>
+               <l>for any man's reſentment;</l>
+               <l>For lady fair tho' I appear</l>
+               <l>To every one a tinker,</l>
+               <l>Yet to yourſelf I'm bold to tell,</l>
+               <l>I am a gentle jinker,</l>
+               <l>Fa adri, didle, &amp;c.</l>
+               <l>Love Jupiter into a ſwan</l>
+               <l>turn'd for his lovely Leda;</l>
+               <l>He like a bull o'er meadows ran,</l>
+               <l>to carry aff Europa:</l>
+               <l>Then may not I as well as he,</l>
+               <l>to hear your Argos blinker,</l>
+               <l>And win your love like mighty Jove</l>
+               <l>Thus hide me in a tinker?</l>
+               <l>Fa adri, didle, &amp;c.</l>
+               <l>Sir you appear a cunning man,</l>
+               <l>But this fine plot you'll fail in,</l>
+               <l>For there is neither pot nor pan,</l>
+               <l>of mine you'll drive a nail in:</l>
+               <l>then bind your budget on your back,</l>
+               <l>and nails up in your apron;</l>
+               <l>For I've a tinker under tack,</l>
+               <l>that uſed to clout my caldron,</l>
+               <l>Fa adri, didle, &amp;c.</l>
+            </lg>
+         </div>
+         <trailer>FINIS</trailer>
+      </body>
+   </text>
+</TEI>
+

@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">'Twas The Night Before Christmas</title>
+            <title type="sub">A Visit from St. Nicholas</title>
+            <author>Clement C. Moore</author>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>University of Oxford Text Archive</name>
+               <address>
+                  <addrLine>Oxford University Computing Services</addrLine>
+                  <addrLine>13 Banbury Road</addrLine>
+                  <addrLine>Oxford</addrLine>
+                  <addrLine>OX2 6NN</addrLine>
+               </address>
+               <email>ota@oucs.ox.ac.uk</email>
+            </distributor>
+            <idno type="ota">http://ota.ox.ac.uk/id/3305</idno>
+            <idno type="isbn10">1106003047</idno>
+            <idno type="isbn13">9781106003041</idno>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/3.0/">
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License
+      </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Twas the Night before Christmas</title>, 
+	      <author>Clement C. Moore</author>
+	      with illustrations by Jessie Willcox Smith,
+	      <publisher>Houghton-Mifflin Company</publisher>, Boston,
+	      <date>1912</date>
+	           </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">English</language>
+         </langUsage>
+      </profileDesc>
+  </teiHeader>
+  <facsimile>
+      <surface xml:id="cover1">
+         <graphic url="http://www.ota.ox.ac.uk/Graphics/3305/cover1.jpg"/>
+      </surface>
+      <surface xml:id="cover2">
+         <graphic url="http://www.ota.ox.ac.uk/Graphics/3305/cover2.jpg"/>
+      </surface>
+  </facsimile>
+  <text>
+      <front>
+         <titlePage facs="#cover1">
+            <titlePart>
+               <title>'Twas The Night Before Christmas</title>
+            </titlePart>
+            <titlePart>
+               <title>by <hi rend="sc">CLEMENT MOORE</hi>
+               </title>
+            </titlePart>
+            <titlePart>
+               <title>
+                  <hi rend="italic">with the famous</hi> Jessie
+	    Willcox Smith <hi rend="italic">illustrations</hi>
+	              </title>
+            </titlePart>
+         </titlePage>
+         <div>
+            <p>
+               <graphic url="http://www.ota.ox.ac.uk/Graphics/3305/img001.jpg"/>
+            </p>
+         </div>
+         <pb/>
+         <div>
+            <head>INTRODUCTION</head>
+            <p>
+               <graphic rend="floatleft"
+                        url="http://www.ota.ox.ac.uk/Graphics/3305/illustratedA-3.jpg"/>
+               <hi rend="invisible">A</hi>
+	 mid the many celebrations last Christmas Eve, in various places by
+	 different persons, there was one, in New York City, not like any other
+	 anywhere. A company of men, women, and children went together just after
+	 the evening service in their church, and, standing around the tomb of
+	 the author of <q>A Visit from St. Nicholas,</q> recited together the words of
+	 the poem which we all know so well and love so dearly.</p>
+            <p>Dr. Clement C. Moore, who wrote the poem, never expected that he
+	 would be remembered by it. If he expected to be famous at all as a
+	 writer, he thought it would be because of the Hebrew Dictionary that he
+	 wrote.</p>
+            <p>He was born in a house near Chelsea Square, New York City, in 1781;
+	 and he lived there all his life. It was a great big house, with
+	 fireplaces in it; just the house to be living in on Christmas
+	 Eve.</p>
+            <p>Dr. Moore had children. He liked writing poetry for them even more
+	 than he liked writing a Hebrew Dictionary. He wrote a whole book of
+	 poems for them.</p>
+            <p>One year he wrote this poem, which we usually call <q>'Twas the Night
+	 before Christmas,</q> to give to his children for a Christmas present. They
+	 read it just after they had <pb/>hung up their stockings before one of
+	 the big fireplaces in their house. Afterward, they learned it, and
+	 sometimes recited it, just as other children learn it and recite it
+	 now.</p>
+            <p>It was printed in a newspaper. Then a magazine printed it, and after
+	 a time it was printed in the school readers. Later it was printed by
+	 itself, with pictures. Then it was translated into German, French, and
+	 many other languages. It was even made into <q>Braille</q>; which is the
+	 raised printing that blind children read with their fingers. But never
+	 has it been given to us in so attractive a form as in this book. It has
+	 happened that almost all the children in the world know this poem. How
+	 few of them know any Hebrew!</p>
+            <p>Every Christmas Eve the young men studying to be ministers at the
+	 General Theological Seminary, New York City, put a holly wreath around
+	 Dr. Moore's picture, which is on the wall of their dining-room. Why?
+	 Because he gave the ground on which the General Theological Seminary
+	 stands? Because he wrote a Hebrew Dictionary? No. They do it because he
+	 was the author of <q>A Visit from St. Nicholas.</q>
+            </p>
+            <p>Most of the children probably know the words of the poem. They are
+	 old. But the pictures that Miss Jessie Willcox Smith has painted for
+	 this edition of it are new. All the children, probably, have seen other
+	 pictures painted by Miss Smith, showing children at other seasons of the
+	 year. How much they will enjoy looking at these pictures, showing
+	 children on that night that all children like best, Christmas
+	 Eve!</p>
+            <closer>E. McC.  </closer>
+            <pb/>
+            <pb/>
+         </div>
+      </front>
+      <body>
+         <div>
+            <head>'Twas The Night Before Christmas</head>
+            <figure>
+               <graphic url="http://www.ota.ox.ac.uk/Graphics/3305/img005.jpg">
+                  <desc>Saying her Prayers</desc>
+               </graphic>
+            </figure>
+            <lg>
+               <l>
+                  <graphic rend="floatleft"
+                           url="http://www.ota.ox.ac.uk/Graphics/3305/illustratedT-1.jpg"/>
+                  <hi rend="invisible">T</hi>was the night before Christmas, when all through the house</l>
+               <l>Not a creature was stirring, not even a mouse;</l>
+               <l>The stockings were hung by the chimney with care</l>
+               <l>In hopes that St. Nicholas soon would be there;</l>
+            </lg>
+            <figure>
+               <graphic url="http://www.ota.ox.ac.uk/Graphics/3305/img006a.jpg">
+                  <desc>Sleeping Mouse</desc>
+               </graphic>
+            </figure>
+            <pb/>
+            <figure>
+               <graphic url="http://www.ota.ox.ac.uk/Graphics/3305/img007.jpg">
+                  <desc>Stockings in the Fireplace</desc>
+               </graphic>
+            </figure>
+            <pb/>
+            <lg>
+               <l>
+                  <graphic rend="floatleft"
+                           url="http://www.ota.ox.ac.uk/Graphics/3305/illustratedT-2.jpg"/>
+                  <hi rend="invisible">T</hi>he children were nestled all snug in their beds,</l>
+               <l>While visions of sugar-plums danced in their heads;</l>
+               <l>And mamma in her kerchief, and I in my cap,</l>
+               <l>Had just settled our brains for a long winter's nap,</l>
+            </lg>
+            <pb/>
+            <figure>
+               <graphic url="http://www.ota.ox.ac.uk/Graphics/3305/img009.jpg">
+                  <desc>The children were nestled</desc>
+               </graphic>
+            </figure>
+            <pb/>
+            <lg>
+               <l>
+                  <graphic rend="floatleft"
+                           url="http://www.ota.ox.ac.uk/Graphics/3305/illustratedW-1.jpg"/>
+                  <hi rend="invisible">W</hi>hen out on the lawn there arose such a clatter,</l>
+               <l>I sprang from the bed to see what was the matter.</l>
+               <l>Away to the window I flew like a flash,</l>
+               <l>Tore open the shutters and threw up the sash.</l>
+            </lg>
+            <pb/>
+            <figure>
+               <graphic url="http://www.ota.ox.ac.uk/Graphics/3305/img011.jpg">
+                  <desc>He sprang from the bed</desc>
+               </graphic>
+            </figure>
+            <pb/>
+            <lg>
+               <l>
+                  <graphic rend="floatleft"
+                           url="http://www.ota.ox.ac.uk/Graphics/3305/illustratedT-1.jpg"/>
+                  <hi rend="invisible">T</hi>he moon on the breast of the new-fallen snow</l>
+               <l>Gave the lustre of mid-day to objects below,</l>
+               <l>When, what to my wondering eyes should appear,</l>
+               <l>But a miniature sleigh, and eight tiny reindeer,</l>
+            </lg>
+            <pb/>
+            <figure>
+               <graphic url="http://www.ota.ox.ac.uk/Graphics/3305/img013.jpg">
+                  <desc>what to my wondering eyes should appear</desc>
+               </graphic>
+            </figure>
+            <pb/>
+            <figure>
+               <graphic url="http://www.ota.ox.ac.uk/Graphics/3305/img014a.jpg">
+                  <desc>Flying Birds</desc>
+               </graphic>
+            </figure>
+            <figure>
+               <graphic url="http://www.ota.ox.ac.uk/Graphics/3305/img014b.jpg">
+                  <desc>Flying Birds</desc>
+               </graphic>
+            </figure>
+            <lg>
+               <l>
+                  <graphic rend="floatleft"
+                           url="http://www.ota.ox.ac.uk/Graphics/3305/illustratedW-1.jpg"/>
+                  <hi rend="invisible">W</hi>ith a little old driver, so lively and quick,</l>
+               <l>I knew in a moment it must be St. Nick.</l>
+               <l>More rapid than eagles his coursers they came,</l>
+               <l>And he whistled, and shouted, and called them by name:</l>
+            </lg>
+            <figure>
+               <graphic url="http://www.ota.ox.ac.uk/Graphics/3305/img014c.jpg">
+                  <desc>Flying Birds</desc>
+               </graphic>
+            </figure>
+            <pb/>
+            <figure>
+               <graphic url="http://www.ota.ox.ac.uk/Graphics/3305/img015a.jpg"/>
+            </figure>
+            <lg>
+               <l>
+                  <graphic rend="floatleft"
+                           url="http://www.ota.ox.ac.uk/Graphics/3305/illustratedN-1.jpg"/>
+                  <hi rend="invisible">N</hi>ow, <hi rend="bold      italic">Dasher!</hi> now, <hi rend="bold      italic">Dancer!</hi> now, <hi rend="bold      italic">Prancer</hi> and <hi rend="bold italic">Vixen!</hi>
+               </l>
+               <l>On, <hi rend="bold italic">Comet!</hi> on, <hi rend="bold italic">Cupid!</hi> on, <hi rend="bold      italic">Donder</hi> and <hi rend="bold italic">Blitzen!</hi>
+               </l>
+               <l>To the top of the porch! to the top of the wall!</l>
+               <l>Now dash away! dash away! dash away all!"</l>
+            </lg>
+            <pb/>
+            <figure>
+               <graphic url="http://www.ota.ox.ac.uk/Graphics/3305/img016.jpg">
+                  <desc>Reindeer sleigh on the roof</desc>
+               </graphic>
+            </figure>
+            <pb/>
+            <figure>
+               <graphic url="http://www.ota.ox.ac.uk/Graphics/3305/img017.jpg">
+                  <desc>Reindeer sleigh on the roof</desc>
+               </graphic>
+            </figure>
+            <pb/>
+            <figure>
+               <graphic url="http://www.ota.ox.ac.uk/Graphics/3305/img018a.jpg">
+                  <desc>Blustering leaves</desc>
+               </graphic>
+            </figure>
+            <figure>
+               <graphic url="http://www.ota.ox.ac.uk/Graphics/3305/img018b.jpg">
+                  <desc>Blustering leaves</desc>
+               </graphic>
+            </figure>
+            <lg>
+               <l>
+                  <graphic rend="floatleft"
+                           url="http://www.ota.ox.ac.uk/Graphics/3305/illustratedA-1.jpg"/>
+                  <hi rend="invisible">A</hi>s dry leaves that before the wild hurricane fly,</l>
+               <l>When they meet with an obstacle, mount to the sky;</l>
+               <l>So up to the house-top the coursers they flew,</l>
+               <l>With the sleigh full of Toys, and St. Nicholas too.</l>
+            </lg>
+            <pb/>
+            <figure>
+               <graphic url="http://www.ota.ox.ac.uk/Graphics/3305/img019a.jpg">
+                  <desc>Blustering leaves</desc>
+               </graphic>
+            </figure>
+            <figure>
+               <graphic url="http://www.ota.ox.ac.uk/Graphics/3305/img019b.jpg">
+                  <desc>Blustering leaves</desc>
+               </graphic>
+            </figure>
+            <lg>
+               <l>
+                  <graphic rend="floatleft"
+                           url="http://www.ota.ox.ac.uk/Graphics/3305/illustratedA-2.jpg"/>
+                  <hi rend="invisible">A</hi>nd then, in a twinkling, I heard on the roof</l>
+               <l>The prancing and pawing of each little hoof.</l>
+               <l>As I drew in my head, and was turning around,</l>
+               <l>Down the chimney St. Nicholas came with a bound.</l>
+            </lg>
+            <pb/>
+            <lg>
+               <l>
+                  <graphic rend="floatleft"
+                           url="http://www.ota.ox.ac.uk/Graphics/3305/illustratedH-3.jpg"/>
+                  <hi rend="invisible">H</hi>e was dressed all in fur, from his head to his foot,</l>
+               <l>And his clothes were all tarnished with ashes and soot;</l>
+               <l>A bundle of Toys he had flung on his back,</l>
+               <l>And he looked like a peddler just opening his pack.</l>
+            </lg>
+            <pb/>
+            <figure>
+               <graphic url="http://www.ota.ox.ac.uk/Graphics/3305/img021.jpg">
+                  <desc>He looked like a peddler</desc>
+               </graphic>
+            </figure>
+            <pb/>
+            <lg>
+               <l>
+                  <graphic rend="floatleft"
+                           url="http://www.ota.ox.ac.uk/Graphics/3305/illustratedH-1.jpg"/>
+                  <hi rend="invisible">H</hi>is how they twinkled! his dimples how merry!</l>
+               <l>His cheeks were like roses, his nose like a cherry!</l>
+               <l>His droll little mouth was drawn up like a bow,</l>
+               <l>And the beard of his chin was as white as the snow;</l>
+            </lg>
+            <pb/>
+            <figure>
+               <graphic url="http://www.ota.ox.ac.uk/Graphics/3305/img023.jpg">
+                  <desc>The beard of his chin was as white as the snow</desc>
+               </graphic>
+            </figure>
+            <pb/>
+            <lg>
+               <l>
+                  <graphic rend="floatleft"
+                           url="http://www.ota.ox.ac.uk/Graphics/3305/illustratedT-3.jpg"/>
+                  <hi rend="invisible">T</hi>he stump of a pipe he held tight in his teeth,</l>
+               <l>And the smoke it encircled his head like a wreath;</l>
+               <l>He had a broad face and a little round belly,</l>
+               <l>That shook when he laughed, like a bowlful of jelly.</l>
+            </lg>
+            <pb/>
+            <figure>
+               <graphic url="http://www.ota.ox.ac.uk/Graphics/3305/img025.jpg">
+                  <desc>He had a broad face and a little round belly</desc>
+               </graphic>
+            </figure>
+            <pb/>
+            <lg>
+               <l>
+                  <graphic rend="floatleft"
+                           url="http://www.ota.ox.ac.uk/Graphics/3305/illustratedH-2.jpg"/>
+                  <hi rend="invisible">H</hi>e was chubby and plump, a right jolly old elf,</l>
+               <l>And I laughed when I saw him, in spite of myself;</l>
+               <l>A wink of his eye and a twist of his head,</l>
+               <l>Soon gave me to know I had nothing to dread;</l>
+            </lg>
+            <pb/>
+            <figure>
+               <graphic url="http://www.ota.ox.ac.uk/Graphics/3305/img027.jpg">
+                  <desc>He filled all the stockings</desc>
+               </graphic>
+            </figure>
+            <pb/>
+            <lg>
+               <l>
+                  <graphic rend="floatleft"
+                           url="http://www.ota.ox.ac.uk/Graphics/3305/illustratedH-3.jpg"/>
+                  <hi rend="invisible">H</hi>e spoke not a word, but went straight to his work,</l>
+               <l>And filled all the stockings; then turned with a jerk,</l>
+               <l>And laying his finger aside of his nose,</l>
+               <l>And giving a nod, up the chimney he rose;</l>
+            </lg>
+            <pb/>
+            <figure>
+               <graphic url="http://www.ota.ox.ac.uk/Graphics/3305/img029.jpg">
+                  <desc>up the chimney he rose</desc>
+               </graphic>
+            </figure>
+            <pb/>
+            <lg>
+               <l>
+                  <graphic rend="floatleft"
+                           url="http://www.ota.ox.ac.uk/Graphics/3305/illustratedH-1.jpg"/>
+                  <hi rend="invisible">H</hi>e sprang to his sleigh, to his team gave a whistle,</l>
+               <l>And away they all flew like the down of a thistle.</l>
+               <l>But I heard him exclaim, ere he drove out of sight,</l>
+               <l>
+                  <hi rend="bold italic">"Happy Christmas to all, and to all a good-night."</hi>
+               </l>
+            </lg>
+            <pb/>
+            <figure>
+               <graphic url="http://www.ota.ox.ac.uk/Graphics/3305/img031.jpg">
+                  <desc>he drove out of sight</desc>
+               </graphic>
+            </figure>
+            <pb/>
+            <figure>
+               <graphic url="http://www.ota.ox.ac.uk/Graphics/3305/img032.jpg">
+                  <desc>Little bear</desc>
+               </graphic>
+            </figure>
+            <figure>
+               <graphic url="http://www.ota.ox.ac.uk/Graphics/3305/cover2.jpg"/>
+            </figure>
+         </div>
+      </body>
+  </text>
+</TEI>
+

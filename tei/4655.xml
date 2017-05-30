@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ode to Mr. Wright of Derby. By William Hayley, Esq</title>
+            <author>Hayley, William, 1745-1820.</author>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>University of Oxford Text Archive</name>
+               <address>
+                  <addrLine>Oxford University Computing Services</addrLine>
+                  <addrLine>13 Banbury Road</addrLine>
+                  <addrLine>Oxford</addrLine>
+                  <addrLine>OX2 6NN</addrLine>
+               </address>
+               <email>ota@oucs.ox.ac.uk</email>
+            </distributor>
+            <idno type="ota">http://ota.ox.ac.uk/id/4655</idno>
+            <idno type="isbn10">1106016548</idno>
+            <idno type="isbn13">9781106016546</idno>
+            <idno type="TCP">K066398.000</idno>
+            <idno type="BIBNO">CW3314570853</idno>
+            <idno type="ECLL">0849800300</idno>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/3.0/">
+	  Distributed by the University of Oxford under a Creative Commons
+	  Attribution-ShareAlike 3.0 Unported License
+	</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ode to Mr. Wright of Derby. By William Hayley, Esq</title>
+                  <author>Hayley, William, 1745-1820.</author>
+               </titleStmt>
+               <extent>11,[1]p. ; 4⁰.</extent>
+               <publicationStmt>
+                  <publisher>printed by Dennett Jaques,</publisher>
+                  <pubPlace>Chichester :</pubPlace>
+                  <date>1783.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a half-title.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>English Short Title Catalog, ESTCT80840.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">English</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:0849800300:1" rendition="simple:additions"/>
+            <p>ODE TO MR. WRIGHT OF DERBY.</p>
+            <p>BY WILLIAM HAYLEY, ESQ.</p>
+            <p>CHICHESTER: PRINTED BY DENNETT JAQUES. M.DCC.LXXXIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="ode">
+            <pb facs="tcp:0849800300:2"/>
+            <head>ODE, &amp;c.</head>
+            <lg>
+               <l>Away! ye ſweet, but trivial Forms,</l>
+               <l>That from the placid pencil riſe,</l>
+               <l>When playful art the landſcape warms</l>
+               <l>With Italy's unclouded ſkies!</l>
+               <l>Stay, vanity! nor yet demand</l>
+               <l>Thy portrait from the painter's hand!</l>
+               <l>Nor aſk thou, indolence, to aid thy dream,</l>
+               <l>The ſoft illuſion of the mimic ſtream,</l>
+               <l>That twinkles to thy ſight with Cynthia's trembling beam!</l>
+            </lg>
+            <lg>
+               <pb n="6" facs="tcp:0849800300:3"/>
+               <l>Be thine, my friend, a nobler taſk!</l>
+               <l>Beſide thy vacant eaſil ſee</l>
+               <l>Gueſts, who, with claims ſuperior, aſk</l>
+               <l>New miracles of art from thee:</l>
+               <l>Valour, who mocks unequal ſtrife,</l>
+               <l>And clemency, whoſe ſmile is life!</l>
+               <l>"Wright! let thy ſkill (this radiant pair exclaim)</l>
+               <l>"Give to our view our favorite ſcene of Fame,</l>
+               <l>"Where Britain's Genius blaz'd in glory's brighteſt flame."</l>
+            </lg>
+            <lg>
+               <l>Celeſtial miniſters! ye ſpeak</l>
+               <l>To no dull agent ſloth-oppreſt,</l>
+               <l>Who coldly hears, in ſpirit weak,</l>
+               <l>Heroic virtue's high beheſt:</l>
+               <l>Behold! tho' envy ſtrives to foil</l>
+               <l>The Artiſt bent on public toil,</l>
+               <l>Behold! his flames terrific luſtre ſhed;</l>
+               <l>His naval blaze mounts from it's billowy bed;</l>
+               <l>And Calpe proudly rears her war-illumin'd head.</l>
+            </lg>
+            <lg>
+               <pb n="7" facs="tcp:0849800300:4"/>
+               <l>In gorgeous pomp for ever ſhine</l>
+               <l>Bright monument of Britain's force!</l>
+               <l>Tho' doom'd to feel her fame decline</l>
+               <l>In ill-ſtarr'd war's o'erwhelming courſe,</l>
+               <l>Tho' Europe's envirous realms unite</l>
+               <l>To cruſh her, in unequal fight,</l>
+               <l>Her genius, deeply ſtung with generous ſhame,</l>
+               <l>On this exulting rock array'd in flame</l>
+               <l>Equals her ancient feats, and vindicates her name.</l>
+            </lg>
+            <lg>
+               <l>How fiercely Britiſh valor pours</l>
+               <l>The deluge of deſtructive fire,</l>
+               <l>Which o'er that watery Babel roars,</l>
+               <l>Bidding the baffled hoſt retire,</l>
+               <l>And leave their fall'n, to yield their breath</l>
+               <l>In different pangs of double death!</l>
+               <l>Ye ſhall not periſh: no! ye hapleſs brave,</l>
+               <l>Reckleſs of peril thro' the fiery wave</l>
+               <l>See! Britiſh mercy ſteers, each proſtrate foe to ſave.</l>
+            </lg>
+            <lg>
+               <pb n="8" facs="tcp:0849800300:5"/>
+               <l>Ye gallant chiefs, whoſe deeds proclaim</l>
+               <l>The genuine hero's feeling ſoul,</l>
+               <l>Elliot, and Curtis, with whoſe name</l>
+               <l>Honor enrich'd his radiant roll,</l>
+               <l>Bleſt is your fate; nor bleſt alone,</l>
+               <l>That reſcued foes your virtues own,</l>
+               <l>That Britain triumphs in your filial worth:</l>
+               <l>Bleſt in the period of your glory's birth,</l>
+               <l>When art can bid it live to decorate the earth!</l>
+            </lg>
+            <lg>
+               <l>Alas! what deeds, where virtue reign'd,</l>
+               <l>Have in oblivious darkneſs died,</l>
+               <l>When painting, by the Goths enchain'd,</l>
+               <l>No life-ſecuring tints ſupplied!</l>
+               <l>Of all thy powers, enchanting art,</l>
+               <l>Thou deemeſt this the deareſt part,</l>
+               <l>To guard the rights of valour, and afford</l>
+               <l>Surviving luſtre to the hero's ſword:</l>
+               <l>For this, heroic Greece thy martial charms ador'd.</l>
+            </lg>
+            <lg>
+               <pb n="9" facs="tcp:0849800300:6"/>
+               <l>Rival of Greece, in arms, in arts,</l>
+               <l>Tho' deem'd in her declining days,</l>
+               <l>Britain yet boaſts unnumber'd hearts,</l>
+               <l>Who keenly pant for public praiſe:</l>
+               <l>Her battles yet are firmly fought</l>
+               <l>By Chiefs with Spartan courage fraught:</l>
+               <l>Her Painters with Athenian zeal unite</l>
+               <l>To trace the glories of the proſp'rous fight,</l>
+               <l>And gild th' embattel'd ſcene with art's immortal light.</l>
+            </lg>
+            <lg>
+               <l>Tho' many a hand may well portray</l>
+               <l>The ruſhing war's infuriate ſhock,</l>
+               <l>Proud Calpe bids thee, Wright, diſplay</l>
+               <l>The terrors of her blazing rock:</l>
+               <l>The burning bulks of baffled Spain,</l>
+               <l>From thee ſhe claims, nor claims in vain,</l>
+               <l>Thou mighty maſter of the mimic flame,</l>
+               <l>Whoſe peerleſs pencil, with peculiar aim,</l>
+               <l>Has form'd of laſting fire the baſis of thy fame.</l>
+            </lg>
+            <lg>
+               <pb n="10" facs="tcp:0849800300:7"/>
+               <l>Juſt in thy praiſe, thy country's voice</l>
+               <l>Loudly aſſerts thy ſignal power:</l>
+               <l>In this reward may'ſt thou rejoice,</l>
+               <l>In modeſt labour's ſilent hour,</l>
+               <l>Far from thoſe ſeats, where envious leagues,</l>
+               <l>And dark cabals, and baſe intrigues</l>
+               <l>Exclude meek merit from his proper home;</l>
+               <l>Where art, whom Royalty forbade to roam,</l>
+               <l>Againſt thy talents clos'd her ſelf-diſhonor'd dome.</l>
+            </lg>
+            <lg>
+               <l>When partial pride, and mean neglect,</l>
+               <l>The nerves of injur'd genius gall,</l>
+               <l>What kindly ſpells of keen effect</l>
+               <l>His energy of heart recall?</l>
+               <l>Perchance there is no ſpell ſo ſtrong</l>
+               <l>As friendſhip's ſympathetic ſong:</l>
+               <l>By fancy link'd in a fraternal band,</l>
+               <l>Artiſt and Bard in ſweet alliance ſtand;</l>
+               <l>They ſuffer equal wounds, and mutual aid demand.</l>
+            </lg>
+            <lg>
+               <pb n="11" facs="tcp:0849800300:8"/>
+               <l>Go then, to ſlighted worth devote</l>
+               <l>Thy willing verſe, my fearleſs muſe!</l>
+               <l>Haply thy free and friendly note</l>
+               <l>Some joyous ardor may infuſe</l>
+               <l>In fibres, that ſeverely ſmart</l>
+               <l>From potent Envy's poiſon'd dart:</l>
+               <l>Thro' Wright's warm breaſt bid tides of vigor roll,</l>
+               <l>Guard him from meek depreſſion's chill controul,</l>
+               <l>And rouſe him to exert each ſinew of his ſoul!</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
+

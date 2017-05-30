@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>John the shopkeeper turned sailor; Part III</title>
+            <title>Shopkeeper turned sailor.</title>
+            <author>More, Hannah, 1745-1833.</author>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>University of Oxford Text Archive</name>
+               <address>
+                  <addrLine>Oxford University Computing Services</addrLine>
+                  <addrLine>13 Banbury Road</addrLine>
+                  <addrLine>Oxford</addrLine>
+                  <addrLine>OX2 6NN</addrLine>
+               </address>
+               <email>ota@oucs.ox.ac.uk</email>
+            </distributor>
+            <idno type="ota">http://ota.ox.ac.uk/id/5388</idno>
+            <idno type="isbn10">1106023870</idno>
+            <idno type="isbn13">9781106023872</idno>
+            <idno type="TCP">K114806.000</idno>
+            <idno type="BIBNO">CW3316021693</idno>
+            <idno type="ECLL">1048702000</idno>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/3.0/">
+	  Distributed by the University of Oxford under a Creative Commons
+	  Attribution-ShareAlike 3.0 Unported License
+	</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>John the shopkeeper turned sailor; Part III</title>
+                  <title>Shopkeeper turned sailor.</title>
+                  <author>More, Hannah, 1745-1833.</author>
+               </titleStmt>
+               <extent>8p. ; 12⁰.</extent>
+               <publicationStmt>
+                  <publisher>Sold by J. Marshall, and R. White, London. By S. Hazard, Bath, and by all booksellers, newsmen, and hawkers in town and country,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1796]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Anonymous. By Hannah More.</note>
+                  <note>Verse.</note>
+                  <note>At head of title: "Cheap Repository".</note>
+                  <note>Part I entitled: 'The shopkeeper turned sailor'.</note>
+                  <note>Also issued as part of: 'Cheap repository tracts, published during the year 1796. Forming volume II', London, [1797].</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>English Short Title Catalog, ESTCT147994.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">English</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:1048702000:1" rendition="simple:additions"/>
+            <p>CHEAP REPOSITORY. <hi>JOHN the SHOPKEEPER</hi> TURNED SAILOR; PART III. SHEWING How JOHN and his family actually took Boat, and how they had for a while a moſt delightful ſail on the wide Ocean.</p>
+            <figure/>
+            <p>Sold by J. MARSHALL, (PRINTER to the CHEAP REPOSITORY for Moral and Re<g ref="char:EOLhyphen"/>ligious Tracts) No. 17, Queen-Street, Cheapſide, and No. 4, Aldermary Church-Yard, and R. WHITE, Pic<g ref="char:EOLhyphen"/>cadilly, London.</p>
+            <p>By S. HAZARD, at Bath; and by all Bookſellers, Newſ<g ref="char:EOLhyphen"/>men, and Hawkers, in Town and Country.</p>
+            <p>
+               <hi>Great Allowance will be made to Shopkeepers and Hawkers.</hi>
+            </p>
+            <p>
+               <hi>PRICE ONE HALFPENNY.</hi> Or 2s. 3d. per 100.—1s. 6d. for 50.—9d. for 25.</p>
+            <p>[<hi>Entered at Stationers Hall.</hi>]</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:1048702000:2"/>
+            <head>JOHN the SHOPKEEPER, &amp;c.</head>
+            <lg>
+               <l>LONG has the Muſe her tale delay'd,</l>
+               <l>Has ſtopt to talk of Johnny's trade;</l>
+               <l>Wife, daughter, mother too, of John,</l>
+               <l>And quite forgot to travel on.</l>
+               <l>Long has the Muſe with trembling fear,</l>
+               <l>View'd the ſad ſcene that now is near;</l>
+               <l>Hung back indeed from very fright,</l>
+               <l>And ſhrunk and ſtarted at the ſight.</l>
+               <l>As the tall ſteed, if he ſhould ſpy</l>
+               <l>Some unknown form of danger nigh,</l>
+               <l>Starts from his path, his eye-balls glare,</l>
+               <l>His feet fly prancing in the air,</l>
+               <l>Round on the ſpot and round he wheels,</l>
+               <l>Upright upon his meer hind heels;</l>
+               <l>So have we ſtarted at the view</l>
+               <l>Of what our John is now to do,</l>
+               <l>Have gaily friſk'd it round and round,</l>
+               <l>Nor gain'd as you an inch of ground.</l>
+            </lg>
+            <lg>
+               <l>Come, gentle Muſe, the tale declare,</l>
+               <l>Sing how this bold advent'rous pair,</l>
+               <l>
+                  <pb n="4" facs="tcp:1048702000:3"/>
+With mother brave and willing daughter,</l>
+               <l>March'd to the borders of the water.</l>
+               <l>Sing how they trod the beech ſo ſteep,</l>
+               <l>Gaz'd at the wonders of the deep,</l>
+               <l>And ſtopt to view, as in a trance,</l>
+               <l>The awful ocean's vaſt expanſe,</l>
+               <l>Then gaz'd at ev'ry paſſing boat,</l>
+               <l>Till they quite long'd to get on float.</l>
+            </lg>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>The Boatmen, as they croſs the Strand,</l>
+               <l>Spring from an alehouſe juſt at hand,</l>
+               <l>All on the party down they burſt,</l>
+               <l>And each is ſure that he was firſt.</l>
+               <l>Oh! how they preſs and fill the ground,</l>
+               <l>And puſh and elbow all around!</l>
+               <l>Each to a Lady makes his ſuit,</l>
+               <l>Till Nancy ſtarts as at a brute:</l>
+               <l>While prudent Johnny marching down,</l>
+               <l>Hires a ſnug boat for half a crown,</l>
+               <l>Of ſmaller ſize, but ſtiff and tight;</l>
+               <l>And having ſeen that all is right,</l>
+               <l>
+                  <pb n="5" facs="tcp:1048702000:4"/>
+Rallies his daughter, claims his wife,</l>
+               <l>Burſts thro' the crowd and ends the ſtrife.</l>
+            </lg>
+            <lg>
+               <l>And now with ſelf-complacent grin,</l>
+               <l>The favor'd Boatman hands them in;</l>
+               <l>But firſt he plants, as is his rule,</l>
+               <l>On the wave's edge his little ſtool,</l>
+               <l>And while he begs them to take care,</l>
+               <l>Preſents his elbow high in air.</l>
+            </lg>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>All in they ſtept, all down they ſat;</l>
+               <l>All ſafe, all even, and all <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lat:</l>
+               <l>The Boatman puſhes off the boat;</l>
+               <l>Was e'er ſuch treaſure all afloat!</l>
+               <l>And now amid the ſun's bright gleam,</l>
+               <l>See how they cut the ſilver ſtream!</l>
+               <l>See how the breeze begins to play!</l>
+               <l>See how it wafts them far away!</l>
+            </lg>
+            <lg>
+               <l>Scarce had the party left the ſhore,</l>
+               <l>When Ruffman longs to ſpare his oar,</l>
+               <l>Points to the bench where lies a ſail,</l>
+               <l>And begs to profit by the gale.</l>
+               <l>
+                  <pb n="6" facs="tcp:1048702000:5"/>
+At firſt the Boatman's words appal,</l>
+               <l>And all the female faces fall;</l>
+               <l>And Madam bets ten thouſand pound,</l>
+               <l>"This inſtant we ſhall be drown'd."</l>
+               <l>Mean time old Ruffman, with a ſneer,</l>
+               <l>Forbids each vain and ſilly fear;</l>
+               <l>Talks of the ſeas that he hath croſs'd,</l>
+               <l>Beaten, and blown, and tempeſt toſt;</l>
+               <l>Tells of his dangers, now no more,</l>
+               <l>While a green youth in days of yore,</l>
+               <l>Of feats perform'd by way of fun,</l>
+               <l>And boaſts of matches he has won:</l>
+               <l>Then drops his tone, and quite allays</l>
+               <l>All the new fears he ſeem'd to raiſe;</l>
+               <l>Pleads his great care, aſſerts his ſkill,</l>
+               <l>Begs each dear Lady'll dread no ill;</l>
+               <l>For if he keeps the rope in hand,</l>
+               <l>The water's juſt as ſafe as land.</l>
+            </lg>
+            <lg>
+               <l>Thus all objections down he beat,</l>
+               <l>And now the awful ſail is ſet;</l>
+               <l>Ah, how they plough the whit'ning ſeas,</l>
+               <l>So fine ſo glorious is the breeze;</l>
+               <l>How freſh and cooling too the air,</l>
+               <l>While the ſail ſhades them from the glare;</l>
+               <l>The Boatman, who a while before</l>
+               <l>Sat coatleſs heated at the oar,</l>
+               <l>Now lolls his eaſe, obſerves the wind,</l>
+               <l>Steers with one careful hand behind;</l>
+               <l>
+                  <pb n="7" facs="tcp:1048702000:6"/>
+While his right fiſt holds hard the ſa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </l>
+               <l>Reſiſts or humours well the gale;</l>
+               <l>Then half-appearing to turn back,</l>
+               <l>At once he ſtops and makes a tack;</l>
+               <l>Points at the diſtant and once more,</l>
+               <l>And ſeems to run you right aſhore;</l>
+               <l>But ere he lets you quite touch ground,</l>
+               <l>Again he ſpins his veſſel round,</l>
+               <l>And ſhifts acroſs, with ſkill ſo nice,</l>
+               <l>The flutt'ring canvas in a trice;</l>
+               <l>Scuds o'er the ſpacious ſeas again;</l>
+               <l>Again he plows the mighty main;</l>
+               <l>Again the leſs'ning ſhore retires,</l>
+               <l>Woods, hills depart, and diſtant ſpires;</l>
+               <l>While the bright ſun, yon clouds between,</l>
+               <l>Shines forth and gilds the glorious ſcene.</l>
+            </lg>
+            <lg>
+               <l>The party, eas'd of all their fright,</l>
+               <l>Gaze round and round with ſweet delight;</l>
+               <l>Praiſe with one voice both land and ſeas,</l>
+               <l>And now they languiſh for a breeze;</l>
+               <l>Dread leſt the ſlack'ning wind ſhould fail,</l>
+               <l>And welcome every growing gale:</l>
+               <l>Swift o'er the ſwelling waves they fly,</l>
+               <l>And pleaſure beams in ev'ry eye.</l>
+            </lg>
+            <lg>
+               <l>But, ah! how oft with genial fun,</l>
+               <l>While the gay courſe of life we run,</l>
+               <l>And fancy as we taſte the treat,</l>
+               <l>Our human bliſs is now compleat;—</l>
+               <l>
+                  <pb n="8" facs="tcp:1048702000:7"/>
+How oft in that ſame favor'd hour,</l>
+               <l>Does the whole ſky begin to lour!</l>
+               <l>The cheering ſun-ſhine's paſs'd away,</l>
+               <l>There comes a dreary doleful day:</l>
+               <l>Afflictions gather like a cloud;</l>
+               <l>The ſwelling tempeſt roars aloud;</l>
+               <l>While from yon threat'ning heav'ns ſo dark,</l>
+               <l>It thunders round our little bark:</l>
+               <l>Unſkill'd to ſtruggle thro' the breeze,</l>
+               <l>We toſs in new and troubled ſeas,</l>
+               <l>And life's gay morning all ſo bright,</l>
+               <l>Ends in ſome woeful tale at night,</l>
+            </lg>
+            <trailer>THE END OF THE THIRD PART.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
+

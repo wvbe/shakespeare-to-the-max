@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The bricklayer's poem to the Countess of Chesterfield, on Her Ladyship's saving the soldiers from being shot</title>
+            <author>Jones, Henry, 1721-1770.</author>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>University of Oxford Text Archive</name>
+               <address>
+                  <addrLine>Oxford University Computing Services</addrLine>
+                  <addrLine>13 Banbury Road</addrLine>
+                  <addrLine>Oxford</addrLine>
+                  <addrLine>OX2 6NN</addrLine>
+               </address>
+               <email>ota@oucs.ox.ac.uk</email>
+            </distributor>
+            <idno type="ota">http://ota.ox.ac.uk/id/3308</idno>
+            <idno type="isbn10">1106003071</idno>
+            <idno type="isbn13">9781106003072</idno>
+            <idno type="TCP">K000122.000</idno>
+            <idno type="BIBNO">CW3310974630</idno>
+            <idno type="ECLL">0250900300</idno>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/3.0/">
+	  Distributed by the University of Oxford under a Creative Commons
+	  Attribution-ShareAlike 3.0 Unported License
+	</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The bricklayer's poem to the Countess of Chesterfield, on Her Ladyship's saving the soldiers from being shot</title>
+                  <author>Jones, Henry, 1721-1770.</author>
+               </titleStmt>
+               <extent>7,[1]p. ; 8⁰.</extent>
+               <publicationStmt>
+                  <publisher>printed in the year,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1745.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Bricklayer = Henry Jones.</note>
+                  <note>Reproduction of original from the Huntington Library.</note>
+                  <note>Foxon, J92</note>
+                  <note>English Short Title Catalog, ESTCN203.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">English</language>
+         </langUsage>
+      </profileDesc>
+  </teiHeader>
+  <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:0250900300:025090030000010"/>
+            <p>THE Bricklayer's POEM TO THE Counteſs of CHESTERFIELD, On Her LADYSHIP'S ſaving the SOLDIERS from being ſhot.</p>
+            <p>DUBLIN: <hi>Printed in the Year, M. DCC. XLV.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="3" facs="tcp:0250900300:025090030000020"/>
+            <head>THE BRICKLAYER'S POEM, TO THE Counteſs of CHESTERFIELD, &amp;c.</head>
+            <l>WHAT means this diſmal Sound, that March ſo ſlow,</l>
+            <l>This ſolemn Sadneſs, and this Pomp of Woe?</l>
+            <l>Why hangs that Horror on the Soldier's Mien?</l>
+            <l>Why droop the Multitude? What means the Scene?</l>
+            <l>Behold! two Victims, pale and trembling, led,</l>
+            <l>Already number'd with the mould'ring dead;</l>
+            <l>
+               <pb n="4" facs="tcp:0250900300:025090030000030"/>What ghaſtly Terrors on each Brow we trace!</l>
+            <l>See Death imprinted on each dying Face!</l>
+            <l>Frail Nature bends beneath the pond'rous Woe,</l>
+            <l>And prone to Death would fain prevent the Blow:</l>
+            <l>Yet Love of Life aſſerts its eager Claim,</l>
+            <l>But Hope, alas! affords no flatt'ring Gleam.</l>
+            <l>Lo! the pale King in horrid Pomp appears!</l>
+            <l>What cruel Eye could then refrain from Tears?</l>
+            <l>What Heart relentleſs, then, forbear to melt?</l>
+            <l>Who ſaw their Sorrows, but like Sorrows felt?</l>
+            <l>How ſad the Conflict! how ſevere the Strife</l>
+            <l>Of Wretches, clinging to the Verge of Life!</l>
+            <l>When angry Juſtice claim'd her deſtin'd Prey;</l>
+            <l>And frown'd, vindictive, on the kind Delay:</l>
+            <l>(Thy ſaving Mercy, in that Moment flew,</l>
+            <l>The darling Attribute of Heav'n and You):</l>
+            <l>To ſoft Compaſſion won thy willing Lord,</l>
+            <l>His Juſtice temp'ring ſheath'd th' uplifted Sword.</l>
+            <l>
+               <pb n="5" facs="tcp:0250900300:025090030000040"/>And in that fearful, that tremendous Hour,</l>
+            <l>Snatch'd the pale Victims from th' offended Pow'r.</l>
+            <l>As when by adverſe Stars or Chance miſled,</l>
+            <l>Entic'd by Lucre, or purſu'd by Dread,</l>
+            <l>A Wretch from ſome high Rock's ſtupendous Brow,</l>
+            <l>Hangs o'er the Waves, and dreadful Depths below.</l>
+            <l>The ſlender Bough he graſps, his only Stay,</l>
+            <l>Yields to his Weight, and more and more gives way;</l>
+            <l>Of Hope abandon'd, as the Branch he tears,</l>
+            <l>He views th' Abyſs, and, as he views, deſpairs,</l>
+            <l>'Till ſome unhop'd for Hand prevents his Doom,</l>
+            <l>Lifts him to Life, and lengthen'd Years to come:</l>
+            <l>Redeem'd from Fate, nor yet reſtor'd to Life,</l>
+            <l>They wond'ring pauſe, and feel a doubtful Strife;</l>
+            <l>If ſtill on Earth they breathe with human Race,</l>
+            <l>Or mix with Shades in Death's obſcure Embrace;</l>
+            <l>'Till dawning Hope the dubious Horror clears,</l>
+            <l>Confirms their Safety, and diſpels their Fears:</l>
+            <l>
+               <pb n="6" facs="tcp:0250900300:025090030000050"/>Loud Shouts of Triumph waft Thy Name on high,</l>
+            <l>And STANHOPE'S Goodneſs fills the vaulted Sky.</l>
+            <l>Oh! hadſt Thou Pow'r afflicted Realms to ſpare,</l>
+            <l>And reſcue <hi>Europe</hi> from the Waſte of War,</l>
+            <l>Fell Rage and Diſcord at thy Nod ſhould ceaſe,</l>
+            <l>And all Mankind enjoy the Sweets of Peace.</l>
+            <l>Then human Blood ſhould deluge Earth no more,</l>
+            <l>But Leagues of Commerce ſtretch from Shore to Shore.</l>
+            <l>You like the Dove the friendly Branch would bring,</l>
+            <l>And blooming Olives in each climate ſpring;</l>
+            <l>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> golden Age the guilty Globe ſhou'd ſee,</l>
+            <l>And <hi>Scotia</hi> faithful as <hi>Hibernia</hi> be.</l>
+            <l>No Feuds inteſtine in <hi>her</hi> Boſom jar,</l>
+            <l>No Breath rebellious wakes the Trump of War.</l>
+            <l>Her martial Tribe a loyal Fervour feels,</l>
+            <l>And Virtue's Strength each manly Boſom ſteels.</l>
+            <l>
+               <pb n="7" facs="tcp:0250900300:025090030000060"/>For Truth and Freedom firmly they unite,</l>
+            <l>And ſtand reſolv'd to tempt the hardy Fight.</l>
+            <l>Thy STANHOPE'S Preſence ſhall each Breaſt inſpire,</l>
+            <l>And GEORGE's Glory ſet their Souls on Fire</l>
+            <trailer>The END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
+

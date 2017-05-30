@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from David Hume, Esq. to the author of The delineation of the nature and obligation of morality</title>
+            <author>Hume, David, 1711-1776.</author>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>University of Oxford Text Archive</name>
+               <address>
+                  <addrLine>Oxford University Computing Services</addrLine>
+                  <addrLine>13 Banbury Road</addrLine>
+                  <addrLine>Oxford</addrLine>
+                  <addrLine>OX2 6NN</addrLine>
+               </address>
+               <email>ota@oucs.ox.ac.uk</email>
+            </distributor>
+            <idno type="ota">http://ota.ox.ac.uk/id/3361</idno>
+            <idno type="isbn10">1106003608</idno>
+            <idno type="isbn13">9781106003607</idno>
+            <idno type="TCP">K002919.000</idno>
+            <idno type="BIBNO">CW3319043890</idno>
+            <idno type="ECRP">0098102600</idno>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/3.0/">
+	  Distributed by the University of Oxford under a Creative Commons
+	  Attribution-ShareAlike 3.0 Unported License
+	</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Letter from David Hume, Esq. to the author of The delineation of the nature and obligation of morality</title>
+                  <author>Hume, David, 1711-1776.</author>
+               </titleStmt>
+               <extent>5,[1]p. ; 8⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>[Edinburgh?,</pubPlace>
+                  <date>1795?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The author of The delineation of the nature = James Balfour.</note>
+                  <note>Drop-head title.</note>
+                  <note>The paper is watermarked: 1794.</note>
+                  <note>Reproduction of original from the Harvard University Houghton Library.</note>
+                  <note>Goldsmiths', 16530</note>
+                  <note>English Short Title Catalog, ESTCN4546.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">English</language>
+         </langUsage>
+      </profileDesc>
+  </teiHeader>
+  <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:0098102600:1"/>
+            <head>LETTER FROM DAVID HUME, ESQ. TO THE AUTHOR OF THE DELINEATION OF THE NATURE AND OBLIGATION OF MORALITY.</head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>WHEN I write you, I know not to whom I am addreſſing myſelf; I only know he is one who has done me a great deal of honour, and to whoſe civilities I am obliged. If we be ſtran<g ref="char:EOLhyphen"/>gers, I beg we may be acquainted as ſoon as you think proper to diſcover yourſelf; if we be acquainted already,
+<pb n="2" facs="tcp:0098102600:2"/>
+I beg we may be friends; if friends, I beg we may be more ſo. Our con<g ref="char:EOLhyphen"/>nexion with each other, as men of let<g ref="char:EOLhyphen"/>ters, is greater than our difference as adhering to different ſects or ſyſtems. Let us revive the happy times, when Atticus and Caſſius the Epicureans, Cicero the Academic, and Brutus the Stoic, could, all of them, live in unre<g ref="char:EOLhyphen"/>ſerved friendſhip, together, and were inſenſible to all thoſe diſtinctions, ex<g ref="char:EOLhyphen"/>cept ſo far as they furniſhed agreable matter to diſcourſe and converſation. Perhaps you are a young man, and being full of thoſe ſublime ideas, which you have ſo well expreſt, think there can be no virtue upon a more confined ſyſtem. I am not an old one; but be<g ref="char:EOLhyphen"/>ing of a cool temperament, have always found, that more ſimple views were
+<pb n="3" facs="tcp:0098102600:3"/>
+ſufficient to make me act in a reaſon<g ref="char:EOLhyphen"/>able manner; <gap reason="foreign" resp="#OXF" extent="1 span">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>; in this faith have I lived, and hope to die.</p>
+                  <p>Your civilities to me ſo much over<g ref="char:EOLhyphen"/>balance your ſeverities, that I ſhould be ungrateful to take notice of ſome expreſſions, which, in the heat of com<g ref="char:EOLhyphen"/>poſition, have dropt from your pen. I muſt only complain of you a little for aſcribing to me the ſentiments which I had put into the mouth of the Scep<g ref="char:EOLhyphen"/>tic in the Dialogue. I have ſurely en<g ref="char:EOLhyphen"/>deavoured to refute the Sceptic with all the force of which I am maſter; and my refutation muſt be allowed ſincere, becauſe drawn from the capital prin<g ref="char:EOLhyphen"/>ciples of my ſyſtem. But you impute to me both the ſentiments of the Scep<g ref="char:EOLhyphen"/>tic and the ſentiments of his antagoniſt,
+<pb n="4" facs="tcp:0098102600:4"/>
+which I can never admit of. In every Dialogue, no more than one perſon can be ſuppoſed to repreſent the au<g ref="char:EOLhyphen"/>thor.</p>
+                  <p>Your ſeverity on one head, that of Chaſtity, is ſo great, and I am ſo little conſcious of having given any juſt oc<g ref="char:EOLhyphen"/>caſion to it, that it has afforded me a hint to form a conjecture, perhaps ill grounded, concerning your perſon.</p>
+                  <p>I hope to ſteal a little leiſure from my other occupations, in order to de<g ref="char:EOLhyphen"/>fend my philoſophy againſt your at<g ref="char:EOLhyphen"/>tacks. If I have occaſion to give a new edition of the work, which you have honoured with an anſwer, I ſhall make great advantage of your remarks, and hope to obviate ſome of your criti<g ref="char:EOLhyphen"/>ciſms.</p>
+                  <p>Your ſtyle is elegant, and full of
+<pb n="5" facs="tcp:0098102600:5"/>
+agreable imagery. In ſome few places, it does not fully come up to my ideas of purity and correctneſs. I ſuppoſe mine falls ſtill further ſhort of your ideas. In this reſpect, we may certainly be of uſe to each other. With regard to our Philoſophical ſyſtems, I ſuppoſe we are both ſo fixt, that there is no hope of any converſions betwixt us; and for my part, I doubt not but we ſhall both do as well to remain as we are.</p>
+                  <closer>
+                     <signed>I am, Sir, With great regard, Your moſt obliged humble ſervant, DAVID HUME.</signed>
+                     <dateline>EDIN. <date>15<hi>th March,</hi> 1753.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+         </div>
+      </body>
+   </text>
+</TEI>
+

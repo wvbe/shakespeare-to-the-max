@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Marcellus: a monody. Humbly inscrib'd to Her Royal Highness the Princess of Wales. By Mr Delap, M.A.</title>
+            <author>Delap, J. (John), 1725-1812.</author>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>University of Oxford Text Archive</name>
+               <address>
+                  <addrLine>Oxford University Computing Services</addrLine>
+                  <addrLine>13 Banbury Road</addrLine>
+                  <addrLine>Oxford</addrLine>
+                  <addrLine>OX2 6NN</addrLine>
+               </address>
+               <email>ota@oucs.ox.ac.uk</email>
+            </distributor>
+            <idno type="ota">http://ota.ox.ac.uk/id/4035</idno>
+            <idno type="isbn10">1106010345</idno>
+            <idno type="isbn13">9781106010346</idno>
+            <idno type="TCP">K039429.000</idno>
+            <idno type="BIBNO">CW3310483615</idno>
+            <idno type="ECLL">0163500100</idno>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/3.0/">
+	  Distributed by the University of Oxford under a Creative Commons
+	  Attribution-ShareAlike 3.0 Unported License
+	</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Marcellus: a monody. Humbly inscrib'd to Her Royal Highness the Princess of Wales. By Mr Delap, M.A.</title>
+                  <author>Delap, J. (John), 1725-1812.</author>
+               </titleStmt>
+               <extent>11,[1]p. ; 4⁰.</extent>
+               <publicationStmt>
+                  <publisher>printed for R. Dodsley, and sold by M. Cooper,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1751.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a half-title.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>English Short Title Catalog, ESTCT38961.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">English</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:0163500100:1" rendition="simple:additions"/>MARCELLUS: A MONODY.</p>
+            <p>Humbly inſcrib'd to Her Royal Highneſs THE PRINCESS of <hi>WALES.</hi>
+            </p>
+            <p>By Mr. <hi>DELAP,</hi> M. A. Fellow of <hi>Magdalen</hi> College, CAMBRIDGE.</p>
+            <q>
+               <l>Multis ille bonis flebilis occidit</l>
+               <l>Nulli flebilior quam tibi.</l>
+               <bibl>HOR.</bibl>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for R. DODSLEY in <hi>Pall-mall;</hi> And ſold by M. COOPER in <hi>Pater-noſter-Row.</hi> 1751.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="5" facs="tcp:0163500100:2"/>
+            <head>MARCELLUS: A MONODY.</head>
+            <lg>
+               <l>YE virgin-train, that whilom wak'd your lyres,</l>
+               <l>Faſt by the chryſtal ſprings of <hi>Helicon,</hi>
+               </l>
+               <l>To heav'nly ſtrains of joy thoſe dulcet Notes</l>
+               <l>Ill ſuit a Nation's univerſal moan,</l>
+               <l>When ev'ry hope with their loſt Prince is gone.</l>
+               <l>The thrilling voice of joy no longer floats</l>
+               <l>O'er pale <hi>Britannia's</hi> ſadly-ſilent ſhore;</l>
+               <l>MARCELLUS is no more!</l>
+               <l>But oh, the doleful change! the plaintive muſe,</l>
+               <l>In cypreſs crown'd, muſt pour her piteous loan</l>
+               <l>Of ſigh, and tear, and heart-empiercing groan!</l>
+            </lg>
+            <lg>
+               <pb n="6" facs="tcp:0163500100:3"/>
+               <l>Come then, <hi>Melpomene,</hi> begin the Lay,</l>
+               <l>With rueful Tears your ſorrowing Dirges ſteep,</l>
+               <l>Such tears as erſt your ſiſter-muſe did weep</l>
+               <l>For her dear twin<hi>-Palici:</hi> every ſtream</l>
+               <l>Shall ſtop to hear your theme,</l>
+               <l>Then ſadly murmur to the plaintive ſhore</l>
+               <l>MARCELLUS is no more!</l>
+               <l>And feeble Echo from her aery cave</l>
+               <l>Shall back return the note, and ev'ry vale,</l>
+               <l>With all its flow'rs ſhall droop to hear the tale.</l>
+            </lg>
+            <lg>
+               <l>How can he lie unwept who knew to raiſe</l>
+               <l>Eſteem and love in every loyal heart.</l>
+               <l>He was the pride of ev'ry Shepherd's praiſe,</l>
+               <l>Grac'd with each decent and each princely part.</l>
+               <l>Nor did the muſe ungrateful pour her lays;</l>
+               <l>He oft wou'd liſten to the poet's art:</l>
+               <l>And oft alone, beneath the muſe's grot,</l>
+               <l>Hid from a nation's eye, he ſat and thought.</l>
+            </lg>
+            <lg>
+               <pb n="7" facs="tcp:0163500100:4"/>
+               <l>Full many an hour, his Offspring pratling round,</l>
+               <l>In gentle dalliance has he fondly ſmil'd;</l>
+               <l>Full many an hour, ſequeſter'd from annoys,</l>
+               <l>In tender amorous talk, has he beguil'd,</l>
+               <l>With the dear Partner of his deareſt joys.</l>
+               <l>Mean while the foe of Life, with treacherous art,</l>
+               <l>In ſly deſtruction prey'd upon his heart;</l>
+               <l>And yet no fatal ſymptom did appear;</l>
+               <l>The blood ſtill mantled on his roſy cheek.</l>
+               <l>As <hi>Phaebus</hi> oft the clouds with gold doth ſtreak,</l>
+               <l>While brooding ſtorms engender in the air.</l>
+            </lg>
+            <lg>
+               <l>Where was your knowledge then, you ſapient Tribe,</l>
+               <l>That boaſt commandment o'er the pulſe of life?</l>
+               <l>Was not a Princeſs' tears ſufficient bribe,</l>
+               <l>Cou'd not a King's, a Nation's pray'rs prevail</l>
+               <l>To make your niceſt ſkill explore his ail?</l>
+               <l>Some few more Years the breath of Life ſupply,</l>
+               <l>And keep him from the Sky—</l>
+               <l>
+                  <pb n="8" facs="tcp:0163500100:5"/>
+Ah me, what boots your ſkill?—Not all the pray'rs</l>
+               <l>That pale <hi>Britannia,</hi> and her King might pour;</l>
+               <l>Not all <hi>Auguſta</hi>'s ſadly-flowing Tears,</l>
+               <l>Not <hi>Aeſculapius'</hi> Sons with all their care,</l>
+               <l>Might ward the black inevitable hour.</l>
+               <l>Or could their Prince's vital Band repair,</l>
+               <l>Which in their mood the fatal Siſters tore.</l>
+            </lg>
+            <lg>
+               <l>Alaſs, he droop'd in life's matureſt age,</l>
+               <l>While <hi>Albion</hi>'s ſceptre hung before his view;</l>
+               <l>And thrice the wiſe <hi>Machaon</hi> did preſage</l>
+               <l>That <hi>Febris</hi> her inflaming rage withdrew;</l>
+               <l>Yet then renewing her malignant ſtrife,</l>
+               <l>The deadly Fiend unhous'd his tender Life.</l>
+               <l>Then ſtream'd the tear from ev'ry <hi>Britiſh</hi> eye.</l>
+               <l>But chief th' unhappy ſire, in diſmal plight,</l>
+               <l>Deteſts the odious light,</l>
+               <l>And with loud wailings tears the arched ſky.</l>
+               <l>
+                  <pb n="9" facs="tcp:0163500100:6"/>
+And calls on death to bring a kind reprieve,</l>
+               <l>And lay his cruel ſorrows in the grave.</l>
+            </lg>
+            <lg>
+               <l>But ah! my Muſe, how may thy voice record,</l>
+               <l>Tho' well I ween thou ſhar'ſt her piteous ſtate,</l>
+               <l>The tender unimaginable woe,</l>
+               <l>Of his dear Conſort for her raviſh'd Lord,</l>
+               <l>Torn by the hand of unrelenting Fate!</l>
+               <l>Then hide the tears thou canſt not give to flow.</l>
+               <l>Enough, that when reviving life did chaſe</l>
+               <l>Death's diſmal image from her pallid face;</l>
+               <l>With manly ſhew ſhe maſk'd her ſorrows dread;</l>
+               <l>And greatly ſtrove to chear with kind relief</l>
+               <l>Her tender Offspring's ſympathetic grief,</l>
+               <l>Who at their Mother's wretched plight grew ſad.</l>
+               <l>What heart ſo ſtony but did melt in tears?</l>
+               <l>See pale <hi>Britannia</hi> wears,</l>
+               <l>Thro' all her Sons, one diſmal face of woe.</l>
+               <l>Nor <hi>Britiſh</hi> eyes alone do overflow;</l>
+               <l>See even the <hi>Orcades</hi> and frozen Realms</l>
+               <l>
+                  <pb n="10" facs="tcp:0163500100:7"/>
+By Ocean's wat'ry barrier ſunder'd far,</l>
+               <l>Pay their full tribute of a tender tear.</l>
+            </lg>
+            <lg>
+               <l>Mean while the awful tongue of death doth pierce</l>
+               <l>Night's drowzy ear, with tollings, deep and ſlow;</l>
+               <l>And now the ſolemn pealing Organs blow.</l>
+               <l>The winking Lamps a duſky luſtre ſhed</l>
+               <l>Along the Manſions of the Dead,</l>
+               <l>Where mould'ring Kings in ſilent duſt repoſe.</l>
+               <l>And now with often interrupted ſighs,</l>
+               <l>The Lawn-rob'd Prelate his laſt duty pays,</l>
+               <l>And duſt to duſt conveys:</l>
+               <l>And now entomb'd his ſacred body lies,</l>
+               <l>Free from the cares, that this vain life encloſe.</l>
+               <l>Up to yon regions of eternal day,</l>
+               <l>The free, unbodied ſpirit wings its way;</l>
+               <l>There in the boſom of its god doth bide</l>
+               <l>In pure, immaculate, unſhaken bliſs;</l>
+               <l>Nor recks the loſs of earthly Kingdom's pride,</l>
+               <l>Enthron'd for aye in heavenly paradiſe.</l>
+            </lg>
+            <lg>
+               <pb n="11" facs="tcp:0163500100:8"/>
+               <l>And thou, ſad Conſort of a Prince too good</l>
+               <l>Longer to viſit this forſaken clime;</l>
+               <l>Ah! ceaſe to weary the relentleſs ſky,</l>
+               <l>With bitter penance and with bootleſs tears.</l>
+               <l>Nor deem with vainly-pious pray'rs</l>
+               <l>To draw him from his bliſsful dear abode;</l>
+               <l>Where now he never more may fear to die,</l>
+               <l>Nor grieve, ſave when your plaints wou'd him recall,</l>
+               <l>Not lent for aye to your fond hopes, I ween!</l>
+               <l>And oh! forgive the muſe, whoſe daring lays</l>
+               <l>Wou'd grateful pour her artleſs loyal teen;</l>
+               <l>Reckleſs that true to draw a Prince's praiſe,</l>
+               <l>Aſks the nice touches of a maſter-hand,</l>
+               <l>Since ſhe may ſee in your fair Offspring plann'd</l>
+               <l>The graceful dowries of their Father's mind;</l>
+               <l>See Mercy, Truth, Religion, Liberty,</l>
+               <l>Beneath the ſhine of your enliv'ning eye,</l>
+               <l>And ev'ry virtue that may bleſs mankind.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
+

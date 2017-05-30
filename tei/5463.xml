@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pretty Sally's garland: Or, Johnny's kind courtship. In two parts.</title>
+            <author>Carey, Henry, 1687?-1743.</author>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>University of Oxford Text Archive</name>
+               <address>
+                  <addrLine>Oxford University Computing Services</addrLine>
+                  <addrLine>13 Banbury Road</addrLine>
+                  <addrLine>Oxford</addrLine>
+                  <addrLine>OX2 6NN</addrLine>
+               </address>
+               <email>ota@oucs.ox.ac.uk</email>
+            </distributor>
+            <idno type="ota">http://ota.ox.ac.uk/id/5463</idno>
+            <idno type="isbn10">1106024621</idno>
+            <idno type="isbn13">9781106024626</idno>
+            <idno type="TCP">K125362.000</idno>
+            <idno type="BIBNO">CW3317345718</idno>
+            <idno type="ECLL">1292701500</idno>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/3.0/">
+	  Distributed by the University of Oxford under a Creative Commons
+	  Attribution-ShareAlike 3.0 Unported License
+	</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Pretty Sally's garland: Or, Johnny's kind courtship. In two parts.</title>
+                  <author>Carey, Henry, 1687?-1743.</author>
+               </titleStmt>
+               <extent>1 sheet : ill. ; obl.1/2⁰.</extent>
+               <publicationStmt>
+                  <publisher>Printed and sold in Aldermary Church-Yard, London,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1760?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse in two parts.</note>
+                  <note>The anonymous first part is by Henry Carey: "Of all the girls that are so smart,".</note>
+                  <note>The second part, entitled 'Pretty Sally's answer', begins: "Of all the lads in London town,".</note>
+                  <note>In four columns with the title and two woodcuts over the first two; columns separated by ornamental rules.</note>
+                  <note>Reproduction of original from the Bodleian Library (Oxford).</note>
+                  <note>English Short Title Catalog, ESTCT192194.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">English</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:1292701500:1" rendition="simple:additions"/>
+            <head>Pretty SALLY's Garland. OR, Johnny's Kind Courtſhip. In Two <hi>PARTS.</hi>
+            </head>
+            <div type="part">
+               <p>
+                  <figure/>
+               </p>
+               <l>OF all the Girls that are ſo ſmart,</l>
+               <l>There's none like pretty Sally,</l>
+               <l>She is the Darling of my Heart,</l>
+               <l>And ſhe lives in our Alley.</l>
+               <l>There is no Lady in the Land</l>
+               <l>Is half ſo ſweet as Sally.</l>
+               <l>She is the Darling of my Heart,</l>
+               <l>And ſhe lives in our Alley.</l>
+               <l>Her Father he makes Cabbage-Nets,</l>
+               <l>And thro' the Steets does cry them.</l>
+               <l>Her Mother ſhe ſells Laces long</l>
+               <l>To thoſe that pleaſe to buy them.</l>
+               <l>But ſure ſuch Folks could ne'er beget</l>
+               <l>So ſweet a Girl as Sally,</l>
+               <l>She is the Darling of my Heart,</l>
+               <l>And ſhe lives in our alley.</l>
+               <l>When ſhe is by, I leave my Work,</l>
+               <l>I love her ſo ſincerely.</l>
+               <l>My maſter comes like any Turk,</l>
+               <l>And bangs me moſt ſeverely.</l>
+               <l>But let him bang his Belly-full,</l>
+               <l>I'll bear it all for Sally.</l>
+               <l>She is the Darling of my Heart,</l>
+               <l>And ſhe lives in our Alley.</l>
+               <l>Of all the Days that are in the Week,</l>
+               <l>I dearly love but one Day.</l>
+               <l>And that's the Day that comes betwixt</l>
+               <l>The Saturday and Monday.</l>
+               <l>For then I'm dreſt all in my Beſt,</l>
+               <l>To walk abroad with Sally.</l>
+               <l>She is the Darling of my Heart,</l>
+               <l>And ſhe lives in our Alley.</l>
+               <l>My Maſter carries me to church,</l>
+               <l>And often am I blamed,</l>
+               <l>Becauſe I leave him in the lurch,</l>
+               <l>As ſoon as Text is named.</l>
+               <l>I leave the church in Sermon-time,</l>
+               <l>And ſlink away to Sally,</l>
+               <l>She is the Darling of my Heart,</l>
+               <l>And ſhe lives in our Alley.</l>
+               <l>When Chriſtmas comes about again,</l>
+               <l>Oh! then I ſhall have money;</l>
+               <l>I'll hoard it up, and box it all,</l>
+               <l>And give it to my Honey.</l>
+               <l>I wiſh it were Ten Thouſand Pounds,</l>
+               <l>I'd give it all to Sally,</l>
+               <l>She is the Darling of my Heart,</l>
+               <l>And ſhe lives in our Alley.</l>
+               <l>My Maſter and the Neighbours all</l>
+               <l>Make Game of me and Sally,</l>
+               <l>And but for her I'd better be</l>
+               <l>A ſlave, and row a Galley.</l>
+               <l>But when my ſeven long Years are out,</l>
+               <l>Oh! then I'll marry Sally.</l>
+               <l>Oh I then we'll wed, and then we'll bed,</l>
+               <l>But not in our Alley.</l>
+            </div>
+            <div type="part">
+               <head>Pretty Sally's Anſwer.</head>
+               <l>OF all the Lads in London Town,</l>
+               <l>There's none I love like Johnny.</l>
+               <l>He walks ſo ſtately o'er the Ground,</l>
+               <l>I like him for my Honey.</l>
+               <l>And none but him I e'er will wed,</l>
+               <l>As my Name is Sally:</l>
+               <l>And I will dreſs me in my Beſt,</l>
+               <l>In ſpite of all our Alley.</l>
+               <l>Becauſe that Nan and Sue did ſay,</l>
+               <l>That live in our Alley,</l>
+               <l>Unto Beſs Franklin, do but ſee,</l>
+               <l>Look there goes pretty Sally.</l>
+               <l>But let them know, tho' they ſay ſo,</l>
+               <l>That I have Store of Money.</l>
+               <l>And can an Hundred Pounds beſtow</l>
+               <l>On John, my deareſt Honey.</l>
+               <l>'Tis true my Father deals in Nets,</l>
+               <l>My Mother in long Laces.</l>
+               <l>But what of that, if Johnny's pleas'd,</l>
+               <l>'Twon't hinder our embraces.</l>
+               <l>For Johnny he does often ſwear,</l>
+               <l>He dearly loves his Sally.</l>
+               <l>And for the Neighbours I don't care,</l>
+               <l>We will live in our Alley.</l>
+               <l>It's true, when Johnny comes along,</l>
+               <l>And I by chance do meet him,</l>
+               <l>His Maſter comes out with a Stick,</l>
+               <l>And ſorely he doth beat him,</l>
+               <l>Yet Johnny ſhall be made Amends,</l>
+               <l>When his Time's out, by Sally,</l>
+               <l>In ſpite of all the Rogues and Whores</l>
+               <l>That live in our Alley.</l>
+               <l>There is one Day in every Week</l>
+               <l>That Johnny does come to me.</l>
+               <l>And then I own I am well pleas'd,</l>
+               <l>When he doth kiſs and wooe me.</l>
+               <l>Then in the Fields we walk and talk,</l>
+               <l>He calls me deareſt Sally,</l>
+               <l>I love him, and I'll have him too,</l>
+               <l>In ſpite of all our Alley.</l>
+               <l>His Cheeks are of a Crimſon Red,</l>
+               <l>Black Eye-brows he does carry.</l>
+               <l>His Temper is ſo ſweet and good,</l>
+               <l>My Johnny I will marry.</l>
+               <l>Tho' all our Neigbours ſpite us ſore,</l>
+               <l>Becauſe Johnny loves his Sally.</l>
+               <l>But I love Johnny more and more.</l>
+               <l>And a Fig for all our Alley.</l>
+               <l>Old Woman grumble, and the Maids</l>
+               <l>Are all in Love with Johnny</l>
+               <l>Their Guts to Fiddle-ſtrings may fret,</l>
+               <l>For he'll not leave his Honey.</l>
+               <l>At Midſummer his Time is out,</l>
+               <l>Then Hand-in-Hand will Sally</l>
+               <l>Unto the Parſon with him go,</l>
+               <l>In ſpite of all our Alley.</l>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed and Sold in Aldermary Church-Yard, London</p>
+         </div>
+      </back>
+   </text>
+</TEI>
+

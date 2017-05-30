@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The fox-chace: A favourite hunting song, sung at the grand hunts of England.</title>
+            <title>Czar Peter.</title>
+            <author>O'Keeffe, John, 1747-1833.</author>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>University of Oxford Text Archive</name>
+               <address>
+                  <addrLine>Oxford University Computing Services</addrLine>
+                  <addrLine>13 Banbury Road</addrLine>
+                  <addrLine>Oxford</addrLine>
+                  <addrLine>OX2 6NN</addrLine>
+               </address>
+               <email>ota@oucs.ox.ac.uk</email>
+            </distributor>
+            <idno type="ota">http://ota.ox.ac.uk/id/5492</idno>
+            <idno type="isbn10">1106024915</idno>
+            <idno type="isbn13">9781106024916</idno>
+            <idno type="TCP">K131881.000</idno>
+            <idno type="BIBNO">CW3316204561</idno>
+            <idno type="ECLL">1087800500</idno>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/3.0/">
+	  Distributed by the University of Oxford under a Creative Commons
+	  Attribution-ShareAlike 3.0 Unported License
+	</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The fox-chace: A favourite hunting song, sung at the grand hunts of England.</title>
+                  <title>Czar Peter.</title>
+                  <author>O'Keeffe, John, 1747-1833.</author>
+               </titleStmt>
+               <extent>1 sheet ; 1/4⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>[London?,</pubPlace>
+                  <date>1790?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A slip-song - "Southerly wind and a cloudy sky,".</note>
+                  <note>From John O'Keeffe's 'Czar Peter'.</note>
+                  <note>Turned chain lines.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>English Short Title Catalog, ESTCT224688.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">English</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:1087800500:1" rendition="simple:additions"/>
+            <head>The FOX-CHACE. A Favourite Hunting Song, <hi>Sung at the grand Hunts of England.</hi>
+            </head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">A</seg> SOUTHERLY wind and a cloudy ſky,</l>
+               <l>Proclaims a Hunting Morning,</l>
+               <l>Before the ſun riſes, we nimbly fly,</l>
+               <l>Dull ſleep, and a downy-bed ſcorning,</l>
+               <l>To Horſe my Boys, to Horſe away;</l>
+               <l>The Chace admits of no delay,</l>
+               <l>On Horſeback we're got, together we'll trot,</l>
+               <l>On Horſeback we're got, together we trot,</l>
+               <l>Leave of your chat ſee the cover appear;</l>
+               <l>The Hound that ſtrikes firſt cheer him without fear,</l>
+               <l>Drag on him! Ah wind him my ſteady good hounds</l>
+            </lg>
+            <lg>
+               <l>How compleatly the Cover and Furz they draw,</l>
+               <l>Who talks of Barry or Meynell,</l>
+               <l>Young La<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>her he flouriſhes now thro' the ſhaw;</l>
+               <l>And Saucebox roars out in his kennel,</l>
+               <l>Away we fly as quick as thought,</l>
+               <l>The new ſown ground, ſoon makes them fault,</l>
+               <l>Caſt round the ſheeps train, caſt round ca<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> round,</l>
+               <l>Try back the deep lane, try back try back,</l>
+               <l>Hark I hear ſome hounds challenge in yonder ſpring ſedge,</l>
+               <l>Comfort Bi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch hits it off in tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> old thick <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>edge,</l>
+               <l>Hark forward hark forward have at him my Boys,</l>
+               <l>Hark forward, hark forward, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> don't make a noiſe.</l>
+            </lg>
+            <lg>
+               <l>A ſtormy ſky overcharged with rain,</l>
+               <l>Both Hounds and Hunſtman oppoſes,</l>
+               <l>In vain on your mettle you try boys in vain,</l>
+               <l>But down ye muſt to your noſes,</l>
+               <l>Each moment now the ſky grows worſe,</l>
+               <l>Enough to make a Parſon curſe,</l>
+               <l>Pick through the plow'd grounds, pick through, pick through,</l>
+               <l>Well hunted good Hounds well hunted, well hunted,</l>
+               <l>If we can but get on, we ſhall ſoon make him quake</l>
+               <l>Hark I hear ſome hounds challenge in the midſt of the brake,</l>
+               <l>Talio, Talio there acroſs the green plain,</l>
+               <l>Talio, Talio, Boys have at him again.</l>
+            </lg>
+            <lg>
+               <l>Thus we ride whip and ſpur for a two hours Chace,</l>
+               <l>Our Horſes go panting and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>obbbing,</l>
+               <l>Young Madcap and Riot begin now race,</l>
+               <l>Ride on Sir and give him ſome mobbing,</l>
+               <l>But hold alaſs you'll ſpoil our ſport,</l>
+               <l>For thro' the Hounds you'll head him ſhort,</l>
+               <l>Clap round him dear Jack, clap round, clap round,</l>
+               <l>Hark Drumm<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r hark back, hark back, hark back,</l>
+               <l>He's Jumping and dodging in every buſh,</l>
+               <l>Little Riot has faſtened her Teeth in his b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſh,</l>
+               <l>Whoo' hoop, whoo' hoop he's fairly <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> down,</l>
+               <l>Whoo' hoop, whoo', hoop he's fairly run down.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>
+

@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The day of judgment: or, the grand reckoning.</title>
+            <author>More, Hannah, 1745-1833.</author>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>University of Oxford Text Archive</name>
+               <address>
+                  <addrLine>Oxford University Computing Services</addrLine>
+                  <addrLine>13 Banbury Road</addrLine>
+                  <addrLine>Oxford</addrLine>
+                  <addrLine>OX2 6NN</addrLine>
+               </address>
+               <email>ota@oucs.ox.ac.uk</email>
+            </distributor>
+            <idno type="ota">http://ota.ox.ac.uk/id/5471</idno>
+            <idno type="isbn10">1106024702</idno>
+            <idno type="isbn13">9781106024701</idno>
+            <idno type="TCP">K126050.000</idno>
+            <idno type="BIBNO">CW3321299877</idno>
+            <idno type="ECRP">0721401600</idno>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/3.0/">
+	  Distributed by the University of Oxford under a Creative Commons
+	  Attribution-ShareAlike 3.0 Unported License
+	</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The day of judgment: or, the grand reckoning.</title>
+                  <author>More, Hannah, 1745-1833.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] P.) : ill. (woodcut) ; 1/2⁰.</extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1797?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Anonymous. By Hannah More.</note>
+                  <note>Bodleian Library ballads database suggests publication date.</note>
+                  <note>Verse - "Christians! profit by the warning,".</note>
+                  <note>At head: Cheap repository.</note>
+                  <note>At foot: Entered at Stationers' Hall.</note>
+                  <note>Reproduction of original from the Bodleian Library (Oxford).</note>
+                  <note>English Short Title Catalog, ESTCT195127.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">English</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:0721401600:1" rendition="simple:additions"/>
+            <head>CHEAP REPOSITORY.
+<figure/>
+The Day of Judgment, Or, The GRAND RECKONING.</head>
+            <lg>
+               <l>CHRISTIANS! profit by the warning,</l>
+               <l>Which the word of GOD ſupplies!</l>
+               <l>Think upon that awful morning,</l>
+               <l>When the quick and dead ſhall riſe.</l>
+            </lg>
+            <lg>
+               <l>Lo! each country, every nation,</l>
+               <l>All the globe we now behold,</l>
+               <l>(Wrapt in dreadful conflagration)</l>
+               <l>Smoke and fire at once enfold!</l>
+            </lg>
+            <lg>
+               <l>See the works of art ſo curious,</l>
+               <l>Lofty cities, temples, towers!</l>
+               <l>See the raging flame ſo furious,</l>
+               <l>All the mighty maſs devours!</l>
+            </lg>
+            <lg>
+               <l>You who doat on earthly treaſures,</l>
+               <l>What diſmay will ſeize your frame,</l>
+               <l>When the ſum of all your pleaſures,</l>
+               <l>Crackles in the general flame!</l>
+            </lg>
+            <lg>
+               <l>Lo! the multitudes ſurrounding,</l>
+               <l>Whom the grave no more can keep?</l>
+               <l>Hark! the awful trumpet ſounding!</l>
+               <l>Death has broke his leaden ſleep.</l>
+            </lg>
+            <lg>
+               <l>All that in the tomb now ſlumber,</l>
+               <l>How at once they burſt their chain!</l>
+               <l>See they riſe, how vaſt their number?</l>
+               <l>All that liv'd ſhall live again.</l>
+            </lg>
+            <lg>
+               <l>Great and ſmall together meeting,</l>
+               <l>Lo! the ſea gives up her dead!</l>
+               <l>Then the ſea itſelf retreating,</l>
+               <l>Lo! the heavens and earth are fled.</l>
+            </lg>
+            <lg>
+               <l>See the LORD of life deſcending,</l>
+               <l>Hear the dread ARCHANGEL'S voice;</l>
+               <l>See the dead on CHRIST attending;</l>
+               <l>How the ſaints of GOD rejoice!</l>
+            </lg>
+            <lg>
+               <l>Myriads at that voice ſhall gather,</l>
+               <l>"Take the kingdom long prepar'd;</l>
+               <l>"Come ye bleſſed of my FATHER,</l>
+               <l>"Share my crown, my croſs you <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>har'd.</l>
+            </lg>
+            <lg>
+               <l>O how different that dread ſentence,</l>
+               <l>Which confirms the <hi>ſinner</hi>'s doom<g ref="char:punc">▪</g>
+               </l>
+               <l>"You who died without repentance,</l>
+               <l>"Come to judgment, ſinners come."</l>
+            </lg>
+            <lg>
+               <l>O! to theſe what wild deſpairing,</l>
+               <l>What aſtoniſhment of heart,</l>
+               <l>Agony paſt human bearing,</l>
+               <l>Will that dreadful call impart!</l>
+            </lg>
+            <lg>
+               <l>You who now profanely cheriſh,</l>
+               <l>Unbelief and impious pride;</l>
+               <l>Unbelievers! ſee and periſh,</l>
+               <l>CHRIST for you in vain has dy'd.</l>
+            </lg>
+            <lg>
+               <l>You who to the world diſſemble,</l>
+               <l>While you practiſe deeds of night,</l>
+               <l>Hypocrites! behold and tremble,</l>
+               <l>All theſe deeds are brought to light.</l>
+            </lg>
+            <lg>
+               <l>You, who each conviction ſtifling,</l>
+               <l>Waſte your time, that ſacred ſtore,</l>
+               <l>Hear the Angel, ceaſe your trifling,</l>
+               <l>"Time," he cries, "ſhall be no more."</l>
+            </lg>
+            <lg>
+               <l>Loſt in eaſe, or drown'd in pleaſure,</l>
+               <l>"We've no time to think," you cry,</l>
+               <l>But howe'er you waſte the treaſure,</l>
+               <l>You muſt all find time to die.</l>
+            </lg>
+            <lg>
+               <l>You, who now this warning ſlighting,</l>
+               <l>Think that day not worth your care<g ref="char:punc">▪</g>
+               </l>
+               <l>I who now theſe lines am writing;</l>
+               <l>You and I muſt both appear.</l>
+            </lg>
+            <lg>
+               <l>O that you, theſe lines peruſing,</l>
+               <l>May be wak'd to ſwift repentance;</l>
+               <l>O that I, no moment loſing,</l>
+               <l>May prepare to meet my ſentence!</l>
+            </lg>
+            <p>[<hi>Entered at</hi> STATIONERS' HALL.]</p>
+         </div>
+      </body>
+   </text>
+</TEI>
+

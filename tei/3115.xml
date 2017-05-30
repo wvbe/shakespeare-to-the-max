@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Discourse of Western Planting</title>
+            <title type="alternative">A particuler discourse concerning the greate necessitie and manifolde commodyties that are like to growe to this realme of Englande by the westerne discoueries lately attempted, written in the yere 1584 : known as discourse of western planting</title>
+            <author>Hakluyt, Richard, 1552?-1616</author>
+            <editor>University of Oxford Text Archive</editor>
+            <respStmt>
+               <resp>Proofreader</resp>
+               <name>Triggs, Sara</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority xml:id="trije1">deposited by<name type="person">Triggs, Jeffery</name>
+               <address>
+                  <addrLine>North American Reading Project</addrLine>
+                  <addrLine>Oxford University Press (NY)</addrLine>
+                  <addrLine>c/o Bellcore</addrLine>
+                  <addrLine>
+                     <name type="email">triggs@bellcore.com</name>
+                  </addrLine>
+               </address>
+            </authority>
+            <distributor>
+               <name>University of Oxford Text Archive</name>
+               <address>
+                  <addrLine>Oxford University Computing Services</addrLine>
+                  <addrLine>13 Banbury Road</addrLine>
+                  <addrLine>Oxford</addrLine>
+                  <addrLine>OX2 6NN</addrLine>
+               </address>
+               <email>ota@oucs.ox.ac.uk</email>
+            </distributor>
+            <idno type="ota">http://ota.ox.ac.uk/id/3115</idno>
+            <idno type="isbn10">1106001141</idno>
+            <idno type="isbn13">9781106001146</idno>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/3.0/">
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License
+      </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Revised version of  <relatedItem type="older" target="http://ota.ox.ac.uk/id/2168"/>
+            </bibl>
+            <bibl>
+               <note>Hakluyt, Richard, 1552?-1616. - Discourse of Western Planting. - 1st e.d 1584</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="OTASH">
+               <bibl>University of Oxford Text Archive Subject Headings</bibl>
+            </taxonomy>
+            <taxonomy xml:id="LCSH">
+               <bibl>Library of Congress Subject Headings</bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <creation>
+            <date notAfter="1584"/>
+         </creation>
+         <langUsage>
+            <language ident="eng">English</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="#LCSH">
+               <term type="genre">America -- Discovery and exploration -- English</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2010-09-27">Header normalised</change>
+      </revisionDesc>
+  </teiHeader>
+  <text>
+      <front>
+         <titlePage>
+            <docTitle>
+               <titlePart type="main">
+                  <title type="main">Discourse of Western Planting</title>
+               </titlePart>
+            </docTitle>
+            <byline>by 
+<docAuthor>Richard Hakluyt</docAuthor>
+            </byline>
+         </titlePage>
+      </front>
+      <body>
+         <div type="main">
+            <head>[Discourse of Western Planting]</head>
+            <p>A particuler discourse concerninge the greate necessitie and manifolde 
+comodyties that are like to growe to this Realme of Englande by the Westerne 
+discoveries lately attempted, Written In the yere 1584 by Richarde Hackluyt of 
+Oxforde at the requeste and direction of the righte worshipfull Mr. Walter 
+Raghly [Raieigh] nowe Knight, before the comynge home of his Twoo Barkes: and 
+is devlded into xxi chapiters, the Titles whereof followe in the nexte leafe. 
+</p>
+            <p>
+               <list type="ordered">
+                  <item> That this westerne discoverie will be greately for 
+the inlargement of the gospell of Christe whereunto the 
+Princes of the refourmed relligion are chefely bounde 
+amongest whome her Majestie is principall. </item>
+                  <item> That all other englishe Trades are growen beggerly 
+or daungerous, especially in all the kinge of Spaine his 
+Domynions, where our men are dryven to flinge their 
+Bibles and prayer Bokes into the sea, and to forsweare and renownce their 
+ relligion and conscience and consequently theyr obedience to her Majestie. </item>
+                  <item> That this westerne voyadge will yelde unto us all 
+the commodities of Europe, Affrica, and Asia, as far as 
+wee were wonte to travell, and supply the wantes of all 
+our decayed trades. </item>
+                  <item> That this enterprise will be for the manifolde imploymente of nombers 
+ of idle men, and for bredinge of 
+many sufficient, and for utterance of the greate quantitie 
+of the commodities of our Realme. </item>
+                  <item> That this voyage will be a great bridle to the 
+Indies of the kinge of Spaine and a means that wee may 
+arreste at our pleasure for the space of teime weekes or 
+three monethes every yere, one or twoo hundred saile of 
+his subjectes shippes at the fysshinge in Newfounde Iande. </item>
+                  <item> That the rischesse that the Indian Threasure 
+wrought in time of Charles the late Emperor father to the 
+Spanishe kinge, is to be had in consideracion of the Q. 
+moste excellent Majestie, leaste the contynuall commynge 
+of the like threasure from thence to his sonne, worke the 
+unrecoverable annoye of this Realme, whereof already wee 
+have had very dangerous experience. </item>
+                  <item> What speciall meanes may bringe kinge Phillippe 
+from his high Throne, and make him equal to the Princes 
+his neighbours, wherewithall is shewed his weakenes in 
+the west Indies. </item>
+                  <item> That the limites of the kinge of Spaines domynions in the west Indies 
+ be nothinge so large as is generally 
+imagined and surmised, neither those partes which he 
+holdeth be of any such forces as is falsely geven oute by 
+the popishe Clergye and others his suitors, to terrffie the 
+Princes of the Relligion and to abuse and blinde them. </item>
+                  <item> The Names of the riche Townes lienge alonge the 
+sea coaste on the northe side from the equinoctiall of the 
+mayne lande of America under the kinge of Spaine. </item>
+                  <item> A Brefe declaracion of the chefe Ilands in the Bay 
+of Mexico beinge under the kinge of Spaine, with their 
+havens and fortes, and what commodities they yeide. </item>
+                  <item> That the Spaniardes have executed most outragious and more then 
+ Turkishe cruelties in all the west 
+Indies, whereby they are every where there, become moste 
+odious unto them, whoe woulde joyne with us or any 
+other moste willingly to shake of their moste intollerable 
+yoke, and have begonne to doo it already in dyvers places 
+where they were Lordes heretofore. </item>
+                  <item> That the passage in this voyadge is easie and 
+shorte, that it cutteth not nere the trade of any other 
+mightie Princes, nor nere their Contries, that it is to be 
+perfourmed at all tymes of the yere, and nedeth but one 
+kinde of winde, that Ireland beinge full of goodd havens 
+on the southe and west sides, is the nerest parte of Europe 
+to it, which by this trade shall be in more securitie, and 
+the sooner drawen to more Civilitie. </item>
+                  <item> That hereby the Revenewes and customes of her 
+Majestie bothe outwardes and inwardes shall mightely be 
+inlarged by the toll, excises, and other dueties which without oppression may be 
+ raised. </item>
+                  <item> That this action will be greately for the increase, 
+mayneteynaunce and safetie of our Navye, and especially 
+of greate shippinge which is the strengthe of our Realme, 
+and for the supportation of all those occupacions that depende upon the same. </item>
+                  <item> That spedie plantinge in divers fitt places is moste 
+necessarie upon these luckye westerne discoveries for feare 
+of the daunger of being prevented by other nations which 
+have the like intentions, with the order thereof and other 
+reasons therewithall alleaged. </item>
+                  <item> Meanes to kepe this enterprise from overthrowe 
+and the enterprisers from shame and dishonor. </item>
+                  <item> That by these Colonies the Northwest passage to 
+Cathaio and China may easely quickly and perfectly be 
+searched oute aswell by river and overlande, as by sea, for 
+proofe whereof here are quoted and alleaged divers rare 
+Testymonies oute of the three volumes of voyadges gathered by Ramusius and other 
+ grave authors. </item>
+                  <item> That the Queene of Englande title to all the west 
+Indies, or at the leaste to as moche as is from Florida to 
+the Circle articke, is more lawfull and righte then the 
+Spaniardes or any other Christian Princes. </item>
+                  <item> An aunswer to the Bull of the Donacion of all the 
+west Indies graunted to the kinges of Spaine by Pope 
+Alexander the VI whoe was himselfe a Spaniarde borne. </item>
+                  <item> A brefe collection of certaine reasons to induce 
+her Majestie and the state to take in hande the westerne 
+voyadge and the plantinge there. </item>
+                  <item> A note of some thinges to be prepared for the 
+voyadge which is sett downe rather to drawe the takers of 
+the voyadge in hande to the presente consideracion then 
+for any other reason for that divers thinges require preparation longe before 
+the voyadge, without which the voyadge is maymed. </item>
+               </list>
+            </p>
+         </div>
+      </body>
+  </text>
+</TEI>
+

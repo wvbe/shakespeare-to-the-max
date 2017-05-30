@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="uniform">Poems. Selections</title>
+            <title type="main">Selected poems</title>
+            <author>Blake, William, 1757-1827</author>
+            <respStmt>
+               <resp>creation of machine-readable version</resp>
+               <name>Triggs, Sara</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>University of Oxford Text Archive</name>
+               <address>
+                  <addrLine>Oxford University Computing Services</addrLine>
+                  <addrLine>13 Banbury Road</addrLine>
+                  <addrLine>Oxford</addrLine>
+                  <addrLine>OX2 6NN</addrLine>
+               </address>
+               <email>ota@oucs.ox.ac.uk</email>
+            </distributor>
+            <idno type="ota">http://ota.ox.ac.uk/id/3069</idno>
+            <idno type="isbn10">1106000684</idno>
+            <idno type="isbn13">9781106000682</idno>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/3.0/">
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License
+      </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Revised version of  <relatedItem type="older" target="http://ota.ox.ac.uk/id/2112"/>
+            </bibl>
+            <bibl>Not recorded</bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="OTASH">
+               <bibl>University of Oxford Text Archive Subject Headings</bibl>
+            </taxonomy>
+            <taxonomy xml:id="LCSH">
+               <bibl>Library of Congress Subject Headings</bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <creation>
+            <date notAfter="1827"/>
+         </creation>
+         <langUsage>
+            <language ident="eng">English</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="#LCSH">
+               <term type="genre">Poems -- Great Britain</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2010-09-27">Header normalised</change>
+      </revisionDesc>
+  </teiHeader>
+  <text>
+      <front>
+         <titlePage>
+            <docTitle>
+               <titlePart type="main">
+                  <title type="main">Selected Poems</title>
+               </titlePart>
+            </docTitle>
+            <byline>by 
+<docAuthor>William Blake</docAuthor>
+            </byline>
+         </titlePage>
+      </front>
+      <body>
+         <div type="Poem">
+            <head>THE NEW JERUSALEM</head>
+            <note anchored="true">1804-1810</note>
+            <lg type="stanza">
+               <l> And did those feet in ancient time </l>
+               <l> Walk upon England's mountains green? </l>
+               <l> And was the holy Lamb of God </l>
+               <l> On England's pleasant pastures seen? </l>
+            </lg>
+            <lg type="stanza">
+               <l> And did the Countenance Divine </l>
+               <l> Shine forth upon our clouded hills? </l>
+               <l> And was Jerusalem builded here </l>
+               <l> Among these dark Satanic Mills? </l>
+            </lg>
+            <lg type="stanza">
+               <l> Bring me my bow of burning gold! </l>
+               <l> Bring me my arrows of desire! </l>
+               <l> Bring me my spear!  O clouds, unfold! </l>
+               <l> Bring me my charriot of fire! </l>
+            </lg>
+            <lg type="stanza">
+               <l> I will not cease from mental fight, </l>
+               <l> Nor shall my sword sleep in my hand </l>
+               <l> Till we have built Jerusalem </l>
+               <l> In England's green and pleasant land. </l>
+            </lg>
+         </div>
+         <div type="Poem">
+            <head>THE CRYSTAL CABINET</head>
+            <note anchored="true">1803?</note>
+            <lg type="stanza">
+               <l>The Maiden caught me in the wild, </l>
+               <l>Where I was dancing merrily; </l>
+               <l>She put me into her Cabinet, </l>
+               <l>And lock'd me up with a golden key. </l>
+            </lg>
+            <lg type="stanza">
+               <l>This cabinet is form'd of gold </l>
+               <l>And pearl and crystal shining bright, </l>
+               <l>And within it opens into a world </l>
+               <l>And a little lovely moony night. </l>
+            </lg>
+            <lg type="stanza">
+               <l>Another England there I saw </l>
+               <l>Another London with its Tower, </l>
+               <l>Another Thames and other hills, </l>
+               <l>And another pleasant Surrey bower. </l>
+            </lg>
+            <lg type="stanza">
+               <l>Another Maiden like herself, </l>
+               <l>Translucent, lovely, shining clear, </l>
+               <l>Threefold each in the other clos'd </l>
+               <l>O, what a pleasant trembling fear! </l>
+            </lg>
+            <lg type="stanza">
+               <l>O, what a smile! a threefold smile </l>
+               <l>Fill'd me, that like a flame I burn'd; </l>
+               <l>I bent to kiss the lovely Maid, </l>
+               <l>And found a threefold kiss return'd. </l>
+            </lg>
+            <lg type="stanza">
+               <l>I strove to seize the inmost form </l>
+               <l>With ardor fierce and hands of flame, </l>
+               <l>But burst the Crystal Cabinet, </l>
+               <l>And like a weeping Babe became— </l>
+            </lg>
+            <lg type="stanza">
+               <l>A weeping Babe upon the wild, </l>
+               <l>And weeping Woman pale reclin'd, </l>
+               <l>And in the outward air again, </l>
+               <l>I fill'd with woes the passing wind. </l>
+            </lg>
+         </div>
+         <div type="Poem">
+            <head>THE LAND OF DREAMS</head>
+            <note anchored="true">1800-1810</note>
+            <lg type="stanza">
+               <l>Awake, awake, my little boy! </l>
+               <l>Thou wast thy mother's only joy; </l>
+               <l>Why dost thou weep in thy gentle sleep? </l>
+               <l>Awake! thy father does thee keep. </l>
+            </lg>
+            <lg type="stanza">
+               <l>“O, what land is the Land of Dreams? </l>
+               <l>What are its mountains, and what are its streams? </l>
+               <l>O father! I saw my mother there, </l>
+               <l>Among the lilies by waters fair. </l>
+            </lg>
+            <lg type="stanza">
+               <l>“Among the lambs, clothéd in white, </l>
+               <l>She walk'd with her Thomas in sweet delight. </l>
+               <l>I wept for joy, like a dove I mourn; </l>
+               <l>O! when shall I again return?” </l>
+            </lg>
+            <lg type="stanza">
+               <l>Dear child, I also by pleasant streams </l>
+               <l>Have wander'd all night in the Land of Dreams; </l>
+               <l>But tho' calm and warm the waters wide, </l>
+               <l>I could not get to the other side. </l>
+            </lg>
+            <lg type="stanza">
+               <l>“Father, O father! what do we here </l>
+               <l>In this land of unbelief and fear? </l>
+               <l>The Land of Dreams is better far </l>
+               <l>Above the light of the morning star.” </l>
+            </lg>
+         </div>
+         <div type="Poem">
+            <head>LOVE'S SECRET</head>
+            <note anchored="true">1793-1799</note>
+            <lg type="stanza">
+               <l>Never seek to tell thy love, </l>
+               <l>Love that never told can be; </l>
+               <l>For the gentle wind does move </l>
+               <l>Silently, invisibly. </l>
+            </lg>
+            <lg type="stanza">
+               <l>I told my love, I told my love, </l>
+               <l>I told her all my heart; </l>
+               <l>Trembling, cold, in ghastly fears, </l>
+               <l>Ah! she did depart! </l>
+            </lg>
+            <lg type="stanza">
+               <l>Soon as she was gone from me, </l>
+               <l>A traveler came by, </l>
+               <l>Silently, invisibly </l>
+               <l>He took her with a sigh. </l>
+            </lg>
+         </div>
+         <div type="Poem">
+            <head>MAD SONG</head>
+            <note anchored="true">1769-1777</note>
+            <lg type="stanza">
+               <l>The wild winds weep, </l>
+               <l>And the night is a-cold; </l>
+               <l>Come hither, Sleep, </l>
+               <l>And my griefs unfold: </l>
+               <l>But lo! the morning peeps </l>
+               <l>Over the eastern steeps, </l>
+               <l>And the rustling birds of dawn </l>
+               <l>The earth do scorn. </l>
+            </lg>
+            <lg type="stanza">
+               <l>Lo! to the vault </l>
+               <l>Of paved heaven, </l>
+               <l>With sorrow fraught </l>
+               <l>My notes are driven: </l>
+               <l>They strike the ear of night, </l>
+               <l>Make weep the eyes of day; </l>
+               <l>They make mad the roaring winds, </l>
+               <l>And with tempests play. </l>
+            </lg>
+            <lg type="stanza">
+               <l>Like a fiend in a cloud, </l>
+               <l>With howling woe </l>
+               <l>After night I do crowd, </l>
+               <l>And with night will go; </l>
+               <l>I turn my back to the east </l>
+               <l>From whence comforts have increased </l>
+               <l>For light doth seize my brain </l>
+               <l>With frantic pain. </l>
+            </lg>
+            <l/>
+         </div>
+         <div type="Poem">
+            <head>MY SPECTRE AROUND ME</head>
+            <note anchored="true">&amp;ante; 1827</note>
+            <lg type="stanza">
+               <l>My spectre around me night and day </l>
+               <l>Like a wild beast guards my way. </l>
+               <l>My emanation far within </l>
+               <l>Weeps incessantly for my sin. </l>
+            </lg>
+            <lg type="stanza">
+               <l>A fathomless and boundless deep, </l>
+               <l>There we wander, there we weep; </l>
+               <l>On the hungry craving wind </l>
+               <l>My spectre follows thee behind. </l>
+            </lg>
+            <lg type="stanza">
+               <l>He scents thy footsteps in the snow, </l>
+               <l>Wheresoever thou dost go </l>
+               <l>Through the wintry hail and rain. </l>
+               <l>When wilt thou return again? </l>
+            </lg>
+            <lg type="stanza">
+               <l>Dost thou not in pride and scorn </l>
+               <l>Fill with tempests all my morn, </l>
+               <l>And with jealousies and fears </l>
+               <l>Fill my pleasant nights with tears? </l>
+            </lg>
+            <lg type="stanza">
+               <l>Seven of my sweet loves thy knife </l>
+               <l>Has bereaved of their life. </l>
+               <l>Their marble tombs I built with tears </l>
+               <l>And with cold and shuddering fears. </l>
+            </lg>
+            <lg type="stanza">
+               <l>Seven more loves weep night and day </l>
+               <l>Round the tombs where my loves lay, </l>
+               <l>And seven more loves attend each night </l>
+               <l>Around my couch with torches bright. </l>
+            </lg>
+            <lg type="stanza">
+               <l>And seven more loves in my bed </l>
+               <l>Crown with wine my mournful head, </l>
+               <l>Pitying and forgiving all </l>
+               <l>Thy transgressions, great and small. </l>
+            </lg>
+            <lg type="stanza">
+               <l>When wilt thou return and view </l>
+               <l>My loves and them to life renew? </l>
+               <l>When wilt thou return and live? </l>
+               <l>When wilt thou pity as I forgive? </l>
+            </lg>
+            <lg type="stanza">
+               <l>“Never, Never, I return: </l>
+               <l>Still for Victory I burn. </l>
+               <l>Living, thee alone I'll have </l>
+               <l>And when dead I'll be thy Grave. </l>
+            </lg>
+            <lg type="stanza">
+               <l>“Thro' the Heaven and Earth and Hell </l>
+               <l>Thou shalt never never quell: </l>
+               <l>I will fly and thou pursue, </l>
+               <l>Night and Morn the flight renew.” </l>
+            </lg>
+            <lg type="stanza">
+               <l>Till I turn from Female Love, </l>
+               <l>And root up the Infernal Grove, </l>
+               <l>I shall never worthy be. </l>
+               <l>To Step into Eternity. </l>
+            </lg>
+            <lg type="stanza">
+               <l>And, to end thy cruel mocks, </l>
+               <l>Annihilate thee on the rocks, </l>
+               <l>And another form create </l>
+               <l>To be subservient to my Fate. </l>
+            </lg>
+            <lg type="stanza">
+               <l>Let us agree to give up Love, </l>
+               <l>And root up the infernal grove; </l>
+               <l>Then shall we return and see </l>
+               <l>The worlds of happy Eternity. </l>
+            </lg>
+            <lg type="stanza">
+               <l>And Throughout all Eternity </l>
+               <l>I forgive you, you forgive me. </l>
+               <l>As our dear Redeemer said: </l>
+               <l>“This the Wine and this the Bread.” </l>
+            </lg>
+            <note anchored="true">Additional Stanzas</note>
+            <lg type="stanza">
+               <l>O'er my Sins thou sit and moan: </l>
+               <l>Hast thou no sins of thy own? </l>
+               <l>O'er my Sins thou sit and weep, </l>
+               <l>And lull thy own Sins fast asleep. </l>
+            </lg>
+            <lg type="stanza">
+               <l>What Transgressions I commit </l>
+               <l>Are for they Transgressions fit. </l>
+               <l>They thy Harlots, thou their slave, </l>
+               <l>And my Bed becomes their Grave. </l>
+            </lg>
+            <lg type="stanza">
+               <l>Poor pale pitiable form </l>
+               <l>That I follow in a Storm, </l>
+               <l>Iron tears and groans of lead </l>
+               <l>Bind around my aking head. </l>
+            </lg>
+         </div>
+         <div type="Poem">
+            <head>SILENT, SILENT NIGHT</head>
+            <note anchored="true">1793-1799</note>
+            <lg type="stanza">
+               <l>Silent, silent night, </l>
+               <l>Quench the holy light </l>
+               <l>Of thy torches bright; </l>
+            </lg>
+            <lg type="stanza">
+               <l>For possessed of Day </l>
+               <l>Thousand spirits stray </l>
+               <l>That sweet joys betray. </l>
+            </lg>
+            <lg type="stanza">
+               <l>Why should joys be sweet </l>
+               <l>Used with deceit, </l>
+               <l>Nor with sorrows meet? </l>
+            </lg>
+            <lg type="stanza">
+               <l>But an honest joy </l>
+               <l>Does itself destroy </l>
+               <l>For a harlot coy. </l>
+            </lg>
+         </div>
+         <div type="Poem">
+            <head>SLEEP! SLEEP! BEAUTY BRIGHT</head>
+            <note anchored="true">1793-1799</note>
+            <lg type="stanza">
+               <l>Sleep! sleep! beauty bright, </l>
+               <l>Dreaming o'er the joys of night; </l>
+               <l>Sleep! sleep! in thy sleep </l>
+               <l>Little sorrows sit and weep. </l>
+            </lg>
+            <lg type="stanza">
+               <l>Sweet Babe, in thy face </l>
+               <l>Soft desires I can trace, </l>
+               <l>Secret joys and secret smiles, </l>
+               <l>Little pretty infant wiles. </l>
+            </lg>
+            <lg type="stanza">
+               <l>As thy softest limbs I feel, </l>
+               <l>Smiles as of the morning steal </l>
+               <l>O'er thy cheek, and o'er thy breast </l>
+               <l>Where thy little heart does rest. </l>
+            </lg>
+            <lg type="stanza">
+               <l>O! the cunning wiles that creep </l>
+               <l>In thy little heart asleep. </l>
+               <l>When thy little heart does wake </l>
+               <l>Then the dreadful lightnings break, </l>
+            </lg>
+            <lg type="stanza">
+               <l>From thy cheek and from thy eye, </l>
+               <l>O'er the youthful harvests nigh. </l>
+               <l>Infant wiles and infant smiles </l>
+               <l>Heaven and Earth of peace beguiles. </l>
+            </lg>
+         </div>
+         <div type="Poem">
+            <head>SONG</head>
+            <note anchored="true">1783</note>
+            <lg type="stanza">
+               <l>My silks and fine array, </l>
+               <l>My smiles and languish'd air, </l>
+               <l>By love are driv'n away; </l>
+               <l>And mournful lean Despair </l>
+               <l>Brings me yew to deck my grave; </l>
+               <l>Such end true lovers have. </l>
+            </lg>
+            <lg type="stanza">
+               <l>His face is fair as heav'n </l>
+               <l>When springing buds unfold; </l>
+               <l>O why to him was't giv'n </l>
+               <l>Whose heart is wintry cold? </l>
+               <l>His breast is love's all-worshipp'd tomb, </l>
+               <l>Where all love's pilgrims come. </l>
+            </lg>
+            <lg type="stanza">
+               <l>Bring me an axe and spade, </l>
+               <l>Bring me a winding sheet; </l>
+               <l>When I my grave have made </l>
+               <l>Let winds and tempests beat: </l>
+               <l>Then down I'll lie as cold as clay. </l>
+               <l>True love doth pass away! </l>
+            </lg>
+         </div>
+         <div type="Poem">
+            <head>TO AUTUMN</head>
+            <note anchored="true">1783</note>
+            <lg type="stanza">
+               <l>O Autumn, laden with fruit, and stainéd </l>
+               <l>With the blood of the grape, pass not, but sit </l>
+               <l>Beneath my shady roof; there thou may'st rest, </l>
+               <l>And tune thy jolly voice to my fresh pipe, </l>
+               <l>And all the daughters of the year shall dance! </l>
+               <l>Sing now the lusty song of fruits and flowers. </l>
+            </lg>
+            <lg type="stanza">
+               <l>“The narrow bud opens her beauties to </l>
+               <l>The sun, and love runs in her thrilling veins; </l>
+               <l>Blossoms hang round the brows of Morning, and </l>
+               <l>Flourish down the bright cheek of modest Eve, </l>
+               <l>Till clust'ring Summer breaks forth into singing, </l>
+               <l>And feather'd clouds strew flowers round her head. </l>
+            </lg>
+            <lg type="stanza">
+               <l>“The spirits of the air live in the smells </l>
+               <l>Of fruit; and Joy, with pinions light, roves round </l>
+               <l>The gardens, or sits singing in the trees.” </l>
+               <l>Thus sang the jolly Autumn as he sat, </l>
+               <l>Then rose, girded himself, and o'er the bleak </l>
+               <l>Hills fled from our sight; but left his golden load. </l>
+            </lg>
+         </div>
+         <div type="Poem">
+            <head>TO SPRING</head>
+            <note anchored="true">1783</note>
+            <lg type="stanza">
+               <l>O thou with dewy locks, who lookest down </l>
+               <l>Thro' the clear windows of the morning, turn </l>
+               <l>Thine angel eyes upon our western isle, </l>
+               <l>Which in full choir hails thy approach, O Spring! </l>
+            </lg>
+            <lg type="stanza">
+               <l>The hills tell each other, and the listening </l>
+               <l>Valleys hear; all our longing eyes are turned </l>
+               <l>Up to thy bright pavilions: issue forth, </l>
+               <l>And let thy holy feet visit our clime. </l>
+            </lg>
+            <lg type="stanza">
+               <l>Come o'er the eastern hills, and let our winds </l>
+               <l>Kiss thy perfumed garments; let us taste </l>
+               <l>Thy morn and evening breath; scatter thy pearls </l>
+               <l>Upon our love-sick land that mourns for thee. </l>
+            </lg>
+            <lg type="stanza">
+               <l>O deck her forth with thy fair fingers; pour </l>
+               <l>Thy soft kisses on her bosom; and put </l>
+               <l>Thy golden crown upon her languished head, </l>
+               <l>Whose modest tresses were bound up for thee. </l>
+            </lg>
+         </div>
+         <div type="Poem">
+            <head>TO SUMMER</head>
+            <note anchored="true">1783</note>
+            <lg type="stanza">
+               <l>O thou who passest thro' our valleys in </l>
+               <l>Thy strength, curb thy fierce steeds, allay the heat </l>
+               <l>That flames from their large nostrils! thou, O Summer, </l>
+               <l>Oft pitched'st here thy goldent tent, and oft </l>
+               <l>Beneath our oaks hast slept, while we beheld </l>
+               <l>With joy thy ruddy limbs and flourishing hair. </l>
+            </lg>
+            <lg type="stanza">
+               <l>Beneath our thickest shades we oft have heard </l>
+               <l>Thy voice, when noon upon his fervid car </l>
+               <l>Rode o'er the deep of heaven; beside our springs </l>
+               <l>Sit down, and in our mossy valleys, on </l>
+               <l>Some bank beside a river clear, throw thy </l>
+               <l>Silk draperies off, and rush into the stream: </l>
+               <l>Our valleys love the Summer in his pride. </l>
+            </lg>
+            <lg type="stanza">
+               <l>Our bards are fam'd who strike the silver wire: </l>
+               <l>Our youth are bolder than the southern swains: </l>
+               <l>Our maidens fairer in the sprightly dance: </l>
+               <l>We lack not songs, nor instruments of joy, </l>
+               <l>Nor echoes sweet, nor waters clear as heaven, </l>
+               <l>Nor laurel wreaths against the sultry heat. </l>
+            </lg>
+         </div>
+         <div type="Poem">
+            <head>THE WILD FLOWER'S SONG</head>
+            <note anchored="true">1793-1799</note>
+            <lg type="stanza">
+               <l>As I wandered the forest, </l>
+               <l>The green leaves among, </l>
+               <l>I heard a Wild Flower </l>
+               <l>Singing a song. </l>
+            </lg>
+            <lg type="stanza">
+               <l>“I slept in the earth </l>
+               <l>In the silent night, </l>
+               <l>I murmured my fears </l>
+               <l>And I felt delight. </l>
+            </lg>
+            <lg type="stanza">
+               <l>“In the morning I went </l>
+               <l>As rosy as morn, </l>
+               <l>To seek for new joy; </l>
+               <l>But oh! met with scorn.” </l>
+            </lg>
+         </div>
+         <div type="Poem">
+            <head>AUGURIES OF INNOCENCE</head>
+            <note anchored="true">&amp;ante; 1827</note>
+            <lg type="stanza">
+               <l>To see a World in a Grain of Sand </l>
+               <l>And a Heaven in a Wild Flower </l>
+               <l>Hold Infinity in the palm of your hand </l>
+               <l>And Eternity in an hour </l>
+               <l>A Robin Red breast in a Cage </l>
+               <l>Puts all Heaven in a Rage </l>
+               <l>A dove house filld with doves &amp; Pigeons </l>
+               <l>Shudders Hell thro all its regions </l>
+               <l>A dog starvd at his Masters Gate </l>
+               <l>Predicts the ruin of the State </l>
+               <l>A Horse misusd upon the Road </l>
+               <l>Calls to Heaven for Human blood </l>
+               <l>Each outcry of the hunted Hare </l>
+               <l>A fibre from the Brain does tear </l>
+               <l>A Skylark wounded in the wing </l>
+               <l>A Cherubim does cease to sing </l>
+               <l>The Game Cock clipd &amp; armd for fight </l>
+               <l>Does the Rising Sun affright </l>
+               <l>Every Wolfs &amp; Lions howl </l>
+               <l>Raises from Hell a Human Soul </l>
+               <l>The wild deer wandring here &amp; there </l>
+               <l>Keeps the Human Soul from Care </l>
+               <l>The Lamb misusd breeds Public strife </l>
+               <l>And yet forgives the Butchers Knife </l>
+               <l> The Bat that flits at close of Eve </l>
+               <l>Has left the Brain that wont Believe </l>
+               <l>The Owl that calls upon the Night </l>
+               <l>Speaks the Unbelievers fright </l>
+               <l>He who shall hurt the little Wren </l>
+               <l>Shall never be belovd by Men </l>
+               <l>He who the Ox to wrath has movd </l>
+               <l>Shall never be by Woman lovd </l>
+               <l>The wanton Boy that kills the Fly </l>
+               <l>Shall feel the Spiders enmity </l>
+               <l>He who torments the Chafers sprite </l>
+               <l>Weaves a Bower in endless Night </l>
+               <l>The Catterpiller on the Leaf </l>
+               <l>Repeats to thee thy Mothers grief </l>
+               <l>Kill not the Moth nor Butterfly </l>
+               <l>For the Last Judgment draweth nigh </l>
+               <l>He who shall train the Horse to War </l>
+               <l>Shall never pass the Polar Bar </l>
+               <l>The Beggers Dog &amp; Widows Cat </l>
+               <l>Feed them &amp; thou wilt grow fat </l>
+               <l>The Gnat that sings his Summers song </l>
+               <l>Poison gets from Slanders tongue </l>
+               <l>The poison of the Snake &amp; Newt </l>
+               <l>Is the sweat of Envys Foot </l>
+               <l>The Poison of the Honey Bee </l>
+               <l>Is the Artists Jealously </l>
+               <l>The Princes Robes &amp; Beggars Rags </l>
+               <l>Are Toadstools on the Misers Bags </l>
+               <l>A truth thats told with bad intent </l>
+               <l>Beats all the Lies you can invent </l>
+               <l>It is right it should be so </l>
+               <l>Man was made for Joy &amp; Woe </l>
+               <l>And when this we rightly know </l>
+               <l>Thro the World we safely go </l>
+               <l>Joy &amp; Woe are woven fine </l>
+               <l>A Clothing for the Soul divine </l>
+               <l>Under every grief &amp; pine </l>
+               <l>Runs a joy with silken twine </l>
+               <l>The Babe is more than swadling Bands </l>
+               <l>Throughout all these Human Lands </l>
+               <l>Tools were made &amp; Born were hands </l>
+               <l>Every Farmer Understands </l>
+               <l>Every Tear from Every Eye </l>
+               <l>Becomes a Babe in Eternity </l>
+               <l>This is caught by Females bright </l>
+               <l>And returned to its own delight </l>
+               <l>The Bleat the Bark Bellow &amp; Roar </l>
+               <l>Are Waves that Beat on Heavens Shore </l>
+               <l>The Babe that weeps the Rod beneath </l>
+               <l>Writes Revenge in realms of death </l>
+               <l>The Beggars Rags fluttering in Air </l>
+               <l>Does to Rags the Heavens tear </l>
+               <l>The Soldier armd with Sword &amp; Gun </l>
+               <l>Palsied strikes the Summers Sun </l>
+               <l>The poor Mans Farthing is worth more </l>
+               <l>Than all the Gold on Africs Shore </l>
+               <l>One Mite wrung from the Labrers hands </l>
+               <l>Shall buy &amp; sell the Misers Lands </l>
+               <l>Or if protected from on high </l>
+               <l>Does that whole Nation sell &amp; buy </l>
+               <l>He who mocks the Infants Faith </l>
+               <l>Shall be mock'd in Age &amp; Death </l>
+               <l>He who shall teach the Child to Doubt </l>
+               <l>The rotting Grave shall neer get out </l>
+               <l>He who respects the Infants faith </l>
+               <l>Triumphs over Hell &amp; Death </l>
+               <l>The Childs Toys &amp; the Old Mans Reasons </l>
+               <l>Are the Fruits of the Two seasons </l>
+               <l>The Questioner who sits so sly </l>
+               <l>Shall never know how to Reply </l>
+               <l>He who replies to words of Doubt </l>
+               <l>Doth put the Light of Knowledge out </l>
+               <l>The Strongest Poison ever known </l>
+               <l>Came from Caesars Laurel Crown </l>
+               <l>Nought can deform the Human Race </l>
+               <l>Like to the Armours iron brace </l>
+               <l>When Gold &amp; Gems adorn the Plow </l>
+               <l>To peaceful Arts shall Envy Bow </l>
+               <l>A Riddle or the Crickets Cry </l>
+               <l>Is to Doubt a fit Reply </l>
+               <l>The Emmets Inch &amp; Eagles Mile </l>
+               <l>Make Lame Philosophy to smile </l>
+               <l>He who Doubts from what he sees </l>
+               <l>Will neer Believe do what you Please </l>
+               <l>If the Sun &amp; Moon should doubt </l>
+               <l>Theyd immediately Go out </l>
+               <l>To be in a Passion you Good many do </l>
+               <l>But no Good if a Passion is in you </l>
+               <l>The Whore &amp; Gambler by the State </l>
+               <l>Licencd build that Nations Fate </l>
+               <l>The Harlots cry from Street to Street </l>
+               <l>Shall weave Old Englands winding Sheet </l>
+               <l>The Winners Shout the Losers Curse </l>
+               <l>Dance before dead Englands Hearse </l>
+               <l>Every Night &amp; every Morn </l>
+               <l>Some to Misery are Born </l>
+               <l>Every Morn &amp; every Night </l>
+               <l>Some are Born to sweet delight </l>
+               <l>Some are Born to sweet delight </l>
+               <l>Some are Born to Endless Night </l>
+               <l>We are led to Believe a Lie </l>
+               <l>When we see not Thro the Eye </l>
+               <l>Which was Born in a Night to perish in a Night </l>
+               <l>When the Soul Slept in Beams of Light </l>
+               <l>God Appears &amp; God is Light </l>
+               <l>To those poor Souls who dwell in Night </l>
+               <l>But does a Human Form Display </l>
+               <l>To those Who Dwell in Realms of day </l>
+            </lg>
+         </div>
+         <div type="Poem">
+            <head>A DIVINE IMAGE</head>
+            <note anchored="true">1790-1791</note>
+            <lg type="stanza">
+               <l> Cruelty has a human heart, </l>
+               <l>   And Jealousy a human face; </l>
+               <l> Terror the human form divine, </l>
+               <l>   And Secresy the human dress. </l>
+            </lg>
+            <lg type="stanza">
+               <l> The human dress is forged iron, </l>
+               <l>   The human form a fiery forge, </l>
+               <l> The human face a furnace sealed, </l>
+               <l>   The human heart its hungry gorge. </l>
+            </lg>
+         </div>
+      </body>
+  </text>
+</TEI>
+

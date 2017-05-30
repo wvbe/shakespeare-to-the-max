@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The grumbletonians: or, the dogs without-doors. A tale.</title>
+            <author>Carey, Henry, 1687?-1743.</author>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>University of Oxford Text Archive</name>
+               <address>
+                  <addrLine>Oxford University Computing Services</addrLine>
+                  <addrLine>13 Banbury Road</addrLine>
+                  <addrLine>Oxford</addrLine>
+                  <addrLine>OX2 6NN</addrLine>
+               </address>
+               <email>ota@oucs.ox.ac.uk</email>
+            </distributor>
+            <idno type="ota">http://ota.ox.ac.uk/id/5101</idno>
+            <idno type="isbn10">1106021002</idno>
+            <idno type="isbn13">9781106021007</idno>
+            <idno type="TCP">K100170.000</idno>
+            <idno type="BIBNO">CW3314215785</idno>
+            <idno type="ECLL">0765500700</idno>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/3.0/">
+	  Distributed by the University of Oxford under a Creative Commons
+	  Attribution-ShareAlike 3.0 Unported License
+	</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The grumbletonians: or, the dogs without-doors. A tale.</title>
+                  <author>Carey, Henry, 1687?-1743.</author>
+               </titleStmt>
+               <extent>8p. ; 2⁰.</extent>
+               <publicationStmt>
+                  <publisher>printed for J. Peele,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1727.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Anonymous. By Henry Carey.</note>
+                  <note>Verse.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>Foxon, C43</note>
+                  <note>English Short Title Catalog, ESTCT125553.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">English</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:0765500700:1"/>
+THE Grumbletonians: OR, THE DOGS without-Doors. A TALE.</p>
+            <q>
+               <l>Envy does Merit as its Shade purſue,</l>
+               <l>But, like the Shadow, proves the Subſtance true. </l>
+               <bibl>Pope.</bibl>
+            </q>
+            <p>
+               <hi>LONDON: </hi>Printed for <hi> J. PEELE,</hi> at <hi>Lock'</hi>s-<hi>Head</hi> in <hi>Pater-noſter-row.</hi> 1727. Price Six Pence.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:0765500700:2"/>
+            <head>THE Grumbletonians; OR, THE DOGS without-Doors.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">A</seg> Wealthy Farmer in the Weſt,</l>
+               <l>With Life's Enjoyments amply bleſt,</l>
+               <l>A Man eſteem'd both far and near,</l>
+               <l>Who in his Houſe kept ſpecial Beer;</l>
+               <l>Twelve Children eke around his Table,</l>
+               <l>All luſty, lively, brisk and able:</l>
+            </lg>
+            <lg>
+               <l>He carried wondrous well his Age,</l>
+               <l>His Wife was Houſewifely and Sage;</l>
+               <l>
+                  <pb n="4" facs="tcp:0765500700:3"/>
+They throve, and pick'd up Wealth apace,</l>
+               <l>And none at Church of them took Place.</l>
+            </lg>
+            <lg>
+               <l>Two Maſtiff Dogs he kept, to guard</l>
+               <l>His Houſe, his Poultry, and his Yard;</l>
+               <l>With Offal from the Meat he kill'd,</l>
+               <l>Their hungry Paunches well he fill'd:</l>
+               <l>All ſleek they were, and in good Caſe,</l>
+               <l>And ſhew'd the Plenty of the Place.</l>
+            </lg>
+            <lg>
+               <l>But in the Houſe they durſt not enter,</l>
+               <l>My Dame her Crock'ry would not venture;</l>
+               <l>For ſhe had Tea-Table, and China,</l>
+               <l>And held her Head as high as any:</l>
+               <l>Her Houſe was kept too nice and neat</l>
+               <l>For Dogs to traipſe with dirty Feet.</l>
+            </lg>
+            <lg>
+               <l>For many Years theſe Currs were quiet,</l>
+               <l>Nor grumbled at their Bounds or Diet,</l>
+               <l>Would bark at Beggar or at Stranger,</l>
+               <l>And make much Noiſe at little Danger;</l>
+               <l>
+                  <pb n="5" facs="tcp:0765500700:4"/>
+But, to the Comers too and fro,</l>
+               <l>No Marks of Surlineſs they'd ſhew.</l>
+            </lg>
+            <lg>
+               <l>A Hound the Farmer had beſide,</l>
+               <l>A Hound! His Hearts delight and Pride;</l>
+               <l>Peerleſs he was of all his Kind,</l>
+               <l>So fleet! he would out-ſtrip the Wind,</l>
+               <l>The beſt that ever follow'd Game,</l>
+               <l>Frolick he was, and FLY his Name.</l>
+            </lg>
+            <lg>
+               <l>Careſt and lov'd by ev'ry Soul,</l>
+               <l>He rang'd the Houſe without Controul;</l>
+               <l>This made the angry Maſtiffs jealous,</l>
+               <l>FLY ſhould be rais'd above his Fellows:</l>
+               <l>Keep his Noſe warm and lick the Plates,</l>
+               <l>While they ſtood ſhiv'ring at the Gates.</l>
+            </lg>
+            <lg>
+               <l>They grudge each Bit that goes beſide 'em,</l>
+               <l>And vow Revenge what e'er betide 'em;</l>
+               <l>
+                  <pb n="6" facs="tcp:0765500700:5"/>
+In ſhort ſo wond'rous fell they grew,</l>
+               <l>At Friend and Foe they fiercely flew.</l>
+            </lg>
+            <lg>
+               <l>Theſe ugly Currs kept ſuch a Rout,</l>
+               <l>That no one durſt ſtir in or out;</l>
+               <l>To quiet them their Maſter try'd,</l>
+               <l>But they his Threats and Him defy'd:</l>
+               <l>Their Fury would not be abated,</l>
+               <l>They bark'd the more, the more he rated;</l>
+               <l>And made ſuch a confounded Din,</l>
+               <l>He thought 'twas beſt to let 'em in:</l>
+            </lg>
+            <lg>
+               <l>For why, their Noiſe diſturb'd the Head</l>
+               <l>Of my good Dame, now ſick a-bed;</l>
+               <l>So, rather than her Head ſhould ake,</l>
+               <l>He let 'em in for Quiet's ſake.</l>
+            </lg>
+            <lg>
+               <l>But leſt their Rage on him ſhould fall,</l>
+               <l>He wiſely rais'd his Plowmen all,</l>
+               <l>
+                  <pb n="7" facs="tcp:0765500700:6"/>
+With Prong, and Fork, and Bill in Hand,</l>
+               <l>Theſe furious Creatures to withſtand;</l>
+               <l>But for this Caution was no need,</l>
+               <l>As by the Sequel you may read:</l>
+            </lg>
+            <lg>
+               <l>For ſoon as e'er the Door was ope,</l>
+               <l>They both into the Kitchen crope,</l>
+               <l>Wagging their Tails, all tame and mild,</l>
+               <l>As harmleſs Lamb, or ſucking Child.</l>
+            </lg>
+            <lg>
+               <l>Theſe Currs who were ſo fierce before,</l>
+               <l>Now crouch and wriggle on the Floor;</l>
+               <l>Fawn at the very Servants Feet,</l>
+               <l>And tremble leſt they ſhould be beat.</l>
+            </lg>
+            <lg>
+               <l>Next they traverſe the Kitchen round,</l>
+               <l>To ſee what Prog is to be found;</l>
+               <l>Where, having fed to Hearts deſire,</l>
+               <l>They ſtretch'd themſelves before the Fire,</l>
+               <l>
+                  <pb n="8" facs="tcp:0765500700:7"/>
+Content and ſnug they lay till broad day Light,</l>
+               <l>The Houſe was ſtill, my Dame ſlept well that Night.</l>
+            </lg>
+            <p>EXPLANATION.</p>
+            <epigraph>
+               <q>
+                  <l>Our Fable has a Moral, and no doubt,</l>
+                  <l>You all have Wit enough to find it out</l>.<bibl>Shakeſpear.</bibl>
+               </q>
+            </epigraph>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <p>
+               <hi>Now in the Preſs, and will ſpeedily be publiſh'd, </hi> 
+            </p>
+            <p>
+               <hi>Cat-in-Pan:</hi> Or, an occaſional Conflict between the Author of <hi>Terrae Filius,</hi> and the Compiler of the <hi>Craftsman,</hi> in a Letter to <hi>N—A—,</hi> 
+               <abbr>Eſq</abbr> a Friend of both Parties.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
+

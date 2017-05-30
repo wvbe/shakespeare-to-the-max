@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The journey: A fragment. By C. Churchill.</title>
+            <author>Churchill, Charles, 1731-1764.</author>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>University of Oxford Text Archive</name>
+               <address>
+                  <addrLine>Oxford University Computing Services</addrLine>
+                  <addrLine>13 Banbury Road</addrLine>
+                  <addrLine>Oxford</addrLine>
+                  <addrLine>OX2 6NN</addrLine>
+               </address>
+               <email>ota@oucs.ox.ac.uk</email>
+            </distributor>
+            <idno type="ota">http://ota.ox.ac.uk/id/3886</idno>
+            <idno type="isbn10">1106008855</idno>
+            <idno type="isbn13">9781106008855</idno>
+            <idno type="TCP">K033670.000</idno>
+            <idno type="BIBNO">CW3310483689</idno>
+            <idno type="ECLL">0163500500</idno>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/3.0/">
+	  Distributed by the University of Oxford under a Creative Commons
+	  Attribution-ShareAlike 3.0 Unported License
+	</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The journey: A fragment. By C. Churchill.</title>
+                  <author>Churchill, Charles, 1731-1764.</author>
+               </titleStmt>
+               <extent>[4],8p. ; 4⁰.</extent>
+               <publicationStmt>
+                  <publisher>printed for John Churchill. (Executor to the late C. Churchill,) and sold by W. Flexney,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1765.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Also issued as part of: 'Poems by C. Churchill' vol.2, London, 1765.</note>
+                  <note>P.[1] has sig. B.</note>
+                  <note>With a half-title.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>English Short Title Catalog, ESTCT29224.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">English</language>
+         </langUsage>
+      </profileDesc>
+  </teiHeader>
+  <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:0163500500:1" rendition="simple:additions"/>
+            <p>THE JOURNEY. A FRAGMENT. PRICE ONE SHILLING.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:0163500500:2" rendition="simple:additions"/>
+            <p>THE JOURNEY. A FRAGMENT. BY C. CHURCHILL.</p>
+            <p>LONDON: PRINTED FOR JOHN CHURCHILL. (Executor to the late C. CHURCHILL,) and Sold by W. FLEXNEY, near Gray's-Inn-Gate, Holborn. MDCCLXV.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:0163500500:3"/>
+            <head>THE JOURNEY.</head>
+            <lg>
+               <l>SOME of my <hi>Friends</hi> (for <hi>Friends</hi> I muſt ſuppoſe</l>
+               <l>All, who, not daring to appear my foes,</l>
+               <l>Feign great good will, and, not more full of ſpite</l>
+               <l>Than full of craft, under falſe colours fight)</l>
+               <l>Some of my <hi>Friends</hi> (ſo laviſhly I print)</l>
+               <l>As more in ſorrow than in anger, hint</l>
+               <l>(Tho' that indeed will ſcarce admit a doubt)</l>
+               <l>That I ſhall run my ſtock of Genius out,</l>
+               <l>My no great ſtock, and, publiſhing ſo faſt,</l>
+               <l>Muſt needs become a Bankrupt at the laſt.</l>
+            </lg>
+            <lg>
+               <pb n="2" facs="tcp:0163500500:4"/>
+               <l>"The Huſbandman, to ſpare a thankful ſoil,</l>
+               <l>"Which, rich in diſpoſition, pays his toil</l>
+               <l>"More than a hundred fold, which ſwells his ſtore</l>
+               <l>"E'en to his wiſh, and makes his barns run o'er,</l>
+               <l>"By long Experience taught, who teaches beſt,</l>
+               <l>"Foregoes his hopes awhile, and gives it reſt.</l>
+               <l>"The Land, allow'd its loſſes to repair,</l>
+               <l>"Refreſh'd, and full in ſtrength, delights to wear</l>
+               <l>"A ſecond Youth, and to the Farmer's eyes</l>
+               <l>"Bids richer crops, and double harveſts riſe.</l>
+            </lg>
+            <lg>
+               <l>"Nor think this practice to the earth confin'd,</l>
+               <l>"It reaches to the culture of the Mind.</l>
+               <l>"The Mind of Man craves reſt, and cannot bear,</l>
+               <l>"Tho' next in pow'r to Gods, continual care.</l>
+               <l>"Genius himſelf (nor here let Genius frown)</l>
+               <l>"Muſt, to enſure his vigour, be laid down,</l>
+               <l>"And fallow'd well; had CHURCHILL known but this,</l>
+               <l>"Which the moſt ſlight obſerver ſcarce could miſs,</l>
+               <l>"He might have flouriſh'd twenty years, or more,</l>
+               <l>"Tho' now <hi>alas!</hi> poor Man! worn out in four.</l>
+            </lg>
+            <lg>
+               <l>Recover'd from the vanity of youth,</l>
+               <l>I feel, <hi>alas!</hi> this melancholly truth,</l>
+               <l>
+                  <pb n="3" facs="tcp:0163500500:5"/>Thanks to each cordial, each adviſing Friend,</l>
+               <l>And am, if not too late, reſolv'd to mend,</l>
+               <l>Reſolv'd to give ſome reſpite to my pen,</l>
+               <l>Apply myſelf once more to Books, and Men,</l>
+               <l>View what is preſent, what is paſt review,</l>
+               <l>And my old ſtock exhauſted lay in new.</l>
+               <l>For twice ſix moons (let winds, turn'd Porters, bear</l>
+               <l>This oath to Heav'n) for twice ſix moons I ſwear,</l>
+               <l>No Muſe ſhall tempt me with her Siren lay,</l>
+               <l>Nor draw me from improvement's thorny way.</l>
+               <l>Verſe I abjure, nor will forgive that Friend,</l>
+               <l>Who in my hearing ſhall a Rime commend.</l>
+            </lg>
+            <lg>
+               <l>It cannot be—Whether I will, or no,</l>
+               <l>Such as they are, my thoughts in meaſure flow.</l>
+               <l>Convinc'd, determin'd, I in proſe begin,</l>
+               <l>But e're I write one ſentence, Verſe creeps in,</l>
+               <l>And taints me thro' and thro'; by this good light</l>
+               <l>In Verſe I talk by day, I dream by night;</l>
+               <l>If now and then I curſe, my curſes chime,</l>
+               <l>Nor can I pray, unleſs I pray in rime.</l>
+               <l>E'en now I err, in ſpite of Common Senſe,</l>
+               <l>And my Confeſſion doubles my offence.</l>
+            </lg>
+            <lg>
+               <pb n="4" facs="tcp:0163500500:6"/>
+               <l>Reſt then my <hi>Friends</hi>—ſpare, ſpare your precious breath,</l>
+               <l>And be your ſlumbers not leſs ſound than death;</l>
+               <l>Perturbed Spirits reſt, nor thus appear</l>
+               <l>To waſte your counſels in a ſpendthrift's ear,</l>
+               <l>On your grave leſſons I cannot ſubſiſt,</l>
+               <l>Nor e'en in verſe become <hi>Oeconomiſt</hi>;</l>
+               <l>Reſt then my <hi>Friends,</hi> nor, hateful to my eyes,</l>
+               <l>Let Envy, in the ſhape of Pity, riſe</l>
+               <l>To blaſt me e'er my time; with patience wait,</l>
+               <l>('Tis no long interval) propitious Fate</l>
+               <l>Shall glut your pride, and ev'ry Son of phlegm</l>
+               <l>Find ample room to cenſure and condemn.</l>
+               <l>Read ſome three hundred lines, (no eaſy taſk;</l>
+               <l>But probably the laſt that I ſhall aſk)</l>
+               <l>And give me up for ever; wait one hour,</l>
+               <l>Nay not ſo much, Revenge is in your pow'r,</l>
+               <l>And Ye may cry, e'er Time hath turn'd his glaſs,</l>
+               <l>Lo! what <hi>We</hi> prophecied is come to paſs.</l>
+            </lg>
+            <lg>
+               <l>Let Thoſe, who Poetry in Poems claim,</l>
+               <l>Or not read this, or only read to blame;</l>
+               <l>Let Thoſe, who are by fiction's charms enſlav'd,</l>
+               <l>Return me thanks for half a crown well-ſav'd;</l>
+               <l>
+                  <pb n="5" facs="tcp:0163500500:7"/>Let Thoſe, who love a little gall in rime,</l>
+               <l>Poſtpone their purchaſe now, and call next time;</l>
+               <l>Let Thoſe, who, void of Nature, look for art,</l>
+               <l>Take up their money, and in peace depart;</l>
+               <l>Let Thoſe, who energy of diction prize,</l>
+               <l>For BILLINGSGATE quit FLEXNEY, and be wiſe;</l>
+               <l>Here is no lie, no gall, no art, no force,</l>
+               <l>Mean are the words, and ſuch as come of courſe,</l>
+               <l>The Subject not leſs ſimple than the lay;</l>
+               <l>A plain, unlabour'd journey of a Day.</l>
+            </lg>
+            <lg>
+               <l>Far from Me now be ev'ry tuneful Maid,</l>
+               <l>I neither aſk, nor can receive their aid.</l>
+               <l>
+                  <hi>Pegaſus</hi> turn'd into a common hack,</l>
+               <l>Alone I jog, and keep the beaten track,</l>
+               <l>Nor would I have the Siſters of the hill</l>
+               <l>Behold their Bard in ſuch a Diſhabille.</l>
+               <l>Abſent, but only abſent for a time,</l>
+               <l>Let Them careſs ſome dearer ſon of Rime,</l>
+               <l>Let Them, as far as Decency permits,</l>
+               <l>Without ſuſpicion, play the fool with Wits,</l>
+               <l>'Gainſt Fools be guarded; 'tis a certain rule,</l>
+               <l>Wits are ſafe things, there's danger in a Fool.</l>
+            </lg>
+            <lg>
+               <pb n="6" facs="tcp:0163500500:8"/>
+               <l>Let Them, tho' modeſt, GRAY more modeſt wooe;</l>
+               <l>Let Them with MASON bleat, and bray, and cooe;</l>
+               <l>Let Them with FRANKLIN, proud of ſome ſmall Greek,</l>
+               <l>Make Sophocles, diſguis'd, in Engliſh ſpeak;</l>
+               <l>Let Them with GLOVER o'er Medea doze;</l>
+               <l>Let Them with DODSLEY wail Cleone's woes,</l>
+               <l>Whilſt He, fine feeling creature, all in tears,</l>
+               <l>Melts as they melt, and weeps with weeping Peers;</l>
+               <l>Let Them with ſimple WHITEHEAD, taught to creep</l>
+               <l>Silent and ſoft, lay FONTENELLE aſleep;</l>
+               <l>Let Them with BROWNE contrive, no vulgar trick,</l>
+               <l>To cure the dead, and make the living ſick;</l>
+               <l>Let Them in Charity to MURPHY give</l>
+               <l>Some old French piece, that he may ſteal and live;</l>
+               <l>Let Them with <hi>antick</hi> FOOTE ſubſcriptions get,</l>
+               <l>And advertiſe a Summer-houſe of Wit.</l>
+            </lg>
+            <lg>
+               <l>Thus, or in any better way They pleaſe,</l>
+               <l>With theſe great Men, or with great Men like theſe,</l>
+               <l>Let Them their appetite for laughter feed;</l>
+               <l>I on my Journey all Alone proceed.</l>
+            </lg>
+            <lg>
+               <l>If faſhionable grown, and fond of pow'r</l>
+               <l>With <hi>hum'rous</hi> SCOTS let Them diſport their hour;</l>
+               <l>
+                  <pb n="7" facs="tcp:0163500500:9"/>Let Them dance, fairy like, round OSSIAN's tomb;</l>
+               <l>Let Them forge <hi>lies,</hi> and <hi>hiſtories</hi> for HUME;</l>
+               <l>Let Them with HOME, the very Prince of verſe,</l>
+               <l>Make ſomething like a Tragedy in <hi>Erſe</hi>;</l>
+               <l>Under dark Allegory's flimſy veil</l>
+               <l>Let Them with OGILVIE ſpin out a tale</l>
+               <l>Of rueful length; Let Them plain things obſcure,</l>
+               <l>Debaſe what's truly rich, and what is poor</l>
+               <l>Make poorer ſtill by jargon moſt uncouth;</l>
+               <l>With ev'ry pert, prim Prettineſs of Youth</l>
+               <l>Born of falſe Taſte, with Fancy (like a Child</l>
+               <l>Not knowing what It cries for) running wild,</l>
+               <l>With bloated Stile, by Affectation taught,</l>
+               <l>With much falſe Colouring, and little Thought,</l>
+               <l>With Phraſes ſtrange, and Dialect decreed</l>
+               <l>By Reaſon never to have paſs'd the <hi>Tweed,</hi>
+               </l>
+               <l>With Words, which Nature meant each other's foe,</l>
+               <l>Forc'd to compound whether they will or no,</l>
+               <l>With ſuch materials, Let Them, if They will,</l>
+               <l>To prove at once their pleaſantry and ſkill,</l>
+               <l>Build up a Bard to war 'gainſt Common Senſe,</l>
+               <l>By way of Compliment to Providence;</l>
+               <l>Let Them with ARMSTRONG, taking leave of Senſe,</l>
+               <l>Read muſty lectures on <hi>Benevolence,</hi>
+               </l>
+               <l>
+                  <pb n="8" facs="tcp:0163500500:10"/>Or conn the pages of his gaping <hi>Day,</hi>
+               </l>
+               <l>Where all his former Fame was thrown away,</l>
+               <l>Where all, but barren labour, was forgot,</l>
+               <l>And the vain ſtiffneſs of a <hi>Letter'd</hi> SCOT;</l>
+               <l>Let Them with ARMSTRONG paſs the term of light,</l>
+               <l>But not one hour of darkneſs; when the Night</l>
+               <l>Suſpends this mortal coil, when Mem'ry wakes,</l>
+               <l>When for our paſt miſdoings Conſcience takes</l>
+               <l>A deep revenge, when, by Reflexion led,</l>
+               <l>She draws his curtains, and looks comfort dead,</l>
+               <l>Let ev'ry Muſe be gone; in vain He turns</l>
+               <l>And tries to pray for ſleep; an Aetna burns,</l>
+               <l>A more than Aetna in his coward breaſt;</l>
+               <l>And Guilt, with vengeance arm'd, forbids him reſt.</l>
+               <l>Tho' ſoft as Plumage from young Zephyr's wing,</l>
+               <l>His couch ſeems hard, and no relief can bring.</l>
+               <l>INGRATITUDE hath planted daggers there,</l>
+               <l>No Good Man can deſerve, no brave Man bear.</l>
+            </lg>
+            <lg>
+               <l>Thus, or in any better way They pleaſe,</l>
+               <l>With theſe great Men, or with great Men like theſe,</l>
+               <l>Let Them their appetite for laughter feed;</l>
+               <l>I on my Journey all Alone proceed.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>
+

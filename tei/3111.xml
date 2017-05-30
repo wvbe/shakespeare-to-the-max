@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Sketches among the poor</title>
+            <author>Gaskell, Elizabeth Cleghorn, 1810-1865</author>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>University of Oxford Text Archive</name>
+               <address>
+                  <addrLine>Oxford University Computing Services</addrLine>
+                  <addrLine>13 Banbury Road</addrLine>
+                  <addrLine>Oxford</addrLine>
+                  <addrLine>OX2 6NN</addrLine>
+               </address>
+               <email>ota@oucs.ox.ac.uk</email>
+            </distributor>
+            <idno type="ota">http://ota.ox.ac.uk/id/3111</idno>
+            <idno type="isbn10">1106001109</idno>
+            <idno type="isbn13">9781106001108</idno>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/3.0/">
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License
+      </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Revised version of  <relatedItem type="older" target="http://ota.ox.ac.uk/id/2163"/>
+            </bibl>
+            <bibl>Not recorded. 
+<note anchored="true">First edition published in 1837.</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="OTASH">
+               <bibl>University of Oxford Text Archive Subject Headings</bibl>
+            </taxonomy>
+            <taxonomy xml:id="LCSH">
+               <bibl>Library of Congress Subject Headings</bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <creation>
+            <date notAfter="1837"/>
+         </creation>
+         <langUsage>
+            <language ident="eng">English</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="#LCSH">
+               <term type="genre">Poems -- Great Britain -- 19th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2010-09-27">Header normalised</change>
+      </revisionDesc>
+  </teiHeader>
+  <text>
+      <front>
+         <titlePage>
+            <docTitle>
+               <titlePart type="main">
+                  <title type="main">Sketches among the Poor</title>
+               </titlePart>
+            </docTitle>
+            <byline>by 
+<docAuthor>Elizabeth Gaskell</docAuthor>
+            </byline>
+         </titlePage>
+         <div type="note">
+            <p>'Sketches among the Poor, No. I', a poem in rhyming couplets of 153 lines, 
+was almost certainly written in the summer of 1836.  It appeared in 
+<hi>Blackwood's Edinburgh Magazine</hi>&gt; the following January, sandwiched 
+between 'The World We Live In' (an article about Peel and the constitution) 
+and the final piece in a satirical series called 'Alcibiades the Man'.  The 
+placing is oddly appropriate since the Gaskells' poem is about the world they 
+lived in—a world light-years from Westminster—and it is about wisdom, the 
+unspoken philosophy of a woman, not an articulate man. 
+</p>
+            <p>Jenny Uglow, <hi>Elizabeth Gaskell: A Habit of Stories</hi>&gt;
+(London: Faber and Faber, 1993), p.101. 
+</p>
+         </div>
+      </front>
+      <body>
+         <div type="Poem">
+            <head>SKETCHES AMONG THE POOR, NO. I</head>
+            <lg type="stanza">
+               <l>In childhood's days, I do remember me </l>
+               <l>Of one dark house behind an old elm-tree, </l>
+               <l>By gloomy streets surrounded, where the flower </l>
+               <l>Brought from the fresher air, scarce for an hour </l>
+               <l>Retained its fragrant scent; yet men lived there, </l>
+               <l>Yea, and in happiness; the mind doth clear </l>
+               <l>In most dense airs its own bright atmosphere. </l>
+               <l>But in the house of which I spake there dwelt </l>
+               <l>One by whom all the weight of smoke was felt. </l>
+               <l>She had o'erstepped the bound 'twixt youth and age </l>
+               <l>A single, not a lonely, woman, sage </l>
+               <l>And thoughtful ever, yet most truly kind: </l>
+               <l>Without the natural ties, she sought to bind </l>
+               <l>Hearts unto hers, with gentle, useful love, </l>
+               <l>Prompt at each change in sympathy to move. </l>
+               <l>And so she gained the affection, which she prized </l>
+               <l>From every living thing, howe'er despised— </l>
+               <l>A call upon her tenderness whene'er </l>
+               <l>The friends around her had a grief to share; </l>
+               <l>And, if in joy the kind one they forgot, </l>
+               <l>She still rejoiced, and more was wanted not. </l>
+            </lg>
+            <lg type="stanza">
+               <l>Said I not truly, she was not alone, </l>
+               <l>Though none at evening shared her clean hearth-stone? </l>
+               <l>To some she might prosaic seem, but me </l>
+               <l>She always charmed with daily poesy, </l>
+               <l>Felt in her every action, never heard, </l>
+               <l>E'en as the mate of some sweet singing-bird, </l>
+               <l>That mute and still broods on her treasure-nest, </l>
+               <l>Her heart's fond hope hid deep within her breast. </l>
+            </lg>
+            <lg type="stanza">
+               <l>In all her quiet duties, one dear thought </l>
+               <l>Kept ever true and constant sway, not brought </l>
+               <l>Before the world, but garnered all the more </l>
+               <l>For being to herself a secret store. </l>
+               <l>Whene'er she heard of country homes, a smile </l>
+               <l>Came brightening o'er her serious face the while; </l>
+               <l>She knew not that it came, yet in her heart </l>
+               <l>A hope leaped up, of which that smile was part. </l>
+               <l>She thought the time might come, ere yet the bowl </l>
+               <l>Were broken at the fountain, when her soul </l>
+               <l>Might listen to its yearnings, unreproved </l>
+               <l>By thought of failure to the cause she loved; </l>
+               <l>When she might leave the close and noisy street, </l>
+               <l>And once again her childhood's home might greet. </l>
+            </lg>
+            <lg type="stanza">
+               <l>It was a pleasant place, that early home! </l>
+               <l>The brook went singing by, leaving its foam </l>
+               <l>Among the flags and blue forget-me-not; </l>
+               <l>And in a nook, above that shelter'd spot, </l>
+               <l>For ages stood a gnarled hawthorn-tree; </l>
+               <l>And if you pass'd in spring-time, you might see </l>
+               <l>The knotted trunk all coronal'd with flowers, </l>
+               <l>That every breeze shook down in fragrant showers; </l>
+               <l>The earnest bees in odorous cells did lie, </l>
+               <l>Hymning their thanks with murmuring melody; </l>
+               <l>The evening sun shone brightly on the green, </l>
+               <l>And seem'd to linger on the lonely scene. </l>
+               <l>And, if to others Mary's early nest </l>
+               <l>Show'd poor and homely, to her loving breast </l>
+               <l>A charm lay hidden in the very stains </l>
+               <l>Which time and weather left; the old dim panes, </l>
+               <l>The grey rough moss, the house-leek, you might see </l>
+               <l>Were chronicled in childhood s memory; </l>
+               <l>And in her dreams she wander'd far and wide </l>
+               <l>Among the hills, her sister at her side— </l>
+               <l>That sister slept beneath a grassy tomb </l>
+               <l>Ere time had robbed her of her first sweet bloom. </l>
+               <l>O Sleep! thou bringest back our childhood's heart, </l>
+               <l>Ere yet the dew exhale, the hope depart; </l>
+               <l>Thou callest up the lost ones, sorrow'd o'er </l>
+               <l>Till sorrow's self hath lost her tearful power; </l>
+               <l>Thine is the fairy-land, where shadows dwell, </l>
+               <l>Evoked in dreams by some strange hidden spell. </l>
+               <l>But Day and Waking have their dreams, O Sleep, </l>
+               <l>When Hope and Memory their fond watches keep; </l>
+               <l>And such o'er Mary held supremest sway, </l>
+               <l>When kindly labours task'd her hands all day. </l>
+               <l>Employ'd her hands, her thoughts roam'd far and free, </l>
+               <l>Till sense call'd down to calm reality. </l>
+               <l>A few short weeks, and then, unbound the chains </l>
+               <l>Which held her to another's woes or pains, </l>
+               <l>Farewell to dusky streets and shrouded skies, </l>
+               <l>Her treasur'd home should bless her yearning eyes, </l>
+               <l>And fair as in the days of childish glee </l>
+               <l>Each grassy nook and wooded haunt should be. </l>
+            </lg>
+            <lg type="stanza">
+               <l>Yet ever, as one sorrow pass'd away, </l>
+               <l>Another call'd the tender one to stay, </l>
+               <l>And, where so late she shared the bright glad mirth, </l>
+               <l>The phantom Grief sat cowering at the hearth. </l>
+               <l>So days and weeks pass'd on, and grew to years, </l>
+               <l>Unwept by Mary, save for others' tears. </l>
+               <l>As a fond nurse, that from the mother's breast </l>
+               <l>Lulls the tired infant to its quiet rest, </l>
+               <l>First stills each sound, then lets the curtain fall </l>
+               <l>To cast a dim and sleepy light o'er all, </l>
+               <l>So age drew gently o'er each wearied sense </l>
+               <l>A deepening shade to smooth the parting hence. </l>
+               <l>Each cherish'd accent, each familiar tone </l>
+               <l>Fell from her daily music, one by one; </l>
+               <l>Still her attentive looks could rightly guess </l>
+               <l>What moving lips by sound could not express. </l>
+               <l>O'er each loved face next came a filmy veil, </l>
+               <l>And shine and shadow from her sight did fail. </l>
+               <l>And, last of all, the solemn change they saw </l>
+               <l>Depriving Death of half his regal awe; </l>
+               <l>The mind sank down to childishness, and they, </l>
+               <l>Relying on her counsel day by day </l>
+               <l>( As some lone wanderer, from his home afar, </l>
+               <l>Takes for his guide some fix'd and well known star, </l>
+               <l>Till clouds come wafting o'er its trembling light, </l>
+               <l>And leave him wilder'd in the pathless night), </l>
+               <l>Sought her changed face with strange uncertain gaze, </l>
+               <l>Still praying her to lead them through the maze. </l>
+               <l>They pitied her lone fate, and deemed it sad; </l>
+               <l>Yet as in early childhood was she glad; </l>
+               <l>No sense had she of change, or loss of thought, </l>
+               <l>With those around her no communion sought; </l>
+               <l>Scarce knew she of her being. Fancy wild </l>
+               <l>Had placed her in her father's house a child; </l>
+               <l>It was her mother sang her to her rest; </l>
+               <l>The lark awoke her, springing from his nest; </l>
+               <l>The bees sang cheerily the live long day, </l>
+               <l>Lurking 'mid flowers wherever she did play; </l>
+               <l>The Sabbath bells rang as in years gone by, </l>
+               <l>Swelling and falling on the soft wind's sigh; </l>
+               <l>Her little sisters knelt with her in prayer, </l>
+               <l>And nightly did her father's blessing share; </l>
+               <l>So, wrapt in glad imaginings, her life </l>
+               <l>Stole on with all her sweet young memories rife. </l>
+            </lg>
+            <lg type="stanza">
+               <l>I often think (if by this mortal light </l>
+               <l>We e'er can read another's lot aright), </l>
+               <l>That for her loving heart a blessing came, </l>
+               <l>Unseen by many, clouded by a name; </l>
+               <l>And all the outward fading from the world </l>
+               <l>Was like the flower at night, when it has furled </l>
+               <l>Its golden leaves, and lapped them round its heart, </l>
+               <l>To nestle closer in its sweetest part. </l>
+               <l>Yes! angel voices called her childhood back, </l>
+               <l>Blotting out life with its dim sorrowy track; </l>
+               <l>Her secret wish was ever known in heaven, </l>
+               <l>And so in mystery was the answer given. </l>
+               <l>In sadness many mourned her latter years, </l>
+               <l>But blessing shone behind that mist of tears, </l>
+               <l>And, as the child she deemed herself, she lies </l>
+               <l>In gentle slumber, till the dead shall rise. </l>
+            </lg>
+         </div>
+      </body>
+  </text>
+</TEI>
+

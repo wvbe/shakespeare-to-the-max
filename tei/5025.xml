@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The candidate: by Mr. Gray.</title>
+            <author>Gray, Thomas, 1716-1771.</author>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>University of Oxford Text Archive</name>
+               <address>
+                  <addrLine>Oxford University Computing Services</addrLine>
+                  <addrLine>13 Banbury Road</addrLine>
+                  <addrLine>Oxford</addrLine>
+                  <addrLine>OX2 6NN</addrLine>
+               </address>
+               <email>ota@oucs.ox.ac.uk</email>
+            </distributor>
+            <idno type="ota">http://ota.ox.ac.uk/id/5025</idno>
+            <idno type="isbn10">1106020243</idno>
+            <idno type="isbn13">9781106020246</idno>
+            <idno type="TCP">K094754.000</idno>
+            <idno type="BIBNO">CW3304606368</idno>
+            <idno type="ECSS">0729700400</idno>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/3.0/">
+	  Distributed by the University of Oxford under a Creative Commons
+	  Attribution-ShareAlike 3.0 Unported License
+	</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The candidate: by Mr. Gray.</title>
+                  <author>Gray, Thomas, 1716-1771.</author>
+               </titleStmt>
+               <extent>[1],2,[1]p. ; 4⁰.</extent>
+               <publicationStmt>
+                  <publisher>Strawberry Hill?,</publisher>
+                  <pubPlace>[Twickenham :</pubPlace>
+                  <date>1780?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Drop-head title.</note>
+                  <note>A squib against John Montagu, Earl of Sandwich, written at the time of his candidacy for the office of Seneschal of Cambridge University, 1764.</note>
+                  <note>Possibly a forgery.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>English Short Title Catalog, ESTCT118227.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">English</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:0729700400:1" rendition="simple:additions"/>
+            <pb facs="tcp:0729700400:2" rendition="simple:additions"/>
+            <pb facs="tcp:0729700400:3" rendition="simple:additions"/>
+            <pb facs="tcp:0729700400:4" rendition="simple:additions"/>
+            <pb facs="tcp:0729700400:5" rendition="simple:additions"/>
+            <pb facs="tcp:0729700400:6" rendition="simple:additions"/>
+            <pb facs="tcp:0729700400:7" rendition="simple:additions"/>
+            <pb facs="tcp:0729700400:8"/>
+            <head>THE CANDIDATE: BY Mr. GRAY.</head>
+            <lg>
+               <l>WHEN ſly Jemmy Twitcher had ſmugg'd up his face</l>
+               <l>With a lick of court white-waſh, and pious grimace,</l>
+               <l>A wooing he went, where three Siſters of old</l>
+               <l>In harmleſs ſociety guttle and ſcold.</l>
+            </lg>
+            <lg>
+               <l>Lord! Siſter, ſays Phyſic to Law, I declare</l>
+               <l>Such a ſheep-biting look, ſuch a pick-pocket air,</l>
+               <l>Not I, for the Indies! you know I'm no prude;</l>
+               <l>But his noſe is a ſhame, and his eyes are ſo lewd!</l>
+               <l>Then he ſhambles and ſtraddles ſo oddly, I fear—</l>
+               <l>No; at our time of life, 'twould be ſilly, my dear.</l>
+            </lg>
+            <lg>
+               <l>I don't know, ſays Law, now methinks, for his look,</l>
+               <l>'Tis juſt like the picture in Rocheſter's book.</l>
+               <l>But his character, Phyzzy, his morals, his life;</l>
+               <l>When ſhe died, I can't tell, but he once had a wife.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:0729700400:9"/>
+               <l>They ſay he's no Chriſtian, loves drinking and whoring,</l>
+               <l>And all the town rings of his ſwearing and roaring,</l>
+               <l>His lying, and filching, and Newgate-bird tricks:—</l>
+               <l>Not I,—for a coronet, chariot and ſix.</l>
+            </lg>
+            <lg>
+               <l>Divinity heard, between waking and dozing,</l>
+               <l>Her ſiſters denying, and Jemmy propoſing;</l>
+               <l>From dinner ſhe roſe with her bumper in hand,</l>
+               <l>She ſtroked up her belly, and ſtroked down her band.</l>
+            </lg>
+            <lg>
+               <l>What a pother is here about wenching and roaring!</l>
+               <l>Why David loved catches, and Solomon whoring.</l>
+               <l>Did not Iſrael filch from th' Aegyptians of old</l>
+               <l>Their jewels of ſilver, and jewels of gold?</l>
+               <l>The prophet of Bethel, we read, told a lie:</l>
+               <l>He drinks; ſo did Noah: he ſwears; ſo do I.</l>
+               <l>To refuſe him for ſuch peccadillos, were odd;</l>
+               <l>Beſides, he repents, and he talks about G--.</l>
+            </lg>
+            <lg>
+               <l>Never hang down your head, you poor penitent elf!</l>
+               <l>Come, buſs me, I'll be Mrs. Twitcher myſelf.</l>
+               <l>D--n ye both for a couple of Puritan bitches!</l>
+               <l>He's Chriſtian enough, that repents, and that --------.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>
+

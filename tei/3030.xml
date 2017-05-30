@@ -1,0 +1,1524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Maud: a monodrama</title>
+            <author>Tennyson, Alfred Tennyson, Baron, 1809-1892</author>
+            <respStmt>
+               <resp>creation of machine-readable version</resp>
+               <name>Ederer, Eric W.</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority xml:id="burlo1">deposited by<name type="person">Burnard, Lou</name>
+               <name type="department">Computing Service</name>
+               <name type="institution">University of Oxford</name>
+               <name type="place">Oxford</name>
+               <address>
+                  <addrLine>Oxford University Computing Services</addrLine>
+                  <addrLine>13 Banbury Road</addrLine>
+                  <addrLine>Oxford, UK</addrLine>
+                  <addrLine>OX2 6NN</addrLine>
+                  <addrLine>
+                     <name type="email">lou@vax.oxford.ac.uk</name>
+                  </addrLine>
+               </address>
+               <date>1992-03-12</date>
+            </authority>
+            <distributor>
+               <name>University of Oxford Text Archive</name>
+               <address>
+                  <addrLine>Oxford University Computing Services</addrLine>
+                  <addrLine>13 Banbury Road</addrLine>
+                  <addrLine>Oxford</addrLine>
+                  <addrLine>OX2 6NN</addrLine>
+               </address>
+               <email>ota@oucs.ox.ac.uk</email>
+            </distributor>
+            <idno type="ota">http://ota.ox.ac.uk/id/3030</idno>
+            <idno type="isbn10">1106000293</idno>
+            <idno type="isbn13">9781106000293</idno>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/3.0/">
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License
+      </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Revised version of  <relatedItem type="older" target="http://ota.ox.ac.uk/id/1643"/>
+            </bibl>
+            <biblFull>
+               <titleStmt>
+                  <title>Maud : a monodrama</title>
+                  <title level="m">The poems of Tennyson : in three volumes</title>
+                  <author>Tennyson, Alfred Tennyson, Baron, 1809-1892</author>
+                  <editor>Ricks, Christopher B.</editor>
+               </titleStmt>
+               <editionStmt>
+                  <p>2nd ed.</p>
+               </editionStmt>
+               <publicationStmt>
+                  <publisher>Longman</publisher>
+                  <pubPlace>London</pubPlace>
+                  <date>1987</date>
+               </publicationStmt>
+               <seriesStmt>
+                  <p>Longman annotated English poets</p>
+               </seriesStmt>
+               <notesStmt>
+                  <note>3 vols.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="OTASH">
+               <bibl>University of Oxford Text Archive Subject Headings</bibl>
+            </taxonomy>
+            <taxonomy xml:id="LCSH">
+               <bibl>Library of Congress Subject Headings</bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <creation>
+            <date notAfter="1855"/>
+         </creation>
+         <langUsage>
+            <language ident="eng">English</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="#LCSH">
+               <term type="genre">English poetry -- 19th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2010-09-27">Header normalised</change>
+      </revisionDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div n="1" type="part">
+            <head>Part 1</head>
+            <div n="1" type="section">
+               <head>Section 1</head>
+               <div n="1" type="stanza">
+                  <l>I hate the dreadful hollow behind the little wood,</l>
+                  <l>Its lips in the field above are dabbled with blood-red heath.</l>
+                  <l>The red-ribbed ledges drip with a silent horror of blood,</l>
+                  <l>And Echo there, whatever is asked her, answers `Death.'</l>
+               </div>
+               <div n="2" type="stanza">
+                  <l>For there in the ghastly pit long since a body was found,</l>
+                  <l>His who had given me life - O father! O God! was it well?-</l>
+                  <l>There yet lies the rock that fell with him when he fell.</l>
+               </div>
+               <div n="3" type="stanza">
+                  <l>Did he fling himself down? who knows? for a vast speculation had failed,</l>
+                  <l>And ever he muttered and maddened, and ever wanned with despair,</l>
+                  <l>And out he walked when the wind like a broken worlding wailed,</l>
+                  <l>And the flying gold of the ruined woodlands drove through the air.</l>
+               </div>
+               <div n="4" type="stanza">
+                  <l>I remember the time, for the roots of my hair were stirred</l>
+                  <l>By a shuffled step, by a dead weight trailed, by a whispered fright,</l>
+                  <l>And my pulses closed their gates with a shock on my heart as I heard</l>
+                  <l>The shrill-edged shriek of a mother divide the shuddering night.</l>
+               </div>
+               <div n="5" type="stanza">
+                  <l>Villainy somewhere! whose? One says, we are villains all.</l>
+                  <l>Not he: his Honest fame should at least by me be maintained:</l>
+                  <l>But that old man, now lord of the broad estate and the Hall,</l>
+                  <l>Dropt off gorged from a scheme that had left us flaccid and drained.</l>
+               </div>
+               <div n="6" type="stanza">
+                  <l>Why do they prate of the blessings of Peace? we have made them a curse,</l>
+                  <l>Pickpockets, each hand lusting for all that is not its own;</l>
+                  <l>And lust of gain, in the spirit of Cain, is it better or worse</l>
+                  <l>Than the heart of the citizen hissing in war on his own hearthstone?</l>
+               </div>
+               <div n="7" type="stanza">
+                  <l>But these are the days of advance, the works of the men of mind,</l>
+                  <l>When who but a fool would have faith in a tradesman's ware or his word?</l>
+                  <l>Is it peace or war? Civil war, as I think, and that ofa kind</l>
+                  <l>The viler, as underhand, not openly bearing the sword.</l>
+               </div>
+               <div n="8" type="stanza">
+                  <l>Sooner or later I too may passively take the print</l>
+                  <l>Of the golden age-why not? I have neither hope nor trust;</l>
+                  <l>May make my heart as a millstone, set my face as a flint,</l>
+                  <l>Cheat and be cheated, and die: who knows? we are ashes and dust.</l>
+               </div>
+               <div n="9" type="stanza">
+                  <l>Peace sitting under her olive, and slurring the days gone by,</l>
+                  <l>When the poor are hovelled and hustled together, each sex, like swine,</l>
+                  <l>When only the ledger lives, and when only not all men lie;</l>
+                  <l>Peace in her vineyard-yes!-but a company forges the wine.</l>
+               </div>
+               <div n="10" type="stanza">
+                  <l>And the vitriol madness flushes up in the ruffian's head,</l>
+                  <l>Till the filthy by-lane rings to the yell of the trampled wife,</l>
+                  <l>And chalk and alum and plaster are sold to the poor for bread,</l>
+                  <l>And the spirit of murder works in the very means of life,</l>
+               </div>
+               <div n="11" type="stanza">
+                  <l>And Sleep must lie down armed, for the villainous centre-bits</l>
+                  <l>Grind on the wakeful ear in the hush of the moonless nights,</l>
+                  <l>While another is cheating the sick of a few last gasps, as he sits</l>
+                  <l>To pestle a poisoned poison behind his crimson lights.</l>
+               </div>
+               <div n="12" type="stanza">
+                  <l>When a Mammonite mother kills her babe for a burial fee,</l>
+                  <l>And Timour-Mammon grins on a pile of children's bones,</l>
+                  <l>Is it peace or war? better, war! loud war by land and by sea,</l>
+                  <l>War with a thousand battles, and shaking a hundred thrones.</l>
+               </div>
+               <div n="13" type="stanza">
+                  <l>For I trust if an enemy's fleet came yonder round by the hill,</l>
+                  <l>And the rushing battle-bolt sang from the three-decker out of the foam,</l>
+                  <l>That the smooth-faced snubnosed rogue would leap from his counter and till,</l>
+                  <l>And strike, if he could, were it but with his cheating yardwand, home.-</l>
+               </div>
+               <div n="14" type="stanza">
+                  <l>What! am I raging alone as my father raged in his mood?</l>
+                  <l>Must <hi rend="italic">1</hi> too creep to the hollow and dash myself down and die</l>
+                  <l>Rather than hold by the law that I made, nevermore to brood</l>
+                  <l>On a horror of shattered limbs and a wretched swindler's lie?</l>
+               </div>
+               <div n="15" type="stanza">
+                  <l>Would there be sorrow for <hi rend="italic">me</hi>? there was <hi rend="italic">love</hi> in the passionate shriek,</l>
+                  <l>Love for the silent thing that had made false haste to the grave-</l>
+                  <l>Wrapt in a cloak, as I saw him, and thought he would rise and speak</l>
+                  <l>And rave at the lie and the liar, ah God, as he used to rave.</l>
+               </div>
+               <div n="16" type="stanza">
+                  <l>I am sick of the Hall and the hill, I am sick of the moor and the main.</l>
+                  <l>Why should I stay? can a sweeter chance ever come to me here?</l>
+                  <l>O, having the nerves of motion as well as the nerves of pain,</l>
+                  <l>Were it not wise if I fled from the place and the pit and the fear?</l>
+               </div>
+               <div n="17" type="stanza">
+                  <l>Workmen up at the Hall!-they are coming back from abroad;</l>
+                  <l>The dark old place will be gilt by the touch of a millionaire:</l>
+                  <l>I have heard, I know not whence, of the singular beauty of Maud;</l>
+                  <l>I played with the girl when a child; she promised then to be fair.</l>
+               </div>
+               <div n="18" type="stanza">
+                  <l>Maud with her venturous climbings and tumble and childish escapes.</l>
+                  <l>Maud the delight of the village, the ringing joy of the Hall,</l>
+                  <l>Maud with her sweet purse-mouth when my father dangled the grapes.</l>
+                  <l>Maud the beloved of my mother, the moon-faced darling of all,-</l>
+               </div>
+               <div n="19" type="stanza">
+                  <l>What is she now? My dreams are bad. She may bring me a curse.</l>
+                  <l>No, there is fatter game on the moor; she will let me alone.</l>
+                  <l>Thanks, for the fiend best knows whether woman or man be the worse.</l>
+                  <l>I will bury myself in myself, and the Devil may pipe to his own.</l>
+               </div>
+            </div>
+            <div n="2" type="section">
+               <head>Section 2</head>
+               <div n="1" type="stanza">
+                  <l>Long have I sighed for a calm: God grant I may find it at last!</l>
+                  <l>It will never be broken by Maud, she has neither savour nor salt,</l>
+                  <l>But a cold and clear-cut face, as I found when her carriage past,</l>
+                  <l>Perfectly beautiful: let it be granted her: where is the fault?</l>
+                  <l>All that I saw (for her eyes were downcast, not to be seen)</l>
+                  <l>Faultily faultless, icily regular, splendidly null,</l>
+                  <l>Dead perfection, no more; nothing more, if it had not been</l>
+                  <l>For a chance of travel, a paleness, an hour's defect of the rose,</l>
+                  <l>Or an underlip, you may call it a little too ripe, too full,</l>
+                  <l>Or the least little delicate aquiline curve in a sensitive nose,</l>
+                  <l>From which I escaped heart-free, with the least little touch of spleen.</l>
+               </div>
+            </div>
+            <div n="3" type="section">
+               <head>Section 3</head>
+               <div n="1" type="stanza">
+                  <l>Cold and clear-cut face, why come you so cruelly meek,</l>
+                  <l>Breaking a slumber in which all spleenful folly was drowned,</l>
+                  <l>Pale with the golden beam of an eyelash dead on the cheek,</l>
+                  <l>Passionless, pale, cold face, star-sweet on a gloom profound;</l>
+                  <l>Womanlike, taking revenge too deep for a transient wrong</l>
+                  <l>Done but in thought to your beauty, and ever as pale as before</l>
+                  <l>Growing and fading and growing upon me without a sound,</l>
+                  <l>But arose, and all by myself in my own dark garden ground,</l>
+                  <l>Listening now to the tide in its broad-flung shipwrecking roar,</l>
+                  <l>Now to the scream of a maddened beach dragged down by the wave,</l>
+                  <l>Walked in a wintry wind by a ghastly glimmer, and found</l>
+                  <l>The shining daffodil dead, and Orion low in his grave</l>
+               </div>
+            </div>
+            <div n="4" type="section">
+               <head>Section 4</head>
+               <div n="1" type="stanza">
+                  <l>A million emeralds break from the ruby-budded lime</l>
+                  <l>In the little grove where I sit--ah, wherefore cannot I be</l>
+                  <l>Like things of the season gay, like the bountiful season bland,</l>
+                  <l>When the far-off sail is blown by the breeze of a softer clime,</l>
+                  <l>Half-lost in the liquid azure bloom of a crescent of sea,</l>
+                  <l>The silent sapphire-spangled marriage ring of the land?</l>
+               </div>
+               <div n="2" type="stanza">
+                  <l>Below me, there, is the village, and looks how quiet and small!</l>
+                  <l>And yet bubbles o'er like a city, with gossip, scandal, and spite;</l>
+                  <l>And Jack on his ale-house bench has as many lies as a Czar;</l>
+                  <l>And here on landward side, by a red rock, glimmers the Hall;</l>
+                  <l>And up the high Hall-garden I see her pass like a light;</l>
+                  <l>But sorrow seize me if ever that light be my leading star!</l>
+               </div>
+               <div n="3" type="stanza">
+                  <l>When have I bowed to her father, the wrinkled head of the race?</l>
+                  <l>I met her today with her brother, but not to her brother I bowed:</l>
+                  <l>I bowed to his lady-sister as she rode by on the moor;</l>
+                  <l>But the fire of a foolish pride flashed over her beautiful face.</l>
+                  <l>O child, you wrong your beauty, believe it, in being so proud;</l>
+                  <l>Your father has wealth well-gotten, and I am nameless and poor.</l>
+               </div>
+               <div n="4" type="stanza">
+                  <l>I keep but a man and a maid, ever ready to slander and steal;</l>
+                  <l>I know it, and smile a hard-set smile, like a stoic, or like</l>
+                  <l>A wiser epicurean, and let the world have its way:</l>
+                  <l>For nature is one with rapine, a harm no preacher can heal;</l>
+                  <l>The Mayfly is torn by the swallow, the sparrow speared by the shrike,</l>
+                  <l>And the whole little wood where I sit is a world of plunder and prey.</l>
+               </div>
+               <div n="5" type="stanza">
+                  <l>We are puppets, Man in his pride, and Beauty fair in her flower;</l>
+                  <l>Do we move ourselves, or are moved by an unseen hand at a game</l>
+                  <l>That pushes us off from the board, and others ever succeed?</l>
+                  <l>Ah yet, we cannot be kind to each other here for an hour;</l>
+                  <l>We whisper, and hint, and chuckle, and grin at a brother's shame;</l>
+                  <l>However we brave it out, we men are a little breed.</l>
+               </div>
+               <div n="6" type="stanza">
+                  <l>A monstrous eft was of old the Lord and Master of Earth,</l>
+                  <l>For him did his high sun flame, and his river billowing ran,</l>
+                  <l>And he felt himself in his force to be Nature's crowning race.</l>
+                  <l>As nine months go to the shaping an infant ripe for his birth,</l>
+                  <l>So many a million of ages have gone to the making of man:</l>
+                  <l>He now is first, but is he the last? is he not too base?</l>
+               </div>
+               <div n="7" type="stanza">
+                  <l>The man of science himself is fonder of glory, and vain,</l>
+                  <l>An eye well-practised in nature, a spirit bounded and poor;</l>
+                  <l>The passionate heart of the poet is whirled into folly and vice.</l>
+                  <l>I would not marvel at either, but keep a temperate brain;</l>
+                  <l>For not to desire or admire, if a man could learn it, were more</l>
+                  <l>Than to walk all day like the sultan of old in a garden of spice.</l>
+               </div>
+               <div n="8" type="stanza">
+                  <l>For the drift of the Maker is dark, an Isis hid by the veil.</l>
+                  <l>Who knows the ways of the world, how God will bring them about?</l>
+                  <l>Our planet is one, the suns are many, the world is wide.</l>
+                  <l>Shall I weep if a Poland fall? shall I shriek if a Hungary fail?</l>
+                  <l>Or an infant civilisation be ruled with rod or with knout?</l>
+                  <l>
+                     <hi rend="italic">I</hi> have not made the world, and He that made it will guide.</l>
+               </div>
+               <div n="9" type="stanza">
+                  <l>Be mine a philosopher's life in the quiet woodland ways,</l>
+                  <l>Where if I cannot be gay let a passionless peace be my lot,</l>
+                  <l>Far-off from the clamour of liars belied in the hubbub of lies;</l>
+                  <l>From the long-necked geese of the world that are ever hissing dispraise</l>
+                  <l>Because their natures are little, and, whether he heed it or not,</l>
+                  <l>Where each man walks with his head in a cloud of poisonous flies.</l>
+               </div>
+               <div n="10" type="stanza">
+                  <l>And most of all would I flee from the cruel madness of love,</l>
+                  <l>The honey of poison-flowers and all the measureless ill.</l>
+                  <l>Ah Maud, you milkwhite fawn, you are all unmeet for a wife.</l>
+                  <l>Your mother is mute in her grave as her image in marble above;</l>
+                  <l>Your father is ever in London, you wander about at your will;</l>
+                  <l>You have but fed on the roses and lain in the lilies of life.</l>
+               </div>
+            </div>
+            <div n="5" type="section">
+               <head>Section 5</head>
+               <div n="1" type="stanza">
+                  <l>A voice by the cedar tree</l>
+                  <l>In the meadow under the Hall!</l>
+                  <l>She is singing an air that is known to me,</l>
+                  <l>A passionate ballad gallant and gay,</l>
+                  <l>A martial song like a trumpet's call!</l>
+                  <l>Singing alone in the morning of life,</l>
+                  <l>In the happy morning of life and of May,</l>
+                  <l>Singing of men that in battle array,</l>
+                  <l>Ready in heart and ready in hand,</l>
+                  <l>March with banner and bugle and fife</l>
+                  <l>To the death, for their native land.</l>
+               </div>
+               <div n="2" type="stanza">
+                  <l>Maud with her exquisite face,</l>
+                  <l>And wild voice pealing up to the sunny sky,</l>
+                  <l>And feet like sunny gems on an English green,</l>
+                  <l>Maud in the light of her youth and her grace,</l>
+                  <l>Singing of Death, and of Honour that cannot die,</l>
+                  <l>Till I well could weep for a time so sordid and mean,</l>
+                  <l>And myself so languid and base.</l>
+               </div>
+               <div n="3" type="stanza">
+                  <l>Silence, beautiful voice!</l>
+                  <l>Be still, for you only trouble the mind</l>
+                  <l>With a joy in which I cannot rejoice,</l>
+                  <l>A glory I shall not find.</l>
+                  <l>Still! I will hear you no more,</l>
+                  <l>For your sweetness hardly leaves me a choice</l>
+                  <l>But to move to the meadow and fall before</l>
+                  <l>Her feet on the meadow grass, and adore,</l>
+                  <l>Not her, not her, but a voice.</l>
+               </div>
+            </div>
+            <div n="6" type="section">
+               <head>Section 6</head>
+               <div n="1" type="stanza">
+                  <l>Morning arises stormy and pale,</l>
+                  <l>No sun, but a wannish glare</l>
+                  <l>In fold upon fold of hueless cloud,</l>
+                  <l>And the budded peaks of the wood are bowed</l>
+                  <l>Caught and cuffed by the gale:</l>
+                  <l>I had fancied it would be fair.</l>
+               </div>
+               <div n="2" type="stanza">
+                  <l>Whom but Maud should I meet</l>
+                  <l>Last night, when the sunset burned</l>
+                  <l>On the blossomed gable-ends</l>
+                  <l>At the head of the village street,</l>
+                  <l>Whom but Maud should I meet?</l>
+                  <l>And she touched my hand with a smile so sweet,</l>
+                  <l>She made me divine amends</l>
+                  <l>For a courtesy not returned.</l>
+               </div>
+               <div n="3" type="stanza">
+                  <l>And thus a delicate spark</l>
+                  <l>Of glowing and growing light</l>
+                  <l>Through the livelong hours of the dark</l>
+                  <l>Kept itself warm in the heart of my dreams,</l>
+                  <l>Ready to burst in a coloured flame;</l>
+                  <l>Till at last when the morning came</l>
+                  <l>In a cloud, it faded, and seems</l>
+                  <l>But an ashen-gray delight.</l>
+               </div>
+               <div n="4" type="stanza">
+                  <l>What if with her sunny hair</l>
+                  <l>And smile as sunny as cold,</l>
+                  <l>She meant to weave me a snare</l>
+                  <l>Of some coquettish deceit,</l>
+                  <l>Cleopatra-like as of old</l>
+                  <l>To entangle me when we met,</l>
+                  <l>To have her lion roll in a silken net</l>
+                  <l>And fawn at a victor's feet.</l>
+               </div>
+               <div n="5" type="stanza">
+                  <l>Ah, what shall I be at fifty</l>
+                  <l>Should Nature keep me alive,</l>
+                  <l>If I find the world so bitter</l>
+                  <l>When I am but twenty-five?</l>
+                  <l>Yet, if she were not a cheat,</l>
+                  <l>If Maud were all that she seemed,</l>
+                  <l>And her smile were all that I dreamed,</l>
+                  <l>Then the world were not so bitter</l>
+                  <l>But a smile could make it sweet.</l>
+               </div>
+               <div n="6" type="stanza">
+                  <l>What if though her eye seemed full</l>
+                  <l>Of a kind intent to me,</l>
+                  <l>What if that dandy-despot, he,</l>
+                  <l>That jewelled mass of milinery,</l>
+                  <l>That oiled and curled Assyrian Bull</l>
+                  <l>Smelling of musk and of insolence,</l>
+                  <l>Her brother, from whom I keep aloof,</l>
+                  <l>Who wants the finer politic sense</l>
+                  <l>To mask, though but in his own behoof,</l>
+                  <l>With a glassy smile his brutal scorn-</l>
+                  <l>What if he had told her yestermorn</l>
+                  <l>How prettily for his own sweet sake</l>
+                  <l>A face of tenderness might be feigned,</l>
+                  <l>And a moist mirage in desert eyes,</l>
+                  <l>That so, when the rotten hustings shake</l>
+                  <l>In another month to his brazen lies,</l>
+                  <l>A wretched vote may be gained.</l>
+               </div>
+               <div n="7" type="stanza">
+                  <l>For a raven ever croaks, at my side,</l>
+                  <l>Keep watch and ward, keep watch and ward,</l>
+                  <l>Or thou wilt prove their tool.</l>
+                  <l>Yea, too, myself from myself I guard,</l>
+                  <l>For often a man's own angry pride</l>
+                  <l>Is cap and bells for a fool.</l>
+               </div>
+               <div n="8" type="stanza">
+                  <l>Perhaps the smile and tender tone</l>
+                  <l>Came out of her pitying womanhood,</l>
+                  <l>For am I not, am I not, here alone</l>
+                  <l>So many a summer since she died,</l>
+                  <l>My mother, who was so gentle and good?</l>
+                  <l>Living alone in an empty house,</l>
+                  <l>Here half-hid in the gleaming wood,</l>
+                  <l>Where I hear the dead at midday moan,</l>
+                  <l>And the shrieking rush of the wainscot mouse,</l>
+                  <l>And my own sad name in corners cried,</l>
+                  <l>When the shiver of dancing leaves is thrown</l>
+                  <l>About its echoing chambers wide,</l>
+                  <l>Till a morbid-hate and horror have grown</l>
+                  <l>Of a world in which I have hardly mixt,</l>
+                  <l>And a morbid eating lichen fixt</l>
+                  <l>On a heart half-turned to stone.</l>
+               </div>
+               <div n="9" type="stanza">
+                  <l>O heart of stone, are you flesh, and caught</l>
+                  <l>By that you swore to withstand?</l>
+                  <l>For what was it else within me wrought</l>
+                  <l>But, I fear, the new strong wine of love,</l>
+                  <l>That made my tongue so stammer and trip</l>
+                  <l>When I saw the treasured splendour, her hand,</l>
+                  <l>Come sliding out of her sacred glove,</l>
+                  <l>And the sunlight broke from her lip?</l>
+               </div>
+               <div n="10" type="stanza">
+                  <l>I have played with her when a child;</l>
+                  <l>She remembers it now we meet.</l>
+                  <l>Ah well, well, well, I <hi rend="italic">may</hi> be beguiled</l>
+                  <l>By some coquettish deceit.</l>
+                  <l>Yet, if she were not a cheat,</l>
+                  <l>If Maud were all that she seemed,</l>
+                  <l>And her smile had all that I dreamed,</l>
+                  <l>Then the world were not so bitter</l>
+                  <l>But a smile could make it sweet.</l>
+               </div>
+            </div>
+            <div n="7" type="section">
+               <head>Section 7</head>
+               <div n="1" type="stanza">
+                  <l>Did I hear it half in a doze</l>
+                  <l>  Long since, I know not where?</l>
+                  <l>Did I dream it an hour ago,</l>
+                  <l>  When asleep in this arm-chair?</l>
+               </div>
+               <div n="2" type="stanza">
+                  <l>Men were drinking together,</l>
+                  <l>  Drinking and talking of me;</l>
+                  <l>`Well, if it prove a girl, the boy</l>
+                  <l>  Will have plenty: so let it be.'</l>
+               </div>
+               <div n="3" type="stanza">
+                  <l>Is it an echo of something</l>
+                  <l>  Read with a boy's delight,</l>
+                  <l>Viziers nodding together</l>
+                  <l>In some Arabian night?</l>
+               </div>
+               <div n="4" type="stanza">
+                  <l>Strange, that I hear two men,</l>
+                  <l>  Somewhere, talking of me;</l>
+                  <l>`Well, if it prove a girl, my boy</l>
+                  <l>Will have plenty: so let it be.'</l>
+               </div>
+            </div>
+            <div n="8" type="section">
+               <head>Section 8</head>
+               <div n="1" type="stanza">
+                  <l>She came to the village church,</l>
+                  <l>And sat by a pillar alone;</l>
+                  <l>An angel watching an urn</l>
+                  <l>Wept over her, carved in stone;</l>
+                  <l>And once, but once, she lifted her eyes,</l>
+                  <l>And suddenly, sweetly, strangely blushed</l>
+                  <l>To find they were met by me own;</l>
+                  <l>And suddenly, sweetly, my heart beat stronger</l>
+                  <l>And thicker, until I heard no longer</l>
+                  <l>The snowy-banded, dilettante,</l>
+                  <l>Delicate-handed priest intone;</l>
+                  <l>And thought, is it pride, and mused and sighed</l>
+                  <l>`No surely, now it cannot be pride.'</l>
+               </div>
+            </div>
+            <div n="9" type="section">
+               <head>Section 9</head>
+               <div n="1" type="stanza">
+                  <l>I was walking a mile,</l>
+                  <l>More than a mile from the shore,</l>
+                  <l>The sun looked out with a smile</l>
+                  <l>Betwixt the cloud and the moor,</l>
+                  <l>And riding at set of day</l>
+                  <l>Over the dark moor land,</l>
+                  <l>Rapidly riding far away,</l>
+                  <l>She waved to me with her hand.</l>
+                  <l>There were two at her side,</l>
+                  <l>Something flashed in the sun,</l>
+                  <l>Down by the hill I saw them ride,</l>
+                  <l>In a moment they were gone:</l>
+                  <l>Like a sudden spark</l>
+                  <l>Struck vainly in the night,</l>
+                  <l>Then returns the dark</l>
+                  <l>With no more hope of light.</l>
+               </div>
+            </div>
+            <div n="10" type="section">
+               <head>Section 10</head>
+               <div n="1" type="stanza">
+                  <l>Sick, am I sick of a jealous dread?</l>
+                  <l>Was not one of the two at her side</l>
+                  <l>This new-made lord, whose splendour plucks</l>
+                  <l>The slavish hat from the villager's head?</l>
+                  <l>Whose old grandfather had lately died,</l>
+                  <l>Gone to a blacker pit, for whom</l>
+                  <l>Grimy nakedness dragging his trucks</l>
+                  <l>And laying his trams in a poisoned gloom</l>
+                  <l>Wrought, till he crept from a gutted mine</l>
+                  <l>Master of half a servile shire,</l>
+                  <l>And left his coal all turned into gold</l>
+                  <l>To a grandson, first of his noble line,</l>
+                  <l>Rich in the grace all women desire,</l>
+                  <l>Strong in the power that all men adore,</l>
+                  <l>And simper and set their voices lower,</l>
+                  <l>And soften as if to a girl, and hold</l>
+                  <l>Awe-stricken breaths at a work divine,</l>
+                  <l>Seeing his gewgaw castel shine,</l>
+                  <l>New as his title, built last year,</l>
+                  <l>There amid perky larches and pine,</l>
+                  <l>And over the sullen-purple moor</l>
+                  <l>(Look at it) pricking a cockney ear.</l>
+               </div>
+               <div n="2" type="stanza">
+                  <l>What, has he found my jewel out?</l>
+                  <l>For one of the two that rode at her side</l>
+                  <l>Bound for Hall, I am sure was he:</l>
+                  <l>Bound for Hall, and I think for a bride.</l>
+                  <l>Blithe would her brother's acceptance be.</l>
+                  <l>Maud could be gracious too, no doubt</l>
+                  <l>To a lord, a captain, a padded shape,</l>
+                  <l>A bought commission, a waxen face,</l>
+                  <l>A rabbit mouth that is ever agape-</l>
+                  <l>Bought? what is it he cannot buy?</l>
+                  <l>And therefore splenetic, personal, base,</l>
+                  <l>A wounded thing with a rancorous bry,</l>
+                  <l>At war with myself a wretched race,</l>
+                  <l>Sick, sick to the heart of life, am I.</l>
+               </div>
+               <div n="3" type="stanza">
+                  <l>Last week came one to the county town,</l>
+                  <l>To preach our poor little army down,</l>
+                  <l>And play the game of the despot kings,</l>
+                  <l>Though the state has done it and thrice as well:</l>
+                  <l>This broad-brimmed hawker of holy things,</l>
+                  <l>Whose ear is crammed with his cotton, and rings</l>
+                  <l>Even in dreams to the chink of his pence,</l>
+                  <l>This huckster put down war! can he tell</l>
+                  <l>Whether war be a cause or a consequence?</l>
+                  <l>Put down the passions that make earth Hell!</l>
+                  <l>Down with ambition, avarice, pride,</l>
+                  <l>Jealousy, down! cut off from the mind</l>
+                  <l>The bitter springs of anger and fear;</l>
+                  <l>Down too, down at your own fireside,</l>
+                  <l>With the evil tongue and the evil ear,</l>
+                  <l>For each is at war with mankind.</l>
+               </div>
+               <div n="4" type="stanza">
+                  <l>I wish I could hear again</l>
+                  <l>The chivalrous battle-song</l>
+                  <l>That she warbled alone in her joy!</l>
+                  <l>I might persuaded myself then</l>
+                  <l>She would not do herself this great wrong,</l>
+                  <l>To take a wanton dissolute boy</l>
+                  <l>For a man and leader of men.</l>
+               </div>
+               <div n="5" type="stanza">
+                  <l>Ah God, for a man with heart, head, hand,</l>
+                  <l>Like some of the simple great ones gone</l>
+                  <l>For ever and ever by,</l>
+                  <l>One still strong man in a blantant land,</l>
+                  <l>Whatever they call him, what care I,</l>
+                  <l>Aristocrat, democrat, autocrat-one</l>
+                  <l>Who can rule and dare not lie.</l>
+               </div>
+               <div n="6" type="stanza">
+                  <l>And ah for a man to arise in me,</l>
+                  <l>That the man I am may cease to be!</l>
+               </div>
+            </div>
+            <div n="11" type="section">
+               <head>Section 11</head>
+               <div n="1" type="stanza">
+                  <l>O let the solid ground   Not fail beneath my feet Before my life has found   What some have found so sweet; Then let come what come may, What matter if I go mad, I shall have had my day.</l>
+               </div>
+               <div n="2" type="stanza">
+                  <l>Let the sweet heavens endure,   Not close and darken above me Before I am quite quite sure   That there is one to love me; Then let come what come may To a life that has been so sad, I shall have had my day.</l>
+               </div>
+            </div>
+            <div n="12" type="section">
+               <head>Section 12</head>
+               <div n="1" type="stanza">
+                  <l>Birds in the high Hall-garden   When twilight was falling, Maud, Maud, Maud, Maud,   They were crying and calling.</l>
+               </div>
+               <div n="2" type="stanza">
+                  <l>Where was Maud? in our wood;   And I, who else, was with her, Gathering woodland lilies,   Myriads blow together.</l>
+               </div>
+               <div n="3" type="stanza">
+                  <l>Birds in our wood sang   Ringing through the valleys, Maud is here, here, here   In among the lilies.</l>
+               </div>
+               <div n="4" type="stanza">
+                  <l>I kissed her slender hand,   She took the kiss sedately; Maud is not seventeen,   But she is tall and stately.</l>
+               </div>
+               <div n="5" type="stanza">
+                  <l>I to cry out on pride   Who have won her favour! O Maud were sure of Heaven   If lowliness could save her.</l>
+               </div>
+               <div n="6" type="stanza">
+                  <l>I know the way she went   Home with her maiden posy, For her feet have touched the meadows   And left the daisies rosy.</l>
+               </div>
+               <div n="7" type="stanza">
+                  <l>Birds in the high Hall-garden   Were crying and calling to her, Where is Maud, Maud, Maud?   One is come to woo her.</l>
+               </div>
+               <div n="8" type="stanza">
+                  <l>Look, a horse at the door,   And little King Charley snarling, Go back, my lord, across the moor,   You are not her darling.</l>
+               </div>
+            </div>
+            <div n="13" type="section">
+               <head>Section 13</head>
+               <div n="1" type="stanza">
+                  <l>Scorned, to be scorned by one that I scorn,</l>
+                  <l>Is that a matter to make me fret?</l>
+                  <l>That a calamity hard to be borne?</l>
+                  <l>Well, he may live to hate me yet.</l>
+                  <l>Fool that I am to be vext with his pride!</l>
+                  <l>I past him, I was crossing his lands;</l>
+                  <l>He stood on the path a little aside;</l>
+                  <l>His face, as I grant, in spite of spite,</l>
+                  <l>Has a broad-blown comeliness, red and white,</l>
+                  <l>And six feet two, as I think, he stands;</l>
+                  <l>But his essences turned the live air sick,</l>
+                  <l>And barbarous opulence jewel-thick</l>
+                  <l>Sunned itself on his breast and his hands.</l>
+               </div>
+               <div n="2" type="stanza">
+                  <l>Who shall call me ungentle, unfair,</l>
+                  <l>I longed so heartily then and there</l>
+                  <l>To give him the grasp of fellowship;</l>
+                  <l>But while I past he was humming an air,</l>
+                  <l>Stopt, and then with a riding-whip</l>
+                  <l>Leisurely tapping a glossy boot,</l>
+                  <l>And curving a contumelious lip,</l>
+                  <l>Gorgonised me from head to foot</l>
+                  <l>With a stony British stare.</l>
+               </div>
+               <div n="3" type="stanza">
+                  <l>Why sits he hyere in his father's chair?</l>
+                  <l>That old man never comes to his place:</l>
+                  <l>Shall I believe him ashamed to be seen?</l>
+                  <l>For only once, in the billage street,</l>
+                  <l>Last year, I caught a glimpse of his face,</l>
+                  <l>A gray old wolf and a lean.</l>
+                  <l>Scarcely, now, would I call him a cheat;</l>
+                  <l>For then, perhaps, as a child of deceit,</l>
+                  <l>She might by a true descent be untreu;</l>
+                  <l>And Maud is as true as Maud is sweet:</l>
+                  <l>Though I fancy her sweetness only due</l>
+                  <l>To the sweeter blood by the other side;</l>
+                  <l>Her mother has been a thing complete,</l>
+                  <l>However she came to be so allied.</l>
+                  <l>And fair without, faithful within,</l>
+                  <l>Maud to him is nothing akin:</l>
+                  <l>Some peculiar mystic grace</l>
+                  <l>Mad her only the child of her mother,</l>
+                  <l>And heaped the whole inherited sin</l>
+                  <l>On the huge scapegoat of the race,</l>
+                  <l>All, all upon the brother.</l>
+               </div>
+               <div n="4" type="stanza">
+                  <l>Peace, angry spirit, and let him be!</l>
+                  <l>Has not his sister smiled on me?</l>
+               </div>
+            </div>
+            <div n="14" type="section">
+               <head>Section 14</head>
+               <div n="1" type="stanza">
+                  <l>Maud has a garden of roses</l>
+                  <l>And lilies fair on a lawn;</l>
+                  <l>There she walks in her state</l>
+                  <l>And tends upon bed and bower,</l>
+                  <l>And thither I climbed at dawn</l>
+                  <l>And stood by her garden-gate;</l>
+                  <l>A lion ramps at the top,</l>
+                  <l>He is claspt by a passion-flower</l>
+               </div>
+               <div n="2" type="stanza">
+                  <l>Maud's own little oak-room</l>
+                  <l>(Which Maud, like a precious stone</l>
+                  <l>Set in the heart of the carven gloom,</l>
+                  <l>Lights with herself, when alone</l>
+                  <l>She sits by her music and books</l>
+                  <l>And her brother lingers late</l>
+                  <l>with a roystering company) looks</l>
+                  <l>Upon Maud's own garden-gate:</l>
+                  <l>And I thought as I stood, if a hand, as white</l>
+                  <l>As ocean-foam in the moon, were laid</l>
+                  <l>On the hasp of the window, and my Delight</l>
+                  <l>Had a sudden desire, like a glorious ghost, to glide,</l>
+                  <l>Like a beam of the seventh Heaven, down to my side,</l>
+                  <l>There were but a step to be made,</l>
+               </div>
+               <div n="3" type="stanza">
+                  <l>The fancy flattered my mind,</l>
+                  <l>And again seemed overbold;</l>
+                  <l>Now I thought that she cared for me,</l>
+                  <l>Now I thought she was kind</l>
+                  <l>Only because she was cold.</l>
+               </div>
+               <div n="4" type="stanza">
+                  <l>I heard no sound where I stood</l>
+                  <l>But the rivulet on from the lawn</l>
+                  <l>Running down to my own drk wood;</l>
+                  <l>Or the voice of the long sea-wave as it swelled</l>
+                  <l>Now and then in the dim-gray dawn;</l>
+                  <l>But I looked, and round, all round the house I beheld</l>
+                  <l>The death-white curtain drawn;</l>
+                  <l>Felt a horror over me creep,</l>
+                  <l>Prickle my skin and catch my breath,</l>
+                  <l>Knew that the death-white curtain meant but sleep,</l>
+                  <l>Yet I shuddered and thought like a fool of the sleep of death.</l>
+               </div>
+            </div>
+            <div n="15" type="section">
+               <head>Section 15</head>
+               <div n="1" type="stanza">
+                  <l>So dark a mind within me dwells,   And I make myself such evil cheer, That if <hi rend="italic">1</hi> be dear to some one else,   Then some one else may have much to fear; But if <hi rend="italic">1</hi> be dear to some one else,   Then I should be to myself more dear. Shall I not take care of all that I think, Yea even of wretched meat and drink, If I be dear, If I be dear to some one else.</l>
+               </div>
+            </div>
+            <div n="16" type="section">
+               <head>Section 16</head>
+               <div n="1" type="stanza">
+                  <l>This lump of earth has left his estate</l>
+                  <l>The lighter byu the loss of his weight;</l>
+                  <l>And so that he find what he went to seek,</l>
+                  <l>And fulsome Pleasure clog him, and drown</l>
+                  <l>His heart in the gross mud-honey of town,</l>
+                  <l>He may stay for a year who has gone for a week:</l>
+                  <l>But this is the day when I must speak,</l>
+                  <l>And I see my Oread coming down,</l>
+                  <l>O this is the day!</l>
+                  <l>O beautiful creature, what am I</l>
+                  <l>That I dare to look her way;</l>
+                  <l>Think that I may hold dominion sweet,</l>
+                  <l>Lord of the pulse that is lord of her breast,</l>
+                  <l>And dream of her beauty with tender dread,</l>
+                  <l>From the delicate Arab arch of her feet</l>
+                  <l>To the grace that, bright and light as the crest</l>
+                  <l>Of a peacock, sits on her shining head,</l>
+                  <l>And she know it not O, if she knew it,</l>
+                  <l>To know her beauty might half undo it.</l>
+                  <l>I know it the one bright thing to save</l>
+                  <l>My yet young life in the wilds of Time,</l>
+                  <l>Perhaps from madness, perhaps from crime,</l>
+                  <l>Perhpas from a selfish grave.</l>
+               </div>
+               <div n="2" type="stanza">
+                  <l>What, if she be fastened to this fool lord,</l>
+                  <l>Dare I bid her abide by her word?</l>
+                  <l>Should I love her so well if she</l>
+                  <l>Had given her word to a thing so low?</l>
+                  <l>Shall I love her as well if she</l>
+                  <l>Can break her word were it even for me?</l>
+                  <l>I trust that it is not so.</l>
+               </div>
+               <div n="3" type="stanza">
+                  <l>Catch not my breath, O clamorous heart,</l>
+                  <l>Let not my tongue be a thrall to my eye,</l>
+                  <l>For I must tell her before we part,</l>
+                  <l>I must tell her, or die.</l>
+               </div>
+            </div>
+            <div n="18" type="section">
+               <head>Section 18</head>
+               <div n="1" type="stanza">
+                  <l>I have led her home, my love, my only friend.</l>
+                  <l>There is none like her, none.</l>
+                  <l>And never yet so warmly ran my blood</l>
+                  <l>And sweetly, on and on</l>
+                  <l>Calming itself to the long-wished-for end,</l>
+                  <l>Full to the banks, close on the promised good.</l>
+               </div>
+               <div n="2" type="stanza">
+                  <l>None like her, none.</l>
+                  <l>Just now the dry-tongued laurels' pattering talk</l>
+                  <l>Seemed her light foot along the garden walk,</l>
+                  <l>And shook my heart to think she comes once more;</l>
+                  <l>But even then I heard her close the door,</l>
+                  <l>The gates of Heaven are closed, and she is gone.</l>
+               </div>
+               <div n="3" type="stanza">
+                  <l>There is none like her, none.</l>
+                  <l>Nor will be when our summers have deceased.</l>
+                  <l>O, art thou sighing for Lebanon</l>
+                  <l>In the long breeze that streams to thy delicious East,</l>
+                  <l>Sighing for Lebanon,</l>
+                  <l>Dark cedar, though thy limbs have here increased,</l>
+                  <l>Upon a pastoral slope as fair,</l>
+                  <l>And looking to the South, and fed</l>
+                  <l>With honeyed rain and delicate air,</l>
+                  <l>And haunted by the starry head</l>
+                  <l>Of her whose gentle will has changed my fate,</l>
+                  <l>And made my life a perfumed altar-flame;</l>
+                  <l>And over whom thy darkness must have spread</l>
+                  <l>With such delight as theirs of old, thy great</l>
+                  <l>Forefathers of the thornless garden, there</l>
+                  <l>Shadowing the snow-limbed Eve from whom she came.</l>
+               </div>
+               <div n="4" type="stanza">
+                  <l>Here will I lie, while these long branches sway,</l>
+                  <l>And you fair stars that crown a happy day</l>
+                  <l>Go in and out as if at merry play,</l>
+                  <l>Who am no more so all forlorn,</l>
+                  <l>As when it seemed far better to be born</l>
+                  <l>To labour and the mattock-hardened hand,</l>
+                  <l>Than nursed at ease and brought to understand</l>
+                  <l>A sad astrology, the boundless plan</l>
+                  <l>That makes you tyrants in your iron skies,</l>
+                  <l>Innumerable, pitiless, passionless eyes.</l>
+                  <l>Cold fires, yet with power to burn and brand</l>
+                  <l>His nothingness into man.</l>
+               </div>
+               <div n="5" type="stanza">
+                  <l>But now shine on, and what care I,</l>
+                  <l>Who in this stormy gulf have found a pearl</l>
+                  <l>The countercharm of space and hollow sky,</l>
+                  <l>And do accept my madness, and would die</l>
+                  <l>To save from some slight shame one simple girl.</l>
+               </div>
+               <div n="6" type="stanza">
+                  <l>Would die; for sullen-seeming Death may give</l>
+                  <l>More life to Love than is or ever was</l>
+                  <l>In our low world, where yet 'tis sweet to live.</l>
+                  <l>Let no one ask me how it came to pass;</l>
+                  <l>It seems that I am happy, that to me</l>
+                  <l>A livelier emerald twinkles in the grass,</l>
+                  <l>A purer sapphire melts into the sea.</l>
+               </div>
+               <div n="7" type="stanza">
+                  <l>Not die; but live a life of truest breath,</l>
+                  <l>And teach true life to fight with mortal wrongs.</l>
+                  <l>O, why should Love, like men in drinking-songs,</l>
+                  <l>Spice his fair banquet with the dust of death?</l>
+                  <l>Make answer, Maud my bliss,</l>
+                  <l>Maud made my Maud by that long loving kiss,</l>
+                  <l>Life of my life, wilt thou not answer this?</l>
+                  <l>`The dusky strand of Death inwoven here</l>
+                  <l>With dear Love's tie, makes Love himself more dear.'</l>
+               </div>
+               <div n="8" type="stanza">
+                  <l>Is that enchanted moan only the swell</l>
+                  <l>Of the long waves that roll in yonder bay?</l>
+                  <l>And hark the clock within, the silver knell</l>
+                  <l>Of twelve sweet hours that past in bridal white,</l>
+                  <l>And died to live, long as my pulses play;</l>
+                  <l>But now by this my love has closed her sight</l>
+                  <l>And given false death her hand, and stolen away</l>
+                  <l>To dreamful wastes where footless fancies dwell</l>
+                  <l>Among the fragments of the golden day.</l>
+                  <l>May nothing there her maiden grace affright!</l>
+                  <l>Dear heart, I feel with thee the drowsy spell.</l>
+                  <l>My bride to be, my evermore delight,</l>
+                  <l>My own heart's heart, my ownest own, farewell;</l>
+                  <l>It is but for a little space I go:</l>
+                  <l>And ye meanwhile far over moor and fell</l>
+                  <l>Beat to the noiseless music of the night!</l>
+                  <l>Has our whole earth gone nearer to the glow</l>
+                  <l>Of your soft splendours that you look so bright?</l>
+                  <l>
+                     <hi rend="italic">I</hi> have climbed nearer out of lonely Hell.</l>
+                  <l>Beat, happy stars, timing with things below,</l>
+                  <l>Beat with my heart more blest than heart can tell,</l>
+                  <l>Blest, but for some dark undercurrent woe</l>
+                  <l>That seems to draw-but it shall not be so:</l>
+                  <l>Let all be well, be well.</l>
+               </div>
+            </div>
+            <div n="19" type="section">
+               <head>Section 19</head>
+               <div n="1" type="stanza">
+                  <l>Her brother is coming back tonight, Breaking up my dream of delight.</l>
+               </div>
+               <div n="2" type="stanza">
+                  <l>My dream? do I dream of bliss?</l>
+                  <l>I have walked awake with Truth.</l>
+                  <l>O when did a morning shine</l>
+                  <l>So rich in atonement as this</l>
+                  <l>For my dark-dawning youth,</l>
+                  <l>Darkened watching a mother decline</l>
+                  <l>And that dead man at her heart and mine:</l>
+                  <l>For who was left to watch her but I?</l>
+                  <l>Yet so did I let my freshness die.</l>
+               </div>
+               <div n="3" type="stanza">
+                  <l>I trust that I did not talk</l>
+                  <l>To gentle Maud in our walk</l>
+                  <l>(For often in lonely wanderings</l>
+                  <l>I have cursed him even to lifeless things)</l>
+                  <l>But I trust that I did not talk,</l>
+                  <l>Not touch on her father's sin:</l>
+                  <l>I am sure I did but speak</l>
+                  <l>Of my mother's faded cheek</l>
+                  <l>When it slowly grew so thin,</l>
+                  <l>That I felt she was slowly dying</l>
+                  <l>Vext with lawyers and harassed with debt:</l>
+                  <l>For how often I caught her with eyes all wet,</l>
+                  <l>Shaking her head at her son and sighing</l>
+                  <l>A world of trouble within!</l>
+               </div>
+               <div n="4" type="stanza">
+                  <l>And Maud too, Maud was moved</l>
+                  <l>To speak of the mother she loved</l>
+                  <l>As one scarce less forlorn,</l>
+                  <l>Dying abroad and it seems apart</l>
+                  <l>From him who had ceased to share her heart,</l>
+                  <l>And ever mourning over the feud,</l>
+                  <l>The household Fury sprinkled with blood</l>
+                  <l>By which our houses are torn:</l>
+                  <l>How strange was what she said,</l>
+                  <l>When only Maud and the brother</l>
+                  <l>Hung over her dying bed-</l>
+                  <l>That Maud's dark father and mine</l>
+                  <l>Had bound us one to the other,</l>
+                  <l>Betrothed us over their wine,</l>
+                  <l>On the day when Maud was born;</l>
+                  <l>Sealed her mine from her first sweet breath.</l>
+                  <l>Mine, mine by a right, from birth till death.</l>
+                  <l>Mine, mine-our fathers have sworn.</l>
+               </div>
+               <div n="5" type="stanza">
+                  <l>But the true blood split had in it a heat</l>
+                  <l>To dissolve the precious seal on a bond,</l>
+                  <l>That, if left uncancelled, had been so sweet;</l>
+                  <l>And none of us thought of a something beyond,</l>
+                  <l>A desire that awoke in the heart of the child,</l>
+                  <l>As it were a duty done to the tomb,</l>
+                  <l>To be friends for her sake, to be reconciled;</l>
+                  <l>And I was cursing them and my doom,</l>
+                  <l>And letting a dangerous thought run wild</l>
+                  <l>While often abroad in the fragrant gloom</l>
+                  <l>Of foreign churches-I see her there,</l>
+                  <l>Bright English lily, breathing a prayer</l>
+                  <l>To be friends, to be reconciled!</l>
+               </div>
+               <div n="6" type="stanza">
+                  <l>But then what a flint is he!</l>
+                  <l>Abroad, at Florence, at Rome,</l>
+                  <l>I find whenever she touched on me</l>
+                  <l>This brother had laughed her down,</l>
+                  <l>And at last, when each came home,</l>
+                  <l>He had darkened into a frown,</l>
+                  <l>Chid her, and forbid her to speak</l>
+                  <l>To me, her friend of the years before;</l>
+                  <l>And this was what had reddened her cheek</l>
+                  <l>When I bowed to her on the moor.</l>
+               </div>
+               <div n="7" type="stanza">
+                  <l>Yet Maud, although not blind</l>
+                  <l>To the faults of his heart and mind,</l>
+                  <l>I see she cannot but love him,</l>
+                  <l>And says he is rough but kind,</l>
+                  <l>And wishes me to approve him,</l>
+                  <l>And tells me, when she lay</l>
+                  <l>Sick once, with a fear of worse,</l>
+                  <l>That he left his wine and horses and play,</l>
+                  <l>Sat with her, read to her, night and day,</l>
+                  <l>And tended her like a nurse.</l>
+               </div>
+               <div n="8" type="stanza">
+                  <l>Kind? but the deathbed desire</l>
+                  <l>Spurned by this heir of the liar-</l>
+                  <l>Rough but kind? yet I know</l>
+                  <l>He has plotted against me in this,</l>
+                  <l>That he plots against me still.</l>
+                  <l>Kind to Maud? that were not amiss.</l>
+                  <l>Well, rough but king; why let it be so:</l>
+                  <l>For shall not Maud have her will?</l>
+               </div>
+               <div n="9" type="stanza">
+                  <l>For, Maud, so tender and true,</l>
+                  <l>As long as my life endures</l>
+                  <l>I feel I shall owe you a debt,</l>
+                  <l>That I never can hope to pay;</l>
+                  <l>And if ever I should forget</l>
+                  <l>That I owe this debt to you</l>
+                  <l>And for your sweet sake to yours;</l>
+                  <l>O then, what then shall I say?-</l>
+                  <l>If ever I <hi rend="italic">should</hi> forget,</l>
+                  <l>May God make me more wretched</l>
+                  <l>Than ever I have been yet!</l>
+               </div>
+               <div n="10" type="stanza">
+                  <l>So now I have sworn to bury</l>
+                  <l>All this dead body of hate,</l>
+                  <l>I feel so free and so clear</l>
+                  <l>By the loss of that dead weight,</l>
+                  <l>That I should grow light-headed, I fear,</l>
+                  <l>Fantastically merry;</l>
+                  <l>But that her brother comes, like a blight</l>
+                  <l>On my fresh hope, to the Hall tonight.</l>
+               </div>
+            </div>
+            <div n="20" type="section">
+               <head>Section 20</head>
+               <div n="1" type="stanza">
+                  <l>Strange, that I felt so gay, Strange, that <hi rend="italic">1</hi> tried today To beguile her melancholy; The Sultan, as we name him,- She did not wish to blame him- But he vext her and perplext her With his worldly talk and folly: Was it gentle to reprove her For stealing out of view From a little lazy lover Who but claims her as his due? Of for chilling his caresses By the coldness of her manners, Nay, the plainness of her dresses? Now I know her but in two, Nor can pronounce upon it If one should ask me whether The habit, hat, and feather, Or the frock and gipsy bonnet Be the neater and completer; For nothing can be sweeter Than maiden Maud in either.</l>
+               </div>
+               <div n="2" type="stanza">
+                  <l>But tomorrow, if we live, Our ponderous squire will give A grand political dinner To half the aquirelings near; And Maud will wear her jewels, And the bird of prey will hover, And the titmouse hope to win her With his chirrup at her ear.</l>
+               </div>
+               <div n="3" type="stanza">
+                  <l>A grand political dinner To the men of many acres, A gathering of the Tory, A dinner and then a dance For the maids and marriage-makers, And every eye but mine will glance At Maud in all her glory.</l>
+               </div>
+               <div n="4" type="stanza">
+                  <l>For I am not invited, But, with the Sultan's pardon, I am all as well delighted, For I know her own rose-garden, And mean to linger in it Till the dancing will be over; And then, oh then, come out to me For a minute, but for a minute, Come out to your own true lover, That your true lover may see Your glory also, and render All homage to his own darling, Queen Maud in all her splendour.</l>
+               </div>
+            </div>
+            <div n="21" type="section">
+               <head>Section 21</head>
+               <div n="1" type="stanza">
+                  <l>Rivulet crossing my ground, And bringing me down from the Hall This garden-rose that I found, Forgetful of Maud and me, And lost in trouble and moving round Here at the head of a tinkling fall, And trying to pass to the sea; O Rivulet, born at the Hall, My Maud has sent it by thee (If I read her sweet will right) On a blushing mission to me, Saying in odour and colour, `Ah, be Among the roses tonight.'</l>
+               </div>
+            </div>
+            <div n="22" type="section">
+               <head>Section 22</head>
+               <div n="1" type="stanza">
+                  <l>Come into the garden, Maud,</l>
+                  <l>  For the black bat, night, has flown,</l>
+                  <l>Come into the garden, Maud,</l>
+                  <l>  I am here at the gate alone;</l>
+                  <l>And the woodbine spices are wafted abroad,</l>
+                  <l>  And the musk of the rose is blown.</l>
+               </div>
+               <div n="2" type="stanza">
+                  <l>For a breeze of morning moves,</l>
+                  <l>  And the planet of Love is on high,</l>
+                  <l>Beginning to faint in the light that she loves</l>
+                  <l>  On a bed of daffodil sky,</l>
+                  <l>To faint in the light of the sun she loves,</l>
+                  <l>  To faint in his light, and to die.</l>
+               </div>
+               <div n="3" type="stanza">
+                  <l>All night have the roses heard</l>
+                  <l>  The flute, violin, basson;</l>
+                  <l>All night has the casement jessamine stirred</l>
+                  <l>  To the dancers dancing in tune;</l>
+                  <l>Till a silence fell with the waking bird,</l>
+                  <l>  And a hush with the setting moon.</l>
+               </div>
+               <div n="4" type="stanza">
+                  <l>I said to the lily, `There is but one</l>
+                  <l>  With whom she has heart to be gay.</l>
+                  <l>When will the dancers leave her alone?</l>
+                  <l>  She is weary of dance and play.'</l>
+                  <l>Now half to the setting moon are gone,</l>
+                  <l>  And half to the rising day;</l>
+                  <l>Low on the sand and loud on the stone</l>
+                  <l>  The last wheel echoes away.</l>
+               </div>
+               <div n="5" type="stanza">
+                  <l>I said to the rose, `The brief night goes</l>
+                  <l>  In babble and revel and wine.</l>
+                  <l>O young lord-lover, what sighs are those,</l>
+                  <l>  For one that will never be thine?</l>
+                  <l>But mine, but mine,' so I sware to the rose,</l>
+                  <l>  `For ever and ever, mine.'</l>
+               </div>
+               <div n="6" type="stanza">
+                  <l>And the soul of the rose went into my blood,</l>
+                  <l>  As the music clashed in the hall;</l>
+                  <l>And long by the garden lake I stood,</l>
+                  <l>  For I heard your rivulet fall</l>
+                  <l>From the lake to the meadow and on to the wood,</l>
+                  <l>  Our wood, that is dearer than all;</l>
+               </div>
+               <div n="7" type="stanza">
+                  <l>From the meadow your walks have left so sweet</l>
+                  <l>  That whenever a March-wind sighs</l>
+                  <l>He sets the jewel-print of your feet</l>
+                  <l>  In violets blue as your eyes,</l>
+                  <l>To the woody hollows in which we meet</l>
+                  <l>  And the valleys of Paradise.</l>
+               </div>
+               <div n="8" type="stanza">
+                  <l>The slender acacia would not shake</l>
+                  <l>  One long milk-bloom on the tree;</l>
+                  <l>The white lake-blossom fell into the lake</l>
+                  <l>  As the pimpernel dozed on the lea;</l>
+                  <l>But the rose was awake all night for your sake,</l>
+                  <l>  Knowing your promise to me;</l>
+                  <l>The lilies and roses were all awake,</l>
+                  <l>  They sighed for the dawn and thee.</l>
+               </div>
+               <div n="9" type="stanza">
+                  <l>Queen rose of the rosebud garden of girls,</l>
+                  <l>  Come hither, the dances are done,</l>
+                  <l>In gloss of satin and glimmer of pearls,</l>
+                  <l>  Queen lily and rose in one;</l>
+                  <l>Shine out, little head, sunning over with curls,</l>
+                  <l>  To the flowers, and be their sun.</l>
+               </div>
+               <div n="10" type="stanza">
+                  <l>There has gallen a splendid tear</l>
+                  <l>  From the passion-glower at the gate.</l>
+                  <l>She is coming, my dove, my dear;</l>
+                  <l>  She is coming, my life, my fate;</l>
+                  <l>The red rose cries, `She is near, she is near;'</l>
+                  <l>  And the white rose weeps, `She is late;'</l>
+                  <l>The larkspur listens, `I hear, I hear;'</l>
+                  <l>  And the lily whispers, `I wait.'</l>
+               </div>
+               <div n="11" type="stanza">
+                  <l>She is coming, my own, my sweet;</l>
+                  <l>  Were it ever so airy a tread,</l>
+                  <l>My heart would hear her and beat,</l>
+                  <l>  Were it earth in an earthy bed;</l>
+                  <l>My dust would hear her and beat,</l>
+                  <l>  Had I lain for a century dead;</l>
+                  <l>Would start and tremble under her feet,</l>
+                  <l>  And blossom in purple and red.</l>
+               </div>
+            </div>
+         </div>
+         <div n="2" type="part">
+            <head>Part 2</head>
+            <div n="1" type="section">
+               <head>Section 1</head>
+               <div n="1" type="stanza">
+                  <l>`The fault was mine, the fault was mine'-</l>
+                  <l>Why am I sitting here so stunned and still,</l>
+                  <l>Plucking the harmless wild-flower on the hill?-</l>
+                  <l>It is this guilty hand!-</l>
+                  <l>And there rises ever a passionate cry</l>
+                  <l>From underneath in the darkening land-</l>
+                  <l>What is it, that has been done?</l>
+                  <l>O dawn of Eden bright over earth and sky,</l>
+                  <l>The fires of Hell brake out of thy rising sun,</l>
+                  <l>The fires of Hell and of Hate;</l>
+                  <l>For she, sweet soul, had hardly spoken a word,</l>
+                  <l>When her brother ran in his rage to the gate,</l>
+                  <l>He came with the babe-faced lord;</l>
+                  <l>Heaped on her terms of disgrace,</l>
+                  <l>And while she wept, and I strove to be cool,</l>
+                  <l>He fiercely gave me the lie,</l>
+                  <l>Till I with as fierce an anger spoke,</l>
+                  <l>And he struck me, madman, over the face,</l>
+                  <l>Struck me before the languid fool,</l>
+                  <l>Who was gaping and grinning by:</l>
+                  <l>Struck for himself an evil stroke;</l>
+                  <l>Wrought for his house an irredeemable woe;</l>
+                  <l>For front to front in an hour we stood,</l>
+                  <l>And a million horrible bellowing echoes broke</l>
+                  <l>From the red-ribbed hollow behind the wood,</l>
+                  <l>And thundered up into Heaven the Christless code,</l>
+                  <l>That must have life for a blow.</l>
+                  <l>Ever and ever afresh they seemed to grow.</l>
+                  <l>Was it he lay there with a fading eye?</l>
+                  <l>`The fault was mine,' he whispered. `fly!'</l>
+                  <l>Then glided out of the joyous wood</l>
+                  <l>The ghastly Wraith of one that I know;</l>
+                  <l>And there rang on a sudden a passionate cry,</l>
+                  <l>A cry for a brother's blood:</l>
+                  <l>It will ring in my heart and my ears, till I die, till I die.</l>
+               </div>
+               <div n="2" type="stanza">
+                  <l>Is it gone? my pulses beat-</l>
+                  <l>What was it? a lying trick of the brain?</l>
+                  <l>Yet I thought I saw her stand,</l>
+                  <l>A shadow there at my feet,</l>
+                  <l>High over the shadowy land.</l>
+                  <l>It is gone; and the heavens fall in a gentle rain,</l>
+                  <l>When they should burst and drown with deluging storms</l>
+                  <l>The feeble vassals of wine and anger and lust,</l>
+                  <l>The little hearts that know not how to forgive:</l>
+                  <l>Arise, my God, and strike, for we hold Thee just,</l>
+                  <l>Strike dead the whole weak race of venomous worms,</l>
+                  <l>That sting each other here in the dust;</l>
+                  <l>We are not worthy to live.</l>
+               </div>
+            </div>
+            <div n="2" type="section">
+               <head>Section 2</head>
+               <div n="1" type="stanza">
+                  <l>See what a lovely shell, Small and pure as a pearl, Lying close to my foot, Frail, but a work divine, Made so fairily well With delicate spire and whorl, How exquisitely minute, A miracle of design!</l>
+               </div>
+               <div n="2" type="stanza">
+                  <l>What is it? a learned man Could give it a clumsy name. Let him name it who can, The beauty would be the same.</l>
+               </div>
+               <div n="3" type="stanza">
+                  <l>The tiny cell is forlorn, Void of the little living will That made it stir on the shore. Did he stand at the diamond door Of his house in a rainbow frill? Did he push, when he was uncurled, A golden foot or a fairy horn Through his dim water-world?</l>
+               </div>
+               <div n="4" type="stanza">
+                  <l>Slight, to be crushed with a tap Of my finger-nail on the sand, Small, but a work divine, Frail, upon a work divine, Frail, but of force to withstand, Year upon year, the shock Of cataract seas that snap The three decker's oaken spine Athwart the ledges of rock, Here on the Breton strand!</l>
+               </div>
+               <div n="5" type="stanza">
+                  <l>Breton, not Briton; here Like a shipwretcked man on a coast Of ancient fable and fear- Plagued with a flitting to and fro, A disease, a hard mechanic ghost That never came from on high Nor ever arose from below, But only moves with the moving eye, Flying along the land and the main- Why should it look like Maud? Am I to be overawed By what I cannot but know Is a juggle born of the brain?</l>
+               </div>
+               <div n="6" type="stanza">
+                  <l>Back from the Breton coast, Sick of nameless fear, Back to the dark sea-line Looking, thinking of all I have lost; An old song vexes my ear; But that of Lamech is mine.</l>
+               </div>
+               <div n="7" type="stanza">
+                  <l>For years, a measureless ill, For years, for ever, to part- But she, she would love me still; And as long, O God, as she Have a grain of love for me, So long, no doubt, no doubt, Shall I nurse in my dark heart, However weary, a spark of will Not to be trapmled out.</l>
+               </div>
+               <div n="8" type="stanza">
+                  <l>Strange, that the mind, when fraught With a passion so intense One would think that it well Might drown all life in the eye,- That it should, by being so overwrought, Suddenly strike on a sharper sense For a shell, or a flower, little things Which else would have been past by! And now I remember, I, When he lay dying there, I noticed one of his many rings (For he had many, poor worm) and thought It is his mother's hair.</l>
+               </div>
+               <div n="9" type="stanza">
+                  <l>Who knows if he be dead? Whether I need have fled? Am I guilty of blood? However this may be, Comfort her, comfort her, all things good, While I am over the sea! Let me and my passionate love go by, But speak to her all things holy and high, Whatever happen to me! Me and my harmful love go by; But come to her waking, find her asleep, Powers of the height, Powers of the deep, And comfort her though I die.</l>
+               </div>
+            </div>
+            <div n="3" type="section">
+               <head>Section 3</head>
+               <div n="1" type="stanza">
+                  <l>Courage, poor heart of stone! I will not ask thee why Thou canst not understand That thou art left for ever alone: Courage, poor stupid heart of stone.- Or if I ask thee why, Care not thou to reply: She is but dead, and the time is at hand When thou shalt more than die.</l>
+               </div>
+            </div>
+            <div n="4" type="section">
+               <head>Section 4</head>
+               <div n="1" type="stanza">
+                  <l>O that 'twere possible After long grief and pain To find the arms of my true love Round me once again!</l>
+               </div>
+               <div n="2" type="stanza">
+                  <l>When I was wont to meet her In the silent woody places By the home that gave me birth, We stood tranced in long embraces Mixt with kisses sweeter sweeter Than anything on earth.</l>
+               </div>
+               <div n="3" type="stanza">
+                  <l>A shadow flits before me, Not thou, but like to thee: Ah Christ, that it were possible For one short hour to see The souls we loved, that they might tell us What and where they be.</l>
+               </div>
+               <div n="4" type="stanza">
+                  <l>It leads me forth at evening, It lightly winds and steals In a cold white robe before me, When all my spirit reels At the shouts, the leagues of lights, And the roaring of the wheels.</l>
+               </div>
+               <div n="5" type="stanza">
+                  <l>Half the night I waste in sighs, Half in dreams I sorrow after The delight of early skies; In a wakeful doze I sorrow For the hand, the lips, the eyes, For the meeting of the morrow, The delight of happy laughter, The delight of low replies.</l>
+               </div>
+               <div n="6" type="stanza">
+                  <l>'Tis a morning pure and sweet, And a dewy spendour falls On the little flower that clings To the turrets and the walls; 'Tis a morning pure and sweet, And the light and shadow fleet; She is walking in the meadow, And the woodland echo rings; In a moment we shall meet; She is singing in the meadow And the rivulet at her feet Ripples on in light and shadow To the ballad that she sings.</l>
+               </div>
+               <div n="7" type="stanza">
+                  <l>Do I hear her sing as of old, My bird with the shining head, My own dove with the tender eye? But there rings on a sudden a passionate cry, There is some one dying or dead, And a sullen thunder is rolled; For a tumult shakes the city, And I wake, my dream is fled; In the shuddering dawn, behold, Without knowledge, without pity, By the curtains of my bed That abiding phantom cold.</l>
+               </div>
+               <div n="8" type="stanza">
+                  <l>Get thee hence, nor come again, Mix not memory with doubt, Pass, thou deathlike type of pain, Pass and cease to move about! 'Tis the blot upon the brain That <hi rend="italic">will</hi> show itself without.</l>
+               </div>
+               <div n="9" type="stanza">
+                  <l>Then I rise, the eavedrops fall, And the yellow vapours choke The great city sounding wide; The day comes, a dull red ball Wrapt in drifts of lurid smoke On the misty river-tide.</l>
+               </div>
+               <div n="10" type="stanza">
+                  <l>Through the hubbub of the market I steal, a wasted frame, It crosses here, if crosses there, Through all that crowd confused and loud, The shadow still the same; And on my heavy eyelids My anguish hangs like shame.</l>
+               </div>
+               <div n="11" type="stanza">
+                  <l>Alas for her that met me, That heard me softly call, Came glimmering through the laurels At the quiet evenfall, In the garden by the turrets Of the old manorial hall. Or to ask her, `Take me, sweet, To the regions of thy rest,'</l>
+               </div>
+               <div n="13" type="stanza">
+                  <l>But the broad light glares and beats, And the shadow flits and fleets And will not let me be; And I loathe the squares and streets, And the faces that one meets, Hearts with no love for me: Always I long to creep Into some still cavern deep, There to weep, and weep, and weep My whole soul out to thee.</l>
+               </div>
+            </div>
+            <div n="5" type="section">
+               <head>Section 5</head>
+               <div n="1" type="stanza">
+                  <l>Dead, long dead,</l>
+                  <l>Long dead!</l>
+                  <l>And my heart is a handful of dust,</l>
+                  <l>And the wheels go over my head,</l>
+                  <l>And my bones are shaken with pain,</l>
+                  <l>For into a shallow grave they are thrust,</l>
+                  <l>Only a yard beneath the street,</l>
+                  <l>And the hoofs of the horses beat, beat,</l>
+                  <l>The hoofs of the horses beat,</l>
+                  <l>Beat into my scalp and my brain,</l>
+                  <l>With never an end to the stream of passing feet,</l>
+                  <l>Driving, hurrying, marrying, burying,</l>
+                  <l>Clamour and rumble, and ringing and clatter,</l>
+                  <l>And here beneath it is all as bad,</l>
+                  <l>For I thought the dead had peace, but it is not so;</l>
+                  <l>To have no peace in the grave, is that not sad?</l>
+                  <l>But up and down and to and fro,</l>
+                  <l>Ever about me the dead men go;</l>
+                  <l>And then to hear a dead man chatter</l>
+                  <l>Is enough to drive one mad.</l>
+               </div>
+               <div n="2" type="stanza">
+                  <l>Wretchedest age, since Time began,</l>
+                  <l>They cannot even bury a man;</l>
+                  <l>And though we paid our tithes in the days that are gone,</l>
+                  <l>Not a bell was rung, not a prayer was read;</l>
+                  <l>It is that which makes us loud in the world of the dead;</l>
+                  <l>There is none that does his work, not one;</l>
+                  <l>A touch of their office might have sufficed,</l>
+                  <l>But the churchmen fain would kill their church,</l>
+                  <l>As the churches have killed their Christ.</l>
+               </div>
+               <div n="3" type="stanza">
+                  <l>See, there is one of us sobbing,</l>
+                  <l>No limit to his distress;</l>
+                  <l>And another, a lord of all things, praying</l>
+                  <l>To his own great self, as I guess;</l>
+                  <l>And another, a statesman there, betraying</l>
+                  <l>His party-secret, fool, to the press;</l>
+                  <l>And yonder a vile physician, blabbing</l>
+                  <l>The case of his patient - all for what?</l>
+                  <l>To tickle the maggot born in an empty head,</l>
+                  <l>And wheedle a world that loves him not,</l>
+                  <l>For it is but a world of the dead.</l>
+               </div>
+               <div n="4" type="stanza">
+                  <l>Nothing but idiot gabble!</l>
+                  <l>For the prophecy given of old</l>
+                  <l>And then not understood,</l>
+                  <l>Has come to pass as foretold;</l>
+                  <l>Not let any man think for the public good,</l>
+                  <l>But babble, merely for babble.</l>
+                  <l>For I never whispered a private affair</l>
+                  <l>Within the hearing of cat or mouse,</l>
+                  <l>No, not to myself in the closet alone,</l>
+                  <l>But I heard it shouted at once from the top of the house;</l>
+                  <l>Everything came to be known.</l>
+                  <l>Who told <hi rend="italic">him</hi> we were there?</l>
+               </div>
+               <div n="5" type="stanza">
+                  <l>Not that gray old wolf, for he came not back</l>
+                  <l>From the wilderness, full of wolves, where he used to lie;</l>
+                  <l>He has gathered the bones for his o'ergrown whelp to crack;</l>
+                  <l>Crack then now for yourself, and howl, and die.</l>
+               </div>
+               <div n="6" type="stanza">
+                  <l>Prophet, curse me the blabbing lip,</l>
+                  <l>And curse me the British vermin, the rat;</l>
+                  <l>I know not whether he came in the Hanover ship,</l>
+                  <l>But I know that he lies and listens mute</l>
+                  <l>In an ancient mansion's crannies and holes:</l>
+                  <l>Arsenic, arsenic, sure, would do it,</l>
+                  <l>Except that now we poison our babes, poor souls!</l>
+                  <l>It is all used up for that.</l>
+               </div>
+               <div n="7" type="stanza">
+                  <l>Tell him now: she is standing here at my head;</l>
+                  <l>Not beautiful now, not even kind;</l>
+                  <l>He may take her now; for she never speaks her mind,</l>
+                  <l>But is ever the one thing silent here.</l>
+                  <l>She is not <hi rend="italic">of</hi> us, as I divine;</l>
+                  <l>She comes from another stiller world of the dead,</l>
+                  <l>Stiller, not fairer than mine.</l>
+               </div>
+               <div n="8" type="stanza">
+                  <l>But I know where a garden grows,</l>
+                  <l>Fairer than aught in the world beside,</l>
+                  <l>All made up of the lily and rose</l>
+                  <l>That blow by night, when the season is good,</l>
+                  <l>To the sound of dancing music and flutes:</l>
+                  <l>It is only flowers, they had no fruits,</l>
+                  <l>And I almost fear they are not roses, but blood;</l>
+                  <l>For the keeper was one, so full of pride,</l>
+                  <l>He linkt a dead man there to a spectral bride:</l>
+                  <l>For he, if he had not been a Sultan of brutes,</l>
+                  <l>Would he have that hole in his side?</l>
+               </div>
+               <div n="9" type="stanza">
+                  <l>But what will the old man say?</l>
+                  <l>He laid a cruel snare in a pit</l>
+                  <l>To catch a friend of mine one stormy day;</l>
+                  <l>Yet now I could even weep to think of it;</l>
+                  <l>For what will the old man say</l>
+                  <l>When he comes to the second corpse in the pit?</l>
+               </div>
+               <div n="10" type="stanza">
+                  <l>Friend, to be struck by the public foe,</l>
+                  <l>Then to strike him and lay him low,</l>
+                  <l>That were a public merit, far,</l>
+                  <l>Whatever the Quaker holds, from sin;</l>
+                  <l>But the red life split for a private blow-</l>
+                  <l>I swear to you, lawful and lawless war</l>
+                  <l>Are scarcely even akin.</l>
+               </div>
+               <div n="11" type="stanza">
+                  <l>O me, why have they not buried me deep enough?</l>
+                  <l>Is it kind to have made me a grave so rough,</l>
+                  <l>Me, that was never a quiet sleeper?</l>
+                  <l>Maybe still I am but half-dead;</l>
+                  <l>Then I cannot be wholly dumb;</l>
+                  <l>I will cry to the steps above my head</l>
+                  <l>And somebody, surely, some kind heart will come</l>
+                  <l>To bury me, bury me</l>
+                  <l>Deeper, ever so little deeper.</l>
+               </div>
+            </div>
+         </div>
+         <div n="3" type="part">
+            <head>Part 3</head>
+            <div n="6" type="section">
+               <head>Section 6</head>
+               <div n="1" type="stanza">
+                  <l>My life has crept so long on a broken wing</l>
+                  <l>Through cells of madness, haunts of horror and fear,</l>
+                  <l>That I come to be grateful at last for a little thing:</l>
+                  <l>My mood is changed, for it fell at a time of year</l>
+                  <l>When the face of night is fair on the dewy downs,</l>
+                  <l>And the shining daffodil dies, and the Charioteer</l>
+                  <l>And starry Gemini hang like glorious crowns</l>
+                  <l>Over Orion's grave low down in the west,</l>
+                  <l>That like a silent lightning under the stars</l>
+                  <l>She seemed to divide in a dream from a band of the blest,</l>
+                  <l>And spoke of a hope fro the world in the coming wars-</l>
+                  <l>`And in that I hope, dear soul, let trouble have rest,</l>
+                  <l>Knowing I tarry for thee,' and pointed to Mars</l>
+                  <l>As he glowed like a ruddy shield on the Lion's breast.</l>
+               </div>
+               <div n="2" type="stanza">
+                  <l>And it was but a dream, yet it yielded a dear delight</l>
+                  <l>To have looked, though but in a dream, upon eyes so fair,</l>
+                  <l>That had been in a weary world my one thing bright;</l>
+                  <l>And it was but a dream, yet it lightened my despair</l>
+                  <l>When I thought that a war would arise in defence of the right,</l>
+                  <l>That an iron tyranny now should bend or cease,</l>
+                  <l>The glory of manhood stand on his ancient height,</l>
+                  <l>Nor Britain's one sole God be the millionaire:</l>
+                  <l>No more shall commerce be all in all, and Peace</l>
+                  <l>Pipe on her pastoral hillock a languid note,</l>
+                  <l>And watch her harvest ripen, her herd increase,</l>
+                  <l>Nor the cannon-bullet rust on a slothful shore,</l>
+                  <l>And the cobweb woven across the cannon's throat</l>
+                  <l>Shall shake it threaded tears in the wind no more.</l>
+               </div>
+               <div n="3" type="stanza">
+                  <l>And as months ran on and rumour of battle grew,</l>
+                  <l>`It is time, it is time, O passionate heart,' said I</l>
+                  <l>(For I cleaved to a cause that I felt to be pure and true),</l>
+                  <l>`It is time, O passionate heart and morbid eye,</l>
+                  <l>That old hysterical mock-disease should die.'</l>
+                  <l>And I stood on a giant deck and mixed my breath</l>
+                  <l>With a loyal people shouting a battle cry,</l>
+                  <l>Till I saw the dreary phanton arise and fly</l>
+                  <l>Far into the North, and battle, and seas of death.</l>
+               </div>
+               <div n="4" type="stanza">
+                  <l>Let it go or stay, so I wake to the higher aims</l>
+                  <l>Of a land that has lost for a little her lust of gold,</l>
+                  <l>And love of a peace that was full of wrongs and shames,</l>
+                  <l>Horrible, hateful, monstrous, not to be told;</l>
+                  <l>And half once more to the banner of battle unrolled!</l>
+                  <l>Though many a light shall darken, and many shall weep</l>
+                  <l>For those that are crushed in the clash of jarring claims,</l>
+                  <l>Yet God's just wrath shall be wreaked on a giant liar;</l>
+                  <l>And many a darkness into the light shall leap,</l>
+                  <l>And shine in the sudden making of splendid names,</l>
+                  <l>And noble thought be freer under the sun,</l>
+                  <l>And the heart of a people beat with one desire;</l>
+                  <l>For the peace, that I deemed no peace, is over and done,</l>
+                  <l>And now by the side of the Black and the Baltic deep,</l>
+                  <l>And deathful-grinning mouths of the fortress, flames</l>
+                  <l>The blood-red blossom of war with a heart of fire.</l>
+               </div>
+               <div n="5" type="stanza">
+                  <l>Let it flame or fade, and the war roll down like a wind,</l>
+                  <l>We have proved we have hearts in a cause, we are noble still,</l>
+                  <l>And myself have awaked, as it seems, to the better mind;</l>
+                  <l>It is better to fight for the good than to rail at the ill;</l>
+                  <l>I have felt with my native land, I am one with my kind,</l>
+                  <l>I embrace the purpose of God, and the doom assigned.</l>
+               </div>
+            </div>
+         </div>
+      </body>
+  </text>
+</TEI>
+

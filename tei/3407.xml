@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A poem on Her Majesty's birth-day: By Stephen Duck.</title>
+            <author>Duck, Stephen, 1705-1756.</author>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>University of Oxford Text Archive</name>
+               <address>
+                  <addrLine>Oxford University Computing Services</addrLine>
+                  <addrLine>13 Banbury Road</addrLine>
+                  <addrLine>Oxford</addrLine>
+                  <addrLine>OX2 6NN</addrLine>
+               </address>
+               <email>ota@oucs.ox.ac.uk</email>
+            </distributor>
+            <idno type="ota">http://ota.ox.ac.uk/id/3407</idno>
+            <idno type="isbn10">110600406X</idno>
+            <idno type="isbn13">9781106004062</idno>
+            <idno type="TCP">K007021.000</idno>
+            <idno type="BIBNO">CW3309783598</idno>
+            <idno type="ECLL">0110501100</idno>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/3.0/">
+	  Distributed by the University of Oxford under a Creative Commons
+	  Attribution-ShareAlike 3.0 Unported License
+	</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A poem on Her Majesty's birth-day: By Stephen Duck.</title>
+                  <author>Duck, Stephen, 1705-1756.</author>
+               </titleStmt>
+               <extent>8p. ; 2⁰.</extent>
+               <publicationStmt>
+                  <publisher>printed for J. Jackson; and T. Cooper,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1735.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a half-title.</note>
+                  <note>Reproduction of original from the Harvard University Houghton Library.</note>
+                  <note>Foxon, D472</note>
+                  <note>English Short Title Catalog, ESTCN11675.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">English</language>
+         </langUsage>
+      </profileDesc>
+  </teiHeader>
+  <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:0110501100:1"/>
+            <p>A POEM ON HER Majeſty's Birth-Day.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:0110501100:2"/>
+            <p>A POEM ON HER Majeſty's Birth-Day.</p>
+            <p>By STEPHEN DUCK.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>J. Jackſon</hi> in <hi>Pallmall</hi>; and <hi>T. Cooper</hi> in <hi>Pater noſter-Row:</hi> Where may be had a Poem on his Royal Highneſs the Duke of <hi>Cumberland</hi>'s Birth-Day, by the ſame Author. M.DCC.XXXV.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="5" facs="tcp:0110501100:3"/>
+            <head>A POEM ON HER Majeſty's Birth-Day.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">O</seg> YOU the Monarch's Bliſs, the Muſe's Friend!</l>
+               <l>Accept the tribute Duty bids me ſend:</l>
+               <l>'Tis what the Bard ſhou'd long before have paid,</l>
+               <l>But fearful to aſpire, has long delay'd.</l>
+               <l>
+                  <hi>Phoebus</hi> alone can <hi>Phoebus</hi>' Chariot guide,</l>
+               <l>The Youth who dar'd to drive it, daring dy'd.</l>
+               <l>
+                  <pb n="6" facs="tcp:0110501100:4"/>
+My humble Muſe can humble Subjects treat,</l>
+               <l>But trembles to attempt a Theme ſo Great!</l>
+               <l>Yet warm with Gratitude, wou'd fain diſplay</l>
+               <l>Her Zeal to you, on this auſpicious Day.</l>
+            </lg>
+            <lg>
+               <l>To you! whoſe gracious Goodneſs plumes her Wings,</l>
+               <l>By whom ſhe lives, by whom inſpir'd ſhe ſings;</l>
+               <l>Long may ſhe Celebrate your Sacred BIRTH;</l>
+               <l>Long may you ſtay from Heav'n to bleſs the Earth:</l>
+               <l>To Chear the Royal Sov'reign of our ISLE;</l>
+               <l>Increaſe his Joys, or ſoften all his Toil,</l>
+               <l>Who now, while Death in purple Triumph reigns,</l>
+               <l>And ſanguine Floods pollute the diſtant Plains,</l>
+               <l>Watchful o'er <hi>Britain</hi>'s Fate employs his Car,</l>
+               <l>Or wiſely to avert, or bravely meet the War.</l>
+            </lg>
+            <lg>
+               <l>O Glorious QUEEN! by Nature form'd to bring</l>
+               <l>The ſweeteſt Comfort to the Juſteſt KING:</l>
+               <l>Let proud Oppreſſors, who abuſe their Pow'r,</l>
+               <l>Hear groaning Subjects curſe their natal Hour.</l>
+               <l>
+                  <pb n="7" facs="tcp:0110501100:5"/>
+You, on that happy Hour, may juſtly feaſt</l>
+               <l>Your Soul with Thoughts of making Thouſands bleſs'd;</l>
+               <l>Whoſe godlike Bounties, to the Wretched, ſhow,</l>
+               <l>You're only Pow'rful to relieve their Woe.</l>
+            </lg>
+            <lg>
+               <l>What tho' the Muſe old Annals ſhould explore,</l>
+               <l>Mark all our Queens, and trace their Virtues o'er?</l>
+               <l>Where cou'd ſhe find ſo much exalted Senſe,</l>
+               <l>Nobly employ'd like your's, in Truth's Defence?</l>
+               <l>You ſtrive to make the Seeds of Virtue grow,</l>
+               <l>To ſpread the Light which Heav'n reveal'd below:</l>
+               <l>Yet, free from ſuperſtitious Zeal, incline</l>
+               <l>To make the Rays of moral Goodneſs ſhine,</l>
+               <l>Supporting thoſe, who firm to Truth, defend</l>
+               <l>That firſt fix'd Law, on which all Laws depend.</l>
+            </lg>
+            <lg>
+               <l>Beneath your Influence, Art and Science rear</l>
+               <l>Their ſacred Heads, and flouriſh by your Care;</l>
+               <l>This Truth let <hi>Oxford</hi>'s pompous Dome proclaim,</l>
+               <l>Which boaſts the Honour of a <note n="*" place="bottom">Queen's College.</note> Royal Name;</l>
+               <l>
+                  <pb n="8" facs="tcp:0110501100:6"/>
+Lately your Bard ſurvey'd the graceful Scene,</l>
+               <l>Riſing with Bounties of a Gen'rous QUEEN.</l>
+               <l>O! had the Muſe there fledg'd her Infant Wing,</l>
+               <l>And early taſted of that learned Spring;</l>
+               <l>She then had ſoar'd in more Heroic lays,</l>
+               <l>In more majeſtic Numbers ſung your Praiſe,</l>
+               <l>But fearful now, muſt quit the glorious Theme,</l>
+               <l>Muſt leave the Architect to ſpeak your Fame,</l>
+               <l>His Art, ſhall there, another <hi>Athens</hi> ſhew,</l>
+               <l>And there, another GUARDIAN <hi>Pallas</hi> YOU.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
+

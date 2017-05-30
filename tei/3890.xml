@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>King Dionysius and Squire Damocles: a new song on an old story. Proper to be sung at all feasts and merry-makings.</title>
+            <author>More, Hannah, 1745-1833.</author>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>University of Oxford Text Archive</name>
+               <address>
+                  <addrLine>Oxford University Computing Services</addrLine>
+                  <addrLine>13 Banbury Road</addrLine>
+                  <addrLine>Oxford</addrLine>
+                  <addrLine>OX2 6NN</addrLine>
+               </address>
+               <email>ota@oucs.ox.ac.uk</email>
+            </distributor>
+            <idno type="ota">http://ota.ox.ac.uk/id/3890</idno>
+            <idno type="isbn10">1106008898</idno>
+            <idno type="isbn13">9781106008893</idno>
+            <idno type="TCP">K033792.000</idno>
+            <idno type="BIBNO">CW3314081033</idno>
+            <idno type="ECLL">0723600200</idno>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/3.0/">
+	  Distributed by the University of Oxford under a Creative Commons
+	  Attribution-ShareAlike 3.0 Unported License
+	</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>King Dionysius and Squire Damocles: a new song on an old story. Proper to be sung at all feasts and merry-makings.</title>
+                  <author>More, Hannah, 1745-1833.</author>
+               </titleStmt>
+               <extent>1 sheet : ill. ; 1/2⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>[London?,</pubPlace>
+                  <date>1795?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Anonymous. By Hannah More.</note>
+                  <note>"There was a heathen man, sir,".</note>
+                  <note>At head: Cheap repository.</note>
+                  <note>Reproduction of original from the Bodleian Library (Oxford).</note>
+                  <note>English Short Title Catalog, ESTCT29445.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">English</language>
+         </langUsage>
+      </profileDesc>
+  </teiHeader>
+  <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:0723600200:1" rendition="simple:additions"/>
+            <head>CHEAP REPOSITORY</head>
+            <head type="sub">
+               <figure/>
+KING DIONYSIUS AND SQUIRE DAMOCLES; A New Song on an Old Story. Proper to be ſung at all Feaſts and Merry-makings.</head>
+            <lg>
+               <l>THERE was a heathen man, ſir,</l>
+               <l>Belonging to a King;</l>
+               <l>And ſtill it was his plan, ſir,</l>
+               <l>To covet every thing.</l>
+            </lg>
+            <lg>
+               <l>And if you don't believe me,</l>
+               <l>I'll name him if you pleaſe,</l>
+               <l>For let me not deceive ye,</l>
+               <l>'Twas one Squire Damocles.</l>
+            </lg>
+            <lg>
+               <l>He thought that jolly living</l>
+               <l>Muſt every joy afford,</l>
+               <l>And knew of no miſgiving,</l>
+               <l>While round the feſtive board.</l>
+            </lg>
+            <lg>
+               <l>He wanted to be great, ſir,</l>
+               <l>And fed on fare delicious,</l>
+               <l>And have his feaſts in ſtate, ſir,</l>
+               <l>Juſt like King Dionyſius.</l>
+            </lg>
+            <lg>
+               <l>The King, to cure his longing,</l>
+               <l>Prepar'd a feaſt ſo fine,</l>
+               <l>That all the Court were thronging</l>
+               <l>To ſee the Courtier dine.</l>
+            </lg>
+            <lg>
+               <l>And there to tempt his eye, ſir,</l>
+               <l>Was fiſh, and fleſh, and fowl,</l>
+               <l>And when he was a-dry, ſir,</l>
+               <l>He had a brimming bowl.</l>
+            </lg>
+            <lg>
+               <l>Nor did the King forbid him</l>
+               <l>From drinking all he could;</l>
+               <l>The Monarch never chid him,</l>
+               <l>But fill'd him with his food.</l>
+            </lg>
+            <lg>
+               <l>O then, to ſee the pleaſure</l>
+               <l>Squire Damocles expreſt!</l>
+               <l>'Twas joy beyond all meaſure;</l>
+               <l>Was ever man ſo bleſt?</l>
+            </lg>
+            <lg>
+               <l>With greedy eyes the Squire</l>
+               <l>Devour'd each coſtly dainty;</l>
+               <l>You'd think he did aſpire</l>
+               <l>To eat as much as twenty.</l>
+            </lg>
+            <lg>
+               <l>But juſt as he prepar'd, ſir,</l>
+               <l>Of bliſs to take his ſwing;</l>
+               <l>O, how the man was ſcar'd, ſir!</l>
+               <l>By this ſo cruel King!</l>
+            </lg>
+            <lg>
+               <l>When he to eat intended,</l>
+               <l>Lo! juſt above his head,</l>
+               <l>He ſpied a ſword ſuſpended</l>
+               <l>All by a ſingle thread.</l>
+            </lg>
+            <lg>
+               <l>How did it change the feaſting</l>
+               <l>To wormwood and to gall,</l>
+               <l>To think, while he was taſting,</l>
+               <l>The pointed ſword might fall.</l>
+            </lg>
+            <lg>
+               <l>Then in a moment's time, ſir,</l>
+               <l>He loath'd the luſcious feaſt;</l>
+               <l>And dreaded, as a crime, ſir,</l>
+               <l>The brimming bowl to taſte.</l>
+            </lg>
+            <lg>
+               <l>Now, if you're for applying</l>
+               <l>The ſtory I have told,</l>
+               <l>I think there's no denying</l>
+               <l>'Tis worth its weight in gold.</l>
+            </lg>
+            <lg>
+               <l>Ye gay, who view this ſtranger,</l>
+               <l>And pity his ſad caſe;</l>
+               <l>And think there was great danger</l>
+               <l>In Damocles's caſe;</l>
+            </lg>
+            <lg>
+               <l>Come let this aweful truth</l>
+               <l>In all your minds be ſtor'd;</l>
+               <l>That DEATH o'er every youth</l>
+               <l>Hangs like a pointed ſword.</l>
+            </lg>
+            <lg>
+               <l>And tho' you ſee no reaſon,</l>
+               <l>To check your mirth at all;</l>
+               <l>In ſome ſad drunken ſeaſon</l>
+               <l>The ſword on you may fall.</l>
+            </lg>
+            <lg>
+               <l>So learn, while at your eaſe</l>
+               <l>You drink down draughts delicious,</l>
+               <l>To think of Damocles,</l>
+               <l>And old King Dionyſius.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>
+

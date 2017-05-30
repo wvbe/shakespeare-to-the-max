@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>In the dead of the night. Sung by Mrs. Jordan in The wedding day</title>
+            <title>Wedding day.</title>
+            <author>Inchbald, Mrs., 1753-1821.</author>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>University of Oxford Text Archive</name>
+               <address>
+                  <addrLine>Oxford University Computing Services</addrLine>
+                  <addrLine>13 Banbury Road</addrLine>
+                  <addrLine>Oxford</addrLine>
+                  <addrLine>OX2 6NN</addrLine>
+               </address>
+               <email>ota@oucs.ox.ac.uk</email>
+            </distributor>
+            <idno type="ota">http://ota.ox.ac.uk/id/5472</idno>
+            <idno type="isbn10">1106024710</idno>
+            <idno type="isbn13">9781106024718</idno>
+            <idno type="TCP">K126403.000</idno>
+            <idno type="BIBNO">CW3315800305</idno>
+            <idno type="ECLL">1028601000</idno>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/3.0/">
+	  Distributed by the University of Oxford under a Creative Commons
+	  Attribution-ShareAlike 3.0 Unported License
+	</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>In the dead of the night. Sung by Mrs. Jordan in The wedding day</title>
+                  <title>Wedding day.</title>
+                  <author>Inchbald, Mrs., 1753-1821.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) ; 1/8⁰.</extent>
+               <publicationStmt>
+                  <publisher>Sold by J. Evans, no. 41, Long-lane,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1791 - 1803]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Anonymous. By Elizabeth Inchbald, whose play, 'The wedding day', was first staged at Drury Lane in November 1794.</note>
+                  <note>A slip-song - "In the dead of the night, when with labor oppress'd".</note>
+                  <note>The imprint, enclosed in brackets, comes immediately after the title. J. Evans at this address 1791-1803 (Maxted &amp; ESTC).</note>
+                  <note>Mrs. Jordan = Dorothy Jordan.</note>
+                  <note>Reproduction of original from the Bodleian Library (Oxford).</note>
+                  <note>English Short Title Catalog, ESTCT196353.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">English</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:1028601000:1"/>
+            <head>In the Dead of the Night.</head>
+            <p>Sung by Mrs. Jordan in the Wedding Day.</p>
+            <p>(Sold by <hi>J. EVANS,</hi> No. <hi>41,</hi> Long-lane.)</p>
+            <lg>
+               <l>IN the dead of the night, when with labor oppress'd</l>
+               <l>All mortals enjoy the ſweet blessing of reſt,</l>
+               <l>A boy knock'd at my door, I awoke with the noise,</l>
+               <l>Who is it, I ſaid, who is it that my reſt thus deſtroys</l>
+            </lg>
+            <lg>
+               <l>He anſwered ſo ſoftly, ſo gently, ſo mild,</l>
+               <l>I am a poor little unfortunate child;</l>
+               <l>Its a cold rainy night, I am wet to the skin,</l>
+               <l>And I have loſt my way, ſo pray let me in.</l>
+            </lg>
+            <lg>
+               <l>In compassion I rose, and ſtriking a light,</l>
+               <l>I open'd the door, when a boy ſtood in sight</l>
+               <l>He had wings on his shoulders, the rain from them drip'd,</l>
+               <l>And with bow and with arrows the boy was equip'd</l>
+            </lg>
+            <lg>
+               <l>I ſtir'd up my fire, ſet him down by my ſide,</l>
+               <l>And with a warm napkin the wet from him dry'd</l>
+               <l>I chal'd him all o'er, to keep out the cold air,</l>
+               <l>And I wrung with my hands the wet from his hair.</l>
+            </lg>
+            <lg>
+               <l>No ſooner from wet and from cold he found eaſe,</l>
+               <l>Then he took up the bow and said, Ma'am, if you pleaſe,</l>
+               <l>would fain, with your leave, by experiment know,</l>
+               <l>the rain has not damag'd the ſtrings of my bow.</l>
+            </lg>
+            <lg>
+               <l>Then straight from his quiver an arrow he drew.</l>
+               <l>Which he aim'd at my heart, and twang went the yew.</l>
+               <l>My bow is undamag'd, said he, and my dart,</l>
+               <l>And you will find trouble in bearing the ſmart.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>
+

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To Mr. Gray, on his odes</title>
+            <author>Garrick, David, 1717-1779.</author>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>University of Oxford Text Archive</name>
+               <address>
+                  <addrLine>Oxford University Computing Services</addrLine>
+                  <addrLine>13 Banbury Road</addrLine>
+                  <addrLine>Oxford</addrLine>
+                  <addrLine>OX2 6NN</addrLine>
+               </address>
+               <email>ota@oucs.ox.ac.uk</email>
+            </distributor>
+            <idno type="ota">http://ota.ox.ac.uk/id/3439</idno>
+            <idno type="isbn10">1106004388</idno>
+            <idno type="isbn13">9781106004383</idno>
+            <idno type="TCP">K008591.000</idno>
+            <idno type="BIBNO">CW3312998134</idno>
+            <idno type="ECLL">0149003200</idno>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/3.0/">
+	  Distributed by the University of Oxford under a Creative Commons
+	  Attribution-ShareAlike 3.0 Unported License
+	</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To Mr. Gray, on his odes</title>
+                  <author>Garrick, David, 1717-1779.</author>
+               </titleStmt>
+               <extent>2p. ; 1/4⁰.</extent>
+               <publicationStmt>
+                  <publisher>printed at the Strawberry Hill Press by Thomas Kirgate,</publisher>
+                  <pubPlace>[Twickenham :</pubPlace>
+                  <date>1797?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Anonymous. By David Garrick.</note>
+                  <note>Verse - "Repine not, Gray, that our weak dazzled Eyes".</note>
+                  <note>One of Kirgate's reprints, published possibly in 1797 after Walpole's death but before Kirgate's departure from Strawberry Hill and distinguished from the original edition by a flaw in the comma following "Gray".</note>
+                  <note>Imprint from Hazen, p.13.</note>
+                  <note>Reproduction of original from the Harvard University Houghton Library.</note>
+                  <note>Hazen. Strawberry Hill, Detached Pieces 7</note>
+                  <note>English Short Title Catalog, ESTCN13888.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">English</language>
+         </langUsage>
+      </profileDesc>
+  </teiHeader>
+  <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:0149003200:1"/>
+            <head>TO
+Mr. GRAY,
+ON HIS
+ODES.</head>
+            <lg n="1">
+               <head>I.</head>
+               <l>REPINE not, GRAY, that our weak dazzled Eyes</l>
+               <l>Thy daring heights and brightneſs ſhun,</l>
+               <l>How few can track the Eagle to the ſkies,</l>
+               <l>Or like Him, gaze upon the Sun!</l>
+            </lg>
+            <lg n="2">
+               <head>II.</head>
+               <l>The gentle Reader loves the gentle Muſe,</l>
+               <l>That little dares, and little means,</l>
+               <l>Who humbly ſips her Learning from <hi>Reviews,</hi>
+               </l>
+               <l>Or flutters in the <hi>Magazines.</hi>
+               </l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>No longer now from Learning's ſacred Store</l>
+               <l>Our Minds their health and vigor draw;</l>
+               <l>HOMER, and PINDAR are rever'd no more,</l>
+               <l>No more the <hi>Stagyrite is Law.</hi>
+               </l>
+            </lg>
+            <lg n="4">
+               <pb n="2" facs="tcp:0149003200:2"/>
+               <head>IV.</head>
+               <l>Tho' nurſt by theſe, in vain thy Muſe appears,</l>
+               <l>To breath her ardors in our Souls;</l>
+               <l>In vain to ſightleſs Eyes, and deaden'd Ears</l>
+               <l>The Light'ning gleams, and Thunder rolls!</l>
+            </lg>
+            <lg n="5">
+               <head>V.</head>
+               <l>Yet droop not, GRAY, nor quit thy Heav'n-born Art,</l>
+               <l>Again thy wond'rous Powers reveal,</l>
+               <l>Wake ſlumb'ring Virtue in the <hi>Briton</hi>'s Heart.</l>
+               <l>And rouſe Us to <hi>reflect,</hi> and <hi>feel!</hi>
+               </l>
+            </lg>
+            <lg n="6">
+               <head>VI.</head>
+               <l>With antient Deeds our long-chill'd Boſoms fire,</l>
+               <l>Thoſe Deeds, which mark ELIZA's reign!</l>
+               <l>Make <hi>Britons, Greeks</hi> again—Then ſtrike the Lyre,</l>
+               <l>And PINDAR ſhall not Sing in vain.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>
+

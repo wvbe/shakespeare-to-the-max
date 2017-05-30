@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Case, Mr. Macklin late of Covent-Garden Theatre, against Mess. Clarke, Aldys, Lee, James, and Miles</title>
+            <author>Macklin, Charles, 1697?-1797.</author>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>University of Oxford Text Archive</name>
+               <address>
+                  <addrLine>Oxford University Computing Services</addrLine>
+                  <addrLine>13 Banbury Road</addrLine>
+                  <addrLine>Oxford</addrLine>
+                  <addrLine>OX2 6NN</addrLine>
+               </address>
+               <email>ota@oucs.ox.ac.uk</email>
+            </distributor>
+            <idno type="ota">http://ota.ox.ac.uk/id/3502</idno>
+            <idno type="isbn10">1106005015</idno>
+            <idno type="isbn13">9781106005014</idno>
+            <idno type="TCP">K014954.000</idno>
+            <idno type="BIBNO">CW3325563250</idno>
+            <idno type="ECLW">1248401400</idno>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/3.0/">
+	  Distributed by the University of Oxford under a Creative Commons
+	  Attribution-ShareAlike 3.0 Unported License
+	</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Case, Mr. Macklin late of Covent-Garden Theatre, against Mess. Clarke, Aldys, Lee, James, and Miles</title>
+                  <author>Macklin, Charles, 1697?-1797.</author>
+               </titleStmt>
+               <extent>13,[1]p. ; 8⁰.</extent>
+               <publicationStmt>
+                  <publisher>printed for and sold by John and James Ainslies,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>[1775?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Outline of a case brought by Charles Macklin against Clarke and others for a disturbance which took place in the Covent Garden Theatre, November 18, 1773.</note>
+                  <note>Reproduction of original from the Huntington Library.</note>
+                  <note>English Short Title Catalog, ESTCN26712.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">English</language>
+         </langUsage>
+      </profileDesc>
+  </teiHeader>
+  <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:1248401400:1"/>
+            <p>CASE, MR. MACKLIN LATE OF COVENT-GARDEN THEATRE, AGAINST <hi>Meſſ. Clarke, Aldys, Lee, James, and Miles.</hi>
+            </p>
+            <p>EDINBURGH: PRINTED FOR AND SOLD BY JOHN AND JAMES AINSLIES Bookſellers, N<hi rend="sup">o</hi> 4, St Andrew's Street, New Town.</p>
+            <p>PRICE THREEPENCE.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:1248401400:2" rendition="simple:additions"/>
+            <pb facs="tcp:1248401400:3"/>
+            <head>CASE.</head>
+            <p>
+               <note place="margin">1773. Nov. 18.</note>MR MACKLIN, who had attempt<g ref="char:EOLhyphen"/>ed the character of Macbeth at the Theatre in Covent Garden, having given offence to the Town, by ſome haſty accuſations, without ſufficient proof, againſt two or three brother players, for interrupting him in his performance, was diſcharged from that Theatre, by order of a numerous Au<g ref="char:EOLhyphen"/>dience, aſſembled, as it ſhould ſeem, for that purpoſe. On the curtain being drawn up, the cry was, <hi>No Macklin!</hi> and it increaſed ſo much, that, to prevent the houſe from being pulled to
+<pb n="6" facs="tcp:1248401400:4"/>
+pieces, the Managers complied with their deſires, and publicly diſcharged him: after which, there being no play ready, the money was returned, and the people diſperſed.</p>
+            <p>
+               <note place="margin">1774. Feb. 11.</note>MR MACKLIN moved the Court of King's Bench, againſt ſeveral perſons, for hiſſing and otherwiſe inſulting him, the laſt night he appeared in Covent Garden Theatre, to perform the part of Shylock; for preventing his going through the character; and likewiſe for the loſs of his bread. The motion was rejected, it being ob<g ref="char:EOLhyphen"/>ſerved, that as the Theatres were open for the reception and entertainment of that part of the Public who paid for their admiſſion, the Audience had a right to applaud, condemn, nay re<g ref="char:EOLhyphen"/>ject what Performers they thought proper; but if any unjuſt combination was formed previous to the opening of
+<pb n="7" facs="tcp:1248401400:5"/>
+the houſe, an action at Common Law might be grounded: But in the in<g ref="char:EOLhyphen"/>ſtance then before the Court, there did not appear any room for ſuch plea; and therefore, he was adviſed to make his peace with the Town as ſpeedily as poſſible. Mr Macklin had retained the Attorney and Solicitor-General, beſides Meſſ. Dunning, Wal<g ref="char:EOLhyphen"/>lace, &amp;c.—It is ſaid, Mr Macklin had 74 affidavits ready to produce.</p>
+            <p>
+               <note place="margin">1774. May 2.</note>THE Court of King's Bench was moved by Mr Dunning on behalf of Mr Macklin, for a Rule on ſix Gen<g ref="char:EOLhyphen"/>tlemen, to ſhew cauſe why an inform<g ref="char:EOLhyphen"/>ation ſhould not be filed againſt them for a riotous conſpiracy to deprive Mr Macklin of his livelihood, by forcing the Managers of Covent Gar<g ref="char:EOLhyphen"/>den Theatre to diſcharge Mr Macklin therefrom on the 18th November laſt; which Rule the Court was pleaſed to grant accordingly.</p>
+            <p>
+               <pb n="8" facs="tcp:1248401400:6"/>
+               <note place="margin">1774. June 11.</note>CAME on before the Court of King's Bench at Weſtminſter, the Complaint of Mr Macklin againſt ſix perſons for a riotous conſpiracy, founded on private premeditated malice, to de<g ref="char:EOLhyphen"/>prive the ſaid Mr Macklin of his bread, by cauſing him to be expelled the Theatre laſt Winter. The Court was pleaſed to grant an information againſt all but Mr Sparks. The Bench recommended it to the Gentlemen to make reſtitution to Mr Macklin, and to compromiſe the matter without bringing the cauſe to trial.</p>
+            <p>
+               <note place="margin">1775. Feb. 24.</note>CAUSE of Macklin againſt Clarke, Aldys, Lee, James, and Miles, came on to be tried by way of indictment, in the Court of King's Bench, before Mr Juſtice Aſton and a ſpecial Jury. The indictment conſiſted of two counts; the firſt ſpecifying, That on the 18th November 1773, the defendants had
+<pb n="9" facs="tcp:1248401400:7"/>
+been guilty of a riot;—the other, that they had been guilty of a conſpiracy; both in order to cauſe Mr Macklin to be diſmiſſed from their Stage by the Patentees of Covent Garden Theatre. The Judge, after hearing the evidence, and ſumming it up with accuracy and impartiality, deſired the Jury to ex<g ref="char:EOLhyphen"/>erciſe their judgement: And if they thought the defendants guilty of both counts, they were to find a verdict generally; if only of one count, they ſhould find accordingly. The Jury then withdrew; and, in about twenty minutes, brought Clarke in guilty of the riot, and the others of the conſpi<g ref="char:EOLhyphen"/>racy. — But judgement was deferred till next term.</p>
+            <p>
+               <note place="margin">1775. May.</note>MR JUSTICE ASTON reported to the Court of King's Bench, his minutes of the evidence on the trial of Meſſrs Leigh, Miles, James, Adys, and Clarke,
+<pb n="10" facs="tcp:1248401400:8"/>
+on the 24th February laſt; the four firſt of whom were convicted of a conſpiracy and riot, and the latter of a riot only, in Covent Garden Theatre, on the 18th November 1773, with intent to drive Mr Macklin from the Stage.—Lord Mansfield obſerved on the nature of the offence, — called it a national diſ<g ref="char:EOLhyphen"/>grace, — and, in very ſevere terms, reprobated the conduct of the parties concerned in it. He ſaid, In the firſt ſtage of the buſineſs, he had urgently adviſed the defendants to make Mr Macklin an adequate compenſation for the great damage he had ſuſtained;— that he then particularly pointed out as an adviſeable meaſure, the ſaving of the coſts, by putting an end to the matter at once;—that the law-expences were now ſwelled to an enormous ſum, which ſum the defendants themſelves had given riſe to, by their obſtinacy and want of prudence.—Some time
+<pb n="11" facs="tcp:1248401400:9"/>
+was ſpent in the Courts, endeavouring to make an amicable adjuſtment of the matter, and a final concluſion of it. Mr Colman was propoſed as arbiter-general, which the defendants unani<g ref="char:EOLhyphen"/>mouſly agreed to; but Mr Colman declined the office.—At length Mr Macklin, after recapitulating his griev<g ref="char:EOLhyphen"/>ances, informed the Court, that to ſhew he was no way revengeful, with which he had been charged, he would be ſa<g ref="char:EOLhyphen"/>tisfied with the defendants paying his law-expences, taking one hundred pounds worth of tickets on the night of his daughter's benefit, a ſecond hundred pounds worth on the night of his own benefit, and a third on one of the managers nights when he ſhould play. This plan, he obſerved, was not formed on mercenary views: Its baſis was to give the defendants popularity, and reſtore mutual amity.—Lord Mansfield paid Mr Macklin very high
+<pb n="12" facs="tcp:1248401400:10"/>
+compliments on the honourable com<g ref="char:EOLhyphen"/>plexion and ſingular moderation of this propoſal. His Lordſhip declared it did him the higheſt credit;—that generoſity was univerſally admired in this coun<g ref="char:EOLhyphen"/>try, and there was no manner of doubt but the Public at large would honour and applaud him for his lenity. His Lordſhip added further, that notwith<g ref="char:EOLhyphen"/>ſtanding his acknowledged abilities as an Actor, he never acted better in his life than he had that day. The pro<g ref="char:EOLhyphen"/>poſal was accepted by the parties, and the matter was thus ended.—During the courſe of the buſineſs, Lord Manſ<g ref="char:EOLhyphen"/>field took occaſion to obſerve, that the right of hiſſing and applauding in a Theatre, was an unalterable right; but that there was a wide diſtinction be<g ref="char:EOLhyphen"/>tween expreſſing the natural ſenſations of the mind as they aroſe on what was ſeen and heard, and executing a pre<g ref="char:EOLhyphen"/>concerted deſign, not only to hiſs an
+<pb n="13" facs="tcp:1248401400:11"/>
+Actor when he was playing a part in which he was univerſally allowed to be excellent, but alſo to drive him from the Theatre, and promote his utter ruin.</p>
+            <p>SOON after the above deciſion, the Managers of Covent Garden Theatre met, and generouſly agreed to give up their claim to the hundred pounds worth of tickets.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
+

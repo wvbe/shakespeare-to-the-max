@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons humbly offered by the Company exercising the trade and mystery of upholders: against part of the bill for the better viewing, searching, and examining drugs, medicines, &amp;c.</title>
+            <author>Arbuthnot, John, 1667-1735.</author>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>University of Oxford Text Archive</name>
+               <address>
+                  <addrLine>Oxford University Computing Services</addrLine>
+                  <addrLine>13 Banbury Road</addrLine>
+                  <addrLine>Oxford</addrLine>
+                  <addrLine>OX2 6NN</addrLine>
+               </address>
+               <email>ota@oucs.ox.ac.uk</email>
+            </distributor>
+            <idno type="ota">http://ota.ox.ac.uk/id/4148</idno>
+            <idno type="isbn10">1106011473</idno>
+            <idno type="isbn13">9781106011473</idno>
+            <idno type="TCP">K043780.000</idno>
+            <idno type="BIBNO">CW3307998902</idno>
+            <idno type="ECMS">0135202200</idno>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/3.0/">
+	  Distributed by the University of Oxford under a Creative Commons
+	  Attribution-ShareAlike 3.0 Unported License
+	</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons humbly offered by the Company exercising the trade and mystery of upholders: against part of the bill for the better viewing, searching, and examining drugs, medicines, &amp;c.</title>
+                  <author>Arbuthnot, John, 1667-1735.</author>
+                  <author>Company of Upholders (London, England)</author>
+               </titleStmt>
+               <extent>[4],7,[1]p. ; 4⁰.</extent>
+               <publicationStmt>
+                  <publisher>printed in the year,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1724.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to John Arbuthnot.</note>
+                  <note>Half-title: 'Reasons humbly offer'd ..'.</note>
+                  <note>A satirical petition to the House of Commons, charging that the prosperity of undertakers and clergy would be reduced if the bill were passed.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>English Short Title Catalog, ESTCT46417.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">English</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:0135202200:1" rendition="simple:additions"/>
+            <p>REASONS
+Humbly Offer'd
+By the Company Exerciſing the Trade
+and Myſtery of UPHOLDERS, Againſt Part of the BILL, <hi>For the better
+Viewing, Searching, and Examining
+DRUGS, MEDICINES, &amp;c.</hi>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:0135202200:2" rendition="simple:additions"/>
+            <p>REASONS
+Humbly Offered by the
+COMPANY
+Exerciſing the Trade and Myſtery of
+<hi>UPHOLDERS,</hi>
+            </p>
+            <p>Againſt Part of the BILL
+<hi>For the better Viewing, Searching, and
+Examining DRUGS, MEDICINES, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi>
+Printed in the YEAR 1724.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:0135202200:3"/>
+            <head>REASONS
+Humbly Offer'd
+By the Company exerciſing the
+Trade and Miſtery of UPHOL<g ref="char:EOLhyphen"/>DERS,
+againſt Part of the
+BILL, <hi>For the better Viewing,
+Searching and Examining Drugs,
+Medicines, &amp;c.</hi>
+            </head>
+            <p>BEING call'd upon by ſeveral Retailers
+and Diſpenſers of Drugs and Medicines
+about Town, to uſe our Endeavours a<g ref="char:EOLhyphen"/>gainſt
+the Bill now depending, <hi>for Viewing,</hi> &amp;c.
+In Regard of our common Intereſt and in Gra<g ref="char:EOLhyphen"/>titude
+to the ſaid Retailers and Diſpenſers of
+Medicines (which we have always found to be
+<pb n="2" facs="tcp:0135202200:4"/>
+very effectual) we preſume to lay the following
+Reaſons before the Publick, againſt the ſaid Bill.</p>
+            <p>That the Company of Upholders <hi>are far
+from being averſe to the giving of Drugs and
+Medicines in general,</hi> provided they may be of
+ſuch Qualities as we require, and adminiſter'd
+by ſuch Perſons in whom our Company juſtly
+repoſe the greateſt Confidence: And provided
+they tend to the Encouragement of Trade, and
+the Conſumption of the Woolen Manufacture
+of this Kingdom.</p>
+            <p>We beg Leave to obſerve, that <hi>there hath
+been no Complaint from any of the Nobility, Gen<g ref="char:EOLhyphen"/>try
+and Citizens whom we have attended.</hi> Our
+Practice, which conſiſts chiefly in outward Ap<g ref="char:EOLhyphen"/>plications,
+having been always ſo effectual, that
+none of our Patients have been oblig'd to un<g ref="char:EOLhyphen"/>dergo
+a ſecond Operation. Excepting one Gen<g ref="char:EOLhyphen"/>tlewoman;
+who, after her firſt Burial, having,
+burthen'd her Husband with a new Brood of
+poſthumous Children, her ſecond Funeral was
+by us perform'd without any further Charges to
+<pb n="3" facs="tcp:0135202200:5"/>
+the ſaid Husband of the deceas'd. And we hum<g ref="char:EOLhyphen"/>bly
+hope, that one ſingle Inſtance of this Kind
+(a Misfortune owing meerly to the Avarice of
+a Sexton in cutting off a Ring) will not be im<g ref="char:EOLhyphen"/>puted,
+to any Want of Skill, or Care in our
+Company.</p>
+            <p>We humbly conceive, that this <hi>Power, by
+this Bill lodged in the Cenſors of the College of
+Phyſicians,</hi> to reſtrain any of His Majeſty's Sub<g ref="char:EOLhyphen"/>jects
+from diſpenſing, and well-diſpoſed Per<g ref="char:EOLhyphen"/>ſons
+from taking what Medicines they pleaſe, <hi>is
+a manifeſt Encroachment on the Liberty and Pro<g ref="char:EOLhyphen"/>perty
+of the Subjects.</hi>
+            </p>
+            <p>As the Company exerciſing the Trade and
+Miſtery of Upholders, have an undiſputed Right
+in and upon the Bodies of all and every the
+Subjects of the Kingdom; we conceive the paſ<g ref="char:EOLhyphen"/>ſing
+of this Bill, though not abſolutely depri<g ref="char:EOLhyphen"/>ving
+them of their ſaid Right, might keep them
+out of Poſſeſſion by unreaſonable Delays, to the
+great Detriment of our Company and their nu<g ref="char:EOLhyphen"/>merous
+Families.</p>
+            <p>
+               <pb n="4" facs="tcp:0135202200:6"/>
+We hope it will be conſider'd that there are
+Multitudes of neceſſitous Heirs and penurious
+Parents, Perſons in pinching Circumſtances,
+with numerous Families of Children, Wives that
+have lived long, many robuſt aged Women
+with great Jointures, elder Brothers with bad
+Underſtandings, ſingle Heirs of great Eſtates,
+whereby the Collateral Line are for ever exclu<g ref="char:EOLhyphen"/>ded,
+Reverſionary Patents, and Reverſionary
+Promiſes of Preferments, Leaſes upon Single
+Lives, and Play-debts upon joint Lives, and
+that the Perſons ſo agrieved have no Hope of
+being ſpeedily relieved any other Way, than by
+the diſpenſing of Drugs and Medicines in the
+Manner they now are; Burying alive being
+judg'd repugnant to the know Laws of this
+Kingdom.</p>
+            <p>That there are many of the Deceaſed, who
+by certain mechanical Motions and Powers are
+carried about Town, who would have been put
+into our Hands long before this Time by any
+other well-ordered Government; by want of a
+<pb n="5" facs="tcp:0135202200:7"/>
+due Police in this Particular, our Company
+have been great Sufferers.</p>
+            <p>That frequent Funerals contribute to preſerve
+the Genealogies of Families, and the Honours
+conferred by the Crown, (which are no where
+ſo well illuſtrated as on this ſolemn Occaſion;)
+to maintain neceſſitous Clergy, to enable the
+Clerks to appear in decent Habits to officiate
+on <hi>Sundays,</hi> to feed the great Retinue of ſober
+and melancholy Men who appear at the ſaid
+Funerals, and who muſt ſtarve without con<g ref="char:EOLhyphen"/>ſtant
+and regular Employment. Moreover we
+deſire it may be remember'd, that by the paſſing
+of this Bill the Nobility and Gentry will have
+their old Coaches lie upon their Hands, which
+are now employed by our Company.</p>
+            <p>And we further hope that frequent Funerals
+will not be diſcouraged (as is by this Bill pro<g ref="char:EOLhyphen"/>poſed)
+it being the only Method left of <hi>carry<g ref="char:EOLhyphen"/>ing</hi>
+ſome People to Church.</p>
+            <p>We are afraid that by the Hardſhips of this
+<pb n="6" facs="tcp:0135202200:8"/>
+Bill our Company will be reduced to leave
+their Buſineſs here, and <hi>practiſe at</hi> York <hi>and</hi>
+Briſtol, <hi>where the free Uſe of bad Medicines
+will be ſtill allowed.</hi>
+            </p>
+            <p>
+               <hi>It is therefore hoped that no ſpecious Pretence
+whatſoever will be thought ſufficient to introduce
+an Arbitrary and unlimited Power for People to
+live</hi> (in Defiance of Art) as long as they can
+by the Courſe of Nature, to the Prejudice of
+our Company, and the Decay of Trade.</p>
+            <p>That as our Company are like to ſuffer in
+ſome meaſure by the Power given to Phyſicians
+to diſſect the Bodies of Malefactors, we hum<g ref="char:EOLhyphen"/>bly
+hope that the Manufacture of Caſes for
+Skeletons will be reſerved ſolely to the Coffin<g ref="char:EOLhyphen"/>makers.</p>
+            <p>We likewiſe humbly preſume that the Inte<g ref="char:EOLhyphen"/>reſts
+of the ſeveral Trades and Profeſſions which
+depend upon ours, may be regarded; ſuch as
+that of the Makers of Hearſes, Coaches, Cof<g ref="char:EOLhyphen"/>fins,
+Epitaphs, and Bell-ropes; Stone-cutters,
+<pb n="7" facs="tcp:0135202200:9"/>
+Feather-men and Bell-ringers; and eſpecially
+the Manufacturers of Crapes; and the Makers
+of Snuff, who uſe great Quantities of old-Coffins,
+and who, conſidered in the Conſumpti<g ref="char:EOLhyphen"/>on
+of their Drugs, employ by far the greateſt
+Number of Hands of any Manufacture of the
+Kingdom.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
+

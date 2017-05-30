@@ -1,0 +1,2638 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ovid's elegies</title>
+            <author>Marlowe, Christopher, 1564-1593</author>
+            <author>Ovid</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority xml:id="ulelo1">deposited by<name type="person">Ule, Louis</name>
+               <name type="place">Rolling Hills</name>
+               <address>
+                  <addrLine>27 Mustang Road</addrLine>
+                  <addrLine>CA 90274  Rolling Hills</addrLine>
+                  <addrLine>USA</addrLine>
+               </address>
+               <date>1992-03-12</date>
+            </authority>
+            <distributor>
+               <name>University of Oxford Text Archive</name>
+               <address>
+                  <addrLine>Oxford University Computing Services</addrLine>
+                  <addrLine>13 Banbury Road</addrLine>
+                  <addrLine>Oxford</addrLine>
+                  <addrLine>OX2 6NN</addrLine>
+               </address>
+               <email>ota@oucs.ox.ac.uk</email>
+            </distributor>
+            <idno type="ota">http://ota.ox.ac.uk/id/3027</idno>
+            <idno type="isbn10">1106000269</idno>
+            <idno type="isbn13">9781106000262</idno>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/3.0/">
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License
+      </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Revised version of  <relatedItem type="older" target="http://ota.ox.ac.uk/id/1624"/>
+            </bibl>
+            <biblFull>
+               <titleStmt>
+                  <title>Ovid's elegies</title>
+                  <title level="m">The Complete Works of Christopher Marlowe</title>
+                  <author>Marlowe, Christopher, 1564-1593</author>
+                  <author>Ovid</author>
+                  <editor>Bowers, Fredson</editor>
+               </titleStmt>
+               <publicationStmt>
+                  <publisher>Cambridge University Press</publisher>
+                  <pubPlace>Cambridge</pubPlace>
+                  <date>1973</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>[1580-1587]</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="OTASH">
+               <bibl>University of Oxford Text Archive Subject Headings</bibl>
+            </taxonomy>
+            <taxonomy xml:id="LCSH">
+               <bibl>Library of Congress Subject Headings</bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <creation>
+            <date notAfter="1587"/>
+         </creation>
+         <langUsage>
+            <language ident="eng">English</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="#LCSH">
+               <term type="genre">English poetry -- Early modern, 1500-1700</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2010-09-27">Header normalised</change>
+      </revisionDesc>
+  </teiHeader>
+  <text xml:id="marovid">
+      <body>
+         <div n="1" type="book">
+            <div n="1.1" type="elegy">
+               <l>         poetae ovidii nasonis amorum,</l>
+               <l>                    liber primus.</l>
+               <l>     quemadmodum a cupidine pro bellis</l>
+               <l>        amores scribere coactus sit.</l>
+               <l>We which were ovid's five books now are three,</l>
+               <l>For these before the rest preferreth he.</l>
+               <l>If reading five thou 'plain'st of tediousness,</l>
+               <l>Two ta'en away, thy labor will be less.</l>
+               <l>With muse prepared i meant to sing of arms,</l>
+               <l>Choosing a subject fit for fierce alarms.</l>
+               <l>Both verses were alike till love (men say)</l>
+               <l>Began to smile and took one foot away.</l>
+               <l>Rash boy, who gave thee power to change a line?</l>
+               <l>We are the muses' prophets, none of thine.</l>
+               <l>What if thy mother take diana's bow?</l>
+               <l>Shall dian fan, when love begins to glow?</l>
+               <l>In woody groves is't meet that ceres reign,</l>
+               <l>And quiver-bearing dian till the plain?</l>
+               <l>Who'll set the fair tressed sun in battle 'ray</l>
+               <l>While mars doth take the aonian harp to play?</l>
+               <l>Great are thy kingdoms, overstrong and large,</l>
+               <l>Ambitious imp, why seek'st thou further charge?</l>
+               <l>Are all things thine?  the muses' tempe thine?</l>
+               <l>Then scarce can phoebus say, this harp is mine.</l>
+               <l>When in this work's first verse i trod aloft,</l>
+               <l>Love slacked my muse, and made my numbers soft.</l>
+               <l>I have no mistress, nor no favorite,</l>
+               <l>Being fittest matter for a wanton wit.</l>
+               <l>Thus i complained, but love unlocked his quiver,</l>
+               <l>Took out the shaft, ordained my heart to shiver:</l>
+               <l>And bent his sinewy bow upon his knee,</l>
+               <l>Saying, poet here's a work beseeming thee.</l>
+               <l>Oh woe is me, he never shoots but hits,</l>
+               <l>I burn, love in my idle bosom sits.</l>
+               <l>Let my first verse be six, my last five feet,</l>
+               <l>Farewell stern war, for blunter poets meet.</l>
+               <l>Elegian muse, that warblest amorous lays,</l>
+               <l>Girt my shiny brow with sea-bank myrtle sprays.</l>
+            </div>
+            <div n="1.2" type="elegy">
+               <l>           duci se a cupidine patiatur.</l>
+               <l>What makes my bed seem hard, seeing it is soft?</l>
+               <l>Or why slips down the coverlet so oft?</l>
+               <l>Although the nights be long, i sleep not, though</l>
+               <l>My sides are sore with tumbling to-and-fro.</l>
+               <l>Were love the cause, it's like i should descry him,</l>
+               <l>Or lies he close, and shoots where none can spy him?</l>
+               <l>'twas so, he strook me with a slender dart,</l>
+               <l>'tis cruel love turmoils my captive heart.</l>
+               <l>Yielding or struggling do we give him might,</l>
+               <l>Let's yield, a burden easily borne is light.</l>
+               <l>I saw a brandished fire increase in strength,</l>
+               <l>Which being not shaked, i saw it die at length.</l>
+               <l>Young oxen newly yoked are beaten more</l>
+               <l>Than oxen which have drawn the plow before.</l>
+               <l>And rough jades' mouths with stubborn bits are torn,</l>
+               <l>But managed horses' heads are lightly borne.</l>
+               <l>Unwilling lovers' love doth more torment</l>
+               <l>Than such as in their bondage feel content.</l>
+               <l>Lo i confess, i am thy captive i,</l>
+               <l>And hold my conquered hands for thee to tie.</l>
+               <l>What needst thou war?  i sue to thee for grace,</l>
+               <l>With arms to conquer armless men is base.</l>
+               <l>Yoke venus' doves, put myrtle on thy hair,</l>
+               <l>Vulcan will give thee chariots rich and fair.</l>
+               <l>The people thee applauding thou shalt stand,</l>
+               <l>Guiding the harmless pigeons with thy hand.</l>
+               <l>Young men, and women shalt thou lead as thrall,</l>
+               <l>So will thy triumph seem magnifical.</l>
+               <l>I, lately caught, will have a new-made wound,</l>
+               <l>And captivelike be manacled and bound.</l>
+               <l>Good meaning shame, and such as seek love's wrack,</l>
+               <l>Shall follow thee, their hands tied at their back.</l>
+               <l>Thee all shall fear, and worship as a king,</l>
+               <l>Io triumph, shall thy people sing.</l>
+               <l>Smooth speeches, fear, and rage shall by thee ride,</l>
+               <l>Which troops have always been on cupid's side;</l>
+               <l>Thou with these soldiers conquerest gods and men,</l>
+               <l>Take these away, where is thine honor then?</l>
+               <l>Thy mother shall from heaven applaud this show,</l>
+               <l>And on their faces heaps of roses strow.</l>
+               <l>Ride golden love in chariots richly builded.</l>
+               <l>Unless i err, full many shalt thou burn,</l>
+               <l>And give wounds infinite at every turn.</l>
+               <l>In spite of thee forth will thine arrows fly,</l>
+               <l>A scorching flame burns all the standers by.</l>
+               <l>So having conquered, inde was bacchus' hew,</l>
+               <l>Thee pompous birds, and him two tigers drew.</l>
+               <l>Then seeing i grace thy show in following thee,</l>
+               <l>Forbear to hurt thyself in spoiling me.</l>
+               <l>Behold thy kinsman's caesar's prosperous bands,</l>
+               <l>Who guards the conquered with his conquering hands.</l>
+            </div>
+            <div n="1.3" type="elegy">
+               <l>                    ad amicam.</l>
+               <l>I ask but right: let her that caught me late,</l>
+               <l>Either love, or cause that i may never hate.</l>
+               <l>I ask too much, would she but let me love her!</l>
+               <l>Love knows with suchlike prayers i daily move her.</l>
+               <l>Accept him that will serve thee all his youth,</l>
+               <l>Accept him that will love with spotless truth</l>
+               <l>If lofty titles cannot make me thine,</l>
+               <l>That am descended but of knightly line,</l>
+               <l>(soon may you plow the little land i have,</l>
+               <l>I gladly grant my parents given to save)</l>
+               <l>Apollo, bacchus and the muses may,</l>
+               <l>And cupid who hath marked me for thy prey;</l>
+               <l>My spotless life, which but to god's gives place,</l>
+               <l>Naked simplicity, and modest grace.</l>
+               <l>I love but one, and her i love, change never,</l>
+               <l>If men have faith, i'll live with thee forever.</l>
+               <l>The years that fatal destiny shall give</l>
+               <l>I'll live with thee, and die, ere thou shall grieve.</l>
+               <l>Be thou the happy subject of my books,</l>
+               <l>That i may write things worthy thy fair looks.</l>
+               <l>By verses horned io got her name,</l>
+               <l>And she to whom in shape of swan jove came,</l>
+               <l>And she that on a feigned bull swam to land,</l>
+               <l>Griping his false horns with her virgin hand.</l>
+               <l>So likewise we will through the world be rung,</l>
+               <l>And with my name shall thine be always sung.</l>
+            </div>
+            <div n="1.4" type="elegy">
+               <l>Amicam, qua arte, quibusve nutibus in caena, praesente</l>
+               <l>             viro uti debeat, admonet.</l>
+               <l>Thy husband to a banquet goes with me,</l>
+               <l>Shall i sit gazing as a bashful guest,</l>
+               <l>While others touch the damsel i love best?</l>
+               <l>Wilt lying under him his bosom clip?</l>
+               <l>About thy neck shall he at pleasure skip?</l>
+               <l>Marvel not, though the fair bride did incite</l>
+               <l>The drunken centaurs to a sudden fight.</l>
+               <l>I am no half horse, nor in woods i dwell,</l>
+               <l>Yet scarce my hands from thee contain i well.</l>
+               <l>But how thou shouldst behave thyself now know:</l>
+               <l>Nor let the winds away my warnings blow.</l>
+               <l>Before thy husband come, though i not see</l>
+               <l>What may be done, yet there before him be.</l>
+               <l>Lie with him gently, when his limbs he spread</l>
+               <l>Upon the bed, but on my foot first tread,</l>
+               <l>View me, my becks, and speaking countenance;</l>
+               <l>Take, and receive each secret amorous glance.</l>
+               <l>Words without voice shall on my eyebrows sit,</l>
+               <l>Lines thou shalt read in wine by my hand writ.</l>
+               <l>When our lascivious toys come in thy mind,</l>
+               <l>Thy rosy cheeks be to thy thumb inclined.</l>
+               <l>If aught of me thou speak'st in inward thought,</l>
+               <l>Let thy soft finger to thy ear be brought,</l>
+               <l>When i (my light) do or say aught that please thee,</l>
+               <l>Turn round thy gold ring, as it were to ease thee.</l>
+               <l>Strike on the board like them that pray for evil,</l>
+               <l>When thou dost wish thy husband at the devil.</l>
+               <l>What wine he fills thee wisely will him drink,</l>
+               <l>Ask thou the boy what thou enough dost think.</l>
+               <l>When thou hast tasted, i will take the cup,</l>
+               <l>And where thou drink'st, on that part i will sup.</l>
+               <l>If he gives thee what first himself did taste,</l>
+               <l>Even in his face his offered goblets cast.</l>
+               <l>Let not thy neck by his vile arms be pressed,</l>
+               <l>Nor lean thy soft head on his boisterous breast.</l>
+               <l>Thy bosom's roseate buds let him not finger,</l>
+               <l>Chiefly on thy lips let not his lips linger.</l>
+               <l>If thou givest kisses, i shall all disclose,</l>
+               <l>Say they are mine, and hands on thee impose.</l>
+               <l>Yet this i'll see, but if thy gown ought cover,</l>
+               <l>Suspicious fear in all my veins will hover.</l>
+               <l>Mingle not thighs, nor to his leg join thine,</l>
+               <l>I have been wanton, therefore am perplexed,</l>
+               <l>And with mistrust of the like measure vexed.</l>
+               <l>I and my wench oft under clothes did lurk,</l>
+               <l>When pleasure moved us to our sweetest work.</l>
+               <l>Do not thou so, but throw thy mantle hence,</l>
+               <l>Lest i should think thee guilty of offense.</l>
+               <l>Entreat thy husband drink, but do not kiss,</l>
+               <l>And while he drinks, to add more do not miss,</l>
+               <l>If he lies down with wine and sleep oppressed,</l>
+               <l>The thing and place shall counsel us the rest.</l>
+               <l>When to go homewards we rise all along,</l>
+               <l>Have care to walk in middle of the throng.</l>
+               <l>There will i find thee, or be found by thee,</l>
+               <l>There touch whatever thou canst touch of me.</l>
+               <l>Aye me, i warn, what profits some few hours,</l>
+               <l>But we must part, when heav'n with black night lowers.</l>
+               <l>At night thy husband clips thee, i will weep</l>
+               <l>And to the doors, sight of thyself keep:</l>
+               <l>Then will he kiss thee, and not only kiss</l>
+               <l>But force thee give him my stol'n honey bliss.</l>
+               <l>Constrained against thy will give it the peasant,</l>
+               <l>Forbear sweet words, and be your sport unpleasant.</l>
+               <l>To him i pray it no delight may bring,</l>
+               <l>Or if it do, to thee no joy thence spring:</l>
+               <l>But though this night thy fortune be to try it,</l>
+               <l>To me tomorrow constantly deny it.</l>
+            </div>
+            <div n="1.5" type="elegy">
+               <l>                  corinnae concubitus.</l>
+               <l>In summer's heat and midtime of the day</l>
+               <l>To rest my limbs upon a bed i lay,</l>
+               <l>One window shut, the other open stood,</l>
+               <l>Which gave such light as twinkles in a wood,</l>
+               <l>Like twilight glimpse at setting of the sun</l>
+               <l>Or night being past, and yet not day begun.</l>
+               <l>Such light to shamefaced maidens must be shown,</l>
+               <l>Where they may sport, and seem to be unknown.</l>
+               <l>Then came corinna in a long loose gown,</l>
+               <l>Her white neck hid with tresses hanging down:</l>
+               <l>Resembling fair semiramis going to bed</l>
+               <l>Or layis of a thousand wooers sped.</l>
+               <l>I snatched her gown, being thin, the harm was small,</l>
+               <l>Yet strived she to be covered there withal.</l>
+               <l>Betrayed herself, and yielded at the last.</l>
+               <l>Stark naked as she stood before mine eye,</l>
+               <l>Not one wen in her body could i spy.</l>
+               <l>What arms and shoulders did i touch and see,</l>
+               <l>How apt her breasts were to be pressed by me?</l>
+               <l>How smooth a belly under her waist saw i?</l>
+               <l>How large a leg, and what a lusty thigh?</l>
+               <l>To leave the rest, all liked me passing well,</l>
+               <l>I clinged her naked body, down she fell,</l>
+               <l>Judge you the rest:  being tired she bad me kiss,</l>
+               <l>Jove send me more such afternoons as this.</l>
+            </div>
+            <div n="1.6" type="elegy">
+               <l>                 ad janitorem, ut fores sibi aperiat.</l>
+               <l>Unworthy porter, bound in chains full sore.</l>
+               <l>On moved hooks set ope the churlish door.</l>
+               <l>Little i ask, a little entrance make:</l>
+               <l>The gate half ope my bent side in will take.</l>
+               <l>Long love my body to such use makes slender</l>
+               <l>And to get out doth like apt members render.</l>
+               <l>He shows me how unheard to pass the watch,</l>
+               <l>And guides my feet lest stumbling falls they catch.</l>
+               <l>But in times past i feared vain shades, and night,</l>
+               <l>Wondering if any walked without light.</l>
+               <l>Love hearing it laughed with his tender mother</l>
+               <l>And smiling said, be thou as bold as other.</l>
+               <l>Forthwith love came:  no dark night-flying sprite,</l>
+               <l>Nor hands prepared to slaughter, me affright.</l>
+               <l>Thee fear i too much:  only thee i flatter,</l>
+               <l>Thy lightning can my life in pieces batter.</l>
+               <l>Why enviest me this hostile den unbar?</l>
+               <l>See how the gates with my tears watered are.</l>
+               <l>When thou stood'st naked ready to be beat,</l>
+               <l>For thee i did thy mistress fair entreat.</l>
+               <l>But what entreats for thee sometimes took place,</l>
+               <l>(o mischief) now for me obtain small grace.</l>
+               <l>Gratis thou mayest be free, give like for like.</l>
+               <l>Night goes away:  the doors bar backward strike.</l>
+               <l>Strike, so again hard chains shall bind thee never,</l>
+               <l>Nor servile water shalt thou drink forever.</l>
+               <l>Hardhearted porter dost and wilt not hear?</l>
+               <l>With stiff oak propped the gate doth still appear.</l>
+               <l>Such rampired gates besieged cities aid,</l>
+               <l>Exclud'st a lover, how wouldst use a foe?</l>
+               <l>Strike back the bar, night fast away doth go.</l>
+               <l>With arms or armed men i come not guarded,</l>
+               <l>I am alone, were furious love discarded.</l>
+               <l>Although i would, i cannot him cashier</l>
+               <l>Before i be divided from my gear.</l>
+               <l>See love with me, wine moderate in my brain,</l>
+               <l>And on my hairs a crown of flowers remain.</l>
+               <l>Who fears these arms?  who will not go to meet them?</l>
+               <l>Night runs away; with open entrance greet them?</l>
+               <l>Art careless?  or is't sleep forbids thee hear</l>
+               <l>Giving the winds my words running in thine ear?</l>
+               <l>Well i remember when i first did hire thee</l>
+               <l>Watching till after midnight did not tire thee.</l>
+               <l>But now perchance thy wench with thee doth rest.</l>
+               <l>Ah how thy lot is above my lot blest:</l>
+               <l>Though it be so, shut me not out therefore.</l>
+               <l>Night goes away:  i pray thee ope the door.</l>
+               <l>Err we?  or do the turned hinges sound,</l>
+               <l>And opening doors with creaking noise abound?</l>
+               <l>We err:  a strong blast seemed the gates to ope:</l>
+               <l>Aye me, how high that gale did lift my hope!</l>
+               <l>If boreas bears orithyas' rape in mind,</l>
+               <l>Come break these deaf doors with thy boisterous wind.</l>
+               <l>Silent the city is:  night's dewy host</l>
+               <l>March fast away:  the bar strike from the post,</l>
+               <l>Or i more stern than fire or sword will turn,</l>
+               <l>And with my brand these gorgeous houses burn.</l>
+               <l>Night, love, and wine to all extremes persuade:</l>
+               <l>Night shameless, wine and love are fearless made.</l>
+               <l>All have i spent:  no threats or prayers move thee,</l>
+               <l>O harder than the doors thou guardest i prove thee.</l>
+               <l>No pretty wench's keeper mayst thou be:</l>
+               <l>The careful prison is more meet for thee.</l>
+               <l>Now frosty night her flight begins to take,</l>
+               <l>And crowing cocks poor souls to work awake.</l>
+               <l>But thou my crown, from sad hairs ta'en away,</l>
+               <l>On this hard threshold till the morning lay.</l>
+               <l>That when my mistress there beholds thee cast,</l>
+               <l>She may perceive how we the time did waste:</l>
+               <l>Whate'er thou art, farewell, be like me pained,</l>
+               <l>And farewell, cruel posts, rough threshold's block,</l>
+               <l>And doors conjoined with an hard iron lock.</l>
+            </div>
+            <div n="1.7" type="elegy">
+               <l>        ad pacandam amicam, quam verberaverat.</l>
+               <l>Bind fast my hands, they have deserved chains,</l>
+               <l>While rage is absent, take some friend the pains.</l>
+               <l>For rage against my wench moved my rash arm,</l>
+               <l>My mistress weeps whom my mad hand did harm.</l>
+               <l>I might have then my parents dear misused,</l>
+               <l>Or holy gods with cruel strokes abused.</l>
+               <l>Why?  ajax, master of the sevenfold shield,</l>
+               <l>Butchered the flocks he found in spacious field,</l>
+               <l>And he who on his mother venged his sire</l>
+               <l>Against the destinies durst sharp darts require.</l>
+               <l>Could i therefore her comely tresses tear?</l>
+               <l>Yet was she graced with her ruffled hair.</l>
+               <l>So fair she was, atalanta she resembled,</l>
+               <l>Before whose bow th' arcadian wild beasts trembled.</l>
+               <l>Such ariadne was, when she bewails</l>
+               <l>Her perjured theseus flying vows and sails,</l>
+               <l>So chaste minerva did cassandra fall</l>
+               <l>Deflowered except, within thy temple wall.</l>
+               <l>That i was mad, and barbarous all men cried,</l>
+               <l>She nothing said, pale fear her tongue had tied.</l>
+               <l>But secretly her looks with checks did trounce me,</l>
+               <l>Her tears, she silent, guilty did pronounce me.</l>
+               <l>Would of mine arms, my shoulders had been scanted,</l>
+               <l>Better i could part of myself have wanted.</l>
+               <l>To mine own self have i had strength so furious?</l>
+               <l>And to myself could i be so injurious?</l>
+               <l>Slaughter and mischief's instruments, no better,</l>
+               <l>Deserved chains these cursed hands shall fetter,</l>
+               <l>Punished i am, if i a roman beat;</l>
+               <l>Over my mistress is my right more great?</l>
+               <l>Tydides left worst signs of villainy,</l>
+               <l>He first a goddess strook; another i,</l>
+               <l>Yet he harmed less, whom i professed to love</l>
+               <l>I harmed: a foe did diomedes' anger move.</l>
+               <l>Go now, thou conqueror, glorious triumphs raise,</l>
+               <l>Pay vows to jove, engirt thy hairs with bays,</l>
+               <l>And let the troops which shall thy chariot follow,</l>
+               <l>Let the sad captive foremost with locks spread</l>
+               <l>On her white neck but for hurt cheeks be led.</l>
+               <l>Meeter it were her lips were blue with kissing</l>
+               <l>And on her neck a wanton's mark not missing.</l>
+               <l>But though i like a swelling flood was driven,</l>
+               <l>And as a prey unto blind anger given,</l>
+               <l>Was't not enough the fearful wench to chide?</l>
+               <l>Nor thunder in rough threatings haughty pride?</l>
+               <l>Nor shamefully her coat pull o'er her crown,</l>
+               <l>Which to her waist her girdle still kept down,</l>
+               <l>But cruelly her tresses having rent</l>
+               <l>My nails to scratch her lovely cheeks i bent.</l>
+               <l>Sighing she stood, her bloodless white looks showed</l>
+               <l>Like marble from the parian mountains hewed.</l>
+               <l>Her half dead joints, and trembling limbs i saw,</l>
+               <l>Like poplar leaves blown with a stormy flaw,</l>
+               <l>Or slender ears, with gentle zephyr shaken,</l>
+               <l>Or water's tops with the warm south wind taken,</l>
+               <l>And down her cheeks, the trickling tears did flow,</l>
+               <l>Like water gushing from consuming snow.</l>
+               <l>Then first i did perceive i had offended,</l>
+               <l>My blood the tears were that from her descended.</l>
+               <l>Before her feet thrice prostrate down i fell,</l>
+               <l>My feared hands thrice back she did repel.</l>
+               <l>But doubt thou not (revenge doth grief appease)</l>
+               <l>With thy sharp nails upon my face to seize.</l>
+               <l>Bescratch mine eyes, spare not my locks to break,</l>
+               <l>(anger will help thy hands though ne'er so weak.)</l>
+               <l>And lest the sad signs of my crime remain,</l>
+               <l>Put in their place thy kembed hairs again.</l>
+            </div>
+            <div n="1.8" type="elegy">
+               <l>    exaecratur lenam, quae puellam suam meretricis</l>
+               <l>                  arte instituebat.</l>
+               <l>There is, whoe'er will know a bawd aright</l>
+               <l>Give ear, there is an old trot, dipsas hight.</l>
+               <l>Her name comes from the thing: she being wise</l>
+               <l>Sees not the morn on rosy horses rise.</l>
+               <l>She magic arts and thessale charms doth know,</l>
+               <l>And makes large streams back to their fountains flow.</l>
+               <l>She knows with grass, with threads on wrong wheels</l>
+               <l>                                       spun,</l>
+               <l>When she will, clouds the darkened heav'n obscure,</l>
+               <l>When she will, day shines everywhere most pure.</l>
+               <l>(if i have faith)  i saw the stars drop blood,</l>
+               <l>The purple moon with sanguine visage stood.</l>
+               <l>Her i suspect among night's spirits to fly,</l>
+               <l>And her old body in birds plumes to lie.</l>
+               <l>Fame saith as i suspect, and in her eyes</l>
+               <l>Two eyeballs shine, and double light thence flies.</l>
+               <l>Great grandsires from their ancient graves she chides</l>
+               <l>And with long charms the solid earth divides.</l>
+               <l>She draws chaste women to incontinence,</l>
+               <l>Nor doth her tongue want harmful eloquence.</l>
+               <l>By chance i heard her talk, these words she said</l>
+               <l>While closely hid betwixt two doors i laid:</l>
+               <l>Mistress, thou knowest thou hast a blest youth</l>
+               <l>                                       pleased,</l>
+               <l>He stayed, and on thy looks his gazes seized.</l>
+               <l>And why shouldst not please?  none thy face exceeds.</l>
+               <l>Aye me, thy body hath no worthy weeds.</l>
+               <l>As thou art fair, would thou wert fortunate,</l>
+               <l>Wert thou rich, poor should not be my state.</l>
+               <l>Th' opposed star of mars hath done thee harm,</l>
+               <l>Now mars is gone:  venus thy side doth warm,</l>
+               <l>And brings good fortune:  a rich lover plants</l>
+               <l>His love on thee, and can supply thy wants.</l>
+               <l>Such is his form as may with thine compare,</l>
+               <l>Would he not buy thee thou for him shouldst care.</l>
+               <l>She blushed.  --  red shame becomes white cheeks, but</l>
+               <l>                                       this</l>
+               <l>If feigned, doth well;  if true it doth amiss.</l>
+               <l>When on thy lap thine eyes thou dost deject</l>
+               <l>Each one according to his gifts respect.</l>
+               <l>Perhaps the sabines rude, when tatius reigned,</l>
+               <l>To yield their love to more than one disdained.</l>
+               <l>Now mars doth rage abroad without all pity,</l>
+               <l>And venus rules in her aeneas city.</l>
+               <l>Fair women play, she's chaste whom none will have,</l>
+               <l>Or, but for bashfulness herself would crave.</l>
+               <l>Shake off these wrinkles that thy front assault,</l>
+               <l>Wrinkles in beauty is a grievous fault.</l>
+               <l>Of horn the bow was that approved their side.</l>
+               <l>Time flying slides hence closely, and deceives us,</l>
+               <l>And with swift horses the swift year soon leaves us.</l>
+               <l>Brass shines with use;  good garments would be worn,</l>
+               <l>Houses not dwelt in are with filth forlorn.</l>
+               <l>Beauty not exercised with age is spent,</l>
+               <l>Nor one or two men are sufficient.</l>
+               <l>Many to rob is more sure, and less hateful,</l>
+               <l>From dog-kept flocks come preys to wolves most</l>
+               <l>                                       grateful.</l>
+               <l>Behold what gives the poet but new verses?</l>
+               <l>And thereof many thousand he rehearses.</l>
+               <l>The poet's god arrayed in robes of gold,</l>
+               <l>Of his gilt harp the well tuned strings doth hold.</l>
+               <l>Let homer yield to such as presents bring</l>
+               <l>(trust me) to give, it is a witty thing.</l>
+               <l>Nor, so thou mayst obtain a wealthy prize,</l>
+               <l>The vain name of inferior slaves despise.</l>
+               <l>Nor let the arms of ancient lines beguile thee,</l>
+               <l>Poor lover with thy grandsires i exile thee.</l>
+               <l>Who seeks, for being fair, a night to have?</l>
+               <l>What he will give, with greater instance crave.</l>
+               <l>Make a small price, while thou thy nets dost lay,</l>
+               <l>Lest they should fly, being ta'en, the tyrant play.</l>
+               <l>Dissemble so, as loved he may be thought,</l>
+               <l>And take heed lest he gets that love for nought.</l>
+               <l>Deny him oft, feign now thy head doth ache:</l>
+               <l>And isis now will show what 'scuse to make.</l>
+               <l>Receive him soon, lest patient use he gain,</l>
+               <l>Or lest his love oft beaten back should wane:</l>
+               <l>To beggars shut, to bringers ope thy gate.</l>
+               <l>Let him within hear barred out lovers prate.</l>
+               <l>And as first wronged the wronged sometimes banish,</l>
+               <l>Thy fault with his fault so repulsed will vanish:</l>
+               <l>But never give a spacious time to ire,</l>
+               <l>Anger delayed doth oft to hate retire.</l>
+               <l>And let thine eyes constrained learn to weep,</l>
+               <l>That this, or that man may thy cheeks moist keep.</l>
+               <l>Nor, if thou cozen'st one, dread to forswear,</l>
+               <l> venus to mocked men lends a senseless ear.</l>
+               <l>Servants fit for thy purpose thou must hire</l>
+               <l>Let them ask somewhat, many asking little,</l>
+               <l>Within a while great heaps grow of a tittle.</l>
+               <l>And sister, nurse, and mother spare him not,</l>
+               <l>By many hands great wealth is quickly got.</l>
+               <l>When causes fail thee to require a gift,</l>
+               <l>By keeping of thy birth make but a shift.</l>
+               <l>Beware lest he unrivaled loves secure,</l>
+               <l>Take strife away, love doth not well endure.</l>
+               <l>On all the bed men's tumbling let him view</l>
+               <l>And thy neck with lascivious marks made blue.</l>
+               <l>Chiefly show him the gifts, which others send:</l>
+               <l>If he gives nothing, let him from thee wend.</l>
+               <l>When thou hast so much as he gives no more,</l>
+               <l>Pray him to lend what thou mayst ne'er restore.</l>
+               <l>Let thy tongue flatter, while thy mind harm works:</l>
+               <l>Under sweet honey deadly poison lurks.</l>
+               <l>If this thou dost to me by long use known,</l>
+               <l>Nor let my words be with the winds hence blown,</l>
+               <l>Oft thou wilt say, live well, thou wilt pray oft,</l>
+               <l>That my dead bones may in their grave lie soft.</l>
+               <l>As thus she spake, my shadow me betrayed.</l>
+               <l>With much ado my hands i scarcely stayed</l>
+               <l>But her blear eyes, bald scalp's thin hoary fleeces</l>
+               <l>And rivelled cheeks i would have pulled a pieces.</l>
+               <l>The gods send thee no house, a poor old age,</l>
+               <l>Perpetual thirst, and winter's lasting rage.</l>
+            </div>
+            <div n="1.9" type="elegy">
+               <l>     ad atticum, amantem non oportere desidiosum</l>
+               <l>              esse, sicuti nec militem.</l>
+               <l>All lovers war, and cupid hath his tent,</l>
+               <l>Attic, all lovers are to war far sent.</l>
+               <l>What age sits mars, with venus doth agree,</l>
+               <l>'tis shame for eld in war or love to be.</l>
+               <l>What years in soldiers captains do require</l>
+               <l>Those in their lovers, pretty maids desire.</l>
+               <l>Both of them watch:  each on the hard earth sleeps:</l>
+               <l>His mistress 'dores this; that his captain keeps.</l>
+               <l>Soldiers must travel far:  the wench forth send,</l>
+               <l>Her valiant lover follows without end.</l>
+               <l>Mounts, and rain doubled floods he passeth over,</l>
+               <l>And treads the desert's snowy heaps do cover.</l>
+               <l>Going to sea, east winds he doth not chide</l>
+               <l>Who but a soldier or a lover is bold</l>
+               <l>To suffer storm mixed snows with night's sharp cold?</l>
+               <l>One as a spy doth to his enemies go,</l>
+               <l>The other eyes his rival as his foe.</l>
+               <l>He cities great, this thresholds lies before:</l>
+               <l>This breaks town gates, but he his mistress' door.</l>
+               <l>Oft to invade the sleeping foe 'tis good</l>
+               <l>And armed to shed unarmed peoples blood.</l>
+               <l>So the fierce troops of thracian rhesus fell</l>
+               <l>And captive horses bade their lord farewell.</l>
+               <l>Such lovers watch till sleep the husband charms,</l>
+               <l>Who slumbering, they rise up in swelling arms.</l>
+               <l>The keeper's hands and corps de garde to pass</l>
+               <l>The soldiers, and poor lovers work ere was.</l>
+               <l>Doubtful is war and love, the vanquished rise</l>
+               <l>And who thou never think'st should fall down lies.</l>
+               <l>Therefore whoe'er love slothfulness doth call,</l>
+               <l>Let him surcease:  love tries wit best of all.</l>
+               <l>Achilles burned briseis being ta'en away:</l>
+               <l>Trojans destroy the greek wealth, while you may.</l>
+               <l>Hector to arms went from his wive's embraces,</l>
+               <l>And on adromache his helmet laces.</l>
+               <l>Great agamemnon was, men say, amazed,</l>
+               <l>On priam's loose-tressed daughter when he gazed.</l>
+               <l>Mars in the deed the blacksmith's net did stable,</l>
+               <l>In heaven was never more notorious fable.</l>
+               <l>My self was dull, and faint, to sloth inclined,</l>
+               <l>Pleasure, and ease had mollified my mind.</l>
+               <l>A fair maid's care expelled this sluggishness,</l>
+               <l>And to her tents willed me myself address.</l>
+               <l>Since mayst thou see me watch and night wars move:</l>
+               <l>He that will not grow slothful let him love.</l>
+            </div>
+            <div n="1.10" type="elegy">
+               <l>       ad puellam, ne pro amore praemia poscat.</l>
+               <l>Such as the cause was of two husbands' war,</l>
+               <l>Whom trojan ships fetched from europa far;</l>
+               <l>Such as was leda, whom the god deluded</l>
+               <l>In snow-white plumes of a false swan included;</l>
+               <l>Such as amimone through the dry fields strayed</l>
+               <l>When on her head a water pitcher laid:</l>
+               <l>Such wert thou, and i feared the bull and eagle</l>
+               <l>Now all fear with my mind's hot love abates,</l>
+               <l>No more this beauty mine eyes captivates.</l>
+               <l>Ask'st why i change?  because thou crav'st reward:</l>
+               <l>This cause hath thee from pleasing me debarred.</l>
+               <l>While thou wert plain, i loved thy mind and face:</l>
+               <l>Now inward faults thy outward form disgrace.</l>
+               <l>Love is a naked boy, his years sans stain</l>
+               <l>And hath no clothes, but open doth remain.</l>
+               <l>Will you for gain have cupid sell himself?</l>
+               <l>He hath no bosom, where to hide base pelf.</l>
+               <l>Love and love's son are with fierce arms at odds;</l>
+               <l>To serve for pay beseems not wanton gods.</l>
+               <l>The whore stands to be bought for each man's money</l>
+               <l>And seeks vild wealth by selling of her cony,</l>
+               <l>Yet greedy bawds command she curseth still,</l>
+               <l>And doth constrained, what you do of good will.</l>
+               <l>Take from irrational beasts a precedent,</l>
+               <l>'tis shame their wits should be more excellent,</l>
+               <l>The mare asks not the horse, the cow the bull,</l>
+               <l>Nor the mild ewe gifts from the ram doth pull.</l>
+               <l>Only a woman gets spoils from a man,</l>
+               <l>Farms out herself on nights for what she can,</l>
+               <l>And lets what both delight, what both desire,</l>
+               <l>Making her joy according to her hire.</l>
+               <l>The sport being such as both alike sweet try it,</l>
+               <l>Why should one sell it, and the other buy it?</l>
+               <l>Why should i lose, and thou gain by the pleasure</l>
+               <l>Which man and woman reap in equal measure?</l>
+               <l>Knights of the post of perjuries make sail,</l>
+               <l>The unjust judge for bribes becomes a stale.</l>
+               <l>'tis shame sold tongues the guilty should defend</l>
+               <l>Or great wealth from a judgment seat ascend.</l>
+               <l>'tis shame to grow rich by bed merchandise,</l>
+               <l>Or prostitute thy beauty for bad prize.</l>
+               <l>Thanks worthily are due for things unbought,</l>
+               <l>For beds ill hired we are indebted nought.</l>
+               <l>The hirer payeth all, his rent discharged</l>
+               <l>From further duty he rests then enlarged.</l>
+               <l>Fair dames forbear rewards for nights to crave,</l>
+               <l>Ill-gotten goods good end will never have.</l>
+               <l>The sabine gauntlets were too dearly won</l>
+               <l>The son slew her, that forth to meet him went,</l>
+               <l>And a rich necklace caused that punishment.</l>
+               <l>Yet think no scorn to ask a wealthy churl,</l>
+               <l>He wants no gifts into thy lap to hurl.</l>
+               <l>Take clustered grapes from an o'erladen vine,</l>
+               <l>May bounteous love alcinous fruit resign.</l>
+               <l>Let poor men show their service, faith, and care:</l>
+               <l>All for their mistress, what they have, prepare.</l>
+               <l>In verse to praise kind wenches 'tis my part,</l>
+               <l>And whom i like eternize by mine art.</l>
+               <l>Garments do wear, jewels and gold do waste,</l>
+               <l>The fame that verse gives doth forever last.</l>
+               <l>To give i love, but to be asked disdain,</l>
+               <l>Leave asking, and i'll give what i refrain.</l>
+            </div>
+            <div n="1.11" type="elegy">
+               <l>      napen alloquitur, ut paratas tabellas ad</l>
+               <l>                  corinnam perferat.</l>
+               <l>In skillful gathering ruffled hairs in order,</l>
+               <l>Nape freeborn, whose cunning hath no border,</l>
+               <l>Thy service for night's scapes is known commodious</l>
+               <l>And to give signs dull wit to thee is odious.</l>
+               <l>Corinna clips me oft by thy persuasion,</l>
+               <l>Never to harm me made thy faith evasion.</l>
+               <l>Receive these lines, them to my mistress carry,</l>
+               <l>Be sedulous, let no stay cause thee tarry.</l>
+               <l>Nor flint, nor iron, are in thy soft breast</l>
+               <l>But pure simplicity in thee doth rest</l>
+               <l>And 'tis supposed love's bow hath wounded thee:</l>
+               <l>Defend the ensigns of thy war in me.</l>
+               <l>If, what i do, she asks, say hope for night,</l>
+               <l>The rest my hand doth in my letters write.</l>
+               <l>Time passeth while i speak, give her my writ</l>
+               <l>But see that forthwith she peruseth it.</l>
+               <l>I charge thee mark her eyes and front in reading,</l>
+               <l>By speechless looks we guess at things succeeding.</l>
+               <l>Straight being read, will her to write much back,</l>
+               <l>I hate fair paper should writ matter lack.</l>
+               <l>Let her make verses, and some blotted letter,</l>
+               <l>On the last edge to stay mine eyes the better.</l>
+               <l>What need she tire her hand to hold the quill?</l>
+               <l>Let this word, come, alone the tables fill.</l>
+               <l>Then with triumphant laurel will i grace them</l>
+               <l>Subscribing that to her i consecrate</l>
+               <l>My faithful tables being vile maple late.</l>
+            </div>
+            <div n="1.12" type="elegy">
+               <l>    tabellas quas miserat exaecratur, quod amica</l>
+               <l>                   noctem negabat.</l>
+               <l>Bewail my chance: the sad book is returned,</l>
+               <l>This day denial hath my sport adjourned.</l>
+               <l>Presages are not vain, when she departed</l>
+               <l>Nape by stumbling on the threshold started.</l>
+               <l>Going out again pass forth the door more wisely</l>
+               <l>And somewhat higher bear thy foot precisely.</l>
+               <l>Hence luckless tables, funeral wood, be flying</l>
+               <l>And thou the wax stuffed full with notes denying,</l>
+               <l>Which i think gathered from cold hemlock's flower</l>
+               <l>Wherein bad honey corsick bees did power.</l>
+               <l>Yet as if mixed with red lead thou wert ruddy,</l>
+               <l>That color rightly did appear so bloody.</l>
+               <l>As evil wood thrown in the highways lie,</l>
+               <l>Be broke with wheels of chariots passing by.</l>
+               <l>And him that hewed you out for needful uses</l>
+               <l>I'll prove had hands impure with all abuses.</l>
+               <l>Poor wretches on the tree themselves did strangle,</l>
+               <l>There sat the hangman for men's necks to angle.</l>
+               <l>To hoarse screech owls foul shadows it allows,</l>
+               <l>Vultures and furies nestled in the boughs.</l>
+               <l>To these my love i foolishly committed</l>
+               <l>And then with sweet words to my mistress fitted.</l>
+               <l>More fitly had they wrangling bonds contained</l>
+               <l>From barbarous lips of some attorney strained.</l>
+               <l>Among day books and bills they had lain better</l>
+               <l>In which the merchant wails his bankrupt debtor.</l>
+               <l>Your name approves you made for suchlike things,</l>
+               <l>The number two no good divining brings.</l>
+               <l>Angry, i pray that rotten age you wracks</l>
+               <l>And sluttish white mold overgrow the wax.</l>
+            </div>
+            <div n="1.13" type="elegy">
+               <l>         ad auroram, ne properet.</l>
+               <l>Now o'er the sea from her old love comes she</l>
+               <l>That draws the day from heavens' cold axletree.</l>
+               <l>Aurora whither slidest thou?  down again</l>
+               <l>And birds for memnon yearly shall be slain.</l>
+               <l>Now in her tender arms i sweetly bide,</l>
+               <l>The air is cold, and sleep is sweetest now</l>
+               <l>And birds send forth shrill notes from every bough;</l>
+               <l>Whither runn'st thou, that men, and women love not?</l>
+               <l>Hold in thy rosy horses that they move not.</l>
+               <l>Ere thou rise, stars teach seamen where to sail,</l>
+               <l>But when thou comest they of their courses fail.</l>
+               <l>Poor travelers though tired, rise at thy sight,</l>
+               <l>And soldiers make them ready to the fight.</l>
+               <l>The painful hind by thee to field is sent,</l>
+               <l>Slow oxen early in the yoke are pent.</l>
+               <l>Thou cozen'st boys of sleep, and dost betray them</l>
+               <l>To pedants that with cruel lashes pay them.</l>
+               <l>Thou mak'st the surety to the lawyer run,</l>
+               <l>That with one word hath nigh himself undone.</l>
+               <l>The lawyer and the client hate thy view,</l>
+               <l>Both whom thou raisest up to toil anew.</l>
+               <l>By thy means women of their rest are barred,</l>
+               <l>Thou sett'st their laboring hands to spin and card.</l>
+               <l>All could i bear, but that the wench should rise</l>
+               <l>Who can endure save him with whom none lies?</l>
+               <l>How oft wished i, night would not give thee place,</l>
+               <l>Nor morning stars shun thy uprising face.</l>
+               <l>How oft that either wind would break thy coach,</l>
+               <l>Or steeds might fall forced with thick clouds'</l>
+               <l>                                       approach.</l>
+               <l>Whither goest thou, hateful nymph?  memnon the elf</l>
+               <l>Received his coal-black color from thyself.</l>
+               <l>Say that thy love with cephalus were not known,</l>
+               <l>Then thinkest thou thy loose life is not shown?</l>
+               <l>Would tithon might but talk of thee a while,</l>
+               <l>Not one in heaven should be more base and vile.</l>
+               <l>Thou leavest his bed, because he's faint through age,</l>
+               <l>And early mountest thy hateful carriage.</l>
+               <l>But held'st thou in thine arms some cephalus,</l>
+               <l>Then wouldst thou cry, stay night and run not thus.</l>
+               <l>Dost punish me, because years make him wane?</l>
+               <l>I did not bid thee wed an aged swain.</l>
+               <l>The moon sleeps with endymion every day,</l>
+               <l>Thou art as fair as she, then kiss and play.</l>
+               <l>Jove, that thou shouldst not haste but wait his</l>
+               <l>Made two nights one to finish up his pleasure.</l>
+               <l>I chid no more, she blushed and therefore heard me,</l>
+               <l>Yet lingered not the day, but morning scared me.</l>
+            </div>
+            <div n="1.14" type="elegy">
+               <l>       puellam consolatur cui prae nimia cura</l>
+               <l>                  comae deciderant.</l>
+               <l>Leave coloring thy tresses i did cry,</l>
+               <l>Now hast thou left no hairs at all to dye.</l>
+               <l>But what had been more fair had they been kept?</l>
+               <l>Beyond thy robes thy dangling locks had swept.</l>
+               <l>Feared'st thou to dress them being fine and thin</l>
+               <l>Like to the silk the curious seres spin,</l>
+               <l>Or threads which spider's slender foot draws out</l>
+               <l>Fast'ning her light web some old beam about?</l>
+               <l>Not black, nor golden were they to our view,</l>
+               <l>Yet although neither mixed of either's hue,</l>
+               <l>Such as in hilly idas' wat'ry plains,</l>
+               <l>The cedar tall spoiled of his bark retains.</l>
+               <l>Add they were apt to curl an hundred ways,</l>
+               <l>And did to thee no cause of dolor raise.</l>
+               <l>Nor hath the needle, or the combs teeth reft them,</l>
+               <l>The maid that kembed them ever safely left them.</l>
+               <l>Oft was she dressed before mine eyes, yet never,</l>
+               <l>Snatching the comb, to beat the wench out drive her.</l>
+               <l>Oft in the morn her hairs not yet digested,</l>
+               <l>Half sleeping on a purple bed she rested,</l>
+               <l>Yet seemly like a thracian bacchanal</l>
+               <l>That tired doth rashly on the green grass fall.</l>
+               <l>When they were slender, and like downy moss,</l>
+               <l>Thy troubled hairs, alas, endured great loss.</l>
+               <l>How patiently hot irons they did take</l>
+               <l>In crooked trammels crispy curls to make.</l>
+               <l>I cried, 'tis sin, 'tis sin, these hairs to burn,</l>
+               <l>They well become thee, then to spare them turn.</l>
+               <l>Far off be force, no fire to them may reach,</l>
+               <l>Thy very hairs will the hot bodkin teach.</l>
+               <l>Lost are the goodly locks, which from their crown</l>
+               <l>Phoebus and bacchus wished were hanging down.</l>
+               <l>Such were they as diana painted stands</l>
+               <l>All naked holding in her wave-moist hands.</l>
+               <l>Why dost thy ill-kembed tresses' loss lament?</l>
+               <l>Be not to see with wonted eyes inclined,</l>
+               <l>To please thyself, thyself put out of mind.</l>
+               <l>No charmed herbs of any harlot scathed thee,</l>
+               <l>No faithless witch in thessale waters bathed thee.</l>
+               <l>No sickness harmed thee, far be that away,</l>
+               <l>No envious tongue wrought thy thick locks decay.</l>
+               <l>By thine own hand and fault thy hurt doth grow,</l>
+               <l>Thou mad'st thy head with compound poison flow.</l>
+               <l>Now germany shall captive hair-tiers send thee</l>
+               <l>And vanquished people curious dressings lend thee,</l>
+               <l>Which some admiring, o thou oft wilt blush</l>
+               <l>And say he likes me for my borrowed bush,</l>
+               <l>Praising for me some unknown guelder dame,</l>
+               <l>But i remember when it was my fame.</l>
+               <l>Alas she almost weeps, and her white cheeks,</l>
+               <l>Dyed red with shame, to hide from shame she seeks.</l>
+               <l>She holds, and views her old locks in her lap,</l>
+               <l>Aye me, rare gifts unworthy such a hap.</l>
+               <l>Cheer up thyself, thy loss thou mayest repair,</l>
+               <l>And be hereafter seen with native hair.</l>
+            </div>
+            <div n="1.15" type="elegy">
+               <l>     ad invidos, quod fama poetarum sit perennis.</l>
+               <l>Envy why carpest thou my time is spent so ill,</l>
+               <l>And term'st my works fruits of an idle quill?</l>
+               <l>Or that unlike the line from whence i come,</l>
+               <l>War's dusty honors are refused, being young?</l>
+               <l>Nor that i study not the brawling laws,</l>
+               <l>Nor set my voice to sale in every cause?</l>
+               <l>Thy scope is mortal, mine eternal fame,</l>
+               <l>That all the world may ever chant my name.</l>
+               <l>Homer shall live while tenedos stands and ide,</l>
+               <l>Or into sea swift simois doth slide.</l>
+               <l>Ascraeus lives, while grapes with new wine swell,</l>
+               <l>Or men with crooked sickles corn down fell.</l>
+               <l>The world shall of callimachus ever speak,</l>
+               <l>His art excelled, although his wit was weak.</l>
+               <l>Forever lasts high sophocles' proud vein,</l>
+               <l>With sun and moon aratus shall remain.</l>
+               <l>While bondmen cheat, fathers hard, bawds whorish,</l>
+               <l>And strumpets flatter, shall menander flourish.</l>
+               <l>Rude ennius, and plautus full of wit,</l>
+               <l>Are both in fame's eternal legend writ.</l>
+               <l>And jason's argos and the fleece of gold?</l>
+               <l>Lofty lucretius shall live that hour,</l>
+               <l>That nature shall dissolve this earthly bower.</l>
+               <l>Aeneas' war, and tityrus shall be read,</l>
+               <l>While rome of all the conquered world is head.</l>
+               <l>Till cupid's bow and fiery shafts be broken,</l>
+               <l>Thy verses, sweet tibullus, shall be spoken.</l>
+               <l>And gallus shall be known from east to west,</l>
+               <l>So shall licoris whom he loved best.</l>
+               <l>Therefore when flint and iron wear away,</l>
+               <l>Verse is immortal, and shall ne'er decay.</l>
+               <l>To verse let kings give place, and kingly shows,</l>
+               <l>And banks o'er which gold-bearing tagus flows.</l>
+               <l>Let base conceited wits admire vild things,</l>
+               <l>Fair phoebus lead me to the muses' springs.</l>
+               <l>About my head be quivering myrtle wound,</l>
+               <l>And in sad lovers' heads let me be found.</l>
+               <l>The living, not the dead can envy bite,</l>
+               <l>For after death all men receive their right.</l>
+               <l>Then though death rakes my bones in funeral fire,</l>
+               <l>I'll live, and as he pulls me down mount higher.</l>
+            </div>
+         </div>
+         <div n="2" type="book">
+            <div n="2.1" type="elegy">
+               <l>             poetae ovidii nasonis amorum</l>
+               <l>                   liber secundus.</l>
+               <l>      quod pro gigantomachia amores scribere</l>
+               <l>                    sit coactus.</l>
+               <l>I, ovid, poet of my wantonness,</l>
+               <l>Born at peligny, to write more address.</l>
+               <l>So cupid wills, far hence be the severe,</l>
+               <l>You are unapt my looser lines to hear.</l>
+               <l>Let maids whom hot desire to husbands lead,</l>
+               <l>And rude boys touched with unknown love me read,</l>
+               <l>That some youth hurt as i am with love's bow</l>
+               <l>His own flames' best acquainted signs may know,</l>
+               <l>And long admiring say, by what means learned</l>
+               <l>Hath this same poet my sad chance discerned?</l>
+               <l>I durst the great celestial battles tell,</l>
+               <l>Hundred-hand gyges, and had done it well,</l>
+               <l>With earth's revenge and how olympus' top</l>
+               <l>High ossa bore, mount pelion up to prop.</l>
+               <l>Jove and jove's thunderbolts i had in hand</l>
+               <l>Which for his heaven fell on the giants' band.</l>
+               <l>My wench her door shut, jove's affairs i left,</l>
+               <l>Pardon me, jove, thy weapons aid me nought,</l>
+               <l>Her shut gates greater lightning than thine brought.</l>
+               <l>Toys, and light elegies my darts i took,</l>
+               <l>Quickly soft words hard doors wide open strook.</l>
+               <l>Verses reduce the horned bloody moon</l>
+               <l>And call the sun's white horses back at noon.</l>
+               <l>Snakes leap by verse from caves of broken mountains</l>
+               <l>And turned streams run backward to their fountains.</l>
+               <l>Verses ope doors, and locks put in the post,</l>
+               <l>Although of oak, to yield to verse's boast.</l>
+               <l>What helps it me of fierce achill to sing?</l>
+               <l>What good to me will either ajax bring?</l>
+               <l>Or he who warred and wandered twenty year?</l>
+               <l>Or woeful hector whom wild jades did tear?</l>
+               <l>But when i praise a pretty wench's face</l>
+               <l>She in requital doth me oft embrace.</l>
+               <l>A great reward:  heroes, o famous names,</l>
+               <l>Farewell, your favor nought my mind inflames.</l>
+               <l>Wenches apply your fair looks to my verse</l>
+               <l>Which golden love doth unto me rehearse.</l>
+            </div>
+            <div n="2.2" type="elegy">
+               <l>    ad bagoum, ut custodiam puellae sibi commissae</l>
+               <l>                   laxiorem habeat.</l>
+               <l>Bagous whose care doth thy mistress bridle,</l>
+               <l>While i speak some few, yet fit words be idle.</l>
+               <l>I saw the damsel walking yesterday</l>
+               <l>There where the porch doth danaus' fact display.</l>
+               <l>She pleased me soon, i sent, and did her woo,</l>
+               <l>Her trembling hand writ back she might not do.</l>
+               <l>And asking why, this answer she redoubled,</l>
+               <l>Because thy care too much thy mistress troubled.</l>
+               <l>Keeper if thou be wise cease hate to cherish,</l>
+               <l>Believe me, whom we fear, we wish to perish.</l>
+               <l>Nor is her husband wise, what needs defense</l>
+               <l>When unprotected there is no expense?</l>
+               <l>But furiously he follow his love's fire</l>
+               <l>And think her chaste whom many do desire.</l>
+               <l>Stol'n liberty she may by thee obtain,</l>
+               <l>Which giving her, she may give thee again.</l>
+               <l>Wilt thou her fault learn, she may make thee tremble.</l>
+               <l>Fear to be guilty then thou mayest dissemble.</l>
+               <l>Think when she reads, her mother letters sent her,</l>
+               <l>Let him go see her though she do not languish</l>
+               <l>And then report her sick and full of anguish.</l>
+               <l>If long she stays, to think the time more short</l>
+               <l>Lay down thy forehead in thy lap to snort.</l>
+               <l>Enquire not what with isis may be done</l>
+               <l>Nor fear lest she to th' theaters run.</l>
+               <l>Knowing her scapes thine honor shall increase,</l>
+               <l>And what less labor than to hold thy peace?</l>
+               <l>Let him please, haunt the house, be kindly used,</l>
+               <l>Enjoy the wench, let all else be refused.</l>
+               <l>Vain causes feign of him, the true to hide</l>
+               <l>And what she likes, let both hold ratified.</l>
+               <l>When most her husband bends the brows and frowns</l>
+               <l>His fawning wench with her desire he crowns.</l>
+               <l>But yet sometimes to chide thee let her fall</l>
+               <l>Counterfeit tears:  and thee lewd hangman call.</l>
+               <l>Object thou then what she may well excuse,</l>
+               <l>To stain all faith in truth, by false crimes use.</l>
+               <l>Of wealth and honor so shall grow thy heap,</l>
+               <l>Do this and soon thou shalt thy freedom reap.</l>
+               <l>On telltales' necks thou seest the link-knit chains,</l>
+               <l>The filthy prison faithless breasts restrains.</l>
+               <l>Water in waters, and fruit flying touch</l>
+               <l>Tantalus seeks, his long tongue's gain is such.</l>
+               <l>While juno's watchman io too much eyed,</l>
+               <l>Him timeless death took, she was deified.</l>
+               <l>I saw one's legs with fetters black and blue,</l>
+               <l>By whom the husband his wive's incest knew.</l>
+               <l>More he deserved, to both great harm he framed,</l>
+               <l>The man did grieve, the woman was defamed.</l>
+               <l>Trust me all husbands for such faults are sad</l>
+               <l>Nor make they any man that hear them glad.</l>
+               <l>If he loves not, deaf ears thou dost importune,</l>
+               <l>Or if he loves, thy tale breeds his misfortune.</l>
+               <l>Nor is it easily proved though manifest,</l>
+               <l>She safe by favor of her judge doth rest.</l>
+               <l>Though himself see, he'll credit her denial,</l>
+               <l>Condemn his eyes, and say there is no trial.</l>
+               <l>Spying his mistress' tears, he will lament</l>
+               <l>And say this blab shall suffer punishment.</l>
+               <l>Why fight'st 'gainst odds?  to thee being cast do hap</l>
+               <l>To meet for poison or vild facts we crave not,</l>
+               <l>My hands an unsheathed shining weapon have not.</l>
+               <l>We seek that through thee safely love we may,</l>
+               <l>What can be easier than the thing we pray?</l>
+            </div>
+            <div n="2.3" type="elegy">
+               <l>               ad eunuchum servantem dominam.</l>
+               <l>Aye me, an eunuch keeps my mistress chaste,</l>
+               <l>That cannot venus' mutual pleasure taste.</l>
+               <l>Who first deprived young boys of their best part,</l>
+               <l>With selfsame wounds he gave, he ought to smart.</l>
+               <l>To kind requests thou wouldst more gentle prove,</l>
+               <l>If ever wench had made lukewarm thy love:</l>
+               <l>Thou wert not born to ride, or arms to bear,</l>
+               <l>Thy hands agree not with the warlike spear.</l>
+               <l>Men handle those, all manly hopes resign,</l>
+               <l>Thy mistress' ensigns must be likewise thine.</l>
+               <l>Please her, her hate makes others thee abhor,</l>
+               <l>If she discards thee, what use servest thou for?</l>
+               <l>Good form there is, years apt to play together,</l>
+               <l>Unmeet is beauty without use to wither.</l>
+               <l>She may deceive thee, though thou her protect,</l>
+               <l>What two determine never wants effect.</l>
+               <l>Our prayers move thee to assist our drift,</l>
+               <l>While thou hast time yet to bestow that gift.</l>
+            </div>
+            <div n="2.4" type="elegy">
+               <l>       quod amet mulieres, cuiuscunque formae sint.</l>
+               <l>I mean not to defend the scapes of any,</l>
+               <l>Or justify my vices being many.</l>
+               <l>For i confess, if that might merit favor,</l>
+               <l>Here i display my lewd and loose behavior.</l>
+               <l>I loathe, yet after that i loathe i run,</l>
+               <l>Oh how the burden irks, that we should shun.</l>
+               <l>I cannot rule myself, but where love please</l>
+               <l>Am driven like a ship upon rough seas.</l>
+               <l>No one face likes me best, all faces move,</l>
+               <l>A hundred reasons make me ever love.</l>
+               <l>If any eye me with a modest look,</l>
+               <l>I burn, and by that blushful glance am took.</l>
+               <l>And she that's coy i like for being no clown,</l>
+               <l>Methinks she would be nimble when she's down.</l>
+               <l>Though her sour looks a sabine's brow resemble,</l>
+               <l>I think she'll do, but deeply can dissemble.</l>
+               <l>If not, because she's simple i would have her.</l>
+               <l>Before callimachus one prefers me far,</l>
+               <l>Seeing she likes my books why should we jar?</l>
+               <l>Another rails at me and that i write</l>
+               <l>Yet would i lie with her if that i might.</l>
+               <l>Trips she, it likes me well, plods she, what then?</l>
+               <l>She would be nimbler, lying with a man.</l>
+               <l>And when one sweetly sings, then straight i long</l>
+               <l>To quaver on her lips even in her song.</l>
+               <l>Or if one touch the lute with art and cunning</l>
+               <l>Who would not love those hands for their swift</l>
+               <l>                                       running?</l>
+               <l>And her i like that with a majesty</l>
+               <l>Folds up her arms and makes low curtsy.</l>
+               <l>To leave myself, that am in love with all,</l>
+               <l>Some one of these might make the chastest fall.</l>
+               <l>If she be tall, she's like an amazon,</l>
+               <l>And therefore fills the bed she lies upon.</l>
+               <l>If short, she lies the rounder: to say troth,</l>
+               <l>Both short and long please me, for i love both.</l>
+               <l>I think what one undecked would be, being dressed:</l>
+               <l>Is she attired, then show her graces best.</l>
+               <l>A white wench thralls me, so doth golden yellow</l>
+               <l>And nutbrown girls in doing have no fellow.</l>
+               <l>If her white neck be shadowed with black hair,</l>
+               <l>Why so was leda's, yet was leda fair.</l>
+               <l>Amber tressed is she, then on the morn think i,</l>
+               <l>My love alludes to every history:</l>
+               <l>A young wench pleaseth, and an old is good,</l>
+               <l>This for her looks, that for her womanhood.</l>
+               <l>Nay what is she that any roman loves</l>
+               <l>But my ambitious ranging mind approves?</l>
+            </div>
+            <div n="2.5" type="elegy">
+               <l>                    ad amicam corruptam.</l>
+               <l>No love is so dear (quivered cupid fly)</l>
+               <l>That my chief wish should be so oft to die.</l>
+               <l>Minding thy fault, with death i wish to revel,</l>
+               <l>Alas a wench is a perpetual evil.</l>
+               <l>No intercepted lines thy deeds display,</l>
+               <l>No gifts given secretly thy crime bewray:</l>
+               <l>O would my proofs as vain might be withstood,</l>
+               <l>Aye me, poor soul, why is my cause so good?</l>
+               <l>He's happy, that his love dares boldly credit,</l>
+               <l>He's cruel, and too much his grief doth favor</l>
+               <l>That seeks the conquest by her loose behavior.</l>
+               <l>Poor wretch i saw when thou didst think i slumbered,</l>
+               <l>Not drunk your faults on the spilt wine i numbered.</l>
+               <l>I saw your nodding eyebrows much to speak,</l>
+               <l>Even from your cheeks part of a voice did break.</l>
+               <l>Not silent were thine eyes, the board with wine</l>
+               <l>Was scribbled, and thy fingers writ a line.</l>
+               <l>I knew your speech (what do not lovers see?)</l>
+               <l>And words that seemed for certain marks to be.</l>
+               <l>Now many guests were gone, the feast being done,</l>
+               <l>The youthful sort to divers pastimes run.</l>
+               <l>I saw you then unlawful kisses join,</l>
+               <l>(such with my tongue it likes me to purloin).</l>
+               <l>None such the sister gives her brother grave,</l>
+               <l>But such kind wenches let their lovers have.</l>
+               <l>Phoebus gave not diana such, 'tis thought,</l>
+               <l>But venus often to her mars such brought.</l>
+               <l>'what dost,' i cried, 'transport'st thou my delight?'</l>
+               <l>My lordly hands i'll throw upon my right.</l>
+               <l>Such bliss is only common to us two,</l>
+               <l>In this sweet good why hath a third to do?</l>
+               <l>This, and what grief enforced me say i said,</l>
+               <l>A scarlet blush her guilty face arrayed.</l>
+               <l>Even such as by aurora hath the sky,</l>
+               <l>Or maids that their betrothed husbands spy.</l>
+               <l>Such as a rose mixed with a lily breeds,</l>
+               <l>Or when the moon travels with charmed steeds,</l>
+               <l>Or such, as least long years should turn the die,</l>
+               <l>Arachne stains assyrian ivory.</l>
+               <l>To these, or some of these like was her color,</l>
+               <l>By chance her beauty never shined fuller.</l>
+               <l>She viewed the earth:  the earth to view beseemed her.</l>
+               <l>She looked sad:  sad, comely i esteemed her.</l>
+               <l>Even kembed as they were, her locks to rend,</l>
+               <l>And scratch her fair soft cheeks i did intend.</l>
+               <l>Seeing her face, mine upreared arms descended,</l>
+               <l>With her own armor was my wench defended.</l>
+               <l>I that erewhile was fierce, now humbly sue,</l>
+               <l>Lest with worse kisses she should me indue.</l>
+               <l>She laughed, and kissed so sweetly as might make</l>
+               <l>I grieve lest others should such good perceive,</l>
+               <l>And wish hereby them all unknown to leave.</l>
+               <l>Also much better were they than i tell,</l>
+               <l>And ever seemed as some new sweet befell.</l>
+               <l>'tis ill they pleased so much, for in my lips,</l>
+               <l>Lay her whole tongue hid, mine in hers she dips.</l>
+               <l>This grieves me not, no joined kisses spent</l>
+               <l>Bewail i only, though i them lament.</l>
+               <l>Nowhere can they be taught but in the bed,</l>
+               <l>I know no master of so great hire sped.</l>
+            </div>
+            <div n="2.6" type="elegy">
+               <l>                     in mortem psittaci.</l>
+               <l>The parrot from east india to me sent,</l>
+               <l>Is dead, all fowls her exequies frequent.</l>
+               <l>Go goodly birds, striking your breasts bewail,</l>
+               <l>And with rough claws your tender cheeks assail.</l>
+               <l>For woeful hairs let piece-torn plumes abound,</l>
+               <l>For long shrill trumpets let your notes resound.</l>
+               <l>Why philomele dost tereus' lewdness mourn?</l>
+               <l>All wasting years have that complaint outworn.</l>
+               <l>Thy tunes let this rare bird's sad funeral borrow,</l>
+               <l>It is as great, but ancient cause of sorrow.</l>
+               <l>All you whose pinions in the clear air soar,</l>
+               <l>But most thou friendly turtledove, deplore.</l>
+               <l>Full concord all your lives was you betwixt,</l>
+               <l>And to the end your constant faith stood fixed.</l>
+               <l>What pylades did to orestes prove,</l>
+               <l>Such to the parrot was the turtledove.</l>
+               <l>But what availed this faith?  her rarest hue?</l>
+               <l>Or voice that how to change the wild notes knew?</l>
+               <l>What helps it thou wert given to please my wench?</l>
+               <l>Birds' hapless glory, death thy life doth quench.</l>
+               <l>Thou with thy quills mightst make green emerald dark,</l>
+               <l>And pass our scarlet of red saffrons' mark.</l>
+               <l>No such voice-feigning bird was on the ground,</l>
+               <l>Thou spokest thy words so well with stammering sound.</l>
+               <l>Envy hath rapt thee, no fierce wars thou moved'st,</l>
+               <l>Vain babbling speech, and pleasant peace thou</l>
+               <l>                                       loved'st.</l>
+               <l>Behold how quails among their battles live,</l>
+               <l>Which do perchance old age unto them give.</l>
+               <l>Thy mouth to taste of many meats did balk.</l>
+               <l>Nuts were thy food, and poppy caused thee sleep,</l>
+               <l>Pure waters' moisture thirst away did keep.</l>
+               <l>The ravenous vulture lives, the puttock hovers</l>
+               <l>Around the air, the cadesse rain discovers,</l>
+               <l>And crows survive arms-bearing pallas' hate,</l>
+               <l>Whose life nine ages scarce bring out of date.</l>
+               <l>Dead is that speaking image of man's voice,</l>
+               <l>The parrot given me, the far world's best choice.</l>
+               <l>The greedy spirits take the best things first,</l>
+               <l>Supplying their void places with the worst.</l>
+               <l>Thersites did protesilaus survive,</l>
+               <l>And hector died, his brothers yet alive.</l>
+               <l>My wench's vows for thee what should i show,</l>
+               <l>Which stormy south winds into sea did blow?</l>
+               <l>The seventh day came, none following mightst thou see</l>
+               <l>And the fates' distaff empty stood to thee,</l>
+               <l>Yet words in thy benumbed palate rung,</l>
+               <l>'farewell corinna' cried thy dying tongue.</l>
+               <l>Elysium hath a wood of holm trees black,</l>
+               <l>Whose earth doth not perpetual green grass lack,</l>
+               <l>There good birds rest (if we believe things hidden)</l>
+               <l>Whence unclean fowls are said to be forbidden.</l>
+               <l>There harmless swans feed all abroad the river,</l>
+               <l>There lives the phoenix one alone bird ever.</l>
+               <l>There juno's bird displays his gorgeous feather,</l>
+               <l>And loving doves kiss eagerly together.</l>
+               <l>The parrot into wood received with these,</l>
+               <l>Turns all the goodly birds to what she please.</l>
+               <l>A grave her bones hides, on her corpse's great grave</l>
+               <l>The little stones these little verses have:</l>
+               <l>This tomb approves i pleased my mistress well,</l>
+               <l>My mouth in speaking did all birds excel.</l>
+            </div>
+            <div n="2.7" type="elegy">
+               <l>     amicae se purgat quod ancillam non amet.</l>
+               <l>Dost me of new crimes always guilty frame?</l>
+               <l>To overcome, so oft to fight i shame,</l>
+               <l>If on the marble theater i look,</l>
+               <l>One among many is to grieve thee took.</l>
+               <l>If some fair wench me secretly behold,</l>
+               <l>Thou arguest she doth secret marks unfold.</l>
+               <l>If i praise any, thy poor hairs thou tearest,</l>
+               <l>If i look well, thou thinkest thou dost not move,</l>
+               <l>If ill, thou sayest i die for other's love.</l>
+               <l>Would i were culpable of some offense,</l>
+               <l>They that deserve pain, bear 't with patience.</l>
+               <l>Now rash accusing, and thy vain belief,</l>
+               <l>Forbid thine anger to procure my grief.</l>
+               <l>Lo, how the miserable great-eared ass</l>
+               <l>Dulled with much beating slowly forth doth pass.</l>
+               <l>Behold cypassis wont to dress thy head,</l>
+               <l>Is charged to violate her mistress' bed</l>
+               <l>The gods from this sin rid me of suspicion,</l>
+               <l>To like a base wench of despised condition.</l>
+               <l>With venus' game who will a servant grace?</l>
+               <l>Or any back made rough with stripes embrace?</l>
+               <l>Add she was diligent thy locks to braid,</l>
+               <l>And for her skill to thee a grateful maid,</l>
+               <l>Should i solicit her that is so just,</l>
+               <l>To take repulse, and cause her show my lust?</l>
+               <l>I swear by venus, and the winged boy's bow,</l>
+               <l>Myself unguilty of this crime i know.</l>
+            </div>
+            <div n="2.8" type="elegy">
+               <l>              ad cypassim ancillam corinnae.</l>
+               <l>Cypassis that a thousand ways trimm'st hair,</l>
+               <l>Worthy to kemb none but a goddess fair,</l>
+               <l>Our pleasant scapes show thee no clown to be,</l>
+               <l>Apt to thy mistress, but more apt to me.</l>
+               <l>Who that our bodies were compressed bewrayed?</l>
+               <l>Whence knows corinna that with thee i played?</l>
+               <l>Yet blushed i not, nor used i any saying,</l>
+               <l>That might be urged to witness our false playing.</l>
+               <l>What if a man with bondwomen offend,</l>
+               <l>To prove him foolish did i ere contend?</l>
+               <l>Achilles burnt with face of captive briseis,</l>
+               <l>Great agamemnon loved his servant chriseis.</l>
+               <l>Greater than these myself i not esteem,</l>
+               <l>What graced kings, in me no shame i deem.</l>
+               <l>But when on thee her angry eyes did rush,</l>
+               <l>In both thy cheeks she did perceive thee blush.</l>
+               <l>But being present, might that work the best,</l>
+               <l>By venus' deity how did i protest.</l>
+               <l>Thou goddess dost command a warm south blast,</l>
+               <l>My false oaths in carpathian seas to cast.</l>
+               <l>For which good turn my sweet reward repay,</l>
+               <l>Ungrate why feignest new fears?  and dost refuse;</l>
+               <l>Well mayest thou one thing for thy mistress use.</l>
+               <l>If thou deniest fool, i'll our deeds express,</l>
+               <l>And as a traitor mine own fault confess,</l>
+               <l>Telling thy mistress, where i was with thee,</l>
+               <l>How oft, and by what means we did agree.</l>
+            </div>
+            <div n="2.9" type="elegy">
+               <l>                       ad cupidinem.</l>
+               <l>O cupid, that dost never cease my smart,</l>
+               <l>O boy, that lyest so slothful in my heart.</l>
+               <l>Why me that always was thy soldier found,</l>
+               <l>Dost harm, and in thy tents why dost me wound?</l>
+               <l>Why burns thy brand, why strikes thy bow thy friends?</l>
+               <l>More glory by thy vanquished foes ascends.</l>
+               <l>Did not pelides whom his spear did grieve,</l>
+               <l>Being required, with speedy help relieve?</l>
+               <l>Hunters leave taken beasts, pursue the chase,</l>
+               <l>And then things found do ever further pace.</l>
+               <l>We people wholly given thee feel thine arms,</l>
+               <l>Thy dull hand stays thy striving enemies' harms.</l>
+               <l>Dost joy to have thy hooked arrows shaked</l>
+               <l>In naked bones?  love hath my bones left naked.</l>
+               <l>So many men and maidens without love,</l>
+               <l>Hence with great laud thou mayest a triumph move.</l>
+               <l>Rome if her strength the huge world had not filled,</l>
+               <l>With strawy cabins now her courts should build.</l>
+               <l>The weary soldier hath the conquered fields,</l>
+               <l>His sword laid by, safe, though rude places yields.</l>
+               <l>The dock enharbors ships drawn from the floods,</l>
+               <l>Horse freed from service range abroad the woods,</l>
+               <l>And time it was for me to live in quiet,</l>
+               <l>That have so oft served pretty wenches' diet.</l>
+               <l>Yet should i curse a god, if he but said,</l>
+               <l>Live without love, so sweet ill is a maid.</l>
+               <l>For when my loathing it of heat deprives me,</l>
+               <l>I know not whether my mind's whirlwind drives me.</l>
+               <l>Even as a headstrong courser bears away</l>
+               <l>His rider vainly striving him to stay,</l>
+               <l>Or as a sudden gale thrusts into sea</l>
+               <l>The haven touching bark now near the lea,</l>
+               <l>So wavering cupid brings me back amain,</l>
+               <l>And purple love resumes his darts again.</l>
+               <l>Here thou hast strength, here thy right hand doth rest.</l>
+               <l>Here of themselves thy shafts come, as if shot,</l>
+               <l>Better than i their quiver knows them not.</l>
+               <l>Hapless is he that all the night lies quiet</l>
+               <l>And slumbering, thinks himself much blessed by it.</l>
+               <l>Fool, what is sleep but image of cold death?</l>
+               <l>Long shalt thou rest when fates expire thy breath,</l>
+               <l>But me let crafty damsels' words deceive,</l>
+               <l>Great joys by hope i inly shall conceive.</l>
+               <l>Now let her flatter me, now chide me hard,</l>
+               <l>Let her enjoy me oft, oft be debarred.</l>
+               <l>Cupid by thee, mars in great doubt doth trample,</l>
+               <l>And thy stepfather fights by thy example.</l>
+               <l>Light art thou, and more windy than thy wings,</l>
+               <l>Joys with uncertain faith thou takest and brings.</l>
+               <l>Yet love, if thou with thy fair mother hear,</l>
+               <l>Within my breast no desert empire bear,</l>
+               <l>Subdue the wandering wenches to thy reign,</l>
+               <l>So of both people shalt thou homage gain.</l>
+            </div>
+            <div n="2.10" type="elegy">
+               <l>           ad graecinum quod eodem tempore duas amet.</l>
+               <l>Graecinus (well i wot) thou told'st me once,</l>
+               <l>I could not be in love with two at once.</l>
+               <l>By thee deceived, by thee surprised am i,</l>
+               <l>For now i love two women equally.</l>
+               <l>Both are well favored, both rich in array,</l>
+               <l>Which is the loveliest it is hard to say.</l>
+               <l>This seems the fairest, so doth that to me,</l>
+               <l>And this doth please me most, and so doth she.</l>
+               <l>Even as a boat, tossed by contrary wind,</l>
+               <l>So with this love, and that, wavers my mind.</l>
+               <l>Venus, why doublest thou my endless smart?</l>
+               <l>Was not one wench enough to grieve my heart?</l>
+               <l>Why add'st thou stars to heaven, leaves to green woods</l>
+               <l>And to the vast deep sea fresh water floods?</l>
+               <l>Yet this is better far than lie alone,</l>
+               <l>Let such as be mine enemies have none.</l>
+               <l>Yea let my foes sleep in an empty bed,</l>
+               <l>And in the midst their bodies largely spread.</l>
+               <l>But may soft love rowse up my drowsy eyes,</l>
+               <l>And from my mistress' bosom let me rise.</l>
+               <l>Let one wench cloy me with sweet love's delight</l>
+               <l>Though i am slender, i have store of pith</l>
+               <l>Nor want i strength but weight to press her with.</l>
+               <l>Pleasure adds fuel to my lustful fire,</l>
+               <l>I pay them home with that they most desire.</l>
+               <l>Oft have i spent the night in wantonness,</l>
+               <l>And in the morn been lively ne'er the less.</l>
+               <l>He's happy who love's mutual skirmish slays,</l>
+               <l>And to the gods for that death ovid prays.</l>
+               <l>Let soldiers chase their enemies amain,</l>
+               <l>And with their blood eternal honor gain.</l>
+               <l>Let merchants seek wealth with perjured lips</l>
+               <l>Being wracked carouse the sea tired by their ships.</l>
+               <l>But when i die, would i might droop with doing,</l>
+               <l>And in the midst thereof, set my soul going,</l>
+               <l>That at my funerals some may weeping cry,</l>
+               <l>Even as he led his life, so did he die.</l>
+            </div>
+            <div n="2.11" type="elegy">
+               <l>                     ad amicam navigantem.</l>
+               <l>The lofty pine from high mount pelion raught</l>
+               <l>Ill ways by rough seas' wandering waves first taught</l>
+               <l>Which rashly twixt the sharp rocks in the deep,</l>
+               <l>Carried the famous golden-fleeced sheep.</l>
+               <l>O would that no oars might in seas have sunk,</l>
+               <l>The argos wracked had deadly waters drunk.</l>
+               <l>Lo country gods, and known bed to forsake</l>
+               <l>Corinna means, and dangerous ways to take.</l>
+               <l>For thee the east and west winds make me pale,</l>
+               <l>With icy boreas, and the southern gale:</l>
+               <l>Thou shalt admire no woods or cities there,</l>
+               <l>The unjust seas all bluish do appear.</l>
+               <l>The ocean hath no painted stones or shells,</l>
+               <l>The sucking shore with their abundance swells.</l>
+               <l>Maids, on the shore with marble white feet tread,</l>
+               <l>So far 'tis safe, but to go farther dread.</l>
+               <l>Let others tell how winds fierce battles wage,</l>
+               <l>How scylla's and charybdis' waters rage,</l>
+               <l>And with what rock the feared ceraunia threat,</l>
+               <l>In what gulf either syrtes have their seat.</l>
+               <l>Let others tell this, and what each one speaks</l>
+               <l>Believe, no tempest the believer wreaks.</l>
+               <l>Too late you look back, when with anchors weighed,</l>
+               <l>The crooked barque hath her swift sails displayed.</l>
+               <l>And with the waters sees death near him thrusts.</l>
+               <l>But if that triton toss the troubled flood,</l>
+               <l>In all thy face will be no crimson blood.</l>
+               <l>Then wilt thou leda's noble twin stars pray,</l>
+               <l>And he is happy whom the earth holds, say.</l>
+               <l>It is more safe to sleep, to read a book,</l>
+               <l>The thracian harp with cunning to have strook,</l>
+               <l>But if my words with winged storms hence slip,</l>
+               <l>Yet galatea favor thou her ship.</l>
+               <l>The loss of such a wench much blame will gather,</l>
+               <l>Both to the sea nymphs and the sea nymphs' father.</l>
+               <l>Go minding to return with prosperous wind,</l>
+               <l>Whose blast may hither strongly be inclined,</l>
+               <l>Let nereus bend the waves unto this shore,</l>
+               <l>Hither the winds blow, here the springtide roar.</l>
+               <l>Request mild zephyrs' help for thy avail,</l>
+               <l>And with thy hand assist thy swelling sail.</l>
+               <l>I from the shore thy known ship first will see,</l>
+               <l>And say it brings her that preserveth me;</l>
+               <l>I'll clip and kiss thee with all contentation,</l>
+               <l>For thy return shall fall the vowed oblation,</l>
+               <l>And in the form of beds we'll strew soft sand,</l>
+               <l>Each little hill shall for a table stand:</l>
+               <l>There wine being filled, thou many things shalt tell,</l>
+               <l>How almost wracked thy ship in main seas fell,</l>
+               <l>And hasting to me, neither darksome night,</l>
+               <l>Nor violent south winds did thee aught affright.</l>
+               <l>I'll think all true, though it be feigned matter.</l>
+               <l>Mine own desires why should myself not flatter?</l>
+               <l>Let the bright daystar cause in heaven this day be,</l>
+               <l>To bring that happy time so soon as may be.</l>
+            </div>
+            <div n="2.12" type="elegy">
+               <l>               exultat, quod amica potitus sit.</l>
+               <l>About my temples go triumphant bays,</l>
+               <l>Conquered corinna in my bosom lays.</l>
+               <l>She whom her husband, guard, and gate as foes,</l>
+               <l>Lest art should win her, firmly did enclose.</l>
+               <l>That victory doth chiefly triumph merit,</l>
+               <l>Which without bloodshed doth the prey inherit.</l>
+               <l>No little ditched towns, no lowly walls,</l>
+               <l>But to my share a captive damsel falls.</l>
+               <l>When troy by ten years battle tumbled down,</l>
+               <l>But i no partner of my glory brook,</l>
+               <l>Nor can another say his help i took.</l>
+               <l>I guide and soldier won the field and wear her,</l>
+               <l>I was both horseman, footman, standard bearer.</l>
+               <l>Nor in my act hath fortune mingled chance,</l>
+               <l>O care-got triumph hitherwards advance.</l>
+               <l>Nor is my war's cause new, but for a queen</l>
+               <l>Europe, and asia in firm peace had been.</l>
+               <l>The lapithes, and the centaurs for a woman,</l>
+               <l>To cruel arms their drunken selves did summon.</l>
+               <l>A woman forced the trojans new to enter</l>
+               <l>Wars, just latinus, in thy kingdom's center:</l>
+               <l>A woman against late-built rome did send</l>
+               <l>The sabine fathers, who sharp wars intend.</l>
+               <l>I saw how bulls for a white heifer strive,</l>
+               <l>She looking on them did more courage give.</l>
+               <l>And me with many, but yet me without murder,</l>
+               <l>Cupid commands to move his ensigns further.</l>
+            </div>
+            <div n="2.13" type="elegy">
+               <l>            ad isidem, ut parientem corinnam juvet.</l>
+               <l>While rashly her womb's burden she casts out,</l>
+               <l>Weary corinna hath her life in doubt.</l>
+               <l>She secretly with me such harm attempted,</l>
+               <l>Angry i was, but fear my wrath exempted.</l>
+               <l>But she conceived of me, or i am sure</l>
+               <l>I oft have done, what might as much procure.</l>
+               <l>Thou that frequents canopus' pleasant fields,</l>
+               <l>Memphis, and pharos that sweet date trees yields,</l>
+               <l>And where swift nile in his large channel slipping,</l>
+               <l>By seven huge mouths into the sea is dipping,</l>
+               <l>By feared anubis' visage i thee pray,</l>
+               <l>So in thy temples shall osiris stay,</l>
+               <l>And the dull snake about thy offerings creep,</l>
+               <l>And in thy pomp horned apis with thee keep:</l>
+               <l>Turn thy looks hither, and in one spare twain,</l>
+               <l>Thou givest my mistress life, she mine again.</l>
+               <l>She oft hath served thee upon certain days,</l>
+               <l>Where the french rout engirt themselves with bays.</l>
+               <l>On laboring women thou dost pity take,</l>
+               <l>Whose bodies with their heavy burdens ache.</l>
+               <l>My wench lucina, i entreat thee favor,</l>
+               <l>Worthy she is, thou shouldst in mercy save her.</l>
+               <l>Myself will bring vowed gifts before thy feet,</l>
+               <l>Subscribing, naso with corinna saved.</l>
+               <l>Do but deserve gifts with this title graved,</l>
+               <l>But if in so great fear i may advise thee,</l>
+               <l>To have this skirmish fought, let it suffice thee.</l>
+            </div>
+            <div n="2.14" type="elegy">
+               <l>          in amicam, quod abortivum ipsa fecerit.</l>
+               <l>What helps it woman to be free from war?</l>
+               <l>Nor being armed fierce troops to follow far,</l>
+               <l>If without battle self-wrought wounds annoy them,</l>
+               <l>And their own privy weaponed hands destroy them?</l>
+               <l>Who unborn infants first to slay invented</l>
+               <l>Deserved thereby with death to be tormented.</l>
+               <l>Because thy belly should rough wrinkles lack,</l>
+               <l>Wilt thou thy womb-enclosed offspring wrack?</l>
+               <l>Had ancient mothers this vile custom cherished,</l>
+               <l>All human kind by their default had perished,</l>
+               <l>Or stones, our stocks original, should be hurled</l>
+               <l>Again by some in this unpeopled world.</l>
+               <l>Who should have priam's wealthy substance won,</l>
+               <l>If wat'ry thetis had her child fordone?</l>
+               <l>In swelling womb her twins had ilia killed,</l>
+               <l>He had not been that conquering rome did build.</l>
+               <l>Had venus spoiled her belly's trojan fruit,</l>
+               <l>The earth of caesars had been destitute.</l>
+               <l>Thou also, that wert born fair, hadst decayed,</l>
+               <l>If such a work thy mother had assayed.</l>
+               <l>Myself that better die with loving may</l>
+               <l>Had seen, my mother killing me, no day.</l>
+               <l>Why takest increasing grapes from vine trees full?</l>
+               <l>With cruel hand why dost green apples pull?</l>
+               <l>Fruits ripe will fall, let springing things increase,</l>
+               <l>Life is no light price of a small surcease:</l>
+               <l>Why with hid irons are your bowels torn?</l>
+               <l>And why dire poison give you babes unborn?</l>
+               <l>At cholcis stained with children's blood men rail,</l>
+               <l>And mother-murdered itis thee bewail,</l>
+               <l>Both unkind parents, but for causes sad,</l>
+               <l>Their wedlock's pledges venged their husbands bade.</l>
+               <l>What tereus, what jason you provokes,</l>
+               <l>To plague your bodies with such harmful strokes?</l>
+               <l>Armenian tigers never did so ill,</l>
+               <l>But tender damsels do it, though with pain,</l>
+               <l>Oft dies she that her paunch-wrapped child hath slain</l>
+               <l>She dies, and with loose hairs to grave is sent,</l>
+               <l>And whoe'er see her, worthily lament.</l>
+               <l>But in the air let these words come to nought,</l>
+               <l>And my presages of no weight be thought.</l>
+               <l>Forgive her gracious gods this one delict,</l>
+               <l>And on the next fault punishment inflict.</l>
+            </div>
+            <div n="2.15" type="elegy">
+               <l>          ad annulum, quem dono amicae dedit.</l>
+               <l>Thou ring that shalt my fair girl's finger bind,</l>
+               <l>Wherein is seen the giver's loving mind:</l>
+               <l>Be welcome to her, gladly let her take thee,</l>
+               <l>And her small joints encircling round hoop make thee.</l>
+               <l>Fit her so well, as she is fit for me:</l>
+               <l>And of just compass for her knuckles be.</l>
+               <l>Blest ring thou in my mistress' hand shalt lie.</l>
+               <l>Myself poor wretch mine own gifts now envy.</l>
+               <l>O would that suddenly into my gift,</l>
+               <l>I could myself by secret magic shift.</l>
+               <l>Then would i wish thee touch my mistress' pap,</l>
+               <l>And hide thy left hand underneath her lap.</l>
+               <l>I would get off though straight, and sticking fast,</l>
+               <l>And in her bosom strangely fall at last.</l>
+               <l>Then i, that i may seal her privy leaves,</l>
+               <l>Lest to the wax the hold-fast dry gem cleaves,</l>
+               <l>Would first my beauteous wench's moist lips touch,</l>
+               <l>Only i'll sign nought, that may grieve me much.</l>
+               <l>I would not out, might i in one place hit,</l>
+               <l>But in less compass her small fingers knit.</l>
+               <l>My life, that i will shame thee never fear,</l>
+               <l>Or be a load thou shouldst refuse to bear.</l>
+               <l>Wear me, when warmest showers thy members wash,</l>
+               <l>And through the gem let thy lost waters pash.</l>
+               <l>But seeing thee, i think my thing will swell,</l>
+               <l>And even the ring perform a man's part well.</l>
+               <l>Vain things why wish i?  go small gift from hand,</l>
+               <l>Let her my faith with thee given understand.</l>
+            </div>
+            <div n="2.16" type="elegy">
+               <l>           ad amicam, ut ad rura sua veniat.</l>
+               <l>Sulmo, peligny, third part me contains,</l>
+               <l>A small but wholesome soil with wat'ry veins.</l>
+               <l>And the icarian forward dog star shine,</l>
+               <l>Pelignian fields with liquid rivers flow,</l>
+               <l>And on the soft ground fertile green grass grow.</l>
+               <l>With corn the earth abounds, with vines much more,</l>
+               <l>And some few pastures pallas' olives bore.</l>
+               <l>And by the rising herbs, where clear springs slide,</l>
+               <l>A grassy turf the moistened earth doth hide.</l>
+               <l>But absent is my fire, lies i'll tell none,</l>
+               <l>My heat is here, what moves my heat is gone.</l>
+               <l>Pollux and castor, might i stand betwixt,</l>
+               <l>In heaven without thee would i not be fixed.</l>
+               <l>Upon the cold earth pensive let them lay,</l>
+               <l>That mean to travel some long irksome way.</l>
+               <l>Or else will maidens, young men's mates, to go</l>
+               <l>If they determine to persever so.</l>
+               <l>Then on the rough alps should i tread aloft,</l>
+               <l>My hard way with my mistress would seem soft.</l>
+               <l>With her i durst the lybian syrtes break through,</l>
+               <l>And raging seas in boisterous south winds plow.</l>
+               <l>No barking dogs that scyllae's entrails bear,</l>
+               <l>Nor thy gulf's crooked malea, would i fear.</l>
+               <l>No flowing waves with drowned ships forth poured,</l>
+               <l>By cloyed charybdis, and again devoured.</l>
+               <l>But if stern neptune's windy power prevail,</l>
+               <l>And waters force, force helping gods to fail,</l>
+               <l>With thy white arms upon my shoulders seize,</l>
+               <l>So sweet a burden i will bear with ease.</l>
+               <l>The youth oft swimming to his hero kind,</l>
+               <l>Had then swum over, but the way was blind.</l>
+               <l>But without thee, although vine-planted ground</l>
+               <l>Contains me, though the streams in fields surround,</l>
+               <l>Though hinds in brooks the running waters bring,</l>
+               <l>The cool gales shake the tall trees leafy spring,</l>
+               <l>Healthful peligny i esteem nought worth,</l>
+               <l>Nor do i like the country of my birth.</l>
+               <l>Scythia, silicia, britain are as good,</l>
+               <l>And rocks dyed crimson with prometheus' blood.</l>
+               <l>Elms love the vines, the vines with elms abide,</l>
+               <l>Why doth my mistress from me oft divide?</l>
+               <l>Thou swarest, division should not twixt us rise,</l>
+               <l>By me, and by my stars, thy radiant eyes.</l>
+               <l>Which as it seems, hence wind and sea bereaves.</l>
+               <l>If any godly care of me thou hast,</l>
+               <l>Add deeds unto thy promises at last.</l>
+               <l>And with swift nags drawing thy little coach,</l>
+               <l>(their reins let loose) right soon my house approach.</l>
+               <l>But when she comes, you swelling mounts sink down,</l>
+               <l>And falling valleys be the smooth way's crown.</l>
+            </div>
+            <div n="2.17" type="elegy">
+               <l>                quod corinnae soli sit serviturus.</l>
+               <l>To serve a wench if any think it shame,</l>
+               <l>He being judge, i am convinced of blame.</l>
+               <l>Let me be slandered, while my fire she hides,</l>
+               <l>That paphos, and the flood-beat cithera guides.</l>
+               <l>Would i had been my mistress' gentle prey,</l>
+               <l>Since some fair one i should of force obey.</l>
+               <l>Beauty gives heart, corinna's looks excel,</l>
+               <l>Aye me, why is it known to her so well?</l>
+               <l>But by her glass disdainful pride she learns,</l>
+               <l>Nor she herself but first trimmed up discerns.</l>
+               <l>Not though thy face in all things make thee reign,</l>
+               <l>(o face most cunning mine eyes to detain)</l>
+               <l>Thou oughtst therefore to scorn me for thy mate,</l>
+               <l>Small things with greater may be copulate.</l>
+               <l>Love-snared calypso is supposed to pray</l>
+               <l>A mortal nymph's refusing lord to stay.</l>
+               <l>Who doubts, with pelius, thetis did consort,</l>
+               <l>Egeria with just numa had good sport,</l>
+               <l>Venus with vulcan, though smith's tools laid by,</l>
+               <l>With his stump foot he halts ill-favoredly.</l>
+               <l>This kind of verse is not alike, yet fit</l>
+               <l>With shorter numbers the heroic sit.</l>
+               <l>And thou my light accept me howsoever,</l>
+               <l>Lay in the mid bed, there be my lawgiver.</l>
+               <l>My stay no crime, my flight no joy shall breed,</l>
+               <l>Nor of our love to be ashamed we need,</l>
+               <l>For great revenues i good verses have,</l>
+               <l>And many by me to get glory crave.</l>
+               <l>I know a wench reports herself corinne,</l>
+               <l>What would not she give that fair name to win?</l>
+               <l>But sundry floods in one bank never go,</l>
+               <l>Eurota's cold, and poplar bearing po.</l>
+               <l>Nor in my books shall one but thou be writ,</l>
+               <l>Thou dost alone give matter to my wit.</l>
+               <l>                ad macrum, quod de amoribus scribat.</l>
+               <l>To tragic verse while thou achilles train'st,</l>
+               <l>And new sworn soldier's maiden arms retain'st,</l>
+               <l>We, macer, sit in venus' slothful shade,</l>
+               <l>And tender love hath great things hateful made.</l>
+               <l>Often at length, my wench depart i bid,</l>
+               <l>She in my lap sits still as erst she did.</l>
+               <l>I said it irks me:  half to weeping framed,</l>
+               <l>Aye me, she cries, to love, why art ashamed?</l>
+               <l>Then wreathes about my neck her winding arms,</l>
+               <l>And thousand kisses gives, that work my harms:</l>
+               <l>I yield, and back my wit from battles bring,</l>
+               <l>Domestic acts, and mine own wars to sing.</l>
+               <l>Yet tragedies, and scepters filled my lines,</l>
+               <l>But though i apt were for such high designs,</l>
+               <l>Love laughed at my cloak, and buskins painted,</l>
+               <l>And rule so soon with private hands acquainted.</l>
+               <l>My mistress' deity also drew me from it,</l>
+               <l>And love triumpheth o'er his buskinned poet.</l>
+               <l>What lawful is, or we profess love's art,</l>
+               <l>(alas my precepts turn myself to smart)</l>
+               <l>We write, or what penelope sends ulysses,</l>
+               <l>Or phyllis tears that her domophon misses,</l>
+               <l>What thankless jason, macareus and paris,</l>
+               <l>Phedra, and hypolite may read, my care is,</l>
+               <l>And what poor dido with her drawn sword sharp</l>
+               <l>Doth say, with her that loved the aonian harp.</l>
+               <l>As soon as from strange lands sabinus came,</l>
+               <l>And writings did from diverse places frame,</l>
+               <l>White-cheeked penelope knew ulysses' sign,</l>
+               <l>The stepdame read hyppolitus' lustless line.</l>
+               <l>Aeneas to elisa answer gives,</l>
+               <l>And phyllis hath to read; if now she lives.</l>
+               <l>Jason's sad letter doth hipsipile greet,</l>
+               <l>Sappho her vowed harp lays at phoebus' feet.</l>
+               <l>Nor of thee, macer, that resound'st forth arms,</l>
+               <l>Is golden love hid in mars mid alarms.</l>
+               <l>There paris is, and helen's crimes record,</l>
+               <l>With laodameia mate to her dead lord.</l>
+               <l>Unless i err to these thou more incline</l>
+               <l>Than wars, and from thy tents wilt come to mine.</l>
+            </div>
+            <div n="2.19" type="elegy">
+               <l>Fool if to keep thy wife thou hast no need,</l>
+               <l>Keep her for me, my more desire to breed.</l>
+               <l>We scorn things lawful, stol'n sweets we affect,</l>
+               <l>Cruel is he that loves whom none protect.</l>
+               <l>Let us both lovers hope, and fear alike,</l>
+               <l>And may repulse place for our wishes strike.</l>
+               <l>What should i do with fortune that ne'er fails me?</l>
+               <l>Nothing i love, that at all times avails me.</l>
+               <l>Wily corinna saw this blemish in me,</l>
+               <l>And craftily knows by what means to win me.</l>
+               <l>Ah often, that her whole head ached, she lying,</l>
+               <l>Willed me, whose slow feet sought delay be flying.</l>
+               <l>Ah oft how much she might she feigned offense;</l>
+               <l>And doing wrong made show of innocence.</l>
+               <l>So having vexed she nourished my warm fire,</l>
+               <l>And was again most apt to my desire.</l>
+               <l>To please me, what fair terms and sweet words has she?</l>
+               <l>Great gods what kisses, and how many gave she?</l>
+               <l>Thou also that late tookest mine eyes away,</l>
+               <l>Oft cozen me, oft being wooed say nay.</l>
+               <l>And on thy threshold let me lie dispread,</l>
+               <l>Suffering much cold by hoary night's frost bred.</l>
+               <l>So shall my love continue many years,</l>
+               <l>This doth delight me, this my courage cheers.</l>
+               <l>Fat love, and too much fulsome me annoys,</l>
+               <l>Even as sweet meat a glutted stomach cloys.</l>
+               <l>In brazen tower had not danae dwelt,</l>
+               <l>A mother's joy by jove she had not felt.</l>
+               <l>While juno io keeps when horns he wore,</l>
+               <l>Jove liked her better than he did before.</l>
+               <l>Who covets lawful things takes leaves from woods,</l>
+               <l>And drinks stol'n waters in surrounding floods.</l>
+               <l>Her lover let her mock, that long will reign.</l>
+               <l>Aye me, let not my warnings cause my pain.</l>
+               <l>Whatever haps, by sufferance harm is done,</l>
+               <l>What flies, i follow, what follows me i shun.</l>
+               <l>But thou of thy fair damsel too secure,</l>
+               <l>Begin to shut thy house at evening sure.</l>
+               <l>Search at the door who knocks oft in the dark,</l>
+               <l>In night's deep silence why the bandogs bark.</l>
+               <l>Whether the subtle maid lines, brings and carries,</l>
+               <l>Why she alone in empty bed oft tarries.</l>
+               <l>That to deceits it may me forward prick.</l>
+               <l>To steal sands from the shore he loves alife,</l>
+               <l>That can effect a foolish wittol's wife.</l>
+               <l>Now i forewarn, unless to keep her stronger,</l>
+               <l>Thou dost begin, she shall be mine no longer.</l>
+               <l>Long have i borne much, hoping time would beat thee</l>
+               <l>To guard her well, that well i might entreat thee.</l>
+               <l>Thou sufferest what no husband can endure,</l>
+               <l>But of my love it will an end procure.</l>
+               <l>Shall i poor soul be never interdicted?</l>
+               <l>Nor never with night's sharp revenge afflicted?</l>
+               <l>In sleeping shall i fearless draw my breath?</l>
+               <l>Wilt nothing do, why i should wish thy death?</l>
+               <l>Can i but loathe a husband grown a bawd?</l>
+               <l>By thy default thou dost our joys defraud.</l>
+               <l>Some other seek that may in patience strive with thee,</l>
+               <l>To pleasure me, forbid me to corrive with thee.</l>
+            </div>
+         </div>
+         <div n="3" type="book">
+            <div n="3.1" type="elegy">
+               <l>            poetae ovidii nasonis amorum</l>
+               <l>                   liber tertius.</l>
+               <l>   deliberatio poetae, utrum elegos pergat scribere</l>
+               <l>                an potius tragedias.</l>
+               <l>An old wood, stands uncut of long years' space,</l>
+               <l>'tis credible some godhead haunts the place.</l>
+               <l>In midst thereof a stone-paved sacred spring,</l>
+               <l>Where round about small birds most sweetly sing.</l>
+               <l>Here while i walk hid close in shady grove,</l>
+               <l>To find what work my muse might move i strove.</l>
+               <l>Elegia came with hairs perfumed sweet,</l>
+               <l>And one, i think, was longer of her feet.</l>
+               <l>A decent form, thin robe, a lover's look,</l>
+               <l>By her foot's blemish greater grace she took.</l>
+               <l>Then with huge steps came violent tragedy,</l>
+               <l>Stern was her front, her cloak on ground did lie.</l>
+               <l>Her left hand held abroad a regal scepter,</l>
+               <l>The lydian buskin in fit paces kept her.</l>
+               <l>And first she said: when will thy love be spent?</l>
+               <l>O poet, careless of thy argument.</l>
+               <l>Wine-bibbing banquets tell thy naughtiness,</l>
+               <l>Each crossways corner doth as much express.</l>
+               <l>Oft some points at the prophet passing by,</l>
+               <l>And this is he whom fierce love burns, they cry.</l>
+               <l>While without shame thou sing'st thy lewdness' ditty.</l>
+               <l>'tis time to move grave things in lofty style,</l>
+               <l>Long hast thou loitered, greater works compile.</l>
+               <l>The subject hides thy wit, men's acts resound,</l>
+               <l>This thou wilt say to be a worthy ground.</l>
+               <l>Thy muse hath played what may mild girls content,</l>
+               <l>And by those numbers is thy first youth spent.</l>
+               <l>Now give the roman tragedy a name,</l>
+               <l>To fill my laws thy wanton spirit frame.</l>
+               <l>This said, she moved her buskins gaily varnished,</l>
+               <l>And seven times shook her head with thick locks</l>
+               <l>                                       garnished.</l>
+               <l>The other smiled, (i wot) with wanton eyes,</l>
+               <l>Err i?  or myrtle in her right hand lies.</l>
+               <l>With lofty words stout tragedy (she said)</l>
+               <l>Why tread'st me down?  art thou aye gravely played?</l>
+               <l>Thou deign'st unequal lines should thee rehearse,</l>
+               <l>Thou fight'st against me using mine own verse.</l>
+               <l>Thy lofty style with mine i not compare,</l>
+               <l>Small doors unfitting for large houses are.</l>
+               <l>Light am i, and with me, my care, light love,</l>
+               <l>Not stronger am i than the thing i move.</l>
+               <l>Venus without me should be rustical,</l>
+               <l>This goddess' company doth to me befall.</l>
+               <l>What gate thy stately words cannot unlock,</l>
+               <l>My flattering speeches soon wide open knock.</l>
+               <l>And i deserve more than thou canst in verity,</l>
+               <l>By suffering much not borne by thy severity.</l>
+               <l>By me corinna learns, cozening her guard,</l>
+               <l>To get the door with little noise unbarred,</l>
+               <l>And slipped from bed clothed in a loose nightgown,</l>
+               <l>To move her feet unheard in setting down.</l>
+               <l>Ah, how oft on hard doors hung i engraved,</l>
+               <l>From no man's reading fearing to be saved.</l>
+               <l>But till the keeper went forth, i forget not,</l>
+               <l>The maid to hide me in her bosom let not.</l>
+               <l>What gift with me was on her birthday sent,</l>
+               <l>But cruelly by her was drowned and rent.</l>
+               <l>First of thy mind the happy seeds i knew,</l>
+               <l>Thou hast my gift, which she would from thee sue.</l>
+               <l>She left;  i said, you both i must beseech,</l>
+               <l>With scepters, and high buskins th' one would dress</l>
+               <l>                                       me,</l>
+               <l>So through the world should bright renown express me.</l>
+               <l>The other gives my love a conquering name,</l>
+               <l>Come therefore, and to long verse shorter frame.</l>
+               <l>Grant tragedy thy poet time's least tittle,</l>
+               <l>Thy labor ever lasts, she asks but little.</l>
+               <l>She gave me leave, soft loves in time make haste,</l>
+               <l>Some greater work will urge me on at last.</l>
+            </div>
+            <div n="3.2" type="elegy">
+               <l>          ad amicam cursum equorum spectantem.</l>
+               <l>I sit not here the noble horse to see,</l>
+               <l>Yet whom thou favorest, pray may conqueror be.</l>
+               <l>To sit, and talk with thee i hither came,</l>
+               <l>That thou mayest know with love thou mak'st me flame.</l>
+               <l>Thou view'st the course, i thee:  let either heed</l>
+               <l>What please them, and their eyes let either feed.</l>
+               <l>What horsedriver thou favorest most is best,</l>
+               <l>Because on him thy care doth hap to rest.</l>
+               <l>Such chance let me have:  i would bravely run,</l>
+               <l>On swift steeds mounted till the race were done.</l>
+               <l>Now would i slack the reins, now lash their hide,</l>
+               <l>With wheels bent inward now the ring-turn ride.</l>
+               <l>In running if i see thee, i shall stay,</l>
+               <l>And from my hands the reins will slip away.</l>
+               <l>Ah, pelops from his coach was almost felled,</l>
+               <l>Hippodameias' looks while he beheld.</l>
+               <l>Yet he attained by her support to have her,</l>
+               <l>Let us all conquer by our mistress' favor.</l>
+               <l>In vain why flyest back?  force conjoins us now:</l>
+               <l>The place's laws this benefit allow.</l>
+               <l>But spare my wench thou at her right hand seated,</l>
+               <l>By thy sides touching ill she is entreated.</l>
+               <l>And sit thou rounder, that behind us see,</l>
+               <l>For shame press not her back with thy hard knee.</l>
+               <l>But on the ground thy clothes too loosely lie,</l>
+               <l>Gather them up, or lift them lo will i.</l>
+               <l>Envious garments so good legs to hide,</l>
+               <l>The more thou look'st, the more the gown envied.</l>
+               <l>Swift atalanta's flying legs like these,</l>
+               <l>Wish in his hands grasped did hippomenes.</l>
+               <l>When strong wild beasts she stronger hunts to strike</l>
+               <l>                                       them.</l>
+               <l>Ere these were seen, i burnt:  what will these do?</l>
+               <l>Flames into flame, floods thou pourest seas into.</l>
+               <l>By these i judge, delight me may the rest,</l>
+               <l>Which lie hid under her thin veil suppressed.</l>
+               <l>Yet in the meantime wilt small winds bestow,</l>
+               <l>That from thy fan, moved by my hand may blow?</l>
+               <l>Or is my heat of mind, not of the sky?</l>
+               <l>Is't women's love my captive breast doth fry?</l>
+               <l>While thus i speak, black dust her white robes 'ray:</l>
+               <l>Foul dust, from her fair body go away.</l>
+               <l>Now comes the pomp;  themselves let all men cheer:</l>
+               <l>The shout is nigh;  the golden pomp comes here.</l>
+               <l>First victory is brought with large spread wing,</l>
+               <l>Goddess come here, make my love conquering.</l>
+               <l>Applaud you neptune, that dare trust his wave,</l>
+               <l>The sea i use not:  me my earth must have.</l>
+               <l>Soldier applaud thy mars:  no wars we move,</l>
+               <l>Peace pleaseth me, and in mid peace is love.</l>
+               <l>With augures phoebus, phoebe with hunters stands,</l>
+               <l>To thee minerva turn the craftsmen's hands.</l>
+               <l>Ceres and bacchus countrymen adore,</l>
+               <l>Champions please pollux, castor loves horsemen more.</l>
+               <l>Thee gentle venus, and the boy that flies,</l>
+               <l>We praise:  great goddess aid my enterprise,</l>
+               <l>Let my new mistress grant to be beloved.</l>
+               <l>She becked, and prosperous signs gave as she moved.</l>
+               <l>What venus promised, promise thou we pray,</l>
+               <l>Greater than her, by her leave th' art, i'll say.</l>
+               <l>The gods, and their rich pomp witness with me,</l>
+               <l>For evermore thou shalt my mistress be.</l>
+               <l>Thy legs hand down, thou mayest, if that be best,</l>
+               <l>A while thy tiptoes on the footstool rest.</l>
+               <l>Now greatest spectacles the praetor sends,</l>
+               <l>Four chariot horses from the lists even ends.</l>
+               <l>I see whom thou affectest:  he shall subdue,</l>
+               <l>The horses seem, as thy desire they knew.</l>
+               <l>Alas he runs too far about the ring,</l>
+               <l>What dost?  thy wagon in less compass bring.</l>
+               <l>What dost unhappy?  her good wishes fade,</l>
+               <l>One slow we favor, romans him revoke:</l>
+               <l>And each give signs by casting up his cloak.</l>
+               <l>They call him back, lest their gowns toss thy hair,</l>
+               <l>To hide thee in my bosom straight repair.</l>
+               <l>But now again the barriers open lie;</l>
+               <l>And forth the gay troops on swift horses fly.</l>
+               <l>At last now conquer, and outrun the rest:</l>
+               <l>My mistress' wish confirm with my request.</l>
+               <l>My mistress hath her wish, my wish remain:</l>
+               <l>He holds the palm:  my palm is yet to gain,</l>
+               <l>She smiled, and with quick eyes behight some grace:</l>
+               <l>Pay it not here, but in another place.</l>
+            </div>
+            <div n="3.3" type="elegy">
+               <l>                de amica, quae perjuraverat.</l>
+               <l>What, are there gods?  herself she hath forswore,</l>
+               <l>And yet remains the face she had before.</l>
+               <l>How long her locks were, ere her oath she took:</l>
+               <l>So long they be, since she her faith forsook.</l>
+               <l>Fair white with rose red was before commixed:</l>
+               <l>Now shine her looks pure white and red betwixt.</l>
+               <l>Her foot was small:  her foot's form is most fit:</l>
+               <l>Comely tall was she, comely tall she's yet.</l>
+               <l>Sharp eyes she had:  radiant like stars they be,</l>
+               <l>By which she perjured oft hath lied by me.</l>
+               <l>In sooth th' eternal powers grant maids' society</l>
+               <l>Falsely to swear, their beauty hath some deity.</l>
+               <l>By her eyes i remember late she swore,</l>
+               <l>And by mine eyes, and mine were pained sore.</l>
+               <l>Say gods:  if she unpunished you deceive,</l>
+               <l>For other's faults why do i loss receive?</l>
+               <l>But did you not so envy cepheus' daughter,</l>
+               <l>For her ill-beauteous mother judged to slaughter.</l>
+               <l>'tis not enough, she shakes your record off,</l>
+               <l>And unrevenged mocked gods with me doth scoff.</l>
+               <l>But by my pain to purge her perjuries,</l>
+               <l>Cozened, i am the cozener's sacrifice.</l>
+               <l>God is a name, no substance, feared in vain,</l>
+               <l>And doth the world in fond belief detain.</l>
+               <l>Or if there be a god, he loves fine wenches,</l>
+               <l>And all things too much in their sole power drenches.</l>
+               <l>Mars girts his deadly sword on for my harm:</l>
+               <l>Pallas' lance strikes me with unconquered arm.</l>
+               <l>At me jove's right hand lightning hath to throw.</l>
+               <l>The wronged gods dread fair ones to offend,</l>
+               <l>And fear those, that to fear them least intend.</l>
+               <l>Who now will care the altars to perfume?</l>
+               <l>Tut, men should not their courage so consume.</l>
+               <l>Jove throws down woods, and castles with his fire:</l>
+               <l>But bids his darts from perjured girls retire.</l>
+               <l>Poor semele, among so many burned,</l>
+               <l>Her own request to her own torment turned.</l>
+               <l>But when her lover came, had she drawn back,</l>
+               <l>The father's thigh should unborn bacchus lack.</l>
+               <l>Why grieve i?  and of heaven reproaches pen?</l>
+               <l>The gods have eyes, and breasts as well as men.</l>
+               <l>Were i a god, i should give women leave,</l>
+               <l>With lying lips my godhead to deceive,</l>
+               <l>Myself would swear, the wenches true did swear,</l>
+               <l>And i would be none of the gods severe.</l>
+               <l>But yet their gift more moderately use,</l>
+               <l>Or in mine eyes good wench no pain transfuse.</l>
+            </div>
+            <div n="3.4" type="elegy">
+               <l>                ad virum servantem conjugem.</l>
+               <l>Rude man, 'tis vain, thy damsel to commend</l>
+               <l>To keeper's trust:  their wits should them defend.</l>
+               <l>Who, without fear, is chaste, is chaste in sooth:</l>
+               <l>Who, because means want, doth not, she doth.</l>
+               <l>Though thou her body guard, her mind is stained:</l>
+               <l>Nor, lest she will, can any be restrained.</l>
+               <l>Nor canst by watching keep her mind from sin.</l>
+               <l>All being shut out, th' adulterer is within.</l>
+               <l>Who may offend, sins least;  power to do ill</l>
+               <l>The fainting seeds of naughtiness doth kill.</l>
+               <l>Forbear to kindle vice by prohibition,</l>
+               <l>Sooner shall kindness gain thy will's fruition.</l>
+               <l>I saw a horse against the bit stiff-necked,</l>
+               <l>Like lightning go, his struggling mouth being checked.</l>
+               <l>When he perceived the reins let slack, he stayed,</l>
+               <l>And on his loose mane the loose bridle laid.</l>
+               <l>How to attain what is denied we think,</l>
+               <l>Even as the sick desire forbidden drink.</l>
+               <l>Argus had either way an hundred eyes,</l>
+               <l>Yet by deceit love did them all surprise.</l>
+               <l>In stone, and iron walls danae shut,</l>
+               <l>Penelope, though no watch looked unto her,</l>
+               <l>Was not defiled by any gallant wooer.</l>
+               <l>What's kept, we covet more:  the care makes theft:</l>
+               <l>Few love what others have unguarded left.</l>
+               <l>Nor doth her face please, but her husband's love;</l>
+               <l>I know not what men think should think thee so move.</l>
+               <l>She is not chaste, that's kept, but a dear whore:</l>
+               <l>Thy fear is than her body valued more.</l>
+               <l>Although thou chafe, stol'n pleasure is sweet play,</l>
+               <l>She pleaseth best, i fear, if any say.</l>
+               <l>A freeborn wench no right 'tis up to lock:</l>
+               <l>So use we women of strange nation's stock.</l>
+               <l>Because the keeper may come say, i did it,</l>
+               <l>She must be honest to thy servant's credit.</l>
+               <l>He is too clownish, whom a lewd wife grieves,</l>
+               <l>And this town's well-known customs not believes,</l>
+               <l>Where mars his sons not without fault did breed,</l>
+               <l>Remus and romulus, ilias' twin-born seed.</l>
+               <l>Cannot a fair one, if not chaste, please thee?</l>
+               <l>Never can these by any means agree.</l>
+               <l>Kindly thy mistress use, if thou be wise.</l>
+               <l>Look gently, and rough husbands' laws despise,</l>
+               <l>Honor what friends thy wife gives, she'll give many:</l>
+               <l>Lest labor so shall win great grace of any,</l>
+               <l>So shalt thou go with youths to feasts together:</l>
+               <l>And see at home much that thou ne'er brought'st</l>
+               <l>                                       thither.</l>
+            </div>
+            <div n="3.5" type="elegy">
+               <l>        ad amnem, dum iter faceret ad amicam.</l>
+               <l>Flood with red-grown slime banks, till i be past</l>
+               <l>Thy waters stay:  i to my mistress haste.</l>
+               <l>Thou hast no bridge, nor boat with ropes to throw,</l>
+               <l>That may transport me without oars to row.</l>
+               <l>Thee i have passed, and knew thy stream none such,</l>
+               <l>When thy waves' brim did scarce my ankles touch.</l>
+               <l>With snow thawed from the next hill now thou rushest,</l>
+               <l>And in thy foul deep waters thick thou gushest.</l>
+               <l>What helps my haste:  what to have ta'en small rest?</l>
+               <l>What day and night to travel in her quest?</l>
+               <l>If standing here i can by no means get,</l>
+               <l>My foot upon the further bank to set.</l>
+               <l>Bearing the head with dreadful adders clad,</l>
+               <l>Now wish the chariot, whence corn seeds were found,</l>
+               <l>First to be thrown upon the untilled ground.</l>
+               <l>I speak old poets' wonderful inventions,</l>
+               <l>Ne'er was, nor shall be, what my verse mentions.</l>
+               <l>Rather thou large bank overflowing river,</l>
+               <l>Slide in thy bounds, so shalt thou run forever.</l>
+               <l>(trust me)  land-stream, thou shalt no envy lack,</l>
+               <l>If i a lover be by thee held back.</l>
+               <l>Great floods ought to assist young men in love.</l>
+               <l>Great floods the force of it do often prove.</l>
+               <l>In mid bithynia 'tis said inachus,</l>
+               <l>Grew pale, and in cold fords hot lecherous.</l>
+               <l>Troy had not yet been ten years siege out-stander,</l>
+               <l>When nymph neaera rapped thy looks scamander.</l>
+               <l>What?  not alpheus in strange lands to run</l>
+               <l>Th' arcadian virgins' constant love hath won?</l>
+               <l>And crusa unto xanthus first affied,</l>
+               <l>They say peneus near phthias town did hide.</l>
+               <l>What should i name aesope, that thebe loved,</l>
+               <l>Thebe who mother of five daughters proved?</l>
+               <l>If achelous, i ask where thy horns stand,</l>
+               <l>Thou sayest broke with alcides' angry hand.</l>
+               <l>Not calydon, nor aetolia did please:</l>
+               <l>One deianira was more worth than these.</l>
+               <l>Rich nile by seven mouths to the vast sea flowing,</l>
+               <l>Who so well keeps his water's head from knowing,</l>
+               <l>Is by evadne thought to take such flame,</l>
+               <l>As his deep whirlpools could not quench the same.</l>
+               <l>Dry enipeus, tyro to embrace,</l>
+               <l>Fly back his stream charged, the stream charged, gave</l>
+               <l>                                       place.</l>
+               <l>Nor pass i thee, who hollow rocks down tumbling,</l>
+               <l>In tibur's field with wat'ry foam art rumbling,</l>
+               <l>Whom ilia pleased, though in her looks grief reveled,</l>
+               <l>Her cheeks were scratched, her goodly hairs</l>
+               <l>                                       dishevelled.</l>
+               <l>She wailing mars' sin, and her uncle's crime,</l>
+               <l>Strayed barefoot through sole places on a time.</l>
+               <l>Her, from his swift waves, the bold flood perceived,</l>
+               <l>And from the mid ford his hoarse voice upheaved,</l>
+               <l>Ilia, sprung from idaean laomedon?</l>
+               <l>Where's thy attire?  why wanderest here alone?</l>
+               <l>To stay thy tresses white veil hast thou none?</l>
+               <l>Why weep'st?  and spoil'st with tears thy wat'ry eyes?</l>
+               <l>And fiercely knock'st thy breast that open lies?</l>
+               <l>His heart consists of flint, and hardest steel,</l>
+               <l>That seeing thy tears can any joy then feel.</l>
+               <l>Fear not:  to thee our court stands open wide,</l>
+               <l>There shalt be loved:  ilia lay fear aside.</l>
+               <l>Thou o'er a hundred nymphs, or more shalt reign:</l>
+               <l>For five score nymphs, or more our floods contain.</l>
+               <l>Nor roman stock scorn me so much (i crave)</l>
+               <l>Gifts than my promise greater thou shalt have.</l>
+               <l>This said he:  she her modest eyes held down,</l>
+               <l>Her woeful bosom a warm shower did drown.</l>
+               <l>Thrice she prepared to fly, thrice she did stay,</l>
+               <l>By fear deprived of strength to run away.</l>
+               <l>Yet rending with enraged thumb her tresses,</l>
+               <l>Her trembling mouth these unmeet sounds expresses.</l>
+               <l>O would in my forefather's tomb deep laid,</l>
+               <l>My bones had been, while yet i was a maid.</l>
+               <l>Why being a vestal am i wooed to wed,</l>
+               <l>Deflowered and stained in unlawful bed?</l>
+               <l>Why stay i?  men point at me for a whore,</l>
+               <l>Shame, that should make me blush, i have no more.</l>
+               <l>This said:  her coat hoodwinked her fearful eyes,</l>
+               <l>And into water desperately she flies.</l>
+               <l>'tis said the slippery stream held up her breast,</l>
+               <l>And kindly gave her, what she liked best.</l>
+               <l>And i believe some wench thou hast affected:</l>
+               <l>But woods and groves keep your faults undetected.</l>
+               <l>While thus i speak, the waters more abounded:</l>
+               <l>And from the channel all abroad surrounded.</l>
+               <l>Mad stream, why dost our mutual joys defer?</l>
+               <l>Clown, from my journey why dost me deter?</l>
+               <l>How wouldst thou flow wert thou a noble flood,</l>
+               <l>If thy great fame in every region stood?</l>
+               <l>Thou hast no name, but com'st from snowy mountains;</l>
+               <l>No certain house thou hast, nor any fountains.</l>
+               <l>Thy springs are nought but rain and melted snow:</l>
+               <l>Which wealth cold winter doth on thee bestow.</l>
+               <l>Or full of dust dost on the dry earth slide.</l>
+               <l>What thirsty traveler ever drunk of thee?</l>
+               <l>Who said with grateful voice perpetual be?</l>
+               <l>Harmful to beasts, and to the fields thou proves:</l>
+               <l>Perchance these others, me mine own loss moves.</l>
+               <l>To this i fondly loves of floods told plainly:</l>
+               <l>I shame so great names to have used so vainly:</l>
+               <l>I know not what expecting, i erewhile</l>
+               <l>Named achelous, inachus, and nile,</l>
+               <l>But for thy merits i wish thee, white stream,</l>
+               <l>Dry winters aye, and suns in heat extreme.</l>
+            </div>
+            <div n="3.6" type="elegy">
+               <l>        quod ab amica receptus, cum ea coire</l>
+               <l>              non potuit, conqueritur.</l>
+               <l>Either she was foul, or her attire was bad,</l>
+               <l>Or she was not the wench i wished t' have had.</l>
+               <l>Idly i lay with her, as if i loved not,</l>
+               <l>And like a burden grieved the bed that moved not.</l>
+               <l>Though both of us performed our true intent,</l>
+               <l>Yet could i not cast anchor where i meant.</l>
+               <l>She on my neck her ivory arms did throw,</l>
+               <l>Her arms far whiter, than the scythian snow.</l>
+               <l>And eagerly she kissed me with her tongue,</l>
+               <l>And under mine her wanton thigh she flung.</l>
+               <l>Yea, and she soothed me up, and called me sire,</l>
+               <l>And used all speech that might provoke and stir.</l>
+               <l>Yet like as if cold hemlock i had drunk,</l>
+               <l>It mocked me, hung down the head, and sunk.</l>
+               <l>Like a dull cipher, or rude block i lay,</l>
+               <l>Or shade, or body was i who can say?</l>
+               <l>What will my age do, age i cannot shun,</l>
+               <l>When in my prime my force is spent and done?</l>
+               <l>I blush, that being youthful, hot, and lusty,</l>
+               <l>I prove neither youth nor man, but old and rusty.</l>
+               <l>Pure rose she, like a nun to sacrifice,</l>
+               <l>Or one that with her tender brother lies.</l>
+               <l>Yet boarded i the golden chie twice,</l>
+               <l>And libas, and the white-cheeked pitho thrice.</l>
+               <l>Corinna craved it in a summer's night,</l>
+               <l>And nine sweet bouts we had before daylight.</l>
+               <l>What, waste my limbs through some thessalian charms?</l>
+               <l>May spells, and drugs do silly souls such harms?</l>
+               <l>And pierced my liver with sharp needles' points?</l>
+               <l>Charms change corn to grass and make it die.</l>
+               <l>By charms are running springs and fountains dry.</l>
+               <l>By charms mast drops from oaks, from vines grapes</l>
+               <l>                                       fall,</l>
+               <l>And fruit from trees when there's no wind at all.</l>
+               <l>Why might not then my sinews be enchanted,</l>
+               <l>And i grow faint as with some spirit haunted?</l>
+               <l>To this add shame:  shame to perform it quailed me</l>
+               <l>And was the second cause why vigor failed me.</l>
+               <l>My idle thoughts delighted her no more,</l>
+               <l>Than did the robe or garment which she wore.</l>
+               <l>Yet might her touch make youthful pylius fire</l>
+               <l>And tithon livelier than his years require.</l>
+               <l>Even her i had, and she had me in vain,</l>
+               <l>What might i crave more, if i ask again?</l>
+               <l>I think the great gods grieved they had bestowed</l>
+               <l>The benefit: which lewdly i foreslowed.</l>
+               <l>I wished to be received in, in i get me,</l>
+               <l>To kiss, i kiss: to lie with her, she let me.</l>
+               <l>Why was i blest? why made king to refuse it?</l>
+               <l>Chuff-like had i not gold and could not use it?</l>
+               <l>So in a spring thrives he that told so much,</l>
+               <l>And looks upon the fruits he cannot touch.</l>
+               <l>Hath any rose so from a fresh young maid,</l>
+               <l>As she might straight have gone to church and prayed?</l>
+               <l>Well i believe, she kissed not as she should,</l>
+               <l>Nor used the sleight and cunning which she could,</l>
+               <l>Huge oaks, hard adamants might she have moved,</l>
+               <l>And with sweet words cause deaf rocks to have loved.</l>
+               <l>Worthy she was to move both gods and men,</l>
+               <l>But neither was i man nor lived then.</l>
+               <l>Can deaf ear take delight when phaemius sings?</l>
+               <l>Or thamiras in curious painted things?</l>
+               <l>What sweet thought is there but i had the same?</l>
+               <l>And one gave place still as another came.</l>
+               <l>Yet notwithstanding like one dead it lay,</l>
+               <l>Drooping more than a rose pulled yesterday.</l>
+               <l>Now when he should not jet, he bolts upright,</l>
+               <l>And craves his task, and seeks to be at fight.</l>
+               <l>Lie down with shame, and see thou stir no more,</l>
+               <l>Thou cozenest me:  by thee surprised am i,</l>
+               <l>And bide sore loss with endless infamy.</l>
+               <l>Nay more, the wench did not disdain a whit,</l>
+               <l>To take it in her hand, and play with it.</l>
+               <l>But when she saw it would by no means stand,</l>
+               <l>But still drooped down, regarding not her hand,</l>
+               <l>Why mock'st thou me? she cried, or being ill</l>
+               <l>Who bade thee lie down here against thy will?</l>
+               <l>Either th' art witched with blood of frogs new dead</l>
+               <l>Or jaded cam'st thou from some other's bed.</l>
+               <l>With that her loose gown on, from me she cast her,</l>
+               <l>In skipping out her naked feet much graced her.</l>
+               <l>And lest her maid should know of this disgrace,</l>
+               <l>To cover it, spilt water on the place.</l>
+            </div>
+            <div n="3.7" type="elegy">
+               <l>         quod ab amica non recipiatur, dolet.</l>
+               <l>What man will now take liberal arts in hand,</l>
+               <l>Or think soft verse in any stead to stand?</l>
+               <l>Wit was sometimes more precious than gold,</l>
+               <l>Now poverty great barbarism we hold.</l>
+               <l>When our books did my mistress fair content,</l>
+               <l>I might not go whither my papers went.</l>
+               <l>She praised me, yet the gate shut fast upon her,</l>
+               <l>I here and there go witty with dishonor.</l>
+               <l>See a rich chuff whose wounds great wealth inferred,</l>
+               <l>For bloodshed knighted, before me preferred.</l>
+               <l>Fool canst thou him in thy white arms embrace?</l>
+               <l>Fool canst thou lie in his enfolding space?</l>
+               <l>Knowest not this head a helm was wont to bear,</l>
+               <l>This side that serves thee, a sharp sword did wear.</l>
+               <l>His left hand whereon gold doth ill alight,</l>
+               <l>A target bore: blood sprinkled was his right.</l>
+               <l>Canst touch that hand wherewith someone lies dead?</l>
+               <l>Ah, whither is thy breast's soft nature fled?</l>
+               <l>Behold the signs of ancient fight, his scars,</l>
+               <l>Whate'er he hath his body gained in wars.</l>
+               <l>Perhaps he'll tell how oft he slew a man,</l>
+               <l>Confessing this, why dost thou touch him then?</l>
+               <l>I, the pure priest of phoebus and the muses,</l>
+               <l>At thy deaf doors in verse sing my abuses.</l>
+               <l>Not what we slothful know, let wise men learn,</l>
+               <l>And for a good verse draw the first dart forth,</l>
+               <l>Homer without this shall be nothing worth.</l>
+               <l>Jove being admonished gold had sovereign power,</l>
+               <l>To win the maid came in a golden shower.</l>
+               <l>Till then, rough was her father, she severe,</l>
+               <l>The posts of brass the walls of iron were.</l>
+               <l>But when in gifts the wise adulterer came,</l>
+               <l>She held her lap ope to receive the same.</l>
+               <l>Yet when old saturn heavens' rule possessed</l>
+               <l>All gain in darkness the deep earth suppressed.</l>
+               <l>Gold, silver, iron's heavy weight, and brass,</l>
+               <l>In hell were harbored, here was found no mass.</l>
+               <l>But better things it gave, corn without plows,</l>
+               <l>Apples, and honey in oaks' hollow boughs.</l>
+               <l>With strong plowshares no man the earth did cleave,</l>
+               <l>The ditcher no marks on the ground did leave.</l>
+               <l>Nor hanging oars the troubled seas did sweep,</l>
+               <l>Men kept the shore, and sailed not into deep.</l>
+               <l>Against thyself, man's nature, thou wert cunning,</l>
+               <l>And to thine own loss was thy wit swift running.</l>
+               <l>Why gird'st thy cities with a towered wall?</l>
+               <l>Why let'st discordant hands to armor fall?</l>
+               <l>What dost with seas?  with th' earth thou wert</l>
+               <l>                                       content,</l>
+               <l>Why seek'st not heav'n the third realm to frequent?</l>
+               <l>Heaven thou affects, with romulus, temples brave</l>
+               <l>Bacchus, alcides, and now caesar have.</l>
+               <l>Gold from the earth instead of fruits we pluck,</l>
+               <l>Soldiers by blood to be enriched have luck.</l>
+               <l>Courts shut the poor out; wealth gives estimation,</l>
+               <l>Thence grows the judge, and knight of reputation.</l>
+               <l>All they possess: they govern fields, and laws,</l>
+               <l>They manage peace, and raw wars' bloody jaws,</l>
+               <l>Only our loves let not such rich churls gain,</l>
+               <l>'tis well, if some wench for the poor remain.</l>
+               <l>Now, sabine-like, though chaste she seems to live,</l>
+               <l>One her commands, who many things can give.</l>
+               <l>For me, she doth keeper, and husband fear.</l>
+               <l>If i should give, both would the house forbear.</l>
+               <l>If of scorned lovers god be venger just,</l>
+            </div>
+            <div n="3.8" type="elegy">
+               <l>                   tibulli mortem deflet.</l>
+               <l>If thetis, and the morn their sons did wail,</l>
+               <l>And envious fates great goddesses assail,</l>
+               <l>Sad elegia thy woeful hairs unbind:</l>
+               <l>Ah now a name too true thou hast, i find.</l>
+               <l>Tibullus, thy work's poet, and thy fame,</l>
+               <l>Burns his dead body in the funeral flame.</l>
+               <l>Lo cupid brings his quiver spoiled quite,</l>
+               <l>His broken bow, his firebrand without light.</l>
+               <l>How piteously with drooping wings he stands,</l>
+               <l>And knocks his bare breast with self-angry hands.</l>
+               <l>The locks spread on his neck receive his tears,</l>
+               <l>And shaking sobs his mouth for speeches bears.</l>
+               <l>So at aeneas' burial men report,</l>
+               <l>Fair-faced julus, he went forth thy court.</l>
+               <l>And venus grieves, tibullus' life being spent,</l>
+               <l>As when the wild boar adon's groin had rent.</l>
+               <l>The gods care we are called, and men of piety,</l>
+               <l>And some there be that think we have a deity.</l>
+               <l>Outrageous death profanes all holy things</l>
+               <l>And on all creatures obscure darkness brings.</l>
+               <l>To thracian orpheus what did parents good?</l>
+               <l>Or songs amazing wild beasts of the wood?</l>
+               <l>Where linus by his father phoebus laid</l>
+               <l>To sing with his unequaled harp is said.</l>
+               <l>See homer from whose fountain ever filled,</l>
+               <l>Pierian dew to poets is distilled.</l>
+               <l>Him the last day in black averne hath drowned,</l>
+               <l>Verses alone are with continuance crowned.</l>
+               <l>The work of poets lasts troy's labor's fame,</l>
+               <l>And that slow web night's falsehood did unframe.</l>
+               <l>So nemesis, so delia famous are,</l>
+               <l>The one his first love, th' other his new care.</l>
+               <l>What profit to us hath our pure life bred?</l>
+               <l>What to have lain alone in empty bed?</l>
+               <l>When bad fates take good men, i am forbode</l>
+               <l>By secret thoughts to think there is a god.</l>
+               <l>Live godly, thou shalt die, though honor heaven,</l>
+               <l>Yet shall thy life be forcibly bereaven.</l>
+               <l>Trust in good verse, tibullus feels death's pains,</l>
+               <l>Scarce rests of all what a small urn contains.</l>
+               <l>Thee sacred poet could sad flames destroy?</l>
+               <l>The holy gods' gilt temples they might fire,</l>
+               <l>That durst to so great wickedness aspire.</l>
+               <l>Eryx' bright empress turned her looks aside,</l>
+               <l>And some, that she refrained tears, have denied.</l>
+               <l>Yet better is't, than if corcyras isle</l>
+               <l>Had thee unknown interred in ground most vile.</l>
+               <l>Thy dying eyes here did thy mother close,</l>
+               <l>Nor did thy ashes her last offerings lose.</l>
+               <l>Part of her sorrow here thy sister bearing,</l>
+               <l>Comes forth her unkembed locks asunder tearing.</l>
+               <l>Nemesis and thy first wench join their kisses</l>
+               <l>With thine, nor this last fire their presence misses.</l>
+               <l>Delia departing, happier loved, she saith,</l>
+               <l>Was i:  thou lived'st, while thou esteemed'st my</l>
+               <l>                                       faith.</l>
+               <l>Nemesis answers, what's my loss to thee?</l>
+               <l>His fainting hand in death engrasped me.</l>
+               <l>If aught remains of us but name and spirit,</l>
+               <l>Tibullus doth elysium's joy inherit.</l>
+               <l>Their youthful brows with ivy girt to meet him,</l>
+               <l>With calvus learned catullus comes and greet him,</l>
+               <l>And thou, if falsely charged to wrong thy friend,</l>
+               <l>Gallus that car'st not blood, and life to spend.</l>
+               <l>With these thy soul walks, souls if death release,</l>
+               <l>The godly, sweet tibullus doth increase.</l>
+               <l>Thy bones i pray may in the urn safe rest,</l>
+               <l>And may th' earth's weight thy ashes nought molest.</l>
+            </div>
+            <div n="3.9" type="elegy">
+               <l>   ad cererem, conquerens quod eius sacris cum amica</l>
+               <l>            concumbere non permittatur.</l>
+               <l>Come were the times of ceres' sacrifice,</l>
+               <l>In empty bed alone my mistress lies.</l>
+               <l>Golden-haired ceres crowned with ears of corn,</l>
+               <l>Why are our pleasures by thy means forborne?</l>
+               <l>Thee, goddess, bountiful all nations judge,</l>
+               <l>Nor less at man's prosperity any grudge.</l>
+               <l>Rude husbandmen baked not their corn before,</l>
+               <l>Nor on the earth was known the name of floor.</l>
+               <l>On mast of oaks, first oracles, men fed,</l>
+               <l>This was their meat, the soft grass was their bed.</l>
+               <l>First ceres taught the seed in fields to swell,</l>
+               <l>She first constrained bulls' necks to bear the yoke,</l>
+               <l>And untilled ground with crooked plowshares broke.</l>
+               <l>Who thinks her to be glad at lovers' smart,</l>
+               <l>And worshipped by their pain, and lying apart?</l>
+               <l>Nor is she, though she loves the fertile fields,</l>
+               <l>A clown, nor no love from her warm breast yields.</l>
+               <l>Be witness crete (nor crete doth all things feign)</l>
+               <l>Crete proud that jove her nursery maintain.</l>
+               <l>There he who rules the world's star-spangled towers,</l>
+               <l>A little boy drunk teat-distilling showers.</l>
+               <l>Faith to the witness jove's praise doth apply,</l>
+               <l>Ceres, i think, no known fault will deny.</l>
+               <l>The goddess saw jasion on candian ide,</l>
+               <l>With strong hand striking wild beasts' bristled hide.</l>
+               <l>She saw, and as her marrow took the flame,</l>
+               <l>Was divers ways distract with love, and shame.</l>
+               <l>Love conquered shame, the furrows dry were burned,</l>
+               <l>And corn with least part of it self returned.</l>
+               <l>When well-tossed mattocks did the ground prepare,</l>
+               <l>Being fit broken with the crooked share,</l>
+               <l>And seeds were equally in large fields cast,</l>
+               <l>The plowman's hopes were frustrate at the last.</l>
+               <l>The grain-rich goddess in high woods did stray,</l>
+               <l>Her long hairs ear-wrought garland fell away.</l>
+               <l>Only was crete fruitful that plenteous year,</l>
+               <l>Where ceres went each place was harvest there.</l>
+               <l>Ida the seat of groves did sing with corn,</l>
+               <l>Which by the wild boar in the woods was shorn.</l>
+               <l>Lawgiving minos did such years desire?</l>
+               <l>And wished the goddess long might feel love's fire.</l>
+               <l>Ceres what sports to thee so grievous were,</l>
+               <l>As in thy sacrifice we them forbear?</l>
+               <l>Why am i sad, when proserpine is found,</l>
+               <l>And juno like with dis reigns under ground?</l>
+               <l>Festival days ask venus, songs, and wine,</l>
+               <l>These gifts are meet to please the powers divine.</l>
+            </div>
+            <div n="3.10" type="elegy">
+               <l>      ad amicam, a cuius amore discedere non potest.</l>
+               <l>Long have i borne much, mad thy faults me make:</l>
+               <l>Dishonest love my wearied breast forsake,</l>
+               <l>And what i have borne, shame to bear again.</l>
+               <l>We vanquish, and tread tamed love under feet,</l>
+               <l>Victorious wreaths at length my temples greet.</l>
+               <l>Suffer, and harden:  good grows by this grief,</l>
+               <l>Oft bitter juice brings to the sick relief.</l>
+               <l>I have sustained so oft thrust from the door,</l>
+               <l>To lay my body on the hard moist floor.</l>
+               <l>I know not whom thou lewdly didst embrace,</l>
+               <l>When i to watch supplied a servant's place.</l>
+               <l>I saw when forth a tired lover went,</l>
+               <l>His side past service, and his courage spent.</l>
+               <l>Yet this is less, than if he had seen me,</l>
+               <l>May that shame fall mine enemies' chance to be.</l>
+               <l>When have not i fixed to thy side close laid?</l>
+               <l>I have thy husband, guard, and fellow played.</l>
+               <l>The people by my company she pleased,</l>
+               <l>My love was cause that more men's love she seized.</l>
+               <l>What should i tell her vain tongue's filthy lies,</l>
+               <l>And to my loss god-wronging perjuries?</l>
+               <l>What secret becks in banquets with her youths,</l>
+               <l>With privy signs, and talk dissembling truths?</l>
+               <l>Hearing her to be sick, i thither ran,</l>
+               <l>But with my rival sick she was not then.</l>
+               <l>These hardened me, with what i keep obscure,</l>
+               <l>Some other seek, who will these things endure,</l>
+               <l>Now my ship in the wished haven crowned,</l>
+               <l>With joy hears neptune's swelling waters sound.</l>
+               <l>Leave thy once powerful words, and flatteries,</l>
+               <l>I am not as i was before, unwise.</l>
+               <l>Now love, and hate my light breast each way move;</l>
+               <l>But victory, i think will hap to love.</l>
+               <l>I'll hate, if i can;  if not, love 'gainst my will:</l>
+               <l>Bulls hate the yoke, yet what they hate have still.</l>
+               <l>I fly her lust, but follow beauty's creature;</l>
+               <l>I loathe her manners, love her body's feature.</l>
+               <l>Nor with thee, nor without thee can i live,</l>
+               <l>And doubt to which desire the palm to give.</l>
+               <l>Or less fair, or less lewd would thou mightst be,</l>
+               <l>Beauty with lewdness doth right ill agree.</l>
+               <l>Her deeds gain hate, her face entreateth love:</l>
+               <l>Ah, she doth more worth than her vices prove.</l>
+               <l>The gods who by thee to be perjured fall,</l>
+               <l>And by thy face to me a power divine,</l>
+               <l>And by thine eyes whose radiance burns out mine.</l>
+               <l>Whate'er thou art mine art thou:  choose this course,</l>
+               <l>Wilt have me willing, or to love by force?</l>
+               <l>Rather i'll hoist up sail, and use the wind,</l>
+               <l>That i may love yet, though against my mind.</l>
+            </div>
+            <div n="3.11" type="elegy">
+               <l>     dolet amicam suam ita suis carminibus innotuisse</l>
+               <l>              ut rivales multos sibi pararit.</l>
+               <l>What day was that, which all sad haps to bring,</l>
+               <l>White birds to lovers did not always sing.</l>
+               <l>Or is i think my wish against the stars?</l>
+               <l>Or shall i 'plain some god against me wars?</l>
+               <l>Who mine was called, whom i loved more than any,</l>
+               <l>I fear with me is common now to many.</l>
+               <l>Err i?  or by my books is she so known?</l>
+               <l>'tis so:  by my wit her abuse is grown.</l>
+               <l>And justly:  for her praise why did i tell?</l>
+               <l>The wench by my fault is set forth to sell.</l>
+               <l>The bawd i play, lovers to her i guide:</l>
+               <l>Her gate by my hands is set open wide.</l>
+               <l>'tis doubtful whether verse avail, or harm,</l>
+               <l>Against my good they were an envious charm.</l>
+               <l>When thebes, when troy, when caesar should be writ,</l>
+               <l>Alone corinna moves my wanton wit.</l>
+               <l>With muse opposed would i my lines had done,</l>
+               <l>And phoebus had forsook my work begun.</l>
+               <l>Nor, as use will not poets' record hear,</l>
+               <l>Would i my words would any credit bear.</l>
+               <l>Scylla by us her father's rich hair steals,</l>
+               <l>And scyllae's womb mad raging dogs conceals.</l>
+               <l>We cause feet fly, we mingle hairs with snakes,</l>
+               <l>Victorious perseus a winged steed's back takes.</l>
+               <l>Our verse great tityus a huge space out-spreads,</l>
+               <l>And gives the viper curled dog three heads.</l>
+               <l>We make enceladus use a thousand arms,</l>
+               <l>And men enthralled by mermaids' singing charms.</l>
+               <l>The east winds in ulysses' bags we shut,</l>
+               <l>And blabbing tantalus in mid-waters put.</l>
+               <l>Niobe flint, callist we make a bear,</l>
+               <l>Bird-changed progne doth her itis tear.</l>
+               <l>Jove turns himself into a swan, or gold,</l>
+               <l>Proteus what should i name?  teeth, thebes first seed?</l>
+               <l>Oxen in whose mouths burning flames did breed,</l>
+               <l>Heaven star electra that bewailed her sisters?</l>
+               <l>The ships, whose godhead in the sea now glisters?</l>
+               <l>The sun turned back from atreus' cursed table?</l>
+               <l>And sweet touched harp that to move stones was able?</l>
+               <l>Poets large power is boundless, and immense,</l>
+               <l>Nor have their words true histories' pretense,</l>
+               <l>And my wench ought to have seemed falsely praised.</l>
+               <l>Now your credulity harm to me hath raised.</l>
+            </div>
+            <div n="3.12" type="elegy">
+               <l>                     de junonis festo.</l>
+               <l>When fruit filled tuscia should a wife give me,</l>
+               <l>We touched the walls, camillus won by thee.</l>
+               <l>The priests to juno did prepare chaste feasts,</l>
+               <l>With famous pageants, and their home-bred beasts.</l>
+               <l>To know their rites, well recompensed my stay,</l>
+               <l>Though thither leads a rough steep hilly way.</l>
+               <l>There stands an old wood with thick trees dark</l>
+               <l>                                       clouded.</l>
+               <l>Who sees it, grants some deity there is shrouded.</l>
+               <l>An altar takes men's incense, and oblation,</l>
+               <l>An altar made after the ancient fashion.</l>
+               <l>Here when the pipe with solemn tunes doth sound,</l>
+               <l>The annual pomp goes on the covered ground.</l>
+               <l>White heifers by glad people forth are led,</l>
+               <l>Which with the grass of tuscan fields are fed.</l>
+               <l>And calves from whose feared front no threatening</l>
+               <l>                                       flies,</l>
+               <l>And little pigs, base hogsties' sacrifice,</l>
+               <l>And rams with horns their hard heads wreathed back.</l>
+               <l>Only the goddess hated goat did lack,</l>
+               <l>By whom disclosed, she in the high woods took,</l>
+               <l>Is said to have attempted flight forsook.</l>
+               <l>Now is the goat brought through the boys with darts,</l>
+               <l>And give to him that the first wound imparts.</l>
+               <l>Where juno comes, each youth, and pretty maid,</l>
+               <l>Show large ways with their garments there displayed.</l>
+               <l>Jewels, and gold their virgin tresses crown,</l>
+               <l>And stately robes to their gilt feet hang down.</l>
+               <l>Upon their heads the holy mysteries had.</l>
+               <l>When the chief pomp comes, loud the people hollow,</l>
+               <l>And she her vestal virgin priests doth follow.</l>
+               <l>Such was the greek pomp, agamemnon dead,</l>
+               <l>Which fact, and country wealth halesus fled,</l>
+               <l>And having wandered now through sea and land,</l>
+               <l>Built walls high towered with a prosperous hand.</l>
+               <l>He to th' hetrurians juno's feast commended,</l>
+               <l>Let me, and them by it be aye befriended.</l>
+            </div>
+            <div n="3.13" type="elegy">
+               <l>     ad amicam, si peccatura est, ut occulte peccet.</l>
+               <l>Seeing thou art fair, i bar not thy false playing,</l>
+               <l>But let not me poor soul know of thy straying.</l>
+               <l>Nor do i give thee counsel to live chaste,</l>
+               <l>But that thou wouldst dissemble, when 'tis past.</l>
+               <l>She hath not trod awry, that doth deny it.</l>
+               <l>Such as confess have lost their good names by it.</l>
+               <l>What madness is't to tell night's pranks by day?</l>
+               <l>And hidden secrets openly to bewray?</l>
+               <l>The strumpet with the stranger will not do,</l>
+               <l>Before the room be clear, and door put to.</l>
+               <l>Will you make shipwrack of your honest name,</l>
+               <l>And let the world be witness of the same?</l>
+               <l>Be more advised, walk as a puritan,</l>
+               <l>And i shall think you chaste, do what you can.</l>
+               <l>Slip still, only deny it, when 'tis done,</l>
+               <l>And before folk immodest speeches shun.</l>
+               <l>The bed is for lascivious toyings meet,</l>
+               <l>There use all tricks, and tread shame under feet.</l>
+               <l>When you are up, and dressed, be sage and grave,</l>
+               <l>And in the bed hide all the faults you have.</l>
+               <l>Be not ashamed to strip you being there,</l>
+               <l>And mingle thighs yours ever mine to bear.</l>
+               <l>There in your rosy lips my tongue entombed,</l>
+               <l>Practice a thousand sports when there you come.</l>
+               <l>Forbear no wanton words you there would speak,</l>
+               <l>And with your pastime let the bedstead creak.</l>
+               <l>But with your robes put on an honest face,</l>
+               <l>And blush, and seem as you were full of grace.</l>
+               <l>Deceive all, let me err, and think i am right,</l>
+               <l>And like a wittol think thee void of slight.</l>
+               <l>This bed and that by tumbling made uneven?</l>
+               <l>Like one start up your hair tossed and displaced,</l>
+               <l>And with a wanton's tooth your neck new raced?</l>
+               <l>Grant this, that what you do i may not see,</l>
+               <l>If you weigh not ill speeches, yet weigh me.</l>
+               <l>My soul fleets, when i think what you have done,</l>
+               <l>And through every vein doth cold blood run.</l>
+               <l>Then thee whom i must love, i hate in vain,</l>
+               <l>And would be dead, but dead with thee remain.</l>
+               <l>I'll not sift much, but hold thee soon excused,</l>
+               <l>Say but thou wert injuriously accused.</l>
+               <l>Though while the deed be doing you be took,</l>
+               <l>And i see when you ope the two-leaved book,</l>
+               <l>Swear i was blind, deny, if you be wise,</l>
+               <l>And i will trust your words more than mine eyes.</l>
+               <l>From him that yields the palm is quickly got,</l>
+               <l>Teach but your tongue to say, i did it not,</l>
+               <l>And being justified by two words think,</l>
+               <l>The cause acquits you not, but i that wink.</l>
+            </div>
+            <div n="3.14" type="elegy">
+               <l>         ad venerem, quod elegis finem imponat.</l>
+               <l>Tender love's mother a new poet get,</l>
+               <l>This last end to my elegies is set,</l>
+               <l>Which i, peligny's foster-child have framed,</l>
+               <l>(nor am i by such wanton toys defamed)</l>
+               <l>Heir of an ancient house, if help that can,</l>
+               <l>Not only by war's rage made gentleman.</l>
+               <l>In virgil mantua joys:  in catul verone,</l>
+               <l>Of me peligny's nation boasts alone,</l>
+               <l>Whom liberty to honest arms compelled,</l>
+               <l>When careful rome in doubt their prowess held.</l>
+               <l>And some guest viewing wat'ry sulmo's walls,</l>
+               <l>Where little ground to be enclosed befalls,</l>
+               <l>How such a poet could you bring forth, says,</l>
+               <l>How small soe'er, i'll you for greatest praise,</l>
+               <l>Both loves to whom my heart long time did yield,</l>
+               <l>Your golden ensigns pluck out of my field,</l>
+               <l>Horned bacchus graver fury doth distill.</l>
+               <l>A greater ground with great horse is to till.</l>
+               <l>Weak elegies, delightful muse farewell;</l>
+               <l>A work, that after my death, here shall dwell.</l>
+               <l>                          finis.</l>
+            </div>
+         </div>
+      </body>
+  </text>
+</TEI>
+

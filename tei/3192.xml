@@ -1,0 +1,1504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Comus: a mask presented at Ludlow-Castle, 1634 &amp;c. </title>
+            <author>Milton, John, 1608-1674</author>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>University of Oxford Text Archive</name>
+               <address>
+                  <addrLine>Oxford University Computing Services</addrLine>
+                  <addrLine>13 Banbury Road</addrLine>
+                  <addrLine>Oxford</addrLine>
+                  <addrLine>OX2 6NN</addrLine>
+               </address>
+               <email>ota@oucs.ox.ac.uk</email>
+            </distributor>
+            <idno type="ota">http://ota.ox.ac.uk/id/3192</idno>
+            <idno type="isbn10">1106001915</idno>
+            <idno type="isbn13">9781106001917</idno>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/3.0/">
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License
+      </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Revised version of  <relatedItem type="older" target="http://ota.ox.ac.uk/id/2215"/>
+            </bibl>
+            <bibl>Not recorded. "Italics and accents added based on the John T. Shawcross 
+edition"--from the depositor of the electronic text. 
+<note>First printed anonymously and untitled in 1637.</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="OTASH">
+               <bibl>University of Oxford Text Archive Subject Headings</bibl>
+            </taxonomy>
+            <taxonomy xml:id="LCSH">
+               <bibl>Library of Congress Subject Headings</bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <creation>
+            <date notAfter="1637"/>
+         </creation>
+         <langUsage>
+            <language ident="eng">English</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="#LCSH">
+               <term type="genre">Plays -- England -- 17th century</term>
+               <term type="genre">Masques -- England -- 17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2010-09-29">Header normalised</change>
+      </revisionDesc>
+  </teiHeader>
+  <text>
+      <front>
+         <titlePage>
+            <docTitle>
+               <titlePart type="main">
+                  <title type="main">Comus</title>
+                  <title type="sub">A Mask Presented at Ludlow-Castle, 1634 &amp;c.</title>
+               </titlePart>
+            </docTitle>
+            <byline>by 
+<docAuthor>John Milton</docAuthor>
+            </byline>
+         </titlePage>
+      </front>
+      <body>
+         <div type="Persons">
+            <head>The Persons</head>
+            <list>
+               <item>The attendant Spirit afterwards in the habit of Thyrsis.</item>
+               <item>The Lady.</item>
+               <item>1. Brother.</item>
+               <item>2. Brother.</item>
+               <item>Comus with his crew.</item>
+               <item>Sabrina the Nymph.</item>
+            </list>
+            <p>The cheif persons which presented, were <lb/>
+The Lord Bracly, <lb/>
+Mr. Thomas Egerton his Brother, <lb/>
+The Lady Alice Egerton. 
+
+</p>
+         </div>
+         <div type="Mask">
+            <lb/>
+            <stage>
+               <hi>The first Scene discovers a wilde Wood The attendant Spirit descends or enters</hi>
+            </stage>
+            <sp>
+               <l>BEFORE the starry threshold of <hi>Joves</hi> Court </l>
+               <l>My mansion is, where those immortal shapes </l>
+               <l>Of bright aëreal Spirits live insphear'd </l>
+               <l>In Regions milde of calm and serene Ayr, </l>
+               <l>Above the smoak and stirr of this dim spot, </l>
+               <l>Which men call Earth, and with low-thoughted care </l>
+               <l>Confin'd, and pester'd in this pin-fold here, </l>
+               <l>Strive to keep up a frail, and Feaverish being </l>
+               <l>Unmindfull of the crown that Vertue gives </l>
+               <l>After this mortal change, to her true Servants </l>
+               <l>Amongst the enthron'd gods on Sainted seats. </l>
+               <l>Yet som there be that by due steps aspire </l>
+               <l>To lay their just hands on that Golden Key </l>
+               <l>That ope's the Palace of Eternity: </l>
+               <l>To such my errand is, and but for such, </l>
+               <l>I would not soil these pure Ambrosial weeds, </l>
+               <l>With the rank vapours of this Sin-worn mould. </l>
+               <l>  But to my task. <hi>Neptune</hi> besides the sway </l>
+               <l>Of every salt Flood, and each ebbing Stream, </l>
+               <l>Took in by lot 'twixt high, and neather <hi>Jove</hi>, </l>
+               <l>Imperial rule of all the Sea-girt Iles </l>
+               <l>That like to rich, and various gemms inlay </l>
+               <l>The unadorned boosom of the Deep, </l>
+               <l>Which he to grace his tributary gods </l>
+               <l>By course commits to severall government, </l>
+               <l>And gives them leave to wear their Saphire crowns, </l>
+               <l>And weild their little tridents, but this Ile </l>
+               <l>The greatest, and the best of all the main </l>
+               <l>He quarters to his blu-hair'd deities, </l>
+               <l>And all this tract that fronts the falling Sun </l>
+               <l>A noble Peer of mickle trust, and power </l>
+               <l>Has in his charge, with temper'd awe to guide </l>
+               <l>An old, and haughty Nation proud in Arms: </l>
+               <l>Where his fair off-spring nurs't in Princely lore, </l>
+               <l>Are coming to attend their Fathers state, </l>
+               <l>And new-entrusted Scepter, but their way </l>
+               <l>Lies through the perplex't paths of this drear Wood, </l>
+               <l>The nodding horror of whose shady brows </l>
+               <l>Threats the forlorn and wandring Passinger. </l>
+               <l>And here their tender age might suffer perill, </l>
+               <l>But that by quick command from Soveran <hi>Jove</hi> 
+               </l>
+               <l>I was dispatcht for their defence, and guard; </l>
+               <l>And listen why for I will tell ye now </l>
+               <l>What never yet was heard in Tale or Song </l>
+               <l>From old, or modern Bard in Hall, or Bowr. </l>
+               <l>  Bacchus that first from out the purple Grape, </l>
+               <l>Crush't the sweet poyson of mis-used Wine </l>
+               <l>After the <hi>Tuscan</hi> Mariners transform'd </l>
+               <l>Coasting the <hi>Tyrrhene</hi> shore, as the winds listed, </l>
+               <l>On <hi>Circes</hi> Iland fell (who knows not <hi>Circe</hi> 
+               </l>
+               <l>The daughter of the Sun? Whose charmed Cup </l>
+               <l>Whoever tasted, lost his upright shape, </l>
+               <l>And downward fell into a groveling Swine) </l>
+               <l>This Nymph that gaz'd upon his clustring locks, </l>
+               <l>With Ivy berries wreath' d, and his blithe youth, </l>
+               <l>Had by him, ere he parted thence, a Son </l>
+               <l>Much like his Father, but his Mother more, </l>
+               <l>Whom therfore she brought up and Comus nam'd, </l>
+               <l>Who ripe, and frolick of his full grown age, </l>
+               <l>Roaving the <hi>Celtick</hi>, and <hi>Iberian</hi> fields, </l>
+               <l>At last betakes him to this ominous Wood, </l>
+               <l>And in thick shelter of black shades imbowr'd, </l>
+               <l>Excells his Mother at her mighty Art, </l>
+               <l>Offring to every weary Travailer, </l>
+               <l>His orient liquor in a Crystal Glasse, </l>
+               <l>To quench the drouth of <hi>Phoebus</hi>, which as they taste </l>
+               <l>(For most do taste through fond intemperate thirst) </l>
+               <l>Soon as the Potion works, their human count'nance, </l>
+               <l>Th' express resemblance of the gods, is chang'd </l>
+               <l>Into som brutish form of Woolf, or Bear, </l>
+               <l>Or Ounce, or Tiger, Hog, or bearded Goat, </l>
+               <l>All other parts remaining as they were, </l>
+               <l>And they, so perfect is their misery, </l>
+               <l>Not once perceive their foul disfigurement, </l>
+               <l>But boast themselves more comely then before </l>
+               <l>And all their friends, and native home forget </l>
+               <l>To roule with pleasure in a sensual stie. </l>
+               <l>Therfore when any favour'd of high <hi>Jove</hi>, </l>
+               <l>Chances to pass through this adventrous glade, </l>
+               <l>Swift as the Sparkle of a glancing Star, </l>
+               <l>I shoot from Heav'n to give him safe convoy, </l>
+               <l>As now I do: But first I must put off </l>
+               <l>These my skie robes spun out of <hi>Iris</hi> Wooff, </l>
+               <l>And take the Weeds and likenes of a Swain, </l>
+               <l>That to the service of this house belongs, </l>
+               <l>Who with his soft Pipe, and smooth-dittied Song, </l>
+               <l>Well knows to still the wilde winds when they roar, </l>
+               <l>And hush the waving Woods, nor of lesse faith, </l>
+               <l>And in this office of his Mountain watch, </l>
+               <l>Likeliest, and neerest to the present ayd </l>
+               <l>Of this occasion. But I hear the tread </l>
+               <l>Of hatefull steps, I must be viewless now. </l>
+            </sp>
+            <lb/>
+            <stage>Comus <hi>enters with a Charming Rod in one hand, his Glass in the other, with him a rout of Monsters, headed like sundry sorts of wilde Beasts, but otherwise like Men and Women, their Apparel glistring, they com in making a riotous and unruly noise, with Torches in their hands.</hi>
+            </stage>
+            <sp>
+               <speaker>Comus.</speaker>
+               <l>The Star that bids the Shepherd fold, </l>
+               <l>Now the top of Heav'n doth hold, </l>
+               <l>And the gilded Car of Day, </l>
+               <l>His glowing Axle doth allay </l>
+               <l>In the steep <hi>Atlantick</hi> stream, </l>
+               <l>And the slope Sun his upward beam </l>
+               <l>Shoots against the dusky Pole, </l>
+               <l>Pacing toward the other gole </l>
+               <l>Of his Chamber in the East. </l>
+               <l>Mean while welcom Joy, and Feast, </l>
+               <l>Midnight shout, and revelry, </l>
+               <l>Tipsie dance, and Jollity. </l>
+               <l>Braid your Locks with rosie Twine </l>
+               <l>Dropping odours, dropping Wine. </l>
+               <l>Rigor now is gon to bed, </l>
+               <l>And Advice with scrupulous head, </l>
+               <l>Strict Age, and sowre Severity, </l>
+               <l>With their grave Saws in slumber ly. </l>
+               <l>We that are of purer fire </l>
+               <l>Imitate the Starry Quire, </l>
+               <l>Who in their nightly watchfull Sphears, </l>
+               <l>Lead in swift round the Months and Years. </l>
+               <l>The Sounds, and Seas with all their finny drove </l>
+               <l>Now to the Moon in wavering Morrice move, </l>
+               <l>And on the Tawny Sands and Shelves, </l>
+               <l>Trip the pert Fairies and the dapper Elves; </l>
+               <l>By dimpled Brook, and Fountain brim, </l>
+               <l>The Wood-Nymphs deckt with Daisies trim, </l>
+               <l>Their merry wakes and pastimes keep: </l>
+               <l>What hath night to do with sleep? </l>
+               <l>Night hath better sweets to prove, </l>
+               <l>
+                  <hi>Venus</hi> now wakes, and wak'ns Love. </l>
+               <l>Com let us our rights begin, </l>
+               <l>'Tis onely day-light that makes Sin </l>
+               <l>Which these dun shades will ne're report. </l>
+               <l>Hail Goddesse of Nocturnal sport </l>
+               <l>Dark vaild Cotytto, t' whom the secret flame </l>
+               <l>Of mid-night Torches burns; mysterious Dame </l>
+               <l>That ne're art call'd, but when the Dragon woom </l>
+               <l>Of Stygian darknes spets her thickest gloom, </l>
+               <l>And makes one blot of all the ayr, </l>
+               <l>Stay thy cloudy Ebon chair, </l>
+               <l>Wherin thou rid'st with <hi>Hecat</hi>', and befriend </l>
+               <l>Us thy vow'd Priests, til utmost end </l>
+               <l>Of all thy dues be done, and none left out, </l>
+               <l>Ere the blabbing Eastern scout, </l>
+               <l>The nice Morn on th' <hi>Indian</hi> steep </l>
+               <l>From her cabin'd loop hole peep, </l>
+               <l>And to the tel-tale Sun discry </l>
+               <l>Our conceal'd Solemnity. </l>
+               <l>Com, knit hands, and beat the ground, </l>
+               <l>In a light fantastick round. <lb/>
+                  <stage>
+                     <hi>The Measure</hi>
+                  </stage>
+               </l>
+               <l>Break off, break off, I feel the different pace, </l>
+               <l>Of som chast footing neer about this ground. </l>
+               <l>Run to your shrouds, within these Brakes and Trees, </l>
+               <l>Our number may affright: Som Virgin sure </l>
+               <l>(For so I can distinguish by mine Art) </l>
+               <l>Benighted in these Woods. Now to my charms, </l>
+               <l>And to my wily trains, I shall e're long </l>
+               <l>Be well stock't with as fair a herd as graz'd </l>
+               <l>About my Mother <hi>Circe</hi>. Thus I hurl </l>
+               <l>My dazling Spells into the spungy ayr, </l>
+               <l>Of power to cheat the eye with blear illusion, </l>
+               <l>Ada give it false presentments, lest the place </l>
+               <l>And my quaint habits breed astonishment, </l>
+               <l>And put the Damsel to suspicious flight, </l>
+               <l>Which must not be, for that's against my course; </l>
+               <l>I under fair pretence of friendly ends, </l>
+               <l>And well plac't words of glozing courtesie </l>
+               <l>Baited with reasons not unplausible </l>
+               <l>Wind me into the easie-hearted man, </l>
+               <l>And hugg him into snares. When once her eye </l>
+               <l>Hath met the vertue of this Magick dust, </l>
+               <l>I shall appear som harmles Villager </l>
+               <l>Whom thrift keeps up about his Country gear, </l>
+               <l>But here she comes, I fairly step aside, </l>
+               <l>And hearken, if I may, her busines here. </l>
+            </sp>
+            <lb/>
+            <stage>
+               <hi>The Lady enters</hi>
+            </stage>
+            <sp>
+               <speaker>Lady.</speaker>
+               <l>This way the noise was, if mine ear be true, </l>
+               <l>My best guide now, me thought it was the sound </l>
+               <l>Of Riot, and ill manag'd Merriment, </l>
+               <l>Such as the jocond Flute, or gamesom Pipe </l>
+               <l>Stirs up among the loose unleter'd Hinds, </l>
+               <l>When for their teeming Flocks, and granges full </l>
+               <l>In wanton dance they praise the bounteous <hi>Pan</hi>, </l>
+               <l>And thank the gods amiss. I should be loath </l>
+               <l>To meet the rudenesse, and swill'd insolence </l>
+               <l>Of such late Wassailers; yet O where els </l>
+               <l>Shall I inform my unacquainted feet </l>
+               <l>In the blind mazes of this tangl'd Wood? </l>
+               <l>My Brothers when they saw me wearied out </l>
+               <l>With this long way, resolving here to lodge </l>
+               <l>Under the spreading favour of these Pines, </l>
+               <l>Stept as they se'd to the next Thicket side </l>
+               <l>To bring me Berries, or such cooling fruit </l>
+               <l>As the kind hospitable Woods provide. </l>
+               <l>They left me then, when the gray-hooded Eev'n </l>
+               <l>Like a sad Votarist in Palmers weed </l>
+               <l>Rose from the hindmost wheels of <hi>Phoebus</hi> wain. </l>
+               <l>But where they are, and why they came not back, </l>
+               <l>Is now the labour of my thoughts, 'tis likeliest </l>
+               <l>They had ingag'd their wandring steps too far, </l>
+               <l>And envious darknes, e're they could return, </l>
+               <l>Had stole them from me, els O theevish Night </l>
+               <l>Why shouldst thou, but for som fellonious end, </l>
+               <l>In thy dark lantern thus close up the Stars, </l>
+               <l>That nature hung in Heav'n, and fill'd their Lamps </l>
+               <l>With everlasting to give due light </l>
+               <l>To the misled and lonely Travailer? </l>
+               <l>This is the place, as well as I may guess, </l>
+               <l>Whence eev'n now the tumult of loud Mirth </l>
+               <l>Was rife, and perfet in my list'ning ear, </l>
+               <l>Yet nought but single darknes do I find. </l>
+               <l>What might this be? A thousand fantasies </l>
+               <l>Begin to throng into my memory </l>
+               <l>Of calling shapes, and beckning shadows dire, </l>
+               <l>And airy tongues, that syllable mens names </l>
+               <l>On Sands, and Shoars, and desert Wildernesses. </l>
+               <l>These thoughts may startle well, but not astound </l>
+               <l>The vertuous mind, that ever walks attended </l>
+               <l>By a strong siding champion Conscience.— </l>
+               <l>O welcom pure-ey'd Faith, white-handed Hope, </l>
+               <l>Thou hovering Angel girt with golden wings, </l>
+               <l>And thou unblemish't form of Chastity, </l>
+               <l>I see ye visibly, and now beleeve </l>
+               <l>That he, the Supreme good, t'whom all things ill </l>
+               <l>Are but as slavish officers of vengeance, </l>
+               <l>Would send a glistring Guardian if need were </l>
+               <l>To keep my life and honour unassail'd. </l>
+               <l>Was I deceiv'd, or did a sable cloud </l>
+               <l>Turn forth her silver lining on the night? </l>
+               <l>I did not err, there does a sable cloud </l>
+               <l>Turn forth her silver lining on the night </l>
+               <l>And casts a gleam over this tufted Grove. </l>
+               <l>I cannot hallow to my Brothers, but </l>
+               <l>Such noise as I can make to be heard farthest </l>
+               <l>Ile venter, for my new enliv'nd spirits </l>
+               <l>Prompt me; and they perhaps are not far off. </l>
+            </sp>
+            <lb/>
+            <stage>
+               <hi>SONG</hi>
+            </stage>
+            <sp>
+               <l/>
+               <l>
+                  <hi>Sweet Echo, sweetest Nymph that livst unseen</hi>
+               </l>
+               <l>
+                  <hi>Within thy airy shell</hi>
+               </l>
+               <l>
+                  <hi>By slow Mæander's margent green,</hi>
+               </l>
+               <l>
+                  <hi>And in the violet imbroider'd vale</hi>
+               </l>
+               <l>
+                  <hi>Where the love-lorn Nightingale</hi>
+               </l>
+               <l>
+                  <hi>Nightly to thee her sad Song mourneth well.</hi>
+               </l>
+               <l>
+                  <hi>Canst thou not tell me of a gentle Pair</hi>
+               </l>
+               <l>
+                  <hi>That likest thy Narcissus are?</hi>
+               </l>
+               <l>
+                  <hi>O if thou have</hi>
+               </l>
+               <l>
+                  <hi>Hid them in som flowry Cave,</hi>
+               </l>
+               <l>
+                  <hi>Tell me but where</hi>
+               </l>
+               <l>
+                  <hi>Sweet Queen of Parly, Daughter of the Sphear,</hi>
+               </l>
+               <l>
+                  <hi>So maist thou be translated to the skies,</hi>
+               </l>
+               <l>
+                  <hi>And give resounding grace to all Heavns Harmonies.</hi>
+               </l>
+               <l/>
+            </sp>
+            <sp>
+               <speaker>Com.</speaker>
+               <l>Can any mortal mixture of Earths mould </l>
+               <l>Breath such Divine inchanting ravishment? </l>
+               <l>Sure somthing holy lodges in that brest, </l>
+               <l>And with these raptures moves the vocal air </l>
+               <l>To testifie his hidd'n residence; </l>
+               <l>How sweetly did they float upon the wings </l>
+               <l>Of silence, through the empty-vaulted night </l>
+               <l>At every fall smoothing the Raven doune </l>
+               <l>Of darknes till it smil'd: have oft heard </l>
+               <l>My mother <hi>Circe</hi> with the Sirens three, </l>
+               <l>Amid'st the flowry-kirtl'd <hi>Naiades</hi> 
+               </l>
+               <l>Culling their Potent hearbs, and balefull drugs, </l>
+               <l>Who as they sung, would take the prison'd soul, </l>
+               <l>And lap it in <hi>Elysium, Scylla</hi> wept, </l>
+               <l>And chid her barking waves into attention, </l>
+               <l>And fell <hi>Charybdis</hi> murmur'd soft applause: </l>
+               <l>Yet they in pleasing slumber lull'd the sense, </l>
+               <l>And in sweet madness rob'd it of it self, </l>
+               <l>But such a sacred, and home-felt delight, </l>
+               <l>Such sober certainty of waking bliss </l>
+               <l>I never heard till now. Ile speak to her </l>
+               <l>And she shall be my Queen. Hail forren wonder </l>
+               <l>Whom certain these rough shades did never breed </l>
+               <l>Unlesse the Goddes that in rurall shrine </l>
+               <l>Dwell'st here with <hi>Pan</hi>, or <hi>Silvan</hi>, by blest Song </l>
+               <l>Forbidding every bleak unkindly Fog </l>
+               <l>To touch the prosperous growth of this tall Wood. </l>
+            </sp>
+            <sp>
+               <speaker>La.</speaker>
+               <l>Nay gentle Shepherd ill is lost that praise </l>
+               <l>That is addrest to unattending Ears, </l>
+               <l>Not any boast of skill, but extreme shift </l>
+               <l>How to regain my sever'd company </l>
+               <l>Compell'd me to awake the courteous Echo </l>
+               <l>To give me answer from her mossie Couch. </l>
+            </sp>
+            <sp>
+               <speaker>Co.</speaker>
+               <l>What chance good Lady hath bereft you thus? </l>
+            </sp>
+            <sp>
+               <speaker>La.</speaker>
+               <l>Dim darknes, and this leavy Labyrinth. </l>
+            </sp>
+            <sp>
+               <speaker>Co.</speaker>
+               <l>Could that divide you from neer-ushering guides? </l>
+            </sp>
+            <sp>
+               <speaker>La.</speaker>
+               <l>They left me weary on a grassie terf. </l>
+            </sp>
+            <sp>
+               <speaker>Co.</speaker>
+               <l>By falshood, or discourtesie, or why? </l>
+            </sp>
+            <sp>
+               <speaker>La.</speaker>
+               <l>To seek i'th vally som cool friendly Spring. </l>
+            </sp>
+            <sp>
+               <speaker>Co.</speaker>
+               <l>And left your fair side all unguarded Lady? </l>
+            </sp>
+            <sp>
+               <speaker>La.</speaker>
+               <l>They were but twain, and purpos'd quick return. </l>
+            </sp>
+            <sp>
+               <speaker>Co.</speaker>
+               <l>Perhaps fore-stalling night prevented them. </l>
+            </sp>
+            <sp>
+               <speaker>La.</speaker>
+               <l>How easie my misfortune is to hit! </l>
+            </sp>
+            <sp>
+               <speaker>Co.</speaker>
+               <l>Imports their loss, beside the present need? </l>
+            </sp>
+            <sp>
+               <speaker>La.</speaker>
+               <l>No less then if I should my brothers loose. </l>
+            </sp>
+            <sp>
+               <speaker>Co.</speaker>
+               <l>Were they of manly prime, or youthful bloom? </l>
+            </sp>
+            <sp>
+               <speaker>La.</speaker>
+               <l>As smooth as <hi>Hebe's</hi> their unrazor'd lips. </l>
+            </sp>
+            <sp>
+               <speaker>Co.</speaker>
+               <l>Two such I saw, what time the labour'd Oxe </l>
+               <l>In his loose traces from the furrow came, </l>
+               <l>And the swink't hedger at his Supper sate; </l>
+               <l>I saw them under a green mantling vine </l>
+               <l>That crawls along the side of yon small hill, </l>
+               <l>Plucking ripe clusters from the tender shoots, </l>
+               <l>Their port was more then human, as they stood; </l>
+               <l>I took it for a faery vision </l>
+               <l>Of som gay creatures of the element </l>
+               <l>That in the colours of the Rainbow live </l>
+               <l>And play i'th plighted clouds. I was aw-strook, </l>
+               <l>And as I past, I worshipt: if those you seek </l>
+               <l>It were a journey like the path to Heav'n, </l>
+               <l>To help you find them. La. Gentle villager </l>
+               <l>What readiest way would bring me to that place? </l>
+            </sp>
+            <sp>
+               <speaker>Co.</speaker>
+               <l>Due west it rises from this shrubby point. </l>
+            </sp>
+            <sp>
+               <speaker>La.</speaker>
+               <l>To find out that, good Shepherd, I suppose, </l>
+               <l>In such a scant allowance of Star-light, </l>
+               <l>Would overtask the best Land-Pilots art, </l>
+               <l>Without the sure guess of well-practiz'd feet. </l>
+            </sp>
+            <sp>
+               <speaker>Co.</speaker>
+               <l>I know each lane, and every alley green </l>
+               <l>Dingle, or bushy dell of this wilde Wood, </l>
+               <l>And every bosky bourn from side to side </l>
+               <l>My daily walks and ancient neighbourhood, </l>
+               <l>And if your stray attendance be yet lodg'd, </l>
+               <l>Or shroud within these limits, I shall know </l>
+               <l>Ere morrow wake, or the low roosted lark </l>
+               <l>From her thatch't pallat rowse, if otherwise </l>
+               <l>I can conduct you Lady to a low </l>
+               <l>But loyal cottage, where you may be safe </l>
+               <l>Till further quest'. La. Shepherd I take thy word, </l>
+               <l>And trust thy honest offer'd courtesie, </l>
+               <l>Which oft is sooner found in lowly sheds </l>
+               <l>With smoaky rafters, then in tapstry Halls </l>
+               <l>And Courts of Princes, where it first was nam'd, </l>
+               <l>And yet is most pretended: In a place </l>
+               <l>Less warranted then this, or less secure </l>
+               <l>I cannot be, that I should fear to change it. </l>
+               <l>Eie me blest Providence, and square my triall </l>
+               <l>To my proportion'd strength. Shepherd lead on.— </l>
+            </sp>
+            <lb/>
+            <stage>
+               <hi>The Two Brothers</hi>
+            </stage>
+            <sp>
+               <speaker>Eld. Bro.</speaker>
+               <l>Unmuffle ye faint stars, and thou fair Moon </l>
+               <l>That wontst to love the travailers benizon, </l>
+               <l>Stoop thy pale visage through an amber cloud, </l>
+               <l>And disinherit <hi>Chaos</hi>, that raigns here </l>
+               <l>In double night of darknes, and of shades; </l>
+               <l>Or if your influence be quite damm'd up </l>
+               <l>With black usurping mists, som gentle taper </l>
+               <l>Though a rush Candle from the wicker hole </l>
+               <l>Of som clay habitation visit us </l>
+               <l>With thy long levell'd rule of streaming light, </l>
+               <l>And thou shalt be our star of <hi>Arcady</hi>, </l>
+               <l>Or <hi>Tyrian</hi> Cynosure. </l>
+            </sp>
+            <sp>
+               <speaker>2.Bro.</speaker>
+               <l>Or if our eyes </l>
+               <l>Be barr'd that happines, might we but hear </l>
+               <l>The folded flocks pen'd in their watled cotes, </l>
+               <l>Or sound of pastoral reed with oaten stops, </l>
+               <l>Or whistle from the Lodge, or village cock </l>
+               <l>Count the night watches to his feathery Dames, </l>
+               <l>'Twould be som solace yet, som little chearing </l>
+               <l>In this close dungeon of innumerous bowes. </l>
+               <l>But O that haples virgin our lost sister </l>
+               <l>Where may she wander now, whether betake her </l>
+               <l>From the chill dew, amongst rude burrs and thistles? </l>
+               <l>Perhaps som cold bank is her boulster now </l>
+               <l>Or'gainst the rugged bark of som broad Elm </l>
+               <l>Leans her unpillow'd head fraught with sad fears. </l>
+               <l>What if in wild amazement, and affright, </l>
+               <l>Or while we speak within the direfull grasp </l>
+               <l>Of Savage hunger, or of Savage heat? </l>
+            </sp>
+            <sp>
+               <speaker>Eld. Bro.</speaker>
+               <l>Peace brother, be not over-exquisite </l>
+               <l>To cast the fashion of uncertain evils; </l>
+               <l>For grant they be so, while they rest unknown, </l>
+               <l>What need a man forestall his date of grief, </l>
+               <l>And run to meet what he would most avoid? </l>
+               <l>Or if they be but false alarms of Fear, </l>
+               <l>How bitter is such self-delusion? </l>
+               <l>I do not think my sister so to seek, </l>
+               <l>Or so unprincipl'd in vertues book, </l>
+               <l>And the sweet peace that goodnes boosoms ever, </l>
+               <l>As that the single want of light and noise </l>
+               <l>(Not being in danger, as I trust she is not) </l>
+               <l>Could stir the constant mood of her calm thoughts, </l>
+               <l>And put them into mis-becoming plight. </l>
+               <l>Vertue could see to do what vertue would </l>
+               <l>By her own radiant light, though Sun and Moon </l>
+               <l>Were in the flat Sea sunk. And Wisdoms self </l>
+               <l>Oft seeks to sweet retired Solitude, </l>
+               <l>Where with her best nurse Contemplation </l>
+               <l>She plumes her feathers, and lets grow her wings </l>
+               <l>That in the various bussle of resort </l>
+               <l>Were all to ruffl'd, and somtimes impair'd. </l>
+               <l>He that has light within his own cleer brest </l>
+               <l>May sit i'th center, and enjoy bright day, </l>
+               <l>But he that hides a dark soul, and foul thoughts </l>
+               <l>Benighted walks under the mid-day Sun; </l>
+               <l>Himself is his own dungeon. </l>
+            </sp>
+            <sp>
+               <speaker>2. Bro.</speaker>
+               <l>Tis most true </l>
+               <l>That musing meditation most affects </l>
+               <l>The pensive secrecy of desert cell, </l>
+               <l>Far from the cheerfull haunt of men, and herds, </l>
+               <l>And sits as safe as in a Senat house, </l>
+               <l>For who would rob a Hermit of his Weeds, </l>
+               <l>His few Books, or his Beads, or Maple Dish, </l>
+               <l>Or do his gray hairs any violence? </l>
+               <l>But beauty like the fair Hesperian Tree </l>
+               <l>Laden with blooming gold, had need the guard </l>
+               <l>Of dragon watch with uninchanted eye, </l>
+               <l>To save her blossoms, and defend her fruit </l>
+               <l>From the rash hand of bold Incontinence. </l>
+               <l>You may as well spred out the unsun'd heaps </l>
+               <l>Of Misers treasure by an out-laws den, </l>
+               <l>And tell me it is safe, as bid me hope </l>
+               <l>Danger will wink on Opportunity, </l>
+               <l>And let a single helpless maiden pass </l>
+               <l>Uninjur'd in this wilde surrounding wast. </l>
+               <l>Of night, or lonelines it recks me not, </l>
+               <l>I fear the dred events that dog them both, </l>
+               <l>Lest som ill greeting touch attempt the person </l>
+               <l>Of our unowned sister. </l>
+            </sp>
+            <sp>
+               <speaker>Eld. Bro.</speaker>
+               <l>I do not, brother, </l>
+               <l>Inferr, as if I thought my sisters state </l>
+               <l>Secure without all doubt, or controversie: </l>
+               <l>Yet where an equall poise of hope and fear </l>
+               <l>Does arbitrate th' event, my nature is </l>
+               <l>That I encline to hope, rather then fear, </l>
+               <l>And gladly banish squint suspicion. </l>
+               <l>My sister is not so defenceless left </l>
+               <l>As you imagine, she has a hidden strength </l>
+               <l>Which you remember not. </l>
+            </sp>
+            <sp>
+               <speaker>2. Bro.</speaker>
+               <l>What hidden strength, </l>
+               <l>Unless the strength of Heav'n, if you mean that? </l>
+            </sp>
+            <sp>
+               <speaker>Eld. Bro.</speaker>
+               <l>I mean that too, but yet a hidden strength </l>
+               <l>Which if Heav'n gave it, may be term'd her own: </l>
+               <l>'Tis chastity, my brother, chastity: </l>
+               <l>She that has that, is clad in compleat steel, </l>
+               <l>And like a quiver'd Nymph with Arrows keen </l>
+               <l>May trace huge Forests, and unharbour'd Heaths, </l>
+               <l>Infamous Hills, and sandy perilous wildes, </l>
+               <l>Where through the sacred rayes of Chastity, </l>
+               <l>No savage fierce, Bandite, or mountaneer </l>
+               <l>Will dare to soyl her Virgin purity, </l>
+               <l>Yea there, where very desolation dwels </l>
+               <l>By grots, and caverns shag'd with horrid shades, </l>
+               <l>She may pass on with unblench't majesty, </l>
+               <l>Be it not don in pride, or in presumption. </l>
+               <l>Som say no evil thing that walks by night </l>
+               <l>In fog, or fire, by lake, or moorish fen, </l>
+               <l>Blew meager Hag, or stubborn unlaid ghost, </l>
+               <l>That breaks his magick chains at curfeu time, </l>
+               <l>No goblin, or swart faery of the mine, </l>
+               <l>Hath hurtfull power o're true virginity. </l>
+               <l>Do ye beleeve me yet, or shall I call </l>
+               <l>Antiquity from the old Schools of <hi>Greece</hi> 
+               </l>
+               <l>To testifie the arms of Chastity? </l>
+               <l>Hence had the huntress <hi>Dian</hi> her dred bow </l>
+               <l>Fair silver-shafted Queen for ever chaste, </l>
+               <l>Wherwith she tam'd the brinded lioness </l>
+               <l>And spotted mountain pard, but set at nought </l>
+               <l>The frivolous bolt of <hi>Cupid</hi>, gods and men </l>
+               <l>Fear'd her stern frown, and she was queen oth' Woods. </l>
+               <l>What was that snaky-headed <hi>Gorgon</hi> sheild </l>
+               <l>That wise <hi>Minerva</hi> wore, unconquer'd Virgin, </l>
+               <l>Wherwith she freez'd her foes to congeal'd stone? </l>
+               <l>But rigid looks of Chast austerity, </l>
+               <l>And noble grace that dash't brute violence </l>
+               <l>With sudden adoration, and blank aw. </l>
+               <l>So dear to Heav'n is Saintly chastity, </l>
+               <l>That when a soul is found sincerely so, </l>
+               <l>A thousand liveried Angels lacky her, </l>
+               <l>Driving far off each thing of sin and guilt, </l>
+               <l>And in cleer dream, and solemn vision </l>
+               <l>Tell her of things that no gross ear can hear, </l>
+               <l>Till oft convers with heav'nly habitants </l>
+               <l>Begin to cast a beam on th' outward shape, </l>
+               <l>The unpolluted temple of the mind, </l>
+               <l>And turns it by degrees to the souls essence, </l>
+               <l>Till all be made immortal: but when lust </l>
+               <l>By unchaste looks, loose gestures, and foul talk, </l>
+               <l>But most by leud and lavish act of sin, </l>
+               <l>Lets in defilement to the inward parts, </l>
+               <l>The soul grows clotted by contagion, </l>
+               <l>Imbodies, and imbrutes, till she quite loose </l>
+               <l>The divine property of her first being. </l>
+               <l>Such are those thick and gloomy shadows damp </l>
+               <l>Oft seen in Charnell vaults, and Sepulchers </l>
+               <l>Lingering, and sitting by a new made grave, </l>
+               <l>As loath to leave the body that it lov'd, </l>
+               <l>And link't it self by carnal sensualty </l>
+               <l>To a degenerate and degraded state. </l>
+            </sp>
+            <sp>
+               <speaker>2.Bro.</speaker>
+               <l>How charming is divine Philosophy! </l>
+               <l>Not harsh, and crabbed as dull fools suppose, </l>
+               <l>But musical as is <hi>Apollo's</hi> lute, </l>
+               <l>And a perpetual feast of nectar'd sweets, </l>
+               <l>Where no crude surfet raigns.</l>
+            </sp>
+            <sp>
+               <speaker>Eld. Bro.</speaker>
+               <l>List, list, I hear </l>
+               <l>Som far off hallow break the silent Air. </l>
+            </sp>
+            <sp>
+               <speaker>2.Bro.</speaker>
+               <l>Me thought so too; what should it be? </l>
+            </sp>
+            <sp>
+               <speaker>Eld. Bro.</speaker>
+               <l>For certain </l>
+               <l>Either som one like us night-founder'd here, </l>
+               <l>Or els som neighbour Wood-man, or at worst, </l>
+               <l>Som roaving Robber calling to his fellows. </l>
+            </sp>
+            <sp>
+               <speaker>2. Bro.</speaker>
+               <l>Heav'n keep my sister, agen agen and neer, </l>
+               <l>Best draw, and stand upon our guard. </l>
+            </sp>
+            <sp>
+               <speaker>Eld. Bro.</speaker>
+               <l>Ile hallow, </l>
+               <l>If he be friendly he comes well, if not, </l>
+               <l>Defence is a good cause, and Heav'n be for us. <lb/>
+                  <stage>
+                     <hi>The attendant Spirit habited like a Shepherd</hi>
+                  </stage>
+               </l>
+               <l>That hallow I should know, what are you? speak; </l>
+               <l>Com not too neer, you fall on iron stakes else. </l>
+            </sp>
+            <sp>
+               <speaker>Spir.</speaker>
+               <l>What voice is that, my young Lord? speak agen. </l>
+            </sp>
+            <sp>
+               <speaker>2. Bro.</speaker>
+               <l>O brother, 'tis my father Shepherd sure. </l>
+            </sp>
+            <sp>
+               <speaker>Eld. Bro.</speaker>
+               <l>
+                  <hi>Thyrsis</hi>? Whose artful strains have oft delaid </l>
+               <l>The huddling brook to hear his madrigal, </l>
+               <l>And sweeten'd every muskrose of the dale, </l>
+               <l>How cam'st thou here good Swain? hath any ram </l>
+               <l>Slip't from the fold, or young Kid lost his dam, </l>
+               <l>Or straggling weather the pen't flock forsook? </l>
+               <l>How couldst thou find this dark sequester'd nook? </l>
+            </sp>
+            <sp>
+               <speaker>Spir.</speaker>
+               <l>O my lov'd masters heir, and his next joy, </l>
+               <l>I came not here on such a trivial toy </l>
+               <l>As a stray'd Ewe, or to pursue the stealth </l>
+               <l>Of pilfering Woolf, not all the fleecy wealth </l>
+               <l>That doth enrich these Downs, is worth a thought </l>
+               <l>To this my errand, and the care it brought. </l>
+               <l>But O my Virgin Lady, where is she? </l>
+               <l>How chance she is not in your company? </l>
+            </sp>
+            <sp>
+               <speaker>Eld. Bro.</speaker>
+               <l>To tell thee sadly Shepherd, without blame, </l>
+               <l>Or our neglect, we lost her as we came. </l>
+            </sp>
+            <sp>
+               <speaker>Spir.</speaker>
+               <l>Ay me unhappy then my fears are true. </l>
+            </sp>
+            <sp>
+               <speaker>Eld.Bro.</speaker>
+               <l>What fears good <hi>Thyrsis</hi>? Prethee briefly shew. </l>
+            </sp>
+            <sp>
+               <speaker>Spir.</speaker>
+               <l>Ile tell ye, 'tis not vain or fabulous, </l>
+               <l>(Though so esteem'd by shallow ignorance) </l>
+               <l>What the sage Poets taught by th' heav'nly Muse, </l>
+               <l>Storied of old in high immortal vers </l>
+               <l>Of dire <hi>Chimera's</hi> and inchanted Iles, </l>
+               <l>And rifted Rocks whose entrance leads to hell, </l>
+               <l>For such there be, but unbelief is blind. </l>
+               <l>Within the navil of this hideous Wood, </l>
+               <l>Immur'd in cypress shades a Sorcerer dwels </l>
+               <l>Of <hi>Bacchus</hi>, and of <hi>Circe</hi> born, great <hi>Comus</hi>, </l>
+               <l>Deep skill'd in all his mothers witcheries, </l>
+               <l>And here to every thirsty wanderer, </l>
+               <l>By sly enticement gives his banefull cup, </l>
+               <l>With many murmurs mixt, whose pleasing poison </l>
+               <l>The visage quite transforms of him that drinks, </l>
+               <l>And the inglorious likenes of a beast </l>
+               <l>Fixes instead, unmoulding reasons mintage </l>
+               <l>Character'd in the face; this have I learn't </l>
+               <l>Tending my flocks hard by i'th hilly crofts, </l>
+               <l>That brow this bottom glade, whence night by night </l>
+               <l>He and his monstrous rout are heard to howl </l>
+               <l>Like stabl'd wolves, or tigers at their prey, </l>
+               <l>Doing abhorred rites to <hi>Hecate</hi> 
+               </l>
+               <l>In their obscured haunts of inmost bowres. </l>
+               <l>Yet have they many baits, and guilefull spells </l>
+               <l>To inveigle and invite th' unwary sense </l>
+               <l>Of them that pass unweeting by the way. </l>
+               <l>This evening late by then the chewing flocks </l>
+               <l>Had ta'n their supper on the savoury Herb </l>
+               <l>Of Knot-grass dew-besprent, and were in fold, </l>
+               <l>I sate me down to watch upon a bank </l>
+               <l>With Ivy canopied, and interwove </l>
+               <l>With flaunting Hony-suckle, and began </l>
+               <l>Wrapt in a pleasing fit of melancholy </l>
+               <l>To meditate my rural minstrelsie, </l>
+               <l>Till fancy had her fill, but ere a close </l>
+               <l>The wonted roar was up amidst the Woods, </l>
+               <l>And fill'd the Air with barbarous dissonance, </l>
+               <l>At which I ceas't, and listen'd them a while, </l>
+               <l>Till an unusuall stop of sudden silence </l>
+               <l>Gave respit to the drowsie frighted steeds </l>
+               <l>That draw the litter of close-curtain'd sleep. </l>
+               <l>At last a soft and solemn breathing sound </l>
+               <l>Rose like a steam of rich distill'd Perfumes, </l>
+               <l>And stole upon the Air, that even Silence </l>
+               <l>Was took e're she was ware, and wish't she might </l>
+               <l>Deny her nature, and be never more </l>
+               <l>Still to be so displac't. I was all eare, </l>
+               <l>And took in strains that might create a soul </l>
+               <l>Under the ribs of Death, but O ere long </l>
+               <l>Too well I did perceive it was the voice </l>
+               <l>Of my most honour'd Lady, your dear sister. </l>
+               <l>Amaz'd I stood, harrow'd with grief and fear, </l>
+               <l>And O poor hapless Nightingale thought I, </l>
+               <l>How sweet thou sing'st, how neer the deadly snare! </l>
+               <l>Then down the Lawns I ran with headlong hast </l>
+               <l>Through paths, and turnings oft'n trod by day, </l>
+               <l>Till guided by mine ear I found the place </l>
+               <l>Where that damn'd wisard hid in sly disguise </l>
+               <l>(For so by certain signes I knew) had met </l>
+               <l>Already, ere my best speed could prævent, </l>
+               <l>The aidless innocent Lady his wish't prey, </l>
+               <l>Who gently ask't if he had seen such two, </l>
+               <l>Supposing him som neighbour villager; </l>
+               <l>Longer I durst not stay, but soon I guess't </l>
+               <l>Ye were the two she mean't, with that I sprung </l>
+               <l>Into swift flight, till I had found you here, </l>
+               <l>But furder know I not. </l>
+            </sp>
+            <sp>
+               <speaker>2.Bro.</speaker>
+               <l>O night and shades, </l>
+               <l>How are ye joyn'd with hell in triple knot </l>
+               <l>Against th' unarmed weakness of one Virgin </l>
+               <l>Alone, and helpless! Is this the confidence </l>
+               <l>You gave me Brother? </l>
+            </sp>
+            <sp>
+               <speaker>Eld. Bro.</speaker>
+               <l>Yes, and keep it still, </l>
+               <l>Lean on it safely, not a period </l>
+               <l>Shall be unsaid for me: against the threats </l>
+               <l>Of malice or of sorcery, or that power </l>
+               <l>Which erring men call Chance, this I hold firm, </l>
+               <l>Vertue may be assail'd, but never hurt, </l>
+               <l>Surpriz'd by unjust force, but not enthrall'd, </l>
+               <l>Yea even that which mischief meant most harm, </l>
+               <l>Shall in the happy trial prove most glory. </l>
+               <l>But evil on it self shall back recoyl, </l>
+               <l>And mix no more with goodness, when at last </l>
+               <l>Gather'd like scum, and setl'd to it self </l>
+               <l>It shall be in eternal restless change </l>
+               <l>Self-fed, and self-consum'd, if this fail, </l>
+               <l>The pillar'd firmament is rott'nness, </l>
+               <l>And earths base built on stubble. But com let's on. </l>
+               <l>Against th' opposing will and arm of Heav'n </l>
+               <l>May never this just sword be lifted up, </l>
+               <l>But for that damn'd magician, let him be girt </l>
+               <l>With all the greisly legions that troop </l>
+               <l>Under the sooty flag of <hi>Acheron</hi>, </l>
+               <l>
+                  <hi>Harpyies</hi> and <hi>Hydras</hi>, or all the monstrous forms </l>
+               <l>'Twixt <hi>Africa</hi> and <hi>Inde</hi>, Ile find him out, </l>
+               <l>And force him to restore his purchase back, </l>
+               <l>Or drag him by the curls, to a foul death, </l>
+               <l>Curs'd as his life. </l>
+            </sp>
+            <sp>
+               <speaker>Spir.</speaker>
+               <l>Alas good ventrous youth, </l>
+               <l>I love thy courage yet, and bold Emprise, </l>
+               <l>But here thy sword can do thee little stead, </l>
+               <l>Farr other arms, and other weapons must </l>
+               <l>Be those that quell the might of hellish charms, </l>
+               <l>He with his bare wand can unthred thy joynts, </l>
+               <l>And crumble all thy sinews. </l>
+            </sp>
+            <sp>
+               <speaker>Eld. Bro.</speaker>
+               <l>Why prethee Shepherd </l>
+               <l>How durst thou then thy self approach so neer </l>
+               <l>As to make this relation? </l>
+            </sp>
+            <sp>
+               <speaker>Spir.</speaker>
+               <l>Care and utmost shifts </l>
+               <l>How to secure the Lady from surprisal, </l>
+               <l>Brought to my mind a certain Shepherd Lad </l>
+               <l>Of small regard to see to, yet well skill'd </l>
+               <l>In every vertuous plant and healing herb </l>
+               <l>That spreds her verdant leaf to th' morning ray, </l>
+               <l>He lov'd me well, and oft would beg me sing, </l>
+               <l>Which when I did, he on the tender grass </l>
+               <l>Would sit, and hearken even to extasie, </l>
+               <l>And in requitall ope his leather'n scrip, </l>
+               <l>And shew me simples of a thousand names </l>
+               <l>Telling their strange and vigorous faculties; </l>
+               <l>Amongst the rest a small unsightly root, </l>
+               <l>But of divine effect, he cull'd me out; </l>
+               <l>The leaf was darkish, and had prickles on it, </l>
+               <l>But in another Countrey, as he said, </l>
+               <l>Bore a bright golden flowre, but not in this soyl: </l>
+               <l>Unknown, and like esteem'd, and the dull swayn </l>
+               <l>Treads on it daily with his clouted shoon, </l>
+               <l>And yet more med'cinal is it then that <hi>Moly</hi> 
+               </l>
+               <l>That <hi>Hermes</hi> once to wise <hi>Ulysses</hi> gave; </l>
+               <l>He call'd it <hi>Hæmony</hi>, and gave it me, </l>
+               <l>And bad me keep it as of sov'ran use </l>
+               <l>'Gainst all inchantments, mildew blast, or damp </l>
+               <l>Or gastly furies apparition; </l>
+               <l>I purs't it up, but little reck'ning made, </l>
+               <l>Till now that this extremity compell'd, </l>
+               <l>But now I find it true; for by this means </l>
+               <l>I knew the foul inchanter though disguis'd, </l>
+               <l>Enter'd the very lime-twigs of his spells, </l>
+               <l>And yet came off: if you have this about you </l>
+               <l>(As I will give you when we go) you may </l>
+               <l>Boldly assault the necromancers hall; </l>
+               <l>Where if he be, with dauntless hardihood, </l>
+               <l>And brandish't blade rush on him, break his glass, </l>
+               <l>And shed the lushious liquor on the ground, </l>
+               <l>But sease his wand, though he and his curst crew </l>
+               <l>Feirce signe of battail make, and menace high, </l>
+               <l>Or like the sons of <hi>Vulcan</hi> vomit smoak, </l>
+               <l>Yet will they soon retire, if he but shrink. </l>
+            </sp>
+            <sp>
+               <speaker>Eld. Bro.</speaker>
+               <l>
+                  <hi>Thyrsis</hi> lead on apace, Ile follow thee, </l>
+               <l>And som good angel bear a sheild before us. </l>
+            </sp>
+            <lb/>
+            <stage>
+               <hi>The Scene changes to a stately Palace, set out with all manner of deliciousness; soft Musick, Tables spred with all dainties</hi>. Comus <hi>appears with his rabble, and the Lady set in an inchanted Chair, to whom he offers his Glass, which she puts by, and goes about to rise.</hi>
+            </stage>
+            <sp>
+               <speaker>Comus.</speaker>
+               <l>Nay Lady sit; if I but wave this wand, </l>
+               <l>Your nerves are all chain'd up in Alabaster, </l>
+               <l>And you a statue; or as <hi>Daphne</hi> was </l>
+               <l>Root-bound, that fled <hi>Apollo</hi>. </l>
+            </sp>
+            <sp>
+               <speaker>La.</speaker>
+               <l>Fool do not boast, </l>
+               <l>Thou canst not touch the freedom of my minde </l>
+               <l>With all thy charms, although this corporal rinde </l>
+               <l>Thou haste immanacl'd, while Heav'n sees good. </l>
+            </sp>
+            <sp>
+               <speaker>Co.</speaker>
+               <l>Why are you vext Lady? why do you frown? </l>
+               <l>Here dwell no frowns, nor anger, from these gates </l>
+               <l>Sorrow flies farr: See here be all the pleasures </l>
+               <l>That fancy can beget on youthfull thoughts, </l>
+               <l>When the fresh blood grows lively, and returns </l>
+               <l>Brisk as the <hi>April</hi> buds in Primrose-season. </l>
+               <l>And first behold this cordial Julep here </l>
+               <l>That flames, and dances in his crystal bounds </l>
+               <l>With spirits of balm, and fragrant Syrops mixt. </l>
+               <l>Not that <hi>Nepenthes</hi> which the wife of <hi>Thone</hi>, </l>
+               <l>In <hi>Egypt</hi> gave to <hi>Jove</hi>-born <hi>Helena</hi> 
+               </l>
+               <l>Is of such power to stir up joy as this, </l>
+               <l>To life so friendly, or so cool to thirst. </l>
+               <l>Why should you be so cruel to your self, </l>
+               <l>And to those dainty limms which nature lent </l>
+               <l>For gentle usage, and soft delicacy? </l>
+               <l>But you invert the cov'nants of her trust, </l>
+               <l>And harshly deal like an ill borrower </l>
+               <l>With that which you receiv'd on other terms, </l>
+               <l>Scorning the unexempt condition </l>
+               <l>By which all mortal frailty must subsist, </l>
+               <l>Refreshment after toil, ease after pain, </l>
+               <l>That have been tir'd all day without repast, </l>
+               <l>And timely rest have wanted, but fair Virgin </l>
+               <l>This will restore all soon. </l>
+            </sp>
+            <sp>
+               <speaker>La.</speaker>
+               <l>'Twill not false traitor, </l>
+               <l>'Twill not restore the truth and honesty </l>
+               <l>That thou hast banish't from thy tongue with lies, </l>
+               <l>Was this the cottage, and the safe abode </l>
+               <l>Thou told'st me of? What grim aspects are these, </l>
+               <l>These oughly-headed Monsters? Mercy guard me! </l>
+               <l>Hence with thy brew'd inchantments, foul deceiver, </l>
+               <l>Hast thou betrai'd my credulous innocence </l>
+               <l>With visor'd falshood, and base forgery, </l>
+               <l>And wouldst thou seek again to trap me here </l>
+               <l>With lickerish baits fit to ensnare a brute? </l>
+               <l>Were it a draft for <hi>Juno</hi> when she banquets, </l>
+               <l>I would not taste thy treasonous offer; none </l>
+               <l>But such as are good men can give good things, </l>
+               <l>And that which is not good, is not delicious </l>
+               <l>To a well-govern'd and wise appetite. </l>
+            </sp>
+            <sp>
+               <speaker>Co.</speaker>
+               <l>O foolishnes of men! that find their ears </l>
+               <l>To those budge doctors of the Stoick Furr, </l>
+               <l>And fetch their precepts from the Cynick Tub, </l>
+               <l>Praising the lean and sallow Abstinence. </l>
+               <l>Wherefore did Nature powre her bounties forth, </l>
+               <l>With such a full and unwithdrawing hand, </l>
+               <l>Covering the earth with odours, fruits, and flocks, </l>
+               <l>Thronging the Seas with spawn innumerable, </l>
+               <l>But all to please, and sate the curious taste? </l>
+               <l>And set to work millions of spinning Worms, </l>
+               <l>That in their green shops weave the smooth-hair'd silk </l>
+               <l>To deck her Sons, and that no corner might </l>
+               <l>Be vacant of her plenty, in her own loyns </l>
+               <l>She hutch't th' all-worshipt ore, and precious gems </l>
+               <l>To store her children with; if all the world </l>
+               <l>Should in a pet of temperance feed on Pulse, </l>
+               <l>Drink the clear stream, and nothing wear but Freize, </l>
+               <l>Th' all-giver would be unthank't, would be unprais'd, </l>
+               <l>Not half his riches known, and yet despis'd, </l>
+               <l>And we should serve him as a grudging master, </l>
+               <l>As a penurious niggard of his wealth, </l>
+               <l>And live like Natures bastards, not her sons, </l>
+               <l>Who would be quite surcharged with her own weight, </l>
+               <l>And strangl'd with her waste fertility; </l>
+               <l>Th' earth cumber'd, and the wing'd air dark't with plumes, </l>
+               <l>The herds would over-multitude their Lords, </l>
+               <l>The Sea o'refraught would swell, and th' unsought diamonds </l>
+               <l>Would so emblaze the forhead of the Deep, </l>
+               <l>And so bestudd with Stars, that they below </l>
+               <l>Would grow inur'd to light, and com at last </l>
+               <l>To gaze upon the Sun with shameless brows. </l>
+               <l>List Lady be not coy, and be not cosen'd </l>
+               <l>With that same vaunted name Virginity, </l>
+               <l>Beauty is natures coyn, must not be hoorded, </l>
+               <l>But must be currant, and the good thereof </l>
+               <l>Consists in mutual and partak'n bliss, </l>
+               <l>Unsavoury in th' injoyment of it self </l>
+               <l>If you let slip time, like a neglected rose </l>
+               <l>It withers on the stalk with languish't head. </l>
+               <l>Beauty is natures brag, and must be shown </l>
+               <l>In courts, at feasts, and high solemnities </l>
+               <l>Where most may wonder at the workmanship; </l>
+               <l>It is for homely features to keep home, </l>
+               <l>They had their name thence; course complexions </l>
+               <l>And cheeks of sorry grain will serve to ply </l>
+               <l>The sampler, and to teize the huswifes wooll. </l>
+               <l>What need a vermeil-tinctured lip for that </l>
+               <l>Love-darting eyes, or tresses like the Morn? </l>
+               <l>There was another meaning in these gifts, </l>
+               <l>Think what, and be adviz'd, you are but young yet. </l>
+            </sp>
+            <sp>
+               <speaker>La.</speaker>
+               <l>I had not thought to have unlockt my lips </l>
+               <l>In this unhallow'd air, but that this Jugler </l>
+               <l>Would think to charm my judgement, as mine eyes, </l>
+               <l>Obtruding false rules pranckt in reasons garb. </l>
+               <l>I hate when vice can bolt her arguments, </l>
+               <l>And vertue has no tongue to check her pride: </l>
+               <l>Impostor do not charge most innocent nature, </l>
+               <l>As if she would her children should be riotous </l>
+               <l>With her abundance, she good cateress </l>
+               <l>Means her provision onely to the good </l>
+               <l>That live according to her sober laws, </l>
+               <l>And holy dictate of spare Temperance: </l>
+               <l>If every just man that now pines with want </l>
+               <l>Had but a moderate and beseeming share </l>
+               <l>Of that which lewdly-pamper'd Luxury </l>
+               <l>Now heaps upon som few with vast excess, </l>
+               <l>Natures full blessings would be well dispenc't </l>
+               <l>In unsuperfluous eeven proportion, </l>
+               <l>And she no whit encomber'd with her store, </l>
+               <l>And then the giver would be better thank't, </l>
+               <l>His praise due paid, for swinish gluttony </l>
+               <l>Ne're looks to Heav'n amidst his gorgeous feast, </l>
+               <l>But with besotted base ingratitude </l>
+               <l>Cramms, and blasphemes his feeder. Shall I go on? </l>
+               <l>Or have I said anough? To him that dares </l>
+               <l>Arm his profane tongue with contemptuous words </l>
+               <l>Against the Sun-clad power of Chastity, </l>
+               <l>Fain would I somthing say, yet to what end? </l>
+               <l>Thou hast nor Eare, nor Soul to apprehend </l>
+               <l>The sublime notion, and high mystery </l>
+               <l>That must be utter'd to unfold the sage </l>
+               <l>And serious doctrine of Virginity, </l>
+               <l>And thou art worthy that thou shouldst not know </l>
+               <l>More happiness then this thy present lot. </l>
+               <l>Enjoy your deer Wit, and gay Rhetorick </l>
+               <l>That hath so well been taught her dazling fence, </l>
+               <l>Thou art not fit to hear thy self convinc't; </l>
+               <l>Yet should I try, the uncontrouled worth </l>
+               <l>Of this pure cause would kindle my rap't spirits </l>
+               <l>To of a flame of sacred vehemence, </l>
+               <l>That dumb things would be mov'd to sympathize, </l>
+               <l>And the brute Earth would lend her nerves, and shake, </l>
+               <l>Till all thy magick structures rear'd so high, </l>
+               <l>Were shatter'd heaps o're thy false head. </l>
+            </sp>
+            <sp>
+               <speaker>Co.</speaker>
+               <l>She fables not, I feel that I do fear </l>
+               <l>Her words set off by som superior power; </l>
+               <l>And though not mortal, yet a cold shuddring dew </l>
+               <l>Dips me all o're, as when the wrath of <hi>Jove</hi> 
+               </l>
+               <l>Speaks thunder, and the chains of <hi>Erebus</hi> 
+               </l>
+               <l>To som of <hi>Saturns</hi> crew. I must dissemble, </l>
+               <l>And try her yet more strongly. Com, no more, </l>
+               <l>This is meer moral babble, and direct </l>
+               <l>Against the canon laws of our foundation; </l>
+               <l>I must not suffer this, yet 'tis but the lees </l>
+               <l>And setlings of a melancholy blood; </l>
+               <l>But this will cure all streight, one sip of this </l>
+               <l>Will bathe the drooping spirits in delight </l>
+               <l>Beyond the bliss of dreams. Be wise, and taste.- </l>
+            </sp>
+            <lb/>
+            <stage>
+               <hi>The Brothers rush in with Swords drawn, wrest his Glass out of his hand, and break it against the ground; his rout make signe of resistance, but are all driven in; The attendant Spirit comes in</hi>
+            </stage>
+            <sp>
+               <speaker>Spir.</speaker>
+               <l>What, have you let the false enchanter scape? </l>
+               <l>O ye mistook, ye should have snatcht his wand </l>
+               <l>And bound him fast; without his rod revers't, </l>
+               <l>And backward mutters of dissevering power, </l>
+               <l>We cannot free the Lady that sits here </l>
+               <l>In stony fetters fixt, and motionless; </l>
+               <l>Yet stay, be not disturb'd, now I bethink me, </l>
+               <l>Som other means I have which may be us'd, </l>
+               <l>Which once of <hi>Melibæus</hi> old I learnt </l>
+               <l>The soothest Shepherd that ere pip't on plains. </l>
+               <l>  There is a gentle Nymph not farr from hence, </l>
+               <l>That with moist curb sways the smooth Severn stream, </l>
+               <l>
+                  <hi>Sabrina</hi> is her name, a Virgin pure, </l>
+               <l>Whilom she was the daughter of <hi>Locrine</hi>, </l>
+               <l>That had the Scepter from his father <hi>Brute</hi>. </l>
+               <l>The guiltless damsel flying the mad pursuit </l>
+               <l>Of her enraged stepdam <hi>Guendolen</hi>, </l>
+               <l>Commended her innocence to the flood </l>
+               <l>That stay'd her flight with his cross-flowing course, </l>
+               <l>The water Nymphs that in the bottom plaid, </l>
+               <l>Held up their pearled wrists and took her in, </l>
+               <l>Bearing her straight to aged <hi>Nereus</hi> Hall, </l>
+               <l>Who piteous of her woes, rear'd her lank head, </l>
+               <l>And gave her to his daughters to imbathe </l>
+               <l>In nectar'd lavers strew'd with Asphodil, </l>
+               <l>And through the porch and inlet of each sense </l>
+               <l>Dropt in Ambrosial Oils till she reviv'd, </l>
+               <l>And underwent a quick immortal change </l>
+               <l>Made Goddess of the River; still she retains </l>
+               <l>Her maid'n gentlenes, and oft at Eeve </l>
+               <l>Visits the herds along the twilight meadows, </l>
+               <l>Helping all urchin blasts, and ill luck signes </l>
+               <l>That the shrewd medling Elfe delights to make, </l>
+               <l>Which she with pretious viold liquors heals. </l>
+               <l>For which the Shepherds at their festivals </l>
+               <l>Carrol her goodnes lowd in rustick layes, </l>
+               <l>And throw sweet garland wreaths into her stream </l>
+               <l>Of pancies, pinks, and gaudy Daffadils. </l>
+               <l>And, as the old Swain said, she can unlock </l>
+               <l>The clasping charm, and thaw the numming spell, </l>
+               <l>If she be right invok't in warbled Song, </l>
+               <l>For maid'nhood she loves, and will be swift </l>
+               <l>To aid a Virgin, such as was her self </l>
+               <l>In hard besetting need, this will I try </l>
+               <l>And adde the power of som adjuring verse. <lb/>
+                  <stage>
+                     <hi>SONG.</hi>
+                  </stage>
+               </l>
+               <l/>
+               <l>
+                  <hi>Sabrina fair</hi>
+               </l>
+               <l>
+                  <hi>Listen where thou art sitting</hi>
+               </l>
+               <l>
+                  <hi>Under the glassie, cool, translucent wave</hi>, </l>
+               <l>
+                  <hi>In twisted braids of Lillies knitting</hi>
+               </l>
+               <l>
+                  <hi>The loose train of thy amber-dropping hair</hi>, </l>
+               <l>
+                  <hi>Listen for dear honour's sake</hi>, </l>
+               <l>
+                  <hi>Goddess of the silver lake</hi>, </l>
+               <l>
+                  <hi>Listen and save</hi>. </l>
+               <l/>
+               <l>Listen and appear to us </l>
+               <l>In name of great <hi>Oceanus</hi>, </l>
+               <l>By the earth-shaking <hi>Neptunes</hi> mace, </l>
+               <l>And <hi>Tethys</hi> grave majestick pace, </l>
+               <l>By hoary <hi>Nereus</hi> wrincled look, </l>
+               <l>And the <hi>Carpathian</hi> wisards hook, </l>
+               <l>By scaly <hi>Tritons</hi> winding shell, </l>
+               <l>And old sooth-saying <hi>Glaucus</hi> spell, </l>
+               <l>By <hi>Leucothea's</hi> lovely hands, </l>
+               <l>And her son that rules the strands, </l>
+               <l>By <hi>Thetis</hi> tinsel-slipper'd feet, </l>
+               <l>And the Songs of <hi>Sirens</hi> sweet, </l>
+               <l>By dead <hi>Parthenope's</hi> dear tomb, </l>
+               <l>And fair <hi>Ligéa's</hi> golden comb, </l>
+               <l>Wherwith she sits on diamond rocks </l>
+               <l>Sleeking her soft alluring locks, </l>
+               <l>By all the <hi>Nymphs</hi> that nightly dance </l>
+               <l>Upon thy streams with wily glance, </l>
+               <l>Rise, rise, and heave thy rosie head </l>
+               <l>From thy coral-pav'n bed, </l>
+               <l>And bridle in thy headlong wave, </l>
+               <l>Till thou our summons answered have. </l>
+               <l>                                Listen and save. </l>
+            </sp>
+            <lb/>
+            <stage>
+               <hi>Sabrina rises, attended by water-Nymphes, and sings</hi>
+            </stage>
+            <sp>
+               <l>
+                  <hi>By the rushy-fringed bank</hi>, </l>
+               <l>
+                  <hi>Where grows the Willow and the Osier dank</hi>, </l>
+               <l>
+                  <hi>My sliding Chariot stayes</hi>, </l>
+               <l>
+                  <hi>Thick set with Agat, and the azurn sheen</hi>
+               </l>
+               <l>
+                  <hi>Of Turkis blew, and Emrauld green</hi>
+               </l>
+               <l>
+                  <hi>That in the channell strayes</hi>, </l>
+               <l>
+                  <hi>Whilst from off the waters fleet</hi>
+               </l>
+               <l>
+                  <hi>Thus I set my printless feet</hi>
+               </l>
+               <l>
+                  <hi>O're the Cowslips Velvet head</hi>, </l>
+               <l>
+                  <hi>That bends not as I tread</hi>, </l>
+               <l/>
+               <l>    Gentle swain at thy request </l>
+               <l>      I am here. </l>
+            </sp>
+            <sp>
+               <speaker>Spir.</speaker>
+               <l>Goddess dear </l>
+               <l>We implore thy powerful hand </l>
+               <l>To undo the charmed band </l>
+               <l>Of true Virgin here distrest, </l>
+               <l>Through the force, and through the wile </l>
+               <l>Of unblest inchanter vile. </l>
+            </sp>
+            <sp>
+               <speaker>Sab.</speaker>
+               <l>Shepherd 'tis my office best </l>
+               <l>To help insnared chastity; </l>
+               <l>Brightest Lady look on me, </l>
+               <l>Thus I sprinkle on thy brest </l>
+               <l>Drops that from my fountain pure, </l>
+               <l>I have kept of pretious cure, </l>
+               <l>Trice upon thy fingers tip, </l>
+               <l>Thrice upon thy rubied lip, </l>
+               <l>Next this marble venom'd seat </l>
+               <l>Smear'd with gumms of glutenous heat </l>
+               <l>I touch with chaste palms moist and cold, </l>
+               <l>Now the spell hath lost his hold; </l>
+               <l>And I must haste ere morning hour </l>
+               <l>To wait in <hi>Amphitrite's</hi> bowr. </l>
+            </sp>
+            <lb/>
+            <stage>
+               <hi>Sabrina descends, and the Lady rises out of her seat</hi>
+            </stage>
+            <sp>
+               <speaker>Spir.</speaker>
+               <l>Virgin, daughter of <hi>Locrine</hi> 
+               </l>
+               <l>Sprung of old <hi>Anchises</hi> line, </l>
+               <l>May thy brimmed waves for this </l>
+               <l>Their full tribute never miss </l>
+               <l>From a thousand petty rills, </l>
+               <l>That tumble down the snowy hills: </l>
+               <l>Summer drouth, or singed air </l>
+               <l>Never scorch thy tresses fair, </l>
+               <l>Nor wet <hi>Octobers</hi> torrent flood </l>
+               <l>Thy molten crystal fill with mudd, </l>
+               <l>May thy billows rowl ashoar </l>
+               <l>The beryl, and the golden ore, </l>
+               <l>May thy lofty head be crown'd </l>
+               <l>With many a tower and terrass round, </l>
+               <l>And here and there thy banks upon </l>
+               <l>With Groves of myrrhe, and cinnamon. </l>
+               <l/>
+               <l>Com Lady while Heaven lends us grace, </l>
+               <l>Let us fly this cursed place, </l>
+               <l>Lest the Sorcerer us intice </l>
+               <l>With som other new device. </l>
+               <l>Not a waste, or needless sound </l>
+               <l>Till we com to holier ground, </l>
+               <l>I shall be your faithfull guide </l>
+               <l>Through this gloomy covert wide, </l>
+               <l>And not many furlongs thence </l>
+               <l>Is your Fathers residence, </l>
+               <l>Where this night are met in state </l>
+               <l>Many a friend to gratulate </l>
+               <l>His wish't presence, and beside </l>
+               <l>All the Swains that there abide, </l>
+               <l>With Jiggs, and rural dance resort, </l>
+               <l>We shall catch them at their sport, </l>
+               <l>And our sudden coming there </l>
+               <l>Will double all their mirth and chere; </l>
+               <l>Come let us haste, the Stars grow high, </l>
+               <l>But night sits monarch yet in the mid sky. </l>
+            </sp>
+            <lb/>
+            <stage>
+               <hi>The Scene changes, presenting</hi> Ludlow <hi>Town and the Presidents Castle, then com in Countrey-Dancers, after them the attendant Spirit, with the two Brothers and the Lady</hi>
+            </stage>
+            <lb/>
+            <stage>
+               <hi>SONG</hi>
+            </stage>
+            <sp>
+               <speaker>Spir.</speaker>
+               <l>
+                  <hi>Back Shepherds, hack, anough your play</hi>, </l>
+               <l>
+                  <hi>Till next Sun-shine holiday</hi>, </l>
+               <l>
+                  <hi>Here be without duck or nod</hi>
+               </l>
+               <l>
+                  <hi>Other trippings to he trod</hi>
+               </l>
+               <l>
+                  <hi>Of lighter toes, and such Court guise</hi>
+               </l>
+               <l>
+                  <hi>As</hi> Mercury <hi>did first devise</hi> 
+               </l>
+               <l>
+                  <hi>With the mincing</hi> Dryades </l>
+               <l>
+                  <hi>On the Lawns, and on the Leas</hi>. </l>
+               <l>
+                  <lb/>
+                  <stage>
+                     <hi>This second Song presents them to their father and mother</hi>
+                  </stage>
+               </l>
+               <l/>
+               <l>
+                  <hi>Noble Lord, and Lady bright</hi>, </l>
+               <l>
+                  <hi>I have brought ye new delight</hi>, </l>
+               <l>
+                  <hi>Here behold so goodly grown</hi>
+               </l>
+               <l>
+                  <hi>Three fair branches of your own</hi>, </l>
+               <l>
+                  <hi>Heav'n hath timely tri'd their youth</hi>, </l>
+               <l>
+                  <hi>Their faith, their patience, and their truth</hi>. </l>
+               <l>
+                  <hi>And sent them here through hard assays</hi>
+               </l>
+               <l>
+                  <hi>With a crown of deathless Praise</hi>, </l>
+               <l>
+                  <hi>To triumph in victorious dance</hi>
+               </l>
+               <l>
+                  <hi>O're sensual Folly, and Intemperance</hi>. </l>
+               <l>
+                  <lb/>
+                  <stage>
+                     <hi>The dances ended, the Spirit Epiloguizes</hi>
+                  </stage>
+               </l>
+               <l/>
+            </sp>
+            <sp>
+               <speaker>Spir.</speaker>
+               <l>To the Ocean now I fly, </l>
+               <l>And those happy climes that ly </l>
+               <l>Where day never shuts his eye, </l>
+               <l>Up in the broad fields of the sky: </l>
+               <l>There I suck the liquid ayr </l>
+               <l>All amidst the Gardens fair </l>
+               <l>Of <hi>Hesperus</hi>, and his daughters three </l>
+               <l>That sing about the golden tree: </l>
+               <l>Along the crisped shades and bowres </l>
+               <l>Revels the spruce and jocond Spring, </l>
+               <l>The Graces, and the rosie-boosom'd Howres, </l>
+               <l>Thither all their bounties bring, </l>
+               <l>That there eternal Summer dwels, </l>
+               <l>And West winds, with musky wing </l>
+               <l>About the cedar'n alleys fling </l>
+               <l>
+                  <hi>Nard</hi>, and <hi>Cassia's</hi> balmy smels. </l>
+               <l>
+                  <hi>Iris</hi> there with humid bow, </l>
+               <l>Waters the odorous banks that blow </l>
+               <l>Flowers of more mingled hew </l>
+               <l>Then her purfl'd scarf can shew, </l>
+               <l>And drenches with <hi>Elysian</hi> dew </l>
+               <l>(List mortals, if your ears be true) </l>
+               <l>Beds of Hyacinth, and roses </l>
+               <l>Where young <hi>Adonis</hi> oft reposes, </l>
+               <l>Waxing well of his deep wound </l>
+               <l>In slumber soft, and on the ground </l>
+               <l>Sadly sits th' <hi>Assyrian</hi> Queen; </l>
+               <l>But far above in spangled sheen </l>
+               <l>Celestial <hi>Cupid</hi> her fam'd son advanc't, </l>
+               <l>Holds his dear <hi>Psyche</hi> sweet intranc't </l>
+               <l>After her wandring labours long, </l>
+               <l>Till free consent the gods among </l>
+               <l>Make her his eternal Bride, </l>
+               <l>And from her fair unspotted side </l>
+               <l>Two blissful twins are to be born, </l>
+               <l>Youth and Joy; so <hi>Jove</hi> hath sworn. </l>
+               <l>  But now my task is smoothly don, </l>
+               <l>I can fly, or I can run </l>
+               <l>Quickly to the green earths end, </l>
+               <l>Where the bow'd welkin slow doth bend, </l>
+               <l>And from thence can soar as soon </l>
+               <l>To the corners of the Moon. </l>
+               <l>  Mortals that would follow me, </l>
+               <l>Love vertue, she alone is free, </l>
+               <l>She can teach ye how to clime </l>
+               <l>Higher then the Spheary chime; </l>
+               <l>Or if Vertue feeble were, </l>
+               <l>Heav'n it self would stoop to her. </l>
+            </sp>
+            <trailer>—THE END—</trailer>
+         </div>
+      </body>
+  </text>
+</TEI>
+

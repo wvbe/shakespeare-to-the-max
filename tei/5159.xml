@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The nunnery. An elegy: In imitation of the Elegy in a church-yard.</title>
+            <author>Jerningham, Mr. (Edward), 1737?-1812.</author>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>University of Oxford Text Archive</name>
+               <address>
+                  <addrLine>Oxford University Computing Services</addrLine>
+                  <addrLine>13 Banbury Road</addrLine>
+                  <addrLine>Oxford</addrLine>
+                  <addrLine>OX2 6NN</addrLine>
+               </address>
+               <email>ota@oucs.ox.ac.uk</email>
+            </distributor>
+            <idno type="ota">http://ota.ox.ac.uk/id/5159</idno>
+            <idno type="isbn10">1106021584</idno>
+            <idno type="isbn13">9781106021588</idno>
+            <idno type="TCP">K104119.000</idno>
+            <idno type="BIBNO">CW3313381541</idno>
+            <idno type="ECLL">0583501100</idno>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/3.0/">
+	  Distributed by the University of Oxford under a Creative Commons
+	  Attribution-ShareAlike 3.0 Unported License
+	</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The nunnery. An elegy: In imitation of the Elegy in a church-yard.</title>
+                  <author>Jerningham, Mr. (Edward), 1737?-1812.</author>
+               </titleStmt>
+               <extent>11,[1]p. ; 4⁰.</extent>
+               <publicationStmt>
+                  <publisher>printed for R. and J. Dodsley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1762]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Anonymous. By Edward Jerningham.</note>
+                  <note>An imitation of Thomas Gray's 'Elegy written in a country church yard'.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>English Short Title Catalog, ESTCT131186.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">English</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:0583501100:1" rendition="simple:additions"/>
+            <p>THE NUNNERY. AN ELEGY. In IMITATION of the ELEGY in a CHURCH-YARD.</p>
+            <q>Son pittore anche io—
+<bibl>CORREGIO.</bibl>
+            </q>
+            <p>LONDON: Printed for R. and J. DODSLEY, at Tully's-Head, Pall-Mall. (Price Six-pence.)</p>
+         </div>
+      </front>
+      <body>
+         <div type="elegy">
+            <pb n="3" facs="tcp:0583501100:2"/>
+            <head>THE NUNNERY.</head>
+            <lg>
+               <l>REtirement's Hour proclaims the tolling Bell,</l>
+               <l>Each ſacred Virgin follows its Decree;</l>
+               <l>With meek Submiſſion ſeeks her lonely Cell,</l>
+               <l>And leaves the Grate to Solitude and me.</l>
+            </lg>
+            <lg>
+               <l>Now ſhows the ſinking Sun a fainter glare</l>
+               <l>And Silence thro' the Convent reigns confeſt,</l>
+               <l>Save where ſome pale-ey'd Novice (wrap'd in Pray'r)</l>
+               <l>Heaves a deep groan: and ſmites her guiltleſs breaſt.</l>
+            </lg>
+            <lg>
+               <pb n="4" facs="tcp:0583501100:3"/>
+               <l>Save where in artleſs melancholy Strains</l>
+               <l>Some <hi>Eloiſa</hi> whom ſoft Paſſion moves,</l>
+               <l>Abſorpt in Sorrow to the Night complains;</l>
+               <l>For ever bar'd the <hi>Abelard</hi> ſhe loves.</l>
+            </lg>
+            <lg>
+               <l>Within thoſe ancient Walls by Moſs o'erſpread,</l>
+               <l>Where the relenting Sinner learns to weep;</l>
+               <l>Each in her narrow Bed till Mid-night laid,</l>
+               <l>The gentle Daughters of Devotion ſleep.</l>
+            </lg>
+            <lg>
+               <l>No Stings of Conſcience goad their eaſy Breaſt,</l>
+               <l>No unrepented Crimes their Slumbers fright,</l>
+               <l>No mournful Dreams invade their peaceful Reſt,</l>
+               <l>Nor ſhrouded Spectres ſtalk afore their Sight!</l>
+            </lg>
+            <lg>
+               <l>Th' endearing Scenes of Life They all forego</l>
+               <l>Ev'n Hymen's Torch for Them muſt never blaze,</l>
+               <l>The Huſband's fond Embrace They ne'er ſhall know,</l>
+               <l>Nor view their Image in their Children's' Face.</l>
+            </lg>
+            <lg>
+               <pb n="5" facs="tcp:0583501100:4"/>
+               <l>Oft did they ſteal the flow'ry Robe of <hi>May</hi>
+               </l>
+               <l>To deck the Altar and the Shrines around:</l>
+               <l>How fervent did They chant the pious Lay,</l>
+               <l>While the deep Organ ſwell'd the ſacred Sound?</l>
+            </lg>
+            <lg>
+               <l>Let not the gay Coquette with Jeſt profane,</l>
+               <l>Mock their veil'd Life and Deſtiny ſevere:</l>
+               <l>Nor worldly Beauty with a Sneer diſdain</l>
+               <l>The humble Duties of the Cloyſter'd Fair.</l>
+            </lg>
+            <lg>
+               <l>The gliſt'ning Eye: The half-ſeen Breaſt of Snow,</l>
+               <l>The coral Lip, the clear vermilion Bloom</l>
+               <l>Awaits alike th' inexorable Foe,</l>
+               <l>The Paths of Pleaſure lead but to the Tomb.</l>
+            </lg>
+            <lg>
+               <l>Forgive, Ye Fair, whom <hi>Britain's</hi> Sons admire,</l>
+               <l>If This her meaneſt Bard incur your Blame,</l>
+               <l>While He devotes not to your Praiſe the Lyre,</l>
+               <l>But to the Convent dedicates his Theme.</l>
+            </lg>
+            <lg>
+               <pb n="6" facs="tcp:0583501100:5"/>
+               <l>Can Theſe partake the ſprightly-moving Dance?</l>
+               <l>Or in the Garb of Luxury appear?</l>
+               <l>Can Theſe e'er pierce the Lover with a Glance?</l>
+               <l>Or grace the Tragic Scene with Pity's Tear?</l>
+            </lg>
+            <lg>
+               <l>Perhaps in this drear Manſion are confin'd</l>
+               <l>Some whoſe accompliſh'd Beauty cou'd impart</l>
+               <l>The ſoft Deſire to the ſevereſt Mind,</l>
+               <l>And wake to Extacy the throbbing Heart.</l>
+            </lg>
+            <lg>
+               <l>But ſplendid Life in each Allurement dreſt</l>
+               <l>Attracts Them not, tho' fluſh'd with youthful Bloom:</l>
+               <l>Stern Pennance chills the Ardour of their Breaſt,</l>
+               <l>And buries their Ambition in this Gloom.</l>
+            </lg>
+            <lg>
+               <l>Full many a Riv'let ſteals its gentle Way</l>
+               <l>Unheard, untaſted, by the thirſty Swain,</l>
+               <l>Full many a <hi>Philomel</hi> attunes her Lay,</l>
+               <l>And pours her plaintive Melody in vain.</l>
+            </lg>
+            <lg>
+               <pb n="7" facs="tcp:0583501100:6"/>
+               <l>Some veil'd <hi>Eliza</hi> (like the clouded Sun)</l>
+               <l>May here reſide inglorious and unknown;</l>
+               <l>Some, like <hi>Auguſta,</hi> might have rear'd a Son</l>
+               <l>To bleſs a Nation and adorn a Throne.</l>
+            </lg>
+            <lg>
+               <l>From Flatt'ry's Lip to drink the Sweets of Praiſe,</l>
+               <l>In Wit and Charms with other Belles to vie,</l>
+               <l>In Circles to attract the partial Gaze</l>
+               <l>And view Their Beauty in th' Admirer's Eye</l>
+            </lg>
+            <lg>
+               <l>Their Lot forbids: nor does alone remove</l>
+               <l>The Thirſt of Praiſe, but e'en their Vices chains,</l>
+               <l>Forbids thro' Folly's Labyrinth to rove,</l>
+               <l>And yield to Pleaſure the unheeded reins:</l>
+            </lg>
+            <lg>
+               <l>To raiſe mid Hymen's Joys domeſtic Strife,</l>
+               <l>Or ſeek that Converſe which They ought to ſhun,</l>
+               <l>To break the ſacred Ties of married Life</l>
+               <l>And give to many what they vow'd to one.</l>
+            </lg>
+            <lg>
+               <pb n="8" facs="tcp:0583501100:7"/>
+               <l>Far from the Buſtle of the ſplendid Throng</l>
+               <l>They tread Obſcurity's ſequeſter'd Vale,</l>
+               <l>Where the white Hours glide ſilently along</l>
+               <l>Smooth as the Stream, when ſleeps the breezy Gale.</l>
+            </lg>
+            <lg>
+               <l>Yet tho' they're ſprinkled with ethereal Dew?</l>
+               <l>With blooming Wreaths by Hands of Seraphs crown'd?</l>
+               <l>Tho' Heav'n's eternal Splendors burſt to View?</l>
+               <l>And Harps celeſtial to their Ear reſound?</l>
+            </lg>
+            <lg>
+               <l>Still grateful Mem'ry paints the abſent Friend,</l>
+               <l>Not ev'n the World to their Remembrance dies:</l>
+               <l>Their Mid-night Oriſons to Heav'n aſcend</l>
+               <l>To ſtop the Bolt deſcending from the Skies.</l>
+            </lg>
+            <lg>
+               <l>For who entranc'd, in Viſions from above</l>
+               <l>The Thought of Kindred razes from the Mind?</l>
+               <l>Feels in the Soul no warm returning Love</l>
+               <l>For ſome endear'd Companion left behind?</l>
+            </lg>
+            <lg>
+               <pb n="9" facs="tcp:0583501100:8"/>
+               <l>From Friendſhip's Breaſt reluctant they withdrew,</l>
+               <l>And with a Sigh forſook their native Air:</l>
+               <l>To their fond Parents when they bad Adieu</l>
+               <l>Guſh'd from their Eye the tender filial Tear.</l>
+            </lg>
+            <lg>
+               <l>For Thee, who mindful of th' encloyſter'd Fair</l>
+               <l>Doſt in theſe Lines their artleſs Tale relate,</l>
+               <l>If Chance in diſtant Time's revolving Year</l>
+               <l>Some kindred Spirit ſhall enquire thy Fate,</l>
+            </lg>
+            <lg>
+               <l>Haply ſome aged Veſtal may reply,</l>
+               <l>"Oft have we ſeen Him 'ere <hi>Aurora</hi>'s Ray</l>
+               <l>"Had faintly ting'd with red the op'ning Sky,</l>
+               <l>"Haſten to Church, and join the Matin Lay.</l>
+            </lg>
+            <lg>
+               <l>"There at the Tomb where <hi>Eloiſa</hi> lies,</l>
+               <l>"He'd read th' Inſcription: and her Fate condole,</l>
+               <l>"Then in his Breaſt, as Scenes of Grief ariſe,</l>
+               <l>"Sigh the kind Requiem to her gentle Soul.</l>
+            </lg>
+            <lg>
+               <pb n="10" facs="tcp:0583501100:9"/>
+               <l>"Againſt yon Pillar careleſs now He'd lean,</l>
+               <l>"Smiling at what his wayward Fancy moves:</l>
+               <l>"Now drooping, wan, and penſive, wou'd be ſeen</l>
+               <l>"As one abandon'd by the Fair He loves.</l>
+            </lg>
+            <lg>
+               <l>"One Morn I miſs'd Him in the aweful Dome</l>
+               <l>"Along the Iſle, and in the Sacriſty:</l>
+               <l>"Another came, nor yet beſide the Tomb,</l>
+               <l>"Nor at the Font, nor in the Porch was He.</l>
+            </lg>
+            <lg>
+               <l>"The next we heard, which did our Wonder move,</l>
+               <l>"He was departed to return no more,</l>
+               <l>"Yet leſt the ſudden Change we ſhou'd reprove,</l>
+               <l>"Theſe Lines He ſent us from <hi>Britannia</hi>'s Shore.</l>
+            </lg>
+            <lg>
+               <l>"What Time in Tranſport loſt the Naïad Throng,</l>
+               <l>"Firſt catch'd their <hi>Akenſide</hi>'s enchanting Lay,</l>
+               <l>"And raptur'd Fancy liſten'd to the Song</l>
+               <l>"Of laurel'd <hi>Whitehead,</hi> and ſweet-plaintive <hi>Gray."</hi>
+               </l>
+            </lg>
+            <div type="letter">
+               <pb n="11" facs="tcp:0583501100:10"/>
+               <head>The LETTER.</head>
+               <lg>
+                  <l>A Veſtal Fair (Her Name I may'nt unfold)</l>
+                  <l>Has planted in my Breaſt the pleaſing Dart;</l>
+                  <l>Who by relentleſs Vows, if not controll'd,</l>
+                  <l>Wou'd own, perchance, a Sympathy of Heart:</l>
+               </lg>
+               <lg>
+                  <l>The growing Paſſion impotent to quell,</l>
+                  <l>Severe Diſcretion urg'd me to retreat;</l>
+                  <l>Now at my native rural Home I dwell,</l>
+                  <l>Where Contemplation keeps her lonely Seat.</l>
+               </lg>
+               <lg>
+                  <l>Seek not to draw me from this ſtill Abode,</l>
+                  <l>Where the kind Muſes to my Aid repair,</l>
+                  <l>And when the Thoughts of hapleſs Love corrode,</l>
+                  <l>Check the deep Sigh, and wipe the trickling Tear.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
+

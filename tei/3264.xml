@@ -1,0 +1,2662 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Barrack-Room Ballads</title>
+            <author>Kipling, Rudyard, 1865-1936</author>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>University of Oxford Text Archive</name>
+               <address>
+                  <addrLine>Oxford University Computing Services</addrLine>
+                  <addrLine>13 Banbury Road</addrLine>
+                  <addrLine>Oxford</addrLine>
+                  <addrLine>OX2 6NN</addrLine>
+               </address>
+               <email>ota@oucs.ox.ac.uk</email>
+            </distributor>
+            <idno type="ota">http://ota.ox.ac.uk/id/3264</idno>
+            <idno type="isbn10">1106002636</idno>
+            <idno type="isbn13">9781106002631</idno>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/3.0/">
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License
+      </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>TEI XML version of  
+	<relatedItem type="other"
+                            target="http://ebooks.adelaide.edu.au/k/kipling/rudyard/barrack/"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="OTASH">
+               <bibl>University of Oxford Text Archive Subject Headings</bibl>
+            </taxonomy>
+            <taxonomy xml:id="LCSH">
+               <bibl>Library of Congress Subject Headings</bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <creation>
+            <date notAfter="1892"/>
+         </creation>
+         <langUsage>
+            <language ident="eng">English</language>
+         </langUsage>
+      </profileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div>
+            <head>Dedication</head>
+            <epigraph>
+               <l> To T. A.</l>
+               <l>   I have made for you a song,</l>
+               <l>   And it may be right or wrong,</l>
+               <l> But only you can tell me if it’s true;</l>
+               <l>   I have tried for to explain</l>
+               <l>   Both your pleasure and your pain,</l>
+               <l> And, Thomas, here’s my best respects to you!</l>
+            </epigraph>
+            <quote>
+               <p>   O there’ll surely come a day<lb/>
+   When they’ll give you all your pay,<lb/>
+ And treat you as a Christian ought to do;<lb/>
+   So, until that day comes round,<lb/>
+   Heaven keep you safe and sound,<lb/>
+ And, Thomas, here’s my best respects to you!</p>
+            </quote>
+            <p>R. K.</p>
+         </div>
+         <div>
+            <head>Danny Deever</head>
+            <epigraph>
+               <l>“What are the bugles blowin’ for?” said Files-on-Parade.</l>
+               <l>“To turn you out, to turn you out”, the Colour–Sergeant said.</l>
+               <l>“What makes you look so white, so white?” said Files-on-Parade.</l>
+               <l>“I’m dreadin’ what I’ve got to watch”, the Colour–Sergeant said.</l>
+               <l>  For they’re hangin’ Danny Deever, you can hear the Dead March play,</l>
+               <l>  The regiment’s in ’ollow square — they’re hangin’ him today;</l>
+               <l>  They’ve taken of his buttons off an’ cut his stripes away,</l>
+               <l>  An’ they’re hangin’ Danny Deever in the mornin’.</l>
+            </epigraph>
+            <quote>
+               <p>“What makes the rear-rank breathe so ’ard?” said Files-on-Parade.<lb/>
+“It’s bitter cold, it’s bitter cold”, the Colour–Sergeant said.<lb/>
+“What makes that front-rank man fall down?” said Files-on-Parade.<lb/>
+“A touch o’ sun, a touch o’ sun”, the Colour–Sergeant said.<lb/>
+  They are hangin’ Danny Deever, they are marchin’ of ’im round,<lb/>
+  They ’ave ’alted Danny Deever by ’is coffin on the ground;<lb/>
+  An’ ’e’ll swing in ’arf a minute for a sneakin’ shootin’ hound —<lb/>
+  O they’re hangin’ Danny Deever in the mornin’!</p>
+            </quote>
+            <quote>
+               <p>“‘Is cot was right-’and cot to mine”, said Files-on-Parade.<lb/>
+“’E’s sleepin’ out an’ far to-night”, the Colour–Sergeant said.<lb/>
+“I’ve drunk ’is beer a score o’ times”, said Files-on-Parade.<lb/>
+“’E’s drinkin’ bitter beer alone”, the Colour–Sergeant said.<lb/>
+  They are hangin’ Danny Deever, you must mark ’im to ’is place,<lb/>
+  For ’e shot a comrade sleepin’— you must look ’im in the face;<lb/>
+  Nine ’undred of ’is county an’ the regiment’s disgrace,<lb/>
+  While they’re hangin’ Danny Deever in the mornin’.</p>
+            </quote>
+            <quote>
+               <p>“What’s that so black agin’ the sun?” said Files-on-Parade.<lb/>
+“It’s Danny fightin’ ’ard for life”, the Colour–Sergeant said.<lb/>
+“What’s that that whimpers over’ead?” said Files-on-Parade.<lb/>
+“It’s Danny’s soul that’s passin’ now”, the Colour–Sergeant said.<lb/>
+  For they’re done with Danny Deever, you can ’ear the quickstep play,<lb/>
+  The regiment’s in column, an’ they’re marchin’ us away;<lb/>
+  Ho! the young recruits are shakin’, an’ they’ll want their beer today,<lb/>
+  After hangin’ Danny Deever in the mornin’.</p>
+            </quote>
+         </div>
+         <div>
+            <head>Tommy</head>
+            <epigraph>
+               <l>I went into a public-’ouse to get a pint o’ beer,</l>
+               <l>The publican ’e up an’ sez, “We serve no red-coats here.”</l>
+               <l>The girls be’ind the bar they laughed an’ giggled fit to die,</l>
+               <l>I outs into the street again an’ to myself sez I:</l>
+               <l>  O it’s Tommy this, an’ Tommy that, an’ “Tommy, go away”;</l>
+               <l>  But it’s “Thank you, Mister Atkins”, when the band begins to play,</l>
+               <l>  The band begins to play, my boys, the band begins to play,</l>
+               <l>  O it’s “Thank you, Mister Atkins”, when the band begins to play.</l>
+            </epigraph>
+            <quote>
+               <p>I went into a theatre as sober as could be,<lb/>
+They gave a drunk civilian room, but ’adn’t none for me;<lb/>
+They sent me to the gallery or round the music-’alls,<lb/>
+But when it comes to fightin’, Lord! they’ll shove me in the stalls!<lb/>
+  For it’s Tommy this, an’ Tommy that, an’ “Tommy, wait outside”;<lb/>
+  But it’s “Special train for Atkins” when the trooper’s on the tide,<lb/>
+  The troopship’s on the tide, my boys, the troopship’s on the tide,<lb/>
+  O it’s “Special train for Atkins” when the trooper’s on the tide.</p>
+            </quote>
+            <quote>
+               <p>Yes, makin’ mock o’ uniforms that guard you while you sleep<lb/>
+Is cheaper than them uniforms, an’ they’re starvation cheap;<lb/>
+An’ hustlin’ drunken soldiers when they’re goin’ large a bit<lb/>
+Is five times better business than paradin’ in full kit.<lb/>
+  Then it’s Tommy this, an’ Tommy that, an’ “Tommy, ’ow’s yer soul?”<lb/>
+  But it’s “Thin red line of ’eroes” when the drums begin to roll,<lb/>
+  The drums begin to roll, my boys, the drums begin to roll,<lb/>
+  O it’s “Thin red line of ’eroes” when the drums begin to roll.</p>
+            </quote>
+            <quote>
+               <p>We aren’t no thin red ’eroes, nor we aren’t no blackguards too,<lb/>
+But single men in barricks, most remarkable like you;<lb/>
+An’ if sometimes our conduck isn’t all your fancy paints,<lb/>
+Why, single men in barricks don’t grow into plaster saints;<lb/>
+  While it’s Tommy this, an’ Tommy that, an’ “Tommy, fall be’ind”,<lb/>
+  But it’s “Please to walk in front, sir”, when there’s trouble in the wind,<lb/>
+  There’s trouble in the wind, my boys, there’s trouble in the wind,<lb/>
+  O it’s “Please to walk in front, sir”, when there’s trouble in the wind.</p>
+            </quote>
+            <quote>
+               <p>You talk o’ better food for us, an’ schools, an’ fires, an’ all:<lb/>
+We’ll wait for extry rations if you treat us rational.<lb/>
+Don’t mess about the cook-room slops, but prove it to our face<lb/>
+The Widow’s Uniform is not the soldier-man’s disgrace.<lb/>
+  For it’s Tommy this, an’ Tommy that, an’ “Chuck him out, the brute!”<lb/>
+  But it’s “Saviour of ’is country” when the guns begin to shoot;<lb/>
+  An’ it’s Tommy this, an’ Tommy that, an’ anything you please;<lb/>
+  An’ Tommy ain’t a bloomin’ fool — you bet that Tommy sees!</p>
+            </quote>
+         </div>
+         <div>
+            <head>Fuzzy–Wuzzy</head>
+            <byline>(Soudan Expeditionary Force)</byline>
+            <epigraph>
+               <l>We’ve fought with many men acrost the seas,</l>
+               <l> An’ some of ’em was brave an’ some was not:</l>
+               <l>The Paythan an’ the Zulu an’ Burmese;</l>
+               <l> But the Fuzzy was the finest o’ the lot.</l>
+               <l>We never got a ha’porth’s change of ’im:</l>
+               <l> ’E squatted in the scrub an’ ’ocked our ’orses,</l>
+               <l>’E cut our sentries up at Suakim,</l>
+               <l> An’ ’e played the cat an’ banjo with our forces.</l>
+               <l>  So ’ere’s to you, Fuzzy–Wuzzy, at your ’ome in the Soudan;</l>
+               <l>  You’re a pore benighted ’eathen but a first-class fightin’ man;</l>
+               <l>  We gives you your certificate, an’ if you want it signed</l>
+               <l>  We’ll come an’ ’ave a romp with you whenever you’re inclined.</l>
+            </epigraph>
+            <quote>
+               <p>We took our chanst among the Khyber ’ills,<lb/>
+ The Boers knocked us silly at a mile,<lb/>
+The Burman give us Irriwaddy chills,<lb/>
+ An’ a Zulu impi dished us up in style:<lb/>
+But all we ever got from such as they<lb/>
+ Was pop to what the Fuzzy made us swaller;<lb/>
+We ’eld our bloomin’ own, the papers say,<lb/>
+ But man for man the Fuzzy knocked us ’oller.<lb/>
+  Then ’ere’s to you, Fuzzy–Wuzzy, an’ the missis and the kid;<lb/>
+  Our orders was to break you, an’ of course we went an’ did.<lb/>
+  We sloshed you with Martinis, an’ it wasn’t ’ardly fair;<lb/>
+  But for all the odds agin’ you, Fuzzy–Wuz, you broke the square.</p>
+            </quote>
+            <quote>
+               <p>’E ’asn’t got no papers of ’is own,<lb/>
+ ’E ’asn’t got no medals nor rewards,<lb/>
+So we must certify the skill ’e’s shown<lb/>
+ In usin’ of ’is long two-’anded swords:<lb/>
+When ’e’s ’oppin’ in an’ out among the bush<lb/>
+ With ’is coffin-’eaded shield an’ shovel-spear,<lb/>
+An ’appy day with Fuzzy on the rush<lb/>
+ Will last an ’ealthy Tommy for a year.<lb/>
+  So ’ere’s to you, Fuzzy–Wuzzy, an’ your friends which are no more,<lb/>
+  If we ’adn’t lost some messmates we would ’elp you to deplore;<lb/>
+  But give an’ take’s the gospel, an’ we’ll call the bargain fair,<lb/>
+  For if you ’ave lost more than us, you crumpled up the square!</p>
+            </quote>
+            <quote>
+               <p>’E rushes at the smoke when we let drive,<lb/>
+ An’, before we know, ’e’s ’ackin’ at our ’ead;<lb/>
+’E’s all ’ot sand an’ ginger when alive,<lb/>
+ An’ ’e’s generally shammin’ when ’e’s dead.<lb/>
+’E’s a daisy, ’e’s a ducky, ’e’s a lamb!<lb/>
+ ’E’s a injia-rubber idiot on the spree,<lb/>
+’E’s the on’y thing that doesn’t give a damn<lb/>
+ For a Regiment o’ British Infantree!<lb/>
+  So ’ere’s to you, Fuzzy–Wuzzy, at your ’ome in the Soudan;<lb/>
+  You’re a pore benighted ’eathen but a first-class fightin’ man;<lb/>
+  An’ ’ere’s to you, Fuzzy–Wuzzy, with your ’ayrick ’ead of ’air —<lb/>
+  You big black boundin’ beggar — for you broke a British square!</p>
+            </quote>
+         </div>
+         <div>
+            <head>Soldier, Soldier</head>
+            <epigraph>
+               <l>“Soldier, soldier come from the wars,</l>
+               <l>Why don’t you march with my true love?”</l>
+               <l>“We’re fresh from off the ship an’ ’e’s maybe give the slip,</l>
+               <l>An’ you’d best go look for a new love.”</l>
+               <l>  New love! True love!</l>
+               <l>  Best go look for a new love,</l>
+               <l>  The dead they cannot rise, an’ you’d better dry your eyes,</l>
+               <l>  An’ you’d best go look for a new love.</l>
+            </epigraph>
+            <quote>
+               <p>“Soldier, soldier come from the wars,<lb/>
+What did you see o’ my true love?”<lb/>
+“I seed ’im serve the Queen in a suit o’ rifle-green,<lb/>
+An’ you’d best go look for a new love.”</p>
+            </quote>
+            <quote>
+               <p>“Soldier, soldier come from the wars,<lb/>
+Did ye see no more o’ my true love?”<lb/>
+“I seed ’im runnin’ by when the shots begun to fly —<lb/>
+But you’d best go look for a new love.”</p>
+            </quote>
+            <quote>
+               <p>“Soldier, soldier come from the wars,<lb/>
+Did aught take ’arm to my true love?”<lb/>
+“I couldn’t see the fight, for the smoke it lay so white —<lb/>
+An’ you’d best go look for a new love.”</p>
+            </quote>
+            <quote>
+               <p>“Soldier, soldier come from the wars,<lb/>
+I’ll up an’ tend to my true love!”<lb/>
+“’E’s lying on the dead with a bullet through ’is ’ead,<lb/>
+An’ you’d best go look for a new love.”</p>
+            </quote>
+            <quote>
+               <p>“Soldier, soldier come from the wars,<lb/>
+I’ll down an’ die with my true love!”<lb/>
+“The pit we dug’ll ’ide ’im an’ the twenty men beside ’im-<lb/>
+An’ you’d best go look for a new love.”</p>
+            </quote>
+            <quote>
+               <p>“Soldier, soldier come from the wars,<lb/>
+Do you bring no sign from my true love?”<lb/>
+“I bring a lock of ’air that ’e allus used to wear,<lb/>
+An’ you’d best go look for a new love.”</p>
+            </quote>
+            <quote>
+               <p>“Soldier, soldier come from the wars,<lb/>
+O then I know it’s true I’ve lost my true love!”<lb/>
+“An’ I tell you truth again — when you’ve lost the feel o’ pain<lb/>
+You’d best take me for your true love.”<lb/>
+  True love! New love!<lb/>
+  Best take ’im for a new love,<lb/>
+  The dead they cannot rise, an’ you’d better dry your eyes,<lb/>
+  An’ you’d best take ’im for your true love.</p>
+            </quote>
+         </div>
+         <div>
+            <head>Screw–Guns</head>
+            <epigraph>
+               <l>Smokin’ my pipe on the mountings, sniffin’ the mornin’ cool,</l>
+               <l>I walks in my old brown gaiters along o’ my old brown mule,</l>
+               <l>With seventy gunners be’ind me, an’ never a beggar forgets</l>
+               <l>It’s only the pick of the Army</l>
+               <l>     that handles the dear little pets —‘Tss! ‘Tss!</l>
+               <l>  For you all love the screw-guns — the screw-guns they all love you!</l>
+               <l>  So when we call round with a few guns,</l>
+               <l>       o’ course you will know what to do — hoo! hoo!</l>
+               <l>  Jest send in your Chief an’ surrender —</l>
+               <l>       it’s worse if you fights or you runs:</l>
+               <l>  You can go where you please, you can skid up the trees,</l>
+               <l>       but you don’t get away from the guns!</l>
+            </epigraph>
+            <quote>
+               <p>They sends us along where the roads are, but mostly we goes where they ain’t:<lb/>
+We’d climb up the side of a sign-board an’ trust to the stick o’ the paint:<lb/>
+We’ve chivied the Naga an’ Looshai, we’ve give the Afreedeeman fits,<lb/>
+For we fancies ourselves at two thousand,<lb/>
+     we guns that are built in two bits —‘Tss! ‘Tss!<lb/>
+  For you all love the screw-guns...</p>
+            </quote>
+            <quote>
+               <p>If a man doesn’t work, why, we drills ’im an’ teaches ’im ’ow to behave;<lb/>
+If a beggar can’t march, why, we kills ’im an’ rattles ’im into ’is grave.<lb/>
+You’ve got to stand up to our business an’ spring without snatchin’ or fuss.<lb/>
+D’you say that you sweat with the field-guns?<lb/>
+     By God, you must lather with us —‘Tss! ‘Tss!<lb/>
+  For you all love the screw-guns...</p>
+            </quote>
+            <quote>
+               <p>The eagles is screamin’ around us, the river’s a-moanin’ below,<lb/>
+We’re clear o’ the pine an’ the oak-scrub,<lb/>
+     we’re out on the rocks an’ the snow,<lb/>
+An’ the wind is as thin as a whip-lash what carries away to the plains<lb/>
+The rattle an’ stamp o’ the lead-mules —<lb/>
+     the jinglety-jink o’ the chains —‘Tss! ‘Tss!<lb/>
+  For you all love the screw-guns...</p>
+            </quote>
+            <quote>
+               <p>There’s a wheel on the Horns o’ the Mornin’,<lb/>
+     an’ a wheel on the edge o’ the Pit,<lb/>
+An’ a drop into nothin’ beneath you as straight as a beggar can spit:<lb/>
+With the sweat runnin’ out o’ your shirt-sleeves,<lb/>
+     an’ the sun off the snow in your face,<lb/>
+An’ ’arf o’ the men on the drag-ropes<lb/>
+     to hold the old gun in ’er place —‘Tss! ‘Tss!<lb/>
+  For you all love the screw-guns...</p>
+            </quote>
+            <quote>
+               <p>Smokin’ my pipe on the mountings, sniffin’ the mornin’ cool,<lb/>
+I climbs in my old brown gaiters along o’ my old brown mule.<lb/>
+The monkey can say what our road was —<lb/>
+     the wild-goat ’e knows where we passed.<lb/>
+Stand easy, you long-eared old darlin’s!<lb/>
+     Out drag-ropes! With shrapnel! Hold fast —‘Tss! ‘Tss!<lb/>
+  For you all love the screw-guns — the screw-guns they all love you!<lb/>
+  So when we take tea with a few guns,<lb/>
+       o’ course you will know what to do — hoo! hoo!<lb/>
+  Jest send in your Chief an’ surrender —<lb/>
+       it’s worse if you fights or you runs:<lb/>
+  You may hide in the caves, they’ll be only your graves,<lb/>
+       but you can’t get away from the guns!</p>
+            </quote>
+         </div>
+         <div>
+            <head>Cells</head>
+            <epigraph>
+               <l>I’ve a head like a concertina: I’ve a tongue like a button-stick:</l>
+               <l>I’ve a mouth like an old potato, and I’m more than a little sick,</l>
+               <l>But I’ve had my fun o’ the Corp’ral’s Guard: I’ve made the cinders fly,</l>
+               <l>And I’m here in the Clink for a thundering drink</l>
+               <l>     and blacking the Corporal’s eye.</l>
+               <l>  With a second-hand overcoat under my head,</l>
+               <l>  And a beautiful view of the yard,</l>
+               <l> O it’s pack-drill for me and a fortnight’s C.B.</l>
+               <l>  For “drunk and resisting the Guard!”</l>
+               <l>  Mad drunk and resisting the Guard —</l>
+               <l>  ‘Strewth, but I socked it them hard!</l>
+               <l> So it’s pack-drill for me and a fortnight’s C.B.</l>
+               <l>  For “drunk and resisting the Guard.”</l>
+            </epigraph>
+            <quote>
+               <p>I started o’ canteen porter, I finished o’ canteen beer,<lb/>
+But a dose o’ gin that a mate slipped in, it was that that brought me here.<lb/>
+’Twas that and an extry double Guard that rubbed my nose in the dirt;<lb/>
+But I fell away with the Corp’ral’s stock<lb/>
+     and the best of the Corp’ral’s shirt.</p>
+            </quote>
+            <quote>
+               <p>I left my cap in a public-house, my boots in the public road,<lb/>
+And Lord knows where, and I don’t care, my belt and my tunic goed;<lb/>
+They’ll stop my pay, they’ll cut away the stripes I used to wear,<lb/>
+But I left my mark on the Corp’ral’s face, and I think he’ll keep it there!</p>
+            </quote>
+            <quote>
+               <p>My wife she cries on the barrack-gate, my kid in the barrack-yard,<lb/>
+It ain’t that I mind the Ord’ly room — it’s that that cuts so hard.<lb/>
+I’ll take my oath before them both that I will sure abstain,<lb/>
+But as soon as I’m in with a mate and gin, I know I’ll do it again!<lb/>
+  With a second-hand overcoat under my head,<lb/>
+  And a beautiful view of the yard,<lb/>
+ Yes, it’s pack-drill for me and a fortnight’s C.B.<lb/>
+  For “drunk and resisting the Guard!”<lb/>
+  Mad drunk and resisting the Guard —<lb/>
+  ‘Strewth, but I socked it them hard!<lb/>
+ So it’s pack-drill for me and a fortnight’s C.B.<lb/>
+  For “drunk and resisting the Guard.”</p>
+            </quote>
+         </div>
+         <div>
+            <head>Gunga Din</head>
+            <epigraph>
+               <l>You may talk o’ gin and beer</l>
+               <l>When you’re quartered safe out ’ere,</l>
+               <l>An’ you’re sent to penny-fights an’ Aldershot it;</l>
+               <l>But when it comes to slaughter</l>
+               <l>You will do your work on water,</l>
+               <l>An’ you’ll lick the bloomin’ boots of ’im that’s got it.</l>
+               <l>Now in Injia’s sunny clime,</l>
+               <l>Where I used to spend my time</l>
+               <l>A-servin’ of ’Er Majesty the Queen,</l>
+               <l>Of all them blackfaced crew</l>
+               <l>The finest man I knew</l>
+               <l>Was our regimental bhisti, Gunga Din.</l>
+               <l>   He was “Din! Din! Din!</l>
+               <l> You limpin’ lump o’ brick-dust, Gunga Din!</l>
+               <l>   Hi! slippery hitherao!</l>
+               <l>   Water, get it! Panee lao!</l>
+               <l> You squidgy-nosed old idol, Gunga Din.”</l>
+            </epigraph>
+            <quote>
+               <p>The uniform ’e wore<lb/>
+Was nothin’ much before,<lb/>
+An’ rather less than ’arf o’ that be’ind,<lb/>
+For a piece o’ twisty rag<lb/>
+An’ a goatskin water-bag<lb/>
+Was all the field-equipment ’e could find.<lb/>
+When the sweatin’ troop-train lay<lb/>
+In a sidin’ through the day,<lb/>
+Where the ’eat would make your bloomin’ eyebrows crawl,<lb/>
+We shouted “Harry By!”<lb/>
+Till our throats were bricky-dry,<lb/>
+Then we wopped ’im ‘cause ’e couldn’t serve us all.<lb/>
+   It was “Din! Din! Din!<lb/>
+ You ’eathen, where the mischief ’ave you been?<lb/>
+   You put some juldee in it<lb/>
+   Or I’ll marrow you this minute<lb/>
+ If you don’t fill up my helmet, Gunga Din!”</p>
+            </quote>
+            <quote>
+               <p>’E would dot an’ carry one<lb/>
+Till the longest day was done;<lb/>
+An’ ’e didn’t seem to know the use o’ fear.<lb/>
+If we charged or broke or cut,<lb/>
+You could bet your bloomin’ nut,<lb/>
+’E’d be waitin’ fifty paces right flank rear.<lb/>
+With ’is mussick on ’is back,<lb/>
+’E would skip with our attack,<lb/>
+An’ watch us till the bugles made “Retire”,<lb/>
+An’ for all ’is dirty ’ide<lb/>
+’E was white, clear white, inside<lb/>
+When ’e went to tend the wounded under fire!<lb/>
+   It was “Din! Din! Din!”<lb/>
+ With the bullets kickin’ dust-spots on the green.<lb/>
+   When the cartridges ran out,<lb/>
+   You could hear the front-files shout,<lb/>
+ “Hi! ammunition-mules an’ Gunga Din!”</p>
+            </quote>
+            <quote>
+               <p>I shan’t forgit the night<lb/>
+When I dropped be’ind the fight<lb/>
+With a bullet where my belt-plate should ’a’ been.<lb/>
+I was chokin’ mad with thirst,<lb/>
+An’ the man that spied me first<lb/>
+Was our good old grinnin’, gruntin’ Gunga Din.<lb/>
+’E lifted up my ’ead,<lb/>
+An’ he plugged me where I bled,<lb/>
+An’ ’e guv me ’arf-a-pint o’ water-green:<lb/>
+It was crawlin’ and it stunk,<lb/>
+But of all the drinks I’ve drunk,<lb/>
+I’m gratefullest to one from Gunga Din.<lb/>
+   It was “Din! Din! Din!<lb/>
+ ’Ere’s a beggar with a bullet through ’is spleen;<lb/>
+   ’E’s chawin’ up the ground,<lb/>
+   An’ ’e’s kickin’ all around:<lb/>
+ For Gawd’s sake git the water, Gunga Din!”</p>
+            </quote>
+            <quote>
+               <p>’E carried me away<lb/>
+To where a dooli lay,<lb/>
+An’ a bullet come an’ drilled the beggar clean.<lb/>
+’E put me safe inside,<lb/>
+An’ just before ’e died,<lb/>
+“I ’ope you liked your drink”, sez Gunga Din.<lb/>
+So I’ll meet ’im later on<lb/>
+At the place where ’e is gone —<lb/>
+Where it’s always double drill and no canteen;<lb/>
+’E’ll be squattin’ on the coals<lb/>
+Givin’ drink to poor damned souls,<lb/>
+An’ I’ll get a swig in hell from Gunga Din!<lb/>
+   Yes, Din! Din! Din!<lb/>
+ You Lazarushian-leather Gunga Din!<lb/>
+   Though I’ve belted you and flayed you,<lb/>
+   By the livin’ Gawd that made you,<lb/>
+ You’re a better man than I am, Gunga Din!</p>
+            </quote>
+         </div>
+         <div>
+            <head>Oonts</head>
+            <byline>(Northern India Transport Train)</byline>
+            <epigraph>
+               <l>Wot makes the soldier’s ’eart to penk, wot makes ’im to perspire?</l>
+               <l>It isn’t standin’ up to charge nor lyin’ down to fire;</l>
+               <l>But it’s everlastin’ waitin’ on a everlastin’ road</l>
+               <l>For the commissariat camel an’ ’is commissariat load.</l>
+               <l>  O the oont, O the oont, O the commissariat oont!</l>
+               <l>   With ’is silly neck a-bobbin’ like a basket full o’ snakes;</l>
+               <l>  We packs ’im like an idol, an’ you ought to ’ear ’im grunt,</l>
+               <l>   An’ when we gets ’im loaded up ’is blessed girth-rope breaks.</l>
+            </epigraph>
+            <quote>
+               <p>Wot makes the rear-guard swear so ’ard when night is drorin’ in,<lb/>
+An’ every native follower is shiverin’ for ’is skin?<lb/>
+It ain’t the chanst o’ being rushed by Paythans from the ’ills,<lb/>
+It’s the commissariat camel puttin’ on ’is bloomin’ frills!<lb/>
+  O the oont, O the oont, O the hairy scary oont!<lb/>
+   A-trippin’ over tent-ropes when we’ve got the night alarm!<lb/>
+  We socks ’im with a stretcher-pole an’ ’eads ’im off in front,<lb/>
+   An’ when we’ve saved ’is bloomin’ life ’e chaws our bloomin’ arm.</p>
+            </quote>
+            <quote>
+               <p>The ’orse ’e knows above a bit, the bullock’s but a fool,<lb/>
+The elephant’s a gentleman, the battery-mule’s a mule;<lb/>
+But the commissariat cam-u-el, when all is said an’ done,<lb/>
+’E’s a devil an’ a ostrich an’ a orphan-child in one.<lb/>
+  O the oont, O the oont, O the Gawd-forsaken oont!<lb/>
+   The lumpy-’umpy ’ummin’-bird a-singin’ where ’e lies,<lb/>
+  ’E’s blocked the whole division from the rear-guard to the front,<lb/>
+   An’ when we get him up again — the beggar goes an’ dies!</p>
+            </quote>
+            <quote>
+               <p>’E’ll gall an’ chafe an’ lame an’ fight —’e smells most awful vile;<lb/>
+’E’ll lose ’isself for ever if you let ’im stray a mile;<lb/>
+’E’s game to graze the ’ole day long an’ ’owl the ’ole night through,<lb/>
+An’ when ’e comes to greasy ground ’e splits ’isself in two.<lb/>
+  O the oont, O the oont, O the floppin’, droppin’ oont!<lb/>
+   When ’is long legs give from under an’ ’is meltin’ eye is dim,<lb/>
+  The tribes is up be’ind us, and the tribes is out in front —<lb/>
+   It ain’t no jam for Tommy, but it’s kites an’ crows for ’im.</p>
+            </quote>
+            <quote>
+               <p>So when the cruel march is done, an’ when the roads is blind,<lb/>
+An’ when we sees the camp in front an’ ’ears the shots be’ind,<lb/>
+Ho! then we strips ’is saddle off, and all ’is woes is past:<lb/>
+’E thinks on us that used ’im so, and gets revenge at last.<lb/>
+  O the oont, O the oont, O the floatin’, bloatin’ oont!<lb/>
+   The late lamented camel in the water-cut ’e lies;<lb/>
+  We keeps a mile be’ind ’im an’ we keeps a mile in front,<lb/>
+   But ’e gets into the drinkin’-casks, and then o’ course we dies.</p>
+            </quote>
+         </div>
+         <div>
+            <head>Loot</head>
+            <epigraph>
+               <l>If you’ve ever stole a pheasant-egg be’ind the keeper’s back,</l>
+               <l> If you’ve ever snigged the washin’ from the line,</l>
+               <l>If you’ve ever crammed a gander in your bloomin’ ’aversack,</l>
+               <l> You will understand this little song o’ mine.</l>
+               <l>But the service rules are ’ard, an’ from such we are debarred,</l>
+               <l> For the same with English morals does not suit.</l>
+               <l>  (Cornet: Toot! toot!)</l>
+               <l>W’y, they call a man a robber if ’e stuffs ’is marchin’ clobber</l>
+               <l> With the —</l>
+               <l>(Chorus) Loo! loo! Lulu! lulu! Loo! loo! Loot! loot! loot!</l>
+               <l>        Ow the loot!</l>
+               <l>        Bloomin’ loot!</l>
+               <l>      That’s the thing to make the boys git up an’ shoot!</l>
+               <l>       It’s the same with dogs an’ men,</l>
+               <l>       If you’d make ’em come again</l>
+               <l>      Clap ’em forward with a Loo! loo! Lulu! Loot!</l>
+               <l>  (ff) Whoopee! Tear ’im, puppy! Loo! loo! Lulu! Loot! loot! loot!</l>
+            </epigraph>
+            <quote>
+               <p>If you’ve knocked a nigger edgeways when ’e’s thrustin’ for your life,<lb/>
+ You must leave ’im very careful where ’e fell;<lb/>
+An’ may thank your stars an’ gaiters if you didn’t feel ’is knife<lb/>
+ That you ain’t told off to bury ’im as well.<lb/>
+Then the sweatin’ Tommies wonder as they spade the beggars under<lb/>
+ Why lootin’ should be entered as a crime;<lb/>
+So if my song you’ll ’ear, I will learn you plain an’ clear<lb/>
+ ‘Ow to pay yourself for fightin’ overtime.<lb/>
+(Chorus) With the loot,...</p>
+            </quote>
+            <quote>
+               <p>Now remember when you’re ’acking round a gilded Burma god<lb/>
+ That ’is eyes is very often precious stones;<lb/>
+An’ if you treat a nigger to a dose o’ cleanin’-rod<lb/>
+ ’E’s like to show you everything ’e owns.<lb/>
+When ’e won’t prodooce no more, pour some water on the floor<lb/>
+ Where you ’ear it answer ’ollow to the boot<lb/>
+  (Cornet: Toot! toot!)—<lb/>
+When the ground begins to sink, shove your baynick down the chink,<lb/>
+ An’ you’re sure to touch the —<lb/>
+(Chorus) Loo! loo! Lulu! Loot! loot! loot!<lb/>
+        Ow the loot!...</p>
+            </quote>
+            <quote>
+               <p>When from ’ouse to ’ouse you’re ’unting, you must always work in pairs —<lb/>
+ It ’alves the gain, but safer you will find —<lb/>
+For a single man gets bottled on them twisty-wisty stairs,<lb/>
+ An’ a woman comes and clobs ’im from be’ind.<lb/>
+When you’ve turned ’em inside out, an’ it seems beyond a doubt<lb/>
+ As if there weren’t enough to dust a flute<lb/>
+  (Cornet: Toot! toot!)—<lb/>
+Before you sling your ’ook, at the ’ousetops take a look,<lb/>
+ For it’s underneath the tiles they ’ide the loot.<lb/>
+(Chorus) Ow the loot!...</p>
+            </quote>
+            <quote>
+               <p>You can mostly square a Sergint an’ a Quartermaster too,<lb/>
+ If you only take the proper way to go;<lb/>
+I could never keep my pickin’s, but I’ve learned you all I knew —<lb/>
+ An’ don’t you never say I told you so.<lb/>
+An’ now I’ll bid good-bye, for I’m gettin’ rather dry,<lb/>
+ An’ I see another tunin’ up to toot<lb/>
+  (Cornet: Toot! toot!)—<lb/>
+So ’ere’s good-luck to those that wears the Widow’s clo’es,<lb/>
+ An’ the Devil send ’em all they want o’ loot!<lb/>
+(Chorus) Yes, the loot,<lb/>
+        Bloomin’ loot!<lb/>
+      In the tunic an’ the mess-tin an’ the boot!<lb/>
+       It’s the same with dogs an’ men,<lb/>
+       If you’d make ’em come again<lb/>
+  (fff) Whoop ’em forward with a Loo! loo! Lulu! Loot! loot! loot!<lb/>
+      Heeya! Sick ’im, puppy! Loo! loo! Lulu! Loot! loot! loot!</p>
+            </quote>
+         </div>
+         <div>
+            <head>‘Snarleyow’</head>
+            <epigraph>
+               <l>This ’appened in a battle to a batt’ry of the corps</l>
+               <l>Which is first among the women an’ amazin’ first in war;</l>
+               <l>An’ what the bloomin’ battle was I don’t remember now,</l>
+               <l>But Two’s off-lead ’e answered to the name o’ Snarleyow.</l>
+               <l>  Down in the Infantry, nobody cares;</l>
+               <l>  Down in the Cavalry, Colonel ’e swears;</l>
+               <l>  But down in the lead with the wheel at the flog</l>
+               <l>  Turns the bold Bombardier to a little whipped dog!</l>
+            </epigraph>
+            <quote>
+               <p>They was movin’ into action, they was needed very sore,<lb/>
+To learn a little schoolin’ to a native army corps,<lb/>
+They ’ad nipped against an uphill, they was tuckin’ down the brow,<lb/>
+When a tricky, trundlin’ roundshot give the knock to Snarleyow.</p>
+            </quote>
+            <quote>
+               <p>They cut ’im loose an’ left ’im-’e was almost tore in two —<lb/>
+But he tried to follow after as a well-trained ’orse should do;<lb/>
+’E went an’ fouled the limber, an’ the Driver’s Brother squeals:<lb/>
+“Pull up, pull up for Snarleyow —’is head’s between ’is ’eels!”</p>
+            </quote>
+            <quote>
+               <p>The Driver ’umped ’is shoulder, for the wheels was goin’ round,<lb/>
+An’ there ain’t no “Stop, conductor!” when a batt’ry’s changin’ ground;<lb/>
+Sez ’e: “I broke the beggar in, an’ very sad I feels,<lb/>
+But I couldn’t pull up, not for you — your ’ead between your ’eels!”</p>
+            </quote>
+            <quote>
+               <p>’E ’adn’t ’ardly spoke the word, before a droppin’ shell<lb/>
+A little right the batt’ry an’ between the sections fell;<lb/>
+An’ when the smoke ’ad cleared away, before the limber wheels,<lb/>
+There lay the Driver’s Brother with ’is ’ead between ’is ’eels.</p>
+            </quote>
+            <quote>
+               <p>Then sez the Driver’s Brother, an’ ’is words was very plain,<lb/>
+“For Gawd’s own sake get over me, an’ put me out o’ pain.”<lb/>
+They saw ’is wounds was mortial, an’ they judged that it was best,<lb/>
+So they took an’ drove the limber straight across ’is back an’ chest.</p>
+            </quote>
+            <quote>
+               <p>The Driver ’e give nothin’ ‘cept a little coughin’ grunt,<lb/>
+But ’e swung ’is ’orses ’andsome when it came to “Action Front!”<lb/>
+An’ if one wheel was juicy, you may lay your Monday head<lb/>
+’Twas juicier for the niggers when the case begun to spread.</p>
+            </quote>
+            <quote>
+               <p>The moril of this story, it is plainly to be seen:<lb/>
+You ’avn’t got no families when servin’ of the Queen —<lb/>
+You ’avn’t got no brothers, fathers, sisters, wives, or sons —<lb/>
+If you want to win your battles take an’ work your bloomin’ guns!<lb/>
+  Down in the Infantry, nobody cares;<lb/>
+  Down in the Cavalry, Colonel ’e swears;<lb/>
+  But down in the lead with the wheel at the flog<lb/>
+  Turns the bold Bombardier to a little whipped dog!</p>
+            </quote>
+         </div>
+         <div>
+            <head>The Widow at Windsor</head>
+            <epigraph>
+               <l>‘Ave you ’eard o’ the Widow at Windsor</l>
+               <l> With a hairy gold crown on ’er ’ead?</l>
+               <l>She ’as ships on the foam — she ’as millions at ’ome,</l>
+               <l> An’ she pays us poor beggars in red.</l>
+               <l>  (Ow, poor beggars in red!)</l>
+               <l>There’s ’er nick on the cavalry ’orses,</l>
+               <l> There’s ’er mark on the medical stores —</l>
+               <l>An’ ’er troopers you’ll find with a fair wind be’ind</l>
+               <l> That takes us to various wars.</l>
+               <l>  (Poor beggars!— barbarious wars!)</l>
+               <l>    Then ’ere’s to the Widow at Windsor,</l>
+               <l>    An’ ’ere’s to the stores an’ the guns,</l>
+               <l>    The men an’ the ’orses what makes up the forces</l>
+               <l>    O’ Missis Victorier’s sons.</l>
+               <l>    (Poor beggars! Victorier’s sons!)</l>
+            </epigraph>
+            <quote>
+               <p>Walk wide o’ the Widow at Windsor,<lb/>
+ For ’alf o’ Creation she owns:<lb/>
+We ’ave bought ’er the same with the sword an’ the flame,<lb/>
+ An’ we’ve salted it down with our bones.<lb/>
+  (Poor beggars!— it’s blue with our bones!)<lb/>
+Hands off o’ the sons o’ the Widow,<lb/>
+ Hands off o’ the goods in ’er shop,<lb/>
+For the Kings must come down an’ the Emperors frown<lb/>
+ When the Widow at Windsor says “Stop”!<lb/>
+  (Poor beggars!— we’re sent to say “Stop”!)<lb/>
+    Then ’ere’s to the Lodge o’ the Widow,<lb/>
+    From the Pole to the Tropics it runs —<lb/>
+    To the Lodge that we tile with the rank an’ the file,<lb/>
+    An’ open in form with the guns.<lb/>
+    (Poor beggars!— it’s always they guns!)</p>
+            </quote>
+            <quote>
+               <p>We ’ave ’eard o’ the Widow at Windsor,<lb/>
+ It’s safest to let ’er alone:<lb/>
+For ’er sentries we stand by the sea an’ the land<lb/>
+ Wherever the bugles are blown.<lb/>
+  (Poor beggars!— an’ don’t we get blown!)<lb/>
+Take ’old o’ the Wings o’ the Mornin’,<lb/>
+ An’ flop round the earth till you’re dead;<lb/>
+But you won’t get away from the tune that they play<lb/>
+ To the bloomin’ old rag over’ead.<lb/>
+  (Poor beggars!— it’s ’ot over’ead!)<lb/>
+    Then ’ere’s to the sons o’ the Widow,<lb/>
+    Wherever, ’owever they roam.<lb/>
+    ’Ere’s all they desire, an’ if they require<lb/>
+    A speedy return to their ’ome.<lb/>
+    (Poor beggars!— they’ll never see ’ome!)</p>
+            </quote>
+         </div>
+         <div>
+            <head>Belts</head>
+            <epigraph>
+               <l>There was a row in Silver Street that’s near to Dublin Quay,</l>
+               <l>Between an Irish regiment an’ English cavalree;</l>
+               <l>It started at Revelly an’ it lasted on till dark:</l>
+               <l>The first man dropped at Harrison’s, the last forninst the Park.</l>
+               <l>  For it was:—“Belts, belts, belts, an’ that’s one for you!”</l>
+               <l>  An’ it was “Belts, belts, belts, an’ that’s done for you!”</l>
+               <l>  O buckle an’ tongue</l>
+               <l>  Was the song that we sung</l>
+               <l>  From Harrison’s down to the Park!</l>
+            </epigraph>
+            <quote>
+               <p>There was a row in Silver Street — the regiments was out,<lb/>
+They called us “Delhi Rebels”, an’ we answered “Threes about!”<lb/>
+That drew them like a hornet’s nest — we met them good an’ large,<lb/>
+The English at the double an’ the Irish at the charge.<lb/>
+  Then it was:—“Belts...”</p>
+            </quote>
+            <quote>
+               <p>There was a row in Silver Street — an’ I was in it too;<lb/>
+We passed the time o’ day, an’ then the belts went whirraru!<lb/>
+I misremember what occurred, but subsequint the storm<lb/>
+A Freeman’s Journal Supplemint was all my uniform.<lb/>
+  O it was:—“Belts...</p>
+            </quote>
+            <quote>
+               <p>There was a row in Silver Street — they sent the Polis there,<lb/>
+The English were too drunk to know, the Irish didn’t care;<lb/>
+But when they grew impertinint we simultaneous rose,<lb/>
+Till half o’ them was Liffey mud an’ half was tatthered clo’es.<lb/>
+  For it was:—“Belts...</p>
+            </quote>
+            <quote>
+               <p>There was a row in Silver Street — it might ha’ raged till now,<lb/>
+But some one drew his side-arm clear, an’ nobody knew how;<lb/>
+’Twas Hogan took the point an’ dropped; we saw the red blood run:<lb/>
+An’ so we all was murderers that started out in fun.<lb/>
+  While it was:—“Belts...</p>
+            </quote>
+            <quote>
+               <p>There was a row in Silver Street — but that put down the shine,<lb/>
+Wid each man whisperin’ to his next: “’Twas never work o’ mine!”<lb/>
+We went away like beaten dogs, an’ down the street we bore him,<lb/>
+The poor dumb corpse that couldn’t tell the bhoys were sorry for him.<lb/>
+  When it was:—“Belts...</p>
+            </quote>
+            <quote>
+               <p>There was a row in Silver Street — it isn’t over yet,<lb/>
+For half of us are under guard wid punishments to get;<lb/>
+’Tis all a merricle to me as in the Clink I lie:<lb/>
+There was a row in Silver Street — begod, I wonder why!<lb/>
+  But it was:—“Belts, belts, belts, an’ that’s one for you!”<lb/>
+  An’ it was “Belts, belts, belts, an’ that’s done for you!”<lb/>
+  O buckle an’ tongue<lb/>
+  Was the song that we sung<lb/>
+  From Harrison’s down to the Park!</p>
+            </quote>
+         </div>
+         <div>
+            <head>The Young British Soldier</head>
+            <epigraph>
+               <l>When the ’arf-made recruity goes out to the East</l>
+               <l>’E acts like a babe an’ ’e drinks like a beast,</l>
+               <l>An’ ’e wonders because ’e is frequent deceased</l>
+               <l>  Ere ’e’s fit for to serve as a soldier.</l>
+               <l>   Serve, serve, serve as a soldier,</l>
+               <l>   Serve, serve, serve as a soldier,</l>
+               <l>   Serve, serve, serve as a soldier,</l>
+               <l>     So-oldier of the Queen!</l>
+            </epigraph>
+            <quote>
+               <p>Now all you recruities what’s drafted today,<lb/>
+You shut up your rag-box an’ ’ark to my lay,<lb/>
+An’ I’ll sing you a soldier as far as I may:<lb/>
+  A soldier what’s fit for a soldier.<lb/>
+   Fit, fit, fit for a soldier...</p>
+            </quote>
+            <quote>
+               <p>First mind you steer clear o’ the grog-sellers’ huts,<lb/>
+For they sell you Fixed Bay’nets that rots out your guts —<lb/>
+Ay, drink that ’ud eat the live steel from your butts —<lb/>
+  An’ it’s bad for the young British soldier.<lb/>
+   Bad, bad, bad for the soldier...</p>
+            </quote>
+            <quote>
+               <p>When the cholera comes — as it will past a doubt —<lb/>
+Keep out of the wet and don’t go on the shout,<lb/>
+For the sickness gets in as the liquor dies out,<lb/>
+  An’ it crumples the young British soldier.<lb/>
+   Crum-, crum-, crumples the soldier...</p>
+            </quote>
+            <quote>
+               <p>But the worst o’ your foes is the sun over’ead:<lb/>
+You must wear your ’elmet for all that is said:<lb/>
+If ’e finds you uncovered ’e’ll knock you down dead,<lb/>
+  An’ you’ll die like a fool of a soldier.<lb/>
+   Fool, fool, fool of a soldier...</p>
+            </quote>
+            <quote>
+               <p>If you’re cast for fatigue by a sergeant unkind,<lb/>
+Don’t grouse like a woman nor crack on nor blind;<lb/>
+Be handy and civil, and then you will find<lb/>
+  That it’s beer for the young British soldier.<lb/>
+   Beer, beer, beer for the soldier...</p>
+            </quote>
+            <quote>
+               <p>Now, if you must marry, take care she is old —<lb/>
+A troop-sergeant’s widow’s the nicest I’m told,<lb/>
+For beauty won’t help if your rations is cold,<lb/>
+  Nor love ain’t enough for a soldier.<lb/>
+   ‘Nough, ‘nough, ‘nough for a soldier...</p>
+            </quote>
+            <quote>
+               <p>If the wife should go wrong with a comrade, be loath<lb/>
+To shoot when you catch ’em — you’ll swing, on my oath!—<lb/>
+Make ’im take ’er and keep ’er: that’s Hell for them both,<lb/>
+  An’ you’re shut o’ the curse of a soldier.<lb/>
+   Curse, curse, curse of a soldier...</p>
+            </quote>
+            <quote>
+               <p>When first under fire an’ you’re wishful to duck,<lb/>
+Don’t look nor take ’eed at the man that is struck,<lb/>
+Be thankful you’re livin’, and trust to your luck<lb/>
+  And march to your front like a soldier.<lb/>
+   Front, front, front like a soldier...</p>
+            </quote>
+            <quote>
+               <p>When ’arf of your bullets fly wide in the ditch,<lb/>
+Don’t call your Martini a cross-eyed old bitch;<lb/>
+She’s human as you are — you treat her as sich,<lb/>
+  An’ she’ll fight for the young British soldier.<lb/>
+   Fight, fight, fight for the soldier...</p>
+            </quote>
+            <quote>
+               <p>When shakin’ their bustles like ladies so fine,<lb/>
+The guns o’ the enemy wheel into line,<lb/>
+Shoot low at the limbers an’ don’t mind the shine,<lb/>
+  For noise never startles the soldier.<lb/>
+   Start-, start-, startles the soldier...</p>
+            </quote>
+            <quote>
+               <p>If your officer’s dead and the sergeants look white,<lb/>
+Remember it’s ruin to run from a fight:<lb/>
+So take open order, lie down, and sit tight,<lb/>
+  And wait for supports like a soldier.<lb/>
+   Wait, wait, wait like a soldier...</p>
+            </quote>
+            <quote>
+               <p>When you’re wounded and left on Afghanistan’s plains,<lb/>
+And the women come out to cut up what remains,<lb/>
+Jest roll to your rifle and blow out your brains<lb/>
+  An’ go to your Gawd like a soldier.<lb/>
+   Go, go, go like a soldier,<lb/>
+   Go, go, go like a soldier,<lb/>
+   Go, go, go like a soldier,<lb/>
+     So-oldier of the Queen!</p>
+            </quote>
+         </div>
+         <div>
+            <head>Mandalay</head>
+            <epigraph>
+               <l>By the old Moulmein Pagoda, lookin’ eastward to the sea,</l>
+               <l>There’s a Burma girl a-settin’, and I know she thinks o’ me;</l>
+               <l>For the wind is in the palm-trees, and the temple-bells they say:</l>
+               <l>“Come you back, you British soldier; come you back to Mandalay!”</l>
+               <l>  Come you back to Mandalay,</l>
+               <l>  Where the old Flotilla lay:</l>
+               <l>  Can’t you ’ear their paddles chunkin’ from Rangoon to Mandalay?</l>
+               <l>  On the road to Mandalay,</l>
+               <l>  Where the flyin’-fishes play,</l>
+               <l>  An’ the dawn comes up like thunder outer China ‘crost the Bay!</l>
+            </epigraph>
+            <quote>
+               <p>’Er petticoat was yaller an’ ’er little cap was green,<lb/>
+An’ ’er name was Supi-yaw-lat — jes’ the same as Theebaw’s Queen,<lb/>
+An’ I seed her first a-smokin’ of a whackin’ white cheroot,<lb/>
+An’ a-wastin’ Christian kisses on an ’eathen idol’s foot:<lb/>
+  Bloomin’ idol made o’mud —<lb/>
+  Wot they called the Great Gawd Budd —<lb/>
+  Plucky lot she cared for idols when I kissed ’er where she stud!<lb/>
+  On the road to Mandalay...</p>
+            </quote>
+            <quote>
+               <p>When the mist was on the rice-fields an’ the sun was droppin’ slow,<lb/>
+She’d git ’er little banjo an’ she’d sing “Kulla-lo-lo!”<lb/>
+With ’er arm upon my shoulder an’ ’er cheek agin’ my cheek<lb/>
+We useter watch the steamers an’ the hathis pilin’ teak.<lb/>
+  Elephints a-pilin’ teak<lb/>
+  In the sludgy, squdgy creek,<lb/>
+  Where the silence ’ung that ’eavy you was ’arf afraid to speak!<lb/>
+  On the road to Mandalay...</p>
+            </quote>
+            <quote>
+               <p>But that’s all shove be’ind me — long ago an’ fur away,<lb/>
+An’ there ain’t no ‘busses runnin’ from the Bank to Mandalay;<lb/>
+An’ I’m learnin’ ’ere in London what the ten-year soldier tells:<lb/>
+“If you’ve ’eard the East a-callin’, you won’t never ’eed naught else.”<lb/>
+  No! you won’t ’eed nothin’ else<lb/>
+  But them spicy garlic smells,<lb/>
+  An’ the sunshine an’ the palm-trees an’ the tinkly temple-bells;<lb/>
+  On the road to Mandalay...</p>
+            </quote>
+            <quote>
+               <p>I am sick o’ wastin’ leather on these gritty pavin’-stones,<lb/>
+An’ the blasted Henglish drizzle wakes the fever in my bones;<lb/>
+Tho’ I walks with fifty ’ousemaids outer Chelsea to the Strand,<lb/>
+An’ they talks a lot o’ lovin’, but wot do they understand?<lb/>
+  Beefy face an’ grubby ’and —<lb/>
+  Law! wot do they understand?<lb/>
+  I’ve a neater, sweeter maiden in a cleaner, greener land!<lb/>
+  On the road to Mandalay...</p>
+            </quote>
+            <quote>
+               <p>Ship me somewheres east of Suez, where the best is like the worst,<lb/>
+Where there aren’t no Ten Commandments an’ a man can raise a thirst;<lb/>
+For the temple-bells are callin’, an’ it’s there that I would be —<lb/>
+By the old Moulmein Pagoda, looking lazy at the sea;<lb/>
+  On the road to Mandalay,<lb/>
+  Where the old Flotilla lay,<lb/>
+  With our sick beneath the awnings when we went to Mandalay!<lb/>
+  On the road to Mandalay,<lb/>
+  Where the flyin’-fishes play,<lb/>
+  An’ the dawn comes up like thunder outer China ‘crost the Bay!</p>
+            </quote>
+         </div>
+         <div>
+            <head>Troopin’</head>
+            <byline>(Our Army in the East)</byline>
+            <epigraph>
+               <l>Troopin’, troopin’, troopin’ to the sea:</l>
+               <l>’Ere’s September come again — the six-year men are free.</l>
+               <l>O leave the dead be’ind us, for they cannot come away</l>
+               <l>To where the ship’s a-coalin’ up that takes us ’ome today.</l>
+               <l>  We’re goin’ ’ome, we’re goin’ ’ome,</l>
+               <l>  Our ship is at the shore,</l>
+               <l>  An’ you must pack your ’aversack,</l>
+               <l>  For we won’t come back no more.</l>
+               <l>  Ho, don’t you grieve for me,</l>
+               <l>  My lovely Mary–Ann,</l>
+               <l>  For I’ll marry you yit on a fourp’ny bit</l>
+               <l>  As a time-expired man.</l>
+            </epigraph>
+            <quote>
+               <p>The Malabar’s in ’arbour with the Jumner at ’er tail,<lb/>
+An’ the time-expired’s waitin’ of ’is orders for to sail.<lb/>
+Ho! the weary waitin’ when on Khyber ’ills we lay,<lb/>
+But the time-expired’s waitin’ of ’is orders ’ome today.</p>
+            </quote>
+            <quote>
+               <p>They’ll turn us out at Portsmouth wharf in cold an’ wet an’ rain,<lb/>
+All wearin’ Injian cotton kit, but we will not complain;<lb/>
+They’ll kill us of pneumonia — for that’s their little way —<lb/>
+But damn the chills and fever, men, we’re goin’ ’ome today!</p>
+            </quote>
+            <quote>
+               <p>Troopin’, troopin’, winter’s round again!<lb/>
+See the new draf’s pourin’ in for the old campaign;<lb/>
+Ho, you poor recruities, but you’ve got to earn your pay —<lb/>
+What’s the last from Lunnon, lads? We’re goin’ there today.</p>
+            </quote>
+            <quote>
+               <p>Troopin’, troopin’, give another cheer —<lb/>
+’Ere’s to English women an’ a quart of English beer.<lb/>
+The Colonel an’ the regiment an’ all who’ve got to stay,<lb/>
+Gawd’s mercy strike ’em gentle — Whoop! we’re goin’ ’ome today.<lb/>
+  We’re goin’ ’ome, we’re goin’ ’ome,<lb/>
+   Our ship is at the shore,<lb/>
+  An’ you must pack your ’aversack,<lb/>
+   For we won’t come back no more.<lb/>
+  Ho, don’t you grieve for me,<lb/>
+   My lovely Mary–Ann,<lb/>
+  For I’ll marry you yit on a fourp’ny bit<lb/>
+   As a time-expired man.</p>
+            </quote>
+         </div>
+         <div>
+            <head>The Widow’s Party</head>
+            <epigraph>
+               <l>“Where have you been this while away,</l>
+               <l>  Johnnie, Johnnie?”</l>
+               <l>‘Long with the rest on a picnic lay,</l>
+               <l>  Johnnie, my Johnnie, aha!</l>
+               <l>They called us out of the barrack-yard</l>
+               <l>To Gawd knows where from Gosport Hard,</l>
+               <l>And you can’t refuse when you get the card,</l>
+               <l>  And the Widow gives the party.</l>
+               <l>    (Bugle: Ta — rara — ra-ra-rara!)</l>
+            </epigraph>
+            <quote>
+               <p>“What did you get to eat and drink,<lb/>
+  Johnnie, Johnnie?”<lb/>
+Standing water as thick as ink,<lb/>
+  Johnnie, my Johnnie, aha!<lb/>
+A bit o’ beef that were three year stored,<lb/>
+A bit o’ mutton as tough as a board,<lb/>
+And a fowl we killed with a sergeant’s sword,<lb/>
+  When the Widow give the party.</p>
+            </quote>
+            <quote>
+               <p>“What did you do for knives and forks,<lb/>
+  Johnnie, Johnnie?”<lb/>
+We carries ’em with us wherever we walks,<lb/>
+  Johnnie, my Johnnie, aha!<lb/>
+And some was sliced and some was halved,<lb/>
+And some was crimped and some was carved,<lb/>
+And some was gutted and some was starved,<lb/>
+  When the Widow give the party.</p>
+            </quote>
+            <quote>
+               <p>“What ha’ you done with half your mess,<lb/>
+  Johnnie, Johnnie?”<lb/>
+They couldn’t do more and they wouldn’t do less,<lb/>
+  Johnnie, my Johnnie, aha!<lb/>
+They ate their whack and they drank their fill,<lb/>
+And I think the rations has made them ill,<lb/>
+For half my comp’ny’s lying still<lb/>
+  Where the Widow give the party.</p>
+            </quote>
+            <quote>
+               <p>“How did you get away — away,<lb/>
+  Johnnie, Johnnie?”<lb/>
+On the broad o’ my back at the end o’ the day,<lb/>
+  Johnnie, my Johnnie, aha!<lb/>
+I comed away like a bleedin’ toff,<lb/>
+For I got four niggers to carry me off,<lb/>
+As I lay in the bight of a canvas trough,<lb/>
+  When the Widow give the party.</p>
+            </quote>
+            <quote>
+               <p>“What was the end of all the show,<lb/>
+  Johnnie, Johnnie?”<lb/>
+Ask my Colonel, for I don’t know,<lb/>
+  Johnnie, my Johnnie, aha!<lb/>
+We broke a King and we built a road —<lb/>
+A court-house stands where the reg’ment goed.<lb/>
+And the river’s clean where the raw blood flowed<lb/>
+  When the Widow give the party.<lb/>
+    (Bugle: Ta — rara — ra-ra-rara!)</p>
+            </quote>
+         </div>
+         <div>
+            <head>Ford o’ Kabul River</head>
+            <epigraph>
+               <l>Kabul town’s by Kabul river —</l>
+               <l> Blow the bugle, draw the sword —</l>
+               <l>There I lef’ my mate for ever,</l>
+               <l> Wet an’ drippin’ by the ford.</l>
+               <l>  Ford, ford, ford o’ Kabul river,</l>
+               <l>   Ford o’ Kabul river in the dark!</l>
+               <l>  There’s the river up and brimmin’, an’ there’s ’arf a squadron swimmin’</l>
+               <l>   ‘Cross the ford o’ Kabul river in the dark.</l>
+            </epigraph>
+            <quote>
+               <p>Kabul town’s a blasted place —<lb/>
+ Blow the bugle, draw the sword —<lb/>
+‘Strewth I sha’n’t forget ’is face<lb/>
+ Wet an’ drippin’ by the ford!<lb/>
+  Ford, ford, ford o’ Kabul river,<lb/>
+   Ford o’ Kabul river in the dark!<lb/>
+  Keep the crossing-stakes beside you, an’ they will surely guide you<lb/>
+   ‘Cross the ford o’ Kabul river in the dark.</p>
+            </quote>
+            <quote>
+               <p>Kabul town is sun and dust —<lb/>
+ Blow the bugle, draw the sword —<lb/>
+I’d ha’ sooner drownded fust<lb/>
+ ‘Stead of ’im beside the ford.<lb/>
+  Ford, ford, ford o’ Kabul river,<lb/>
+   Ford o’ Kabul river in the dark!<lb/>
+  You can ’ear the ’orses threshin’, you can ’ear the men a-splashin’,<lb/>
+   ‘Cross the ford o’ Kabul river in the dark.</p>
+            </quote>
+            <quote>
+               <p>Kabul town was ours to take —<lb/>
+ Blow the bugle, draw the sword —<lb/>
+I’d ha’ left it for ’is sake —<lb/>
+ ‘Im that left me by the ford.<lb/>
+  Ford, ford, ford o’ Kabul river,<lb/>
+   Ford o’ Kabul river in the dark!<lb/>
+  It’s none so bloomin’ dry there; ain’t you never comin’ nigh there,<lb/>
+   ‘Cross the ford o’ Kabul river in the dark?</p>
+            </quote>
+            <quote>
+               <p>Kabul town’ll go to hell —<lb/>
+ Blow the bugle, draw the sword —<lb/>
+‘Fore I see him ‘live an’ well —<lb/>
+ ‘Im the best beside the ford.<lb/>
+  Ford, ford, ford o’ Kabul river,<lb/>
+   Ford o’ Kabul river in the dark!<lb/>
+  Gawd ’elp ’em if they blunder, for their boots’ll pull ’em under,<lb/>
+   By the ford o’ Kabul river in the dark.</p>
+            </quote>
+            <quote>
+               <p>Turn your ’orse from Kabul town —<lb/>
+ Blow the bugle, draw the sword —<lb/>
+‘Im an’ ’arf my troop is down,<lb/>
+ Down an’ drownded by the ford.<lb/>
+  Ford, ford, ford o’ Kabul river,<lb/>
+   Ford o’ Kabul river in the dark!<lb/>
+  There’s the river low an’ fallin’, but it ain’t no use o’ callin’<lb/>
+   ‘Cross the ford o’ Kabul river in the dark.</p>
+            </quote>
+         </div>
+         <div>
+            <head>Gentlemen–Rankers</head>
+            <epigraph>
+               <l>To the legion of the lost ones, to the cohort of the damned,</l>
+               <l> To my brethren in their sorrow overseas,</l>
+               <l>Sings a gentleman of England cleanly bred, machinely crammed,</l>
+               <l> And a trooper of the Empress, if you please.</l>
+               <l>Yea, a trooper of the forces who has run his own six horses,</l>
+               <l> And faith he went the pace and went it blind,</l>
+               <l>And the world was more than kin while he held the ready tin,</l>
+               <l> But today the Sergeant’s something less than kind.</l>
+               <l>  We’re poor little lambs who’ve lost our way,</l>
+               <l>    Baa! Baa! Baa!</l>
+               <l>  We’re little black sheep who’ve gone astray,</l>
+               <l>    Baa — aa — aa!</l>
+               <l>  Gentlemen-rankers out on the spree,</l>
+               <l>  Damned from here to Eternity,</l>
+               <l>  God ha’ mercy on such as we,</l>
+               <l>    Baa! Yah! Bah!</l>
+            </epigraph>
+            <quote>
+               <p>Oh, it’s sweet to sweat through stables, sweet to empty kitchen slops,<lb/>
+ And it’s sweet to hear the tales the troopers tell,<lb/>
+To dance with blowzy housemaids at the regimental hops<lb/>
+ And thrash the cad who says you waltz too well.<lb/>
+Yes, it makes you cock-a-hoop to be “Rider” to your troop,<lb/>
+ And branded with a blasted worsted spur,<lb/>
+When you envy, O how keenly, one poor Tommy being cleanly<lb/>
+ Who blacks your boots and sometimes calls you “Sir”.</p>
+            </quote>
+            <quote>
+               <p>If the home we never write to, and the oaths we never keep,<lb/>
+ And all we know most distant and most dear,<lb/>
+Across the snoring barrack-room return to break our sleep,<lb/>
+ Can you blame us if we soak ourselves in beer?<lb/>
+When the drunken comrade mutters and the great guard-lantern gutters<lb/>
+ And the horror of our fall is written plain,<lb/>
+Every secret, self-revealing on the aching white-washed ceiling,<lb/>
+ Do you wonder that we drug ourselves from pain?</p>
+            </quote>
+            <quote>
+               <p>We have done with Hope and Honour, we are lost to Love and Truth,<lb/>
+ We are dropping down the ladder rung by rung,<lb/>
+And the measure of our torment is the measure of our youth.<lb/>
+ God help us, for we knew the worst too young!<lb/>
+Our shame is clean repentance for the crime that brought the sentence,<lb/>
+ Our pride it is to know no spur of pride,<lb/>
+And the Curse of Reuben holds us till an alien turf enfolds us<lb/>
+ And we die, and none can tell Them where we died.<lb/>
+  We’re poor little lambs who’ve lost our way,<lb/>
+    Baa! Baa! Baa!<lb/>
+  We’re little black sheep who’ve gone astray,<lb/>
+    Baa — aa — aa!<lb/>
+  Gentlemen-rankers out on the spree,<lb/>
+  Damned from here to Eternity,<lb/>
+  God ha’ mercy on such as we,<lb/>
+    Baa! Yah! Bah!</p>
+            </quote>
+         </div>
+         <div>
+            <head>Route Marchin’</head>
+            <epigraph>
+               <l>We’re marchin’ on relief over Injia’s sunny plains,</l>
+               <l>A little front o’ Christmas-time an’ just be’ind the Rains;</l>
+               <l>Ho! get away you bullock-man, you’ve ’eard the bugle blowed,</l>
+               <l>There’s a regiment a-comin’ down the Grand Trunk Road;</l>
+               <l>  With its best foot first</l>
+               <l>  And the road a-sliding past,</l>
+               <l>  An’ every bloomin’ campin’-ground exactly like the last;</l>
+               <l>  While the Big Drum says,</l>
+               <l>  With ’is “rowdy-dowdy-dow!”—</l>
+               <l>  “Kiko kissywarsti don’t you hamsher argy jow?”</l>
+               <l>Oh, there’s them Injian temples to admire when you see,</l>
+               <l>There’s the peacock round the corner an’ the monkey up the tree,</l>
+               <l>An’ there’s that rummy silver grass a-wavin’ in the wind,</l>
+               <l>An’ the old Grand Trunk a-trailin’ like a rifle-sling be’ind.</l>
+               <l>  While it’s best foot first,...</l>
+            </epigraph>
+            <quote>
+               <p>At half-past five’s Revelly, an’ our tents they down must come,<lb/>
+Like a lot of button mushrooms when you pick ’em up at ’ome.<lb/>
+But it’s over in a minute, an’ at six the column starts,<lb/>
+While the women and the kiddies sit an’ shiver in the carts.<lb/>
+  An’ it’s best foot first,...</p>
+            </quote>
+            <quote>
+               <p>Oh, then it’s open order, an’ we lights our pipes an’ sings,<lb/>
+An’ we talks about our rations an’ a lot of other things,<lb/>
+An’ we thinks o’ friends in England, an’ we wonders what they’re at,<lb/>
+An’ ’ow they would admire for to hear us sling the bat.<lb/>
+  An’ it’s best foot first,...<lb/>
+It’s none so bad o’ Sunday, when you’re lyin’ at your ease,<lb/>
+To watch the kites a-wheelin’ round them feather-’eaded trees,<lb/>
+For although there ain’t no women, yet there ain’t no barrick-yards,<lb/>
+So the orficers goes shootin’ an’ the men they plays at cards.<lb/>
+  Till it’s best foot first,...</p>
+            </quote>
+            <quote>
+               <p>So ’ark an’ ’eed, you rookies, which is always grumblin’ sore,<lb/>
+There’s worser things than marchin’ from Umballa to Cawnpore;<lb/>
+An’ if your ’eels are blistered an’ they feels to ’urt like ’ell,<lb/>
+You drop some tallow in your socks an’ that will make ’em well.<lb/>
+  For it’s best foot first,...</p>
+            </quote>
+            <quote>
+               <p>We’re marchin’ on relief over Injia’s coral strand,<lb/>
+Eight ’undred fightin’ Englishmen, the Colonel, and the Band;<lb/>
+Ho! get away you bullock-man, you’ve ’eard the bugle blowed,<lb/>
+There’s a regiment a-comin’ down the Grand Trunk Road;<lb/>
+  With its best foot first<lb/>
+  And the road a-sliding past,<lb/>
+  An’ every bloomin’ campin’-ground exactly like the last;<lb/>
+  While the Big Drum says,<lb/>
+  With ’is “rowdy-dowdy-dow!”—<lb/>
+  “Kiko kissywarsti don’t you hamsher argy jow?”</p>
+            </quote>
+         </div>
+         <div>
+            <head>Shillin’ a Day</head>
+            <epigraph>
+               <l>My name is O’Kelly, I’ve heard the Revelly</l>
+               <l>From Birr to Bareilly, from Leeds to Lahore,</l>
+               <l>Hong–Kong and Peshawur,</l>
+               <l>Lucknow and Etawah,</l>
+               <l>And fifty-five more all endin’ in “pore”.</l>
+               <l>Black Death and his quickness, the depth and the thickness,</l>
+               <l>Of sorrow and sickness I’ve known on my way,</l>
+               <l>But I’m old and I’m nervis,</l>
+               <l>I’m cast from the Service,</l>
+               <l>And all I deserve is a shillin’ a day.</l>
+               <l> (Chorus) Shillin’ a day,</l>
+               <l>       Bloomin’ good pay —</l>
+               <l>       Lucky to touch it, a shillin’ a day!</l>
+            </epigraph>
+            <quote>
+               <p>Oh, it drives me half crazy to think of the days I<lb/>
+Went slap for the Ghazi, my sword at my side,<lb/>
+When we rode Hell-for-leather<lb/>
+Both squadrons together,<lb/>
+That didn’t care whether we lived or we died.<lb/>
+But it’s no use despairin’, my wife must go charin’<lb/>
+An’ me commissairin’ the pay-bills to better,<lb/>
+So if me you be’old<lb/>
+In the wet and the cold,<lb/>
+By the Grand Metropold, won’t you give me a letter?<lb/>
+ (Full chorus) Give ’im a letter —<lb/>
+         ‘Can’t do no better,<lb/>
+         Late Troop–Sergeant-Major an’— runs with a letter!<lb/>
+         Think what ’e’s been,<lb/>
+         Think what ’e’s seen,<lb/>
+         Think of his pension an’——</p>
+            </quote>
+            <p>         Gawd save the Queen</p>
+         </div>
+         <div>
+            <head>‘Bobs’</head>
+            <epigraph>
+               <l>There’s a little red-faced man,</l>
+               <l>    Which is Bobs,</l>
+               <l>Rides the tallest ’orse ’e can-    Our Bobs,</l>
+               <l>If it bucks or kicks or rears,</l>
+               <l>’E can sit for twenty years</l>
+               <l>With a smile round both ’is ears-   Can’t yer, Bobs?</l>
+            </epigraph>
+            <quote>
+               <p>Then ’ere’s to Bobs Bahadur-   Little Bobs, Bobs, Bobs!<lb/>
+’E’s or pukka Kandaharder-   Fightin’ Bobs, Bobs, Bobs!<lb/>
+’E’s the Dook of Aggy Chel;<lb/>
+’E’s the man that done us well,<lb/>
+An’ we’ll follow ’im to ’ell-   Won’t we Bobs?</p>
+            </quote>
+            <quote>
+               <p>If a limber’s slipped a trace,<lb/>
+   ‘Ook on Bobs.<lb/>
+If a marker’s lost ’is place,<lb/>
+   Dress by Bobs.<lb/>
+For ’e’s eyes all up ’is coat,<lb/>
+An’ a bugle in ’is throat,<lb/>
+An’ you will not play the goat<lb/>
+   Under Bobs.</p>
+            </quote>
+            <quote>
+               <p>’E’s a little down on drink,<lb/>
+   Chaplain Bobs;<lb/>
+But it keeps us outer Clink-   Don’t it Bobs?<lb/>
+So we will not complain<lb/>
+Tho’ ’e’s water on the brain,<lb/>
+If ’e leads us straight again-   Blue-light Bobs.</p>
+            </quote>
+            <quote>
+               <p>If you stood ’im on ’is head<lb/>
+   Father Bobs,<lb/>
+You could spill a quart o’ lead<lb/>
+   Outer Bobs.<lb/>
+’E’s been at it thirty years,<lb/>
+An’ amassin souveneers<lb/>
+In the way o’ slugs an’ spears-   Ain’t yer, Bobs?</p>
+            </quote>
+            <quote>
+               <p>What ’e does not Know o’ war,<lb/>
+   Gen’ral Bobs,<lb/>
+You can arst the shop next door-  Can’t they, Bobs?<lb/>
+Oh, ’e’s little, but he’s wise;<lb/>
+’E’s a terror for ’is size,<lb/>
+An’-’e-does-not-advertise-  Do yer, Bobs?</p>
+            </quote>
+            <quote>
+               <p>Now they’ve made a bloomin’ Lord<lb/>
+   Outer Bobs,<lb/>
+Which was but ’is fair reward-   Weren’t it Bobs?<lb/>
+So ’e’ll wear a coronet<lb/>
+Where ’is ’elmet used to set;<lb/>
+But we know you won’t forget-   Will yer, Bobs?</p>
+            </quote>
+            <quote>
+               <p>Then ’ere’s to Bobs Bahadur —<lb/>
+  Little Bobs, Bobs, Bobs!<lb/>
+Pocket–Wellin’ton an’ arder —<lb/>
+  Fightin’ Bobs, Bobs, Bobs!<lb/>
+This ain’t no bloomin’ ode,<lb/>
+But you’ve ’elped the soldier’s load,<lb/>
+An’ for benefits bestowed,<lb/>
+  Bless yer, Bobs!</p>
+            </quote>
+         </div>
+         <div>
+            <head>‘Back to the Army Again’</head>
+            <epigraph>
+               <l>I’m ’ere in a ticky ulster an’ a broken billycock ’at,</l>
+               <l>A-layin’ on to the sergeant I don’t know a gun from a bat;</l>
+               <l>My shirt’s doin’ duty for jacket, my sock’s stickin’ out o’ my boots,</l>
+               <l>An’ I’m learnin’ the damned old goose-step along o’ the new recruits!</l>
+            </epigraph>
+            <quote>
+               <p>  Back to the Army again, sergeant,<lb/>
+  Back to the Army again.<lb/>
+  Don’t look so ’ard, for I ’aven’t no card,<lb/>
+  I’m back to the Army again!</p>
+            </quote>
+            <quote>
+               <p>I done my six years’ service. ’Er Majesty sez: “Good-day —<lb/>
+You’ll please to come when you’re rung for, an’ ’ere’s your ’ole back-pay;<lb/>
+An’ fourpence a day for baccy — an’ bloomin’ gen’rous, too;<lb/>
+An’ now you can make your fortune — the same as your orf’cers do.”</p>
+            </quote>
+            <quote>
+               <p>  Back to the Army again, sergeant,<lb/>
+  Back to the Army again;<lb/>
+  ‘Ow did I learn to do right-about turn?<lb/>
+  I’m back to the Army again!</p>
+            </quote>
+            <quote>
+               <p>A man o’ four-an’-twenty that ’asn’t learned of a trade —<lb/>
+Beside “Reserve” agin’ him —’e’d better be never made.<lb/>
+I tried my luck for a quarter, an’ that was enough for me,<lb/>
+An’ I thought of ’Er Majesty’s barricks, an’ I thought I’d go an’ see.</p>
+            </quote>
+            <quote>
+               <p>  Back to the Army again, sergeant,<lb/>
+  Back to the Army again;<lb/>
+  ‘Tisn’t my fault if I dress when I ’alt —<lb/>
+  I’m back to the Army again!</p>
+            </quote>
+            <quote>
+               <p>The sergeant arst no questions, but ’e winked the other eye,<lb/>
+’E sez to me, “‘Shun!” an’ I shunted, the same as in days gone by;<lb/>
+For ’e saw the set o’ my shoulders, an’ I couldn’t ’elp ’oldin’ straight<lb/>
+When me an’ the other rookies come under the barrick-gate.</p>
+            </quote>
+            <quote>
+               <p>  Back to the Army again, sergeant,<lb/>
+  Back to the Army again;<lb/>
+  ‘Oo would ha’ thought I could carry an’ port?<lb/>
+  I’m back to the Army again!</p>
+            </quote>
+            <quote>
+               <p>I took my bath, an’ I wallered — for, Gawd, I needed it so!<lb/>
+I smelt the smell o’ the barricks, I ’eard the bugles go.<lb/>
+I ’eard the feet on the gravel — the feet o’ the men what drill —<lb/>
+An’ I sez to my flutterin’ ’eart-strings, I sez to ’em, “Peace, be still!”</p>
+            </quote>
+            <quote>
+               <p>  Back to the Army again, sergeant,<lb/>
+  Back to the Army again;<lb/>
+  ‘Oo said I knew when the Jumner was due?<lb/>
+  I’m back to the Army again!</p>
+            </quote>
+            <quote>
+               <p>I carried my slops to the tailor; I sez to ’im, “None o’ your lip!<lb/>
+You tight ’em over the shoulders, an’ loose ’em over the ’ip,<lb/>
+For the set o’ the tunic’s ’orrid.” An’ ’e sez to me, “Strike me dead,<lb/>
+But I thought you was used to the business!” an’ so ’e done what I said.</p>
+            </quote>
+            <quote>
+               <p>  Back to the Army again, sergeant,<lb/>
+  Back to the Army again.<lb/>
+  Rather too free with my fancies? Wot — me?<lb/>
+  I’m back to the Army again!</p>
+            </quote>
+            <quote>
+               <p>Next week I’ll ’ave ’em fitted; I’ll buy me a swagger-cane;<lb/>
+They’ll let me free o’ the barricks to walk on the Hoe again<lb/>
+In the name o’ William Parsons, that used to be Edward Clay,<lb/>
+An’— any pore beggar that wants it can draw my fourpence a day!</p>
+            </quote>
+            <quote>
+               <p>  Back to the Army again, sergeant,<lb/>
+  Back to the Army again:<lb/>
+  Out o’ the cold an’ the rain, sergeant,<lb/>
+  Out o’ the cold an’ the rain.</p>
+            </quote>
+            <quote>
+               <p>          ‘Oo’s there?<lb/>
+A man that’s too good to be lost you,<lb/>
+ A man that is ’andled an’ made —<lb/>
+A man that will pay what ’e cost you<lb/>
+ In learnin’ the others their trade — parade!<lb/>
+You’re droppin’ the pick o’ the Army<lb/>
+ Because you don’t ’elp ’em remain,<lb/>
+But drives ’em to cheat to get out o’ the street<lb/>
+ An’ back to the Army again!</p>
+            </quote>
+         </div>
+         <div>
+            <head>‘Birds of Prey’ March</head>
+            <epigraph>
+               <l>March! The mud is cakin’ good about our trousies.</l>
+               <l> Front!— eyes front, an’ watch the Colour-casin’s drip.</l>
+               <l>Front! The faces of the women in the ’ouses</l>
+               <l> Ain’t the kind o’ things to take aboard the ship.</l>
+            </epigraph>
+            <quote>
+               <p>   Cheer! An’ we’ll never march to victory.<lb/>
+   Cheer! An’ we’ll never live to ’ear the cannon roar!<lb/>
+     The Large Birds o’ Prey<lb/>
+     They will carry us away,<lb/>
+   An’ you’ll never see your soldiers any more!</p>
+            </quote>
+            <quote>
+               <p>Wheel! Oh, keep your touch; we’re goin’ round a corner.<lb/>
+ Time!— mark time, an’ let the men be’ind us close.<lb/>
+Lord! the transport’s full, an’ ’alf our lot not on ’er —<lb/>
+ Cheer, O cheer! We’re going off where no one knows.</p>
+            </quote>
+            <quote>
+               <p>March! The Devil’s none so black as ’e is painted!<lb/>
+ Cheer! We’ll ’ave some fun before we’re put away.<lb/>
+‘Alt, an’ ’and ’er out — a woman’s gone and fainted!<lb/>
+ Cheer! Get on — Gawd ’elp the married men today!</p>
+            </quote>
+            <quote>
+               <p>Hoi! Come up, you ’ungry beggars, to yer sorrow.<lb/>
+ (’Ear them say they want their tea, an’ want it quick!)<lb/>
+You won’t have no mind for slingers, not tomorrow —<lb/>
+ No; you’ll put the ‘tween-decks stove out, bein’ sick!</p>
+            </quote>
+            <quote>
+               <p>‘Alt! The married kit ’as all to go before us!<lb/>
+ ‘Course it’s blocked the bloomin’ gangway up again!<lb/>
+Cheer, O cheer the ‘Orse Guards watchin’ tender o’er us,<lb/>
+ Keepin’ us since eight this mornin’ in the rain!</p>
+            </quote>
+            <quote>
+               <p>Stuck in ’eavy marchin’-order, sopped and wringin’—<lb/>
+ Sick, before our time to watch ’er ’eave an’ fall,<lb/>
+’Ere’s your ’appy ’ome at last, an’ stop your singin’.<lb/>
+ ‘Alt! Fall in along the troop-deck! Silence all!</p>
+            </quote>
+            <quote>
+               <p>   Cheer! For we’ll never live to see no bloomin’ victory!<lb/>
+   Cheer! An’ we’ll never live to ’ear the cannon roar! (One cheer more!)<lb/>
+     The jackal an’ the kite<lb/>
+     ‘Ave an ’ealthy appetite,<lb/>
+   An’ you’ll never see your soldiers any more! (‘Ip! Urroar!)<lb/>
+     The eagle an’ the crow<lb/>
+     They are waitin’ ever so,<lb/>
+   An’ you’ll never see your soldiers any more! (‘Ip! Urroar!)<lb/>
+     Yes, the Large Birds o’ Prey<lb/>
+     They will carry us away,<lb/>
+   An’ you’ll never see your soldiers any more!</p>
+            </quote>
+         </div>
+         <div>
+            <head>‘Soldier an’ Salor Too’</head>
+            <epigraph>
+               <l>As I was spittin’ into the Ditch aboard o’ the Crocodile,</l>
+               <l>I seed a man on a man-o’-war got up in the Reg’lars’ style.</l>
+               <l>’E was scrapin’ the paint from off of ’er plates,</l>
+               <l> an’ I sez to ’im, “‘Oo are you?”</l>
+               <l>Sez ’e, “I’m a Jolly —’Er Majesty’s Jolly — soldier an’ sailor too!”</l>
+               <l>Now ’is work begins by Gawd knows when, and ’is work is never through;</l>
+               <l>’E isn’t one o’ the reg’lar Line, nor ’e isn’t one of the crew.</l>
+               <l>’E’s a kind of a giddy harumfrodite — soldier an’ sailor too!</l>
+            </epigraph>
+            <quote>
+               <p>An’ after I met ’im all over the world, a-doin’ all kinds of things,<lb/>
+Like landin’ ’isself with a Gatlin’ gun to talk to them ’eathen kings;<lb/>
+’E sleeps in an ’ammick instead of a cot,<lb/>
+ an’ ’e drills with the deck on a slew,<lb/>
+An’ ’e sweats like a Jolly —’Er Majesty’s Jolly — soldier an’ sailor too!<lb/>
+For there isn’t a job on the top o’ the earth the beggar don’t know, nor do —<lb/>
+You can leave ’im at night on a bald man’s ’ead, to paddle ’is own canoe —<lb/>
+’E’s a sort of a bloomin’ cosmopolouse — soldier an’ sailor too.</p>
+            </quote>
+            <quote>
+               <p>We’ve fought ’em in trooper, we’ve fought ’em in dock,<lb/>
+ and drunk with ’em in betweens,<lb/>
+When they called us the seasick scull’ry-maids,<lb/>
+ an’ we called ’em the Ass Marines;<lb/>
+But, when we was down for a double fatigue, from Woolwich to Bernardmyo,<lb/>
+We sent for the Jollies —’Er Majesty’s Jollies — soldier an’ sailor too!<lb/>
+They think for ’emselves, an’ they steal for ’emselves,<lb/>
+ and they never ask what’s to do,<lb/>
+But they’re camped an’ fed an’ they’re up an’ fed before our bugle’s blew.<lb/>
+Ho! they ain’t no limpin’ procrastitutes — soldier an’ sailor too.</p>
+            </quote>
+            <quote>
+               <p>You may say we are fond of an ’arness-cut, or ’ootin’ in barrick-yards,<lb/>
+Or startin’ a Board School mutiny along o’ the Onion Guards;<lb/>
+But once in a while we can finish in style for the ends of the earth to view,<lb/>
+The same as the Jollies —’Er Majesty’s Jollies — soldier an’ sailor too!<lb/>
+They come of our lot, they was brothers to us;<lb/>
+ they was beggars we’d met an’ knew;<lb/>
+Yes, barrin’ an inch in the chest an’ the arm, they was doubles o’ me an’ you;<lb/>
+For they weren’t no special chrysanthemums — soldier an’ sailor too!</p>
+            </quote>
+            <quote>
+               <p>To take your chance in the thick of a rush, with firing all about,<lb/>
+Is nothing so bad when you’ve cover to ’and, an’ leave an’ likin’ to shout;<lb/>
+But to stand an’ be still to the Birken’ead drill<lb/>
+ is a damn tough bullet to chew,<lb/>
+An’ they done it, the Jollies —’Er Majesty’s Jollies —<lb/>
+ soldier an’ sailor too!<lb/>
+Their work was done when it ’adn’t begun; they was younger nor me an’ you;<lb/>
+Their choice it was plain between drownin’ in ’eaps<lb/>
+ an’ bein’ mopped by the screw,<lb/>
+So they stood an’ was still to the Birken’ead drill, soldier an’ sailor too!</p>
+            </quote>
+            <quote>
+               <p>We’re most of us liars, we’re ’arf of us thieves,<lb/>
+ an’ the rest are as rank as can be,<lb/>
+But once in a while we can finish in style<lb/>
+ (which I ’ope it won’t ’appen to me).<lb/>
+But it makes you think better o’ you an’ your friends,<lb/>
+ an’ the work you may ’ave to do,<lb/>
+When you think o’ the sinkin’ Victorier’s Jollies — soldier an’ sailor too!<lb/>
+Now there isn’t no room for to say ye don’t know —<lb/>
+ they ’ave proved it plain and true —<lb/>
+That whether it’s Widow, or whether it’s ship, Victorier’s work is to do,<lb/>
+An’ they done it, the Jollies —’Er Majesty’s Jollies —<lb/>
+ soldier an’ sailor too!</p>
+            </quote>
+         </div>
+         <div>
+            <head>Sappers</head>
+            <epigraph>
+               <l>When the Waters were dried an’ the Earth did appear,</l>
+               <l> (“It’s all one,” says the Sapper),</l>
+               <l>The Lord He created the Engineer,</l>
+               <l> Her Majesty’s Royal Engineer,</l>
+               <l> With the rank and pay of a Sapper!</l>
+            </epigraph>
+            <quote>
+               <p>When the Flood come along for an extra monsoon,<lb/>
+’Twas Noah constructed the first pontoon<lb/>
+ To the plans of Her Majesty’s, etc.</p>
+            </quote>
+            <quote>
+               <p>But after fatigue in the wet an’ the sun,<lb/>
+Old Noah got drunk, which he wouldn’t ha’ done<lb/>
+ If he’d trained with, etc.</p>
+            </quote>
+            <quote>
+               <p>When the Tower o’ Babel had mixed up men’s bat,<lb/>
+Some clever civilian was managing that,<lb/>
+ An’ none of, etc.</p>
+            </quote>
+            <quote>
+               <p>When the Jews had a fight at the foot of a hill,<lb/>
+Young Joshua ordered the sun to stand still,<lb/>
+ For he was a Captain of Engineers, etc.</p>
+            </quote>
+            <quote>
+               <p>When the Children of Israel made bricks without straw,<lb/>
+They were learnin’ the regular work of our Corps,<lb/>
+ The work of, etc.</p>
+            </quote>
+            <quote>
+               <p>For ever since then, if a war they would wage,<lb/>
+Behold us a-shinin’ on history’s page —<lb/>
+ First page for, etc.</p>
+            </quote>
+            <quote>
+               <p>We lay down their sidings an’ help ’em entrain,<lb/>
+An’ we sweep up their mess through the bloomin’ campaign,<lb/>
+ In the style of, etc.</p>
+            </quote>
+            <quote>
+               <p>They send us in front with a fuse an’ a mine<lb/>
+To blow up the gates that are rushed by the Line,<lb/>
+ But bent by, etc.</p>
+            </quote>
+            <quote>
+               <p>They send us behind with a pick an’ a spade,<lb/>
+To dig for the guns of a bullock-brigade<lb/>
+ Which has asked for, etc.</p>
+            </quote>
+            <quote>
+               <p>We work under escort in trousers and shirt,<lb/>
+An’ the heathen they plug us tail-up in the dirt,<lb/>
+ Annoying, etc.</p>
+            </quote>
+            <quote>
+               <p>We blast out the rock an’ we shovel the mud,<lb/>
+We make ’em good roads an’— they roll down the khud,<lb/>
+ Reporting, etc.</p>
+            </quote>
+            <quote>
+               <p>We make ’em their bridges, their wells, an’ their huts,<lb/>
+An’ the telegraph-wire the enemy cuts,<lb/>
+ An’ it’s blamed on, etc.</p>
+            </quote>
+            <quote>
+               <p>An’ when we return, an’ from war we would cease,<lb/>
+They grudge us adornin’ the billets of peace,<lb/>
+ Which are kept for, etc.</p>
+            </quote>
+            <quote>
+               <p>We build ’em nice barracks — they swear they are bad,<lb/>
+That our Colonels are Methodist, married or mad,<lb/>
+ Insultin’, etc.</p>
+            </quote>
+            <quote>
+               <p>They haven’t no manners nor gratitude too,<lb/>
+For the more that we help ’em, the less will they do,<lb/>
+ But mock at, etc.</p>
+            </quote>
+            <quote>
+               <p>Now the Line’s but a man with a gun in his hand,<lb/>
+An’ Cavalry’s only what horses can stand,<lb/>
+ When helped by, etc.</p>
+            </quote>
+            <quote>
+               <p>Artillery moves by the leave o’ the ground,<lb/>
+But we are the men that do something all round,<lb/>
+ For we are, etc.</p>
+            </quote>
+            <quote>
+               <p>I have stated it plain, an’ my argument’s thus<lb/>
+ (“It’s all one,” says the Sapper),<lb/>
+There’s only one Corps which is perfect — that’s us;<lb/>
+ An’ they call us Her Majesty’s Engineers,<lb/>
+ Her Majesty’s Royal Engineers,<lb/>
+ With the rank and pay of a Sapper!</p>
+            </quote>
+         </div>
+         <div>
+            <head>That Day</head>
+            <epigraph>
+               <l>It got beyond all orders an’ it got beyond all ’ope;</l>
+               <l> It got to shammin’ wounded an’ retirin’ from the ’alt.</l>
+               <l>‘Ole companies was lookin’ for the nearest road to slope;</l>
+               <l> It were just a bloomin’ knock-out — an’ our fault!</l>
+            </epigraph>
+            <quote>
+               <p>   Now there ain’t no chorus ’ere to give,<lb/>
+   Nor there ain’t no band to play;<lb/>
+   An’ I wish I was dead ‘fore I done what I did,<lb/>
+   Or seen what I seed that day!</p>
+            </quote>
+            <quote>
+               <p>We was sick o’ bein’ punished, an’ we let ’em know it, too;<lb/>
+ An’ a company-commander up an’ ’it us with a sword,<lb/>
+An’ some one shouted “‘Ook it!” an’ it come to sove-ki-poo,<lb/>
+ An’ we chucked our rifles from us — O my Gawd!</p>
+            </quote>
+            <quote>
+               <p>There was thirty dead an’ wounded on the ground we wouldn’t keep —<lb/>
+ No, there wasn’t more than twenty when the front begun to go;<lb/>
+But, Christ! along the line o’ flight they cut us up like sheep,<lb/>
+ An’ that was all we gained by doin’ so.</p>
+            </quote>
+            <quote>
+               <p>I ’eard the knives be’ind me, but I dursn’t face my man,<lb/>
+ Nor I don’t know where I went to, ‘cause I didn’t ’alt to see,<lb/>
+Till I ’eard a beggar squealin’ out for quarter as ’e ran,<lb/>
+ An’ I thought I knew the voice an’— it was me!</p>
+            </quote>
+            <quote>
+               <p>We was ’idin’ under bedsteads more than ’arf a march away;<lb/>
+ We was lyin’ up like rabbits all about the countryside;<lb/>
+An’ the major cursed ’is Maker ‘cause ’e lived to see that day,<lb/>
+ An’ the colonel broke ’is sword acrost, an’ cried.</p>
+            </quote>
+            <quote>
+               <p>We was rotten ‘fore we started — we was never disciplined;<lb/>
+ We made it out a favour if an order was obeyed;<lb/>
+Yes, every little drummer ’ad ’is rights an’ wrongs to mind,<lb/>
+ So we had to pay for teachin’— an’ we paid!</p>
+            </quote>
+            <quote>
+               <p>The papers ’id it ’andsome, but you know the Army knows;<lb/>
+ We was put to groomin’ camels till the regiments withdrew,<lb/>
+An’ they gave us each a medal for subduin’ England’s foes,<lb/>
+ An’ I ’ope you like my song — because it’s true!</p>
+            </quote>
+            <quote>
+               <p>   An’ there ain’t no chorus ’ere to give,<lb/>
+   Nor there ain’t no band to play;<lb/>
+   But I wish I was dead ‘fore I done what I did,<lb/>
+   Or seen what I seed that day!</p>
+            </quote>
+         </div>
+         <div>
+            <head>‘The Men that fought at Minden’</head>
+            <byline>A Song of Instruction</byline>
+            <epigraph>
+               <l>The men that fought at Minden, they was rookies in their time —</l>
+               <l> So was them that fought at Waterloo!</l>
+               <l>All the ’ole command, yuss, from Minden to Maiwand,</l>
+               <l> They was once dam’ sweeps like you!</l>
+            </epigraph>
+            <quote>
+               <p>   Then do not be discouraged, ’Eaven is your ’elper,<lb/>
+   We’ll learn you not to forget;<lb/>
+   An’ you mustn’t swear an’ curse, or you’ll only catch it worse,<lb/>
+   For we’ll make you soldiers yet!</p>
+            </quote>
+            <quote>
+               <p>The men that fought at Minden, they ’ad stocks beneath their chins,<lb/>
+ Six inch ’igh an’ more;<lb/>
+But fatigue it was their pride, and they would not be denied<lb/>
+ To clean the cook-’ouse floor.</p>
+            </quote>
+            <quote>
+               <p>The men that fought at Minden, they had anarchistic bombs<lb/>
+ Served to ’em by name of ’and-grenades;<lb/>
+But they got it in the eye (same as you will by-an’-by)<lb/>
+ When they clubbed their field-parades.</p>
+            </quote>
+            <quote>
+               <p>The men that fought at Minden, they ’ad buttons up an’ down,<lb/>
+ Two-an’-twenty dozen of ’em told;<lb/>
+But they didn’t grouse an’ shirk at an hour’s extry work,<lb/>
+ They kept ’em bright as gold.</p>
+            </quote>
+            <quote>
+               <p>The men that fought at Minden, they was armed with musketoons,<lb/>
+ Also, they was drilled by ’alberdiers;<lb/>
+I don’t know what they were, but the sergeants took good care<lb/>
+ They washed be’ind their ears.</p>
+            </quote>
+            <quote>
+               <p>The men that fought at Minden, they ’ad ever cash in ’and<lb/>
+ Which they did not bank nor save,<lb/>
+But spent it gay an’ free on their betters — such as me —<lb/>
+ For the good advice I gave.</p>
+            </quote>
+            <quote>
+               <p>The men that fought at Minden, they was civil — yuss, they was —<lb/>
+ Never didn’t talk o’ rights an’ wrongs,<lb/>
+But they got it with the toe (same as you will get it — so!)—<lb/>
+ For interrupting songs.</p>
+            </quote>
+            <quote>
+               <p>The men that fought at Minden, they was several other things<lb/>
+ Which I don’t remember clear;<lb/>
+But that’s the reason why, now the six-year men are dry,<lb/>
+ The rooks will stand the beer!</p>
+            </quote>
+            <quote>
+               <p>   Then do not be discouraged, ’Eaven is your ’elper,<lb/>
+   We’ll learn you not to forget;<lb/>
+   An’ you mustn’t swear an’ curse, or you’ll only catch it worse,<lb/>
+   For we’ll make you soldiers yet!</p>
+            </quote>
+            <quote>
+               <p>   Soldiers yet, if you’ve got it in you —<lb/>
+   All for the sake of the Core;<lb/>
+   Soldiers yet, if we ’ave to skin you —<lb/>
+   Run an’ get the beer, Johnny Raw — Johnny Raw!<lb/>
+   Ho! run an’ get the beer, Johnny Raw!</p>
+            </quote>
+         </div>
+         <div>
+            <head>Cholera Camp</head>
+            <epigraph>
+               <l>We’ve got the cholerer in camp — it’s worse than forty fights;</l>
+               <l> We’re dyin’ in the wilderness the same as Isrulites;</l>
+               <l>It’s before us, an’ be’ind us, an’ we cannot get away,</l>
+               <l> An’ the doctor’s just reported we’ve ten more today!</l>
+            </epigraph>
+            <quote>
+               <p>   Oh, strike your camp an’ go, the Bugle’s callin’,<lb/>
+    The Rains are fallin’—<lb/>
+   The dead are bushed an’ stoned to keep ’em safe below;<lb/>
+   The Band’s a-doin’ all she knows to cheer us;<lb/>
+   The Chaplain’s gone and prayed to Gawd to ’ear us —<lb/>
+    To ’ear us —<lb/>
+   O Lord, for it’s a-killin’ of us so!</p>
+            </quote>
+            <quote>
+               <p>Since August, when it started, it’s been stickin’ to our tail,<lb/>
+Though they’ve ’ad us out by marches an’ they’ve ’ad us back by rail;<lb/>
+But it runs as fast as troop-trains, and we cannot get away;<lb/>
+An’ the sick-list to the Colonel makes ten more today.</p>
+            </quote>
+            <quote>
+               <p>There ain’t no fun in women nor there ain’t no bite to drink;<lb/>
+It’s much too wet for shootin’, we can only march and think;<lb/>
+An’ at evenin’, down the nullahs, we can ’ear the jackals say,<lb/>
+“Get up, you rotten beggars, you’ve ten more today!”</p>
+            </quote>
+            <quote>
+               <p>‘Twould make a monkey cough to see our way o’ doin’ things —<lb/>
+Lieutenants takin’ companies an’ captains takin’ wings,<lb/>
+An’ Lances actin’ Sergeants — eight file to obey —<lb/>
+For we’ve lots o’ quick promotion on ten deaths a day!</p>
+            </quote>
+            <quote>
+               <p>Our Colonel’s white an’ twitterly —’e gets no sleep nor food,<lb/>
+But mucks about in ’orspital where nothing does no good.<lb/>
+’E sends us ’eaps o’ comforts, all bought from ’is pay —<lb/>
+But there aren’t much comfort ’andy on ten deaths a day.</p>
+            </quote>
+            <quote>
+               <p>Our Chaplain’s got a banjo, an’ a skinny mule ’e rides,<lb/>
+An’ the stuff ’e says an’ sings us, Lord, it makes us split our sides!<lb/>
+With ’is black coat-tails a-bobbin’ to Ta-ra-ra Boom-der-ay!<lb/>
+’E’s the proper kind o’ padre for ten deaths a day.</p>
+            </quote>
+            <quote>
+               <p>An’ Father Victor ’elps ’im with our Roman Catholicks —<lb/>
+He knows an ’eap of Irish songs an’ rummy conjurin’ tricks;<lb/>
+An’ the two they works together when it comes to play or pray;<lb/>
+So we keep the ball a-rollin’ on ten deaths a day.</p>
+            </quote>
+            <quote>
+               <p>We’ve got the cholerer in camp — we’ve got it ’ot an’ sweet;<lb/>
+It ain’t no Christmas dinner, but it’s ’elped an’ we must eat.<lb/>
+We’ve gone beyond the funkin’, ‘cause we’ve found it doesn’t pay,<lb/>
+An’ we’re rockin’ round the Districk on ten deaths a day!</p>
+            </quote>
+            <quote>
+               <p>   Then strike your camp an’ go, the Rains are fallin’,<lb/>
+    The Bugle’s callin’!<lb/>
+   The dead are bushed an’ stoned to keep ’em safe below!<lb/>
+   An’ them that do not like it they can lump it,<lb/>
+   An’ them that cannot stand it they can jump it;<lb/>
+   We’ve got to die somewhere — some way — some’ow —<lb/>
+   We might as well begin to do it now!<lb/>
+   Then, Number One, let down the tent-pole slow,<lb/>
+   Knock out the pegs an’ ’old the corners — so!<lb/>
+   Fold in the flies, furl up the ropes, an’ stow!<lb/>
+   Oh, strike — oh, strike your camp an’ go!<lb/>
+    (Gawd ’elp us!)</p>
+            </quote>
+         </div>
+         <div>
+            <head>The Ladies</head>
+            <epigraph>
+               <l>I’ve taken my fun where I’ve found it;</l>
+               <l> I’ve rogued an’ I’ve ranged in my time;</l>
+               <l>I’ve ’ad my pickin’ o’ sweet’earts,</l>
+               <l> An’ four o’ the lot was prime.</l>
+               <l>One was an ’arf-caste widow,</l>
+               <l> One was a woman at Prome,</l>
+               <l>One was the wife of a jemadar-sais,</l>
+               <l> An’ one is a girl at ’ome.</l>
+            </epigraph>
+            <quote>
+               <p>   Now I aren’t no ’and with the ladies,<lb/>
+   For, takin’ ’em all along,<lb/>
+   You never can say till you’ve tried ’em,<lb/>
+   An’ then you are like to be wrong.<lb/>
+   There’s times when you’ll think that you mightn’t,<lb/>
+   There’s times when you’ll know that you might;<lb/>
+   But the things you will learn from the Yellow an’ Brown,<lb/>
+   They’ll ’elp you a lot with the White!</p>
+            </quote>
+            <quote>
+               <p>I was a young un at ‘Oogli,<lb/>
+ Shy as a girl to begin;<lb/>
+Aggie de Castrer she made me,<lb/>
+ An’ Aggie was clever as sin;<lb/>
+Older than me, but my first un-<lb/>
+ More like a mother she were —<lb/>
+Showed me the way to promotion an’ pay,<lb/>
+ An’ I learned about women from ’er!</p>
+            </quote>
+            <quote>
+               <p>Then I was ordered to Burma,<lb/>
+ Actin’ in charge o’ Bazar,<lb/>
+An’ I got me a tiddy live ’eathen<lb/>
+ Through buyin’ supplies off ’er pa.<lb/>
+Funny an’ yellow an’ faithful —<lb/>
+ Doll in a teacup she were,<lb/>
+But we lived on the square, like a true-married pair,<lb/>
+ An’ I learned about women from ’er!</p>
+            </quote>
+            <quote>
+               <p>Then we was shifted to Neemuch<lb/>
+ (Or I might ha’ been keepin’ ’er now),<lb/>
+An’ I took with a shiny she-devil,<lb/>
+ The wife of a nigger at Mhow;<lb/>
+‘Taught me the gipsy-folks’ bolee;<lb/>
+ Kind o’ volcano she were,<lb/>
+For she knifed me one night ‘cause I wished she was white,<lb/>
+ And I learned about women from ’er!</p>
+            </quote>
+            <quote>
+               <p>Then I come ’ome in the trooper,<lb/>
+ ‘Long of a kid o’ sixteen —<lb/>
+Girl from a convent at Meerut,<lb/>
+ The straightest I ever ’ave seen.<lb/>
+Love at first sight was ’er trouble,<lb/>
+ She didn’t know what it were;<lb/>
+An’ I wouldn’t do such, ‘cause I liked ’er too much,<lb/>
+ But — I learned about women from ’er!</p>
+            </quote>
+            <quote>
+               <p>I’ve taken my fun where I’ve found it,<lb/>
+ An’ now I must pay for my fun,<lb/>
+For the more you ’ave known o’ the others<lb/>
+ The less will you settle to one;<lb/>
+An’ the end of it’s sittin’ and thinkin’,<lb/>
+ An’ dreamin’ Hell-fires to see;<lb/>
+So be warned by my lot (which I know you will not),<lb/>
+ An’ learn about women from me!</p>
+            </quote>
+            <quote>
+               <p>   What did the Colonel’s Lady think?<lb/>
+   Nobody never knew.<lb/>
+   Somebody asked the Sergeant’s wife,<lb/>
+   An’ she told ’em true!<lb/>
+   When you get to a man in the case,<lb/>
+   They’re like as a row of pins —<lb/>
+   For the Colonel’s Lady an’ Judy O’Grady<lb/>
+   Are sisters under their skins!</p>
+            </quote>
+         </div>
+         <div>
+            <head>Bill ‘Awkins</head>
+            <epigraph>
+               <l> ”‘As anybody seen Bill ‘Awkins?”</l>
+               <l>  “Now ’ow in the devil would I know?”</l>
+               <l>“’E’s taken my girl out walkin’,</l>
+               <l>  An’ I’ve got to tell ’im so —</l>
+               <l>    Gawd — bless —’im!</l>
+               <l>  I’ve got to tell ’im so.”</l>
+            </epigraph>
+            <quote>
+               <p> “D’yer know what ’e’s like, Bill ‘Awkins?”<lb/>
+  “Now what in the devil would I care?”<lb/>
+“’E’s the livin’, breathin’ image of an organ-grinder’s monkey,<lb/>
+  With a pound of grease in ’is ’air —<lb/>
+    Gawd — bless —’im!<lb/>
+  An’ a pound o’ grease in ’is ’air.”</p>
+            </quote>
+            <quote>
+               <p> “An’ s’pose you met Bill ‘Awkins,<lb/>
+  Now what in the devil ’ud ye do?”<lb/>
+“I’d open ’is cheek to ’is chin-strap buckle,<lb/>
+  An’ bung up ’is both eyes, too —<lb/>
+    Gawd — bless —’im!<lb/>
+  An’ bung up ’is both eyes, too!”</p>
+            </quote>
+            <quote>
+               <p> “Look ’ere, where ’e comes, Bill ‘Awkins!<lb/>
+  Now what in the devil will you say?”<lb/>
+“It isn’t fit an’ proper to be fightin’ on a Sunday,<lb/>
+  So I’ll pass ’im the time o’ day —<lb/>
+    Gawd — bless —’im!<lb/>
+  I’ll pass ’im the time o’ day!”</p>
+            </quote>
+         </div>
+         <div>
+            <head>The Mother–Lodge</head>
+            <epigraph>
+               <l>There was Rundle, Station Master,</l>
+               <l> An’ Beazeley of the Rail,</l>
+               <l>An’ ‘Ackman, Commissariat,</l>
+               <l> An’ Donkin’ o’ the Jail;</l>
+               <l>An’ Blake, Conductor–Sargent,</l>
+               <l> Our Master twice was ’e,</l>
+               <l>With ’im that kept the Europe-shop,</l>
+               <l> Old Framjee Eduljee.</l>
+            </epigraph>
+            <quote>
+               <p>   Outside —“Sergeant! Sir! Salute! Salaam!”<lb/>
+   Inside —“Brother”, an’ it doesn’t do no ’arm.<lb/>
+   We met upon the Level an’ we parted on the Square,<lb/>
+   An’ I was Junior Deacon in my Mother–Lodge out there!</p>
+            </quote>
+            <quote>
+               <p>We’d Bola Nath, Accountant,<lb/>
+ An’ Saul the Aden Jew,<lb/>
+An’ Din Mohammed, draughtsman<lb/>
+ Of the Survey Office too;<lb/>
+There was Babu Chuckerbutty,<lb/>
+ An’ Amir Singh the Sikh,<lb/>
+An’ Castro from the fittin’-sheds,<lb/>
+ The Roman Catholick!</p>
+            </quote>
+            <quote>
+               <p>We ’adn’t good regalia,<lb/>
+ An’ our Lodge was old an’ bare,<lb/>
+But we knew the Ancient Landmarks,<lb/>
+ An’ we kep’ ’em to a hair;<lb/>
+An’ lookin’ on it backwards<lb/>
+ It often strikes me thus,<lb/>
+There ain’t such things as infidels,<lb/>
+ Excep’, per’aps, it’s us.</p>
+            </quote>
+            <quote>
+               <p>For monthly, after Labour,<lb/>
+ We’d all sit down and smoke<lb/>
+(We dursn’t give no banquits,<lb/>
+ Lest a Brother’s caste were broke),<lb/>
+An’ man on man got talkin’<lb/>
+ Religion an’ the rest,<lb/>
+An’ every man comparin’<lb/>
+ Of the God ’e knew the best.</p>
+            </quote>
+            <quote>
+               <p>So man on man got talkin’,<lb/>
+ An’ not a Brother stirred<lb/>
+Till mornin’ waked the parrots<lb/>
+ An’ that dam’ brain-fever-bird;<lb/>
+We’d say ’twas ’ighly curious,<lb/>
+ An’ we’d all ride ’ome to bed,<lb/>
+With Mo’ammed, God, an’ Shiva<lb/>
+ Changin’ pickets in our ’ead.</p>
+            </quote>
+            <quote>
+               <p>Full oft on Guv’ment service<lb/>
+ This rovin’ foot ’ath pressed,<lb/>
+An’ bore fraternal greetin’s<lb/>
+ To the Lodges east an’ west,<lb/>
+Accordin’ as commanded<lb/>
+ From Kohat to Singapore,<lb/>
+But I wish that I might see them<lb/>
+ In my Mother–Lodge once more!</p>
+            </quote>
+            <quote>
+               <p>I wish that I might see them,<lb/>
+ My Brethren black an’ brown,<lb/>
+With the trichies smellin’ pleasant<lb/>
+ An’ the hog-darn passin’ down;<lb/>
+An’ the old khansamah snorin’<lb/>
+ On the bottle-khana floor,<lb/>
+Like a Master in good standing<lb/>
+ With my Mother–Lodge once more!</p>
+            </quote>
+            <quote>
+               <p>   Outside —“Sergeant! Sir! Salute! Salaam!”<lb/>
+   Inside —“Brother”, an’ it doesn’t do no ’arm.<lb/>
+   We met upon the Level an’ we parted on the Square,<lb/>
+   An’ I was Junior Deacon in my Mother–Lodge out there!</p>
+            </quote>
+         </div>
+         <div>
+            <head>‘Follow Me ‘Ome’</head>
+            <epigraph>
+               <l>  There was no one like ’im, ‘Orse or Foot,</l>
+               <l>  Nor any o’ the Guns I knew;</l>
+               <l>An’ because it was so, why, o’ course ’e went an’ died,</l>
+               <l>  Which is just what the best men do.</l>
+            </epigraph>
+            <quote>
+               <p>   So it’s knock out your pipes an’ follow me!<lb/>
+   An’ it’s finish up your swipes an’ follow me!<lb/>
+   Oh, ’ark to the big drum callin’,<lb/>
+    Follow me — follow me ’ome!</p>
+            </quote>
+            <quote>
+               <p>  ‘Is mare she neighs the ’ole day long,<lb/>
+  She paws the ’ole night through,<lb/>
+An’ she won’t take ’er feed ‘cause o’ waitin’ for ’is step,<lb/>
+  Which is just what a beast would do.</p>
+            </quote>
+            <quote>
+               <p>  ‘Is girl she goes with a bombardier<lb/>
+  Before ’er month is through;<lb/>
+An’ the banns are up in church, for she’s got the beggar hooked,<lb/>
+  Which is just what a girl would do.</p>
+            </quote>
+            <quote>
+               <p>  We fought ‘bout a dog — last week it were —<lb/>
+  No more than a round or two;<lb/>
+But I strook ’im cruel ’ard, an’ I wish I ’adn’t now,<lb/>
+  Which is just what a man can’t do.</p>
+            </quote>
+            <quote>
+               <p>  ’E was all that I ’ad in the way of a friend,<lb/>
+  An’ I’ve ’ad to find one new;<lb/>
+But I’d give my pay an’ stripe for to get the beggar back,<lb/>
+  Which it’s just too late to do.</p>
+            </quote>
+            <quote>
+               <p>   So it’s knock out your pipes an’ follow me!<lb/>
+   An’ it’s finish off your swipes an’ follow me!<lb/>
+   Oh, ’ark to the fifes a-crawlin’!<lb/>
+    Follow me — follow me ’ome!</p>
+            </quote>
+            <quote>
+               <p>     Take ’im away! ’E’s gone where the best men go.<lb/>
+     Take ’im away! An’ the gun-wheels turnin’ slow.<lb/>
+     Take ’im away! There’s more from the place ’e come.<lb/>
+     Take ’im away, with the limber an’ the drum.</p>
+            </quote>
+            <quote>
+               <p>   For it’s “Three rounds blank” an’ follow me,<lb/>
+   An’ it’s “Thirteen rank” an’ follow me;<lb/>
+   Oh, passin’ the love o’ women,<lb/>
+    Follow me — follow me ’ome!</p>
+            </quote>
+         </div>
+         <div>
+            <head>The Sergeant’s Weddin’</head>
+            <epigraph>
+               <l>’E was warned agin’ ’er —</l>
+               <l> That’s what made ’im look;</l>
+               <l>She was warned agin’ ’im-</l>
+               <l> That is why she took.</l>
+               <l>‘Wouldn’t ’ear no reason,</l>
+               <l> ‘Went an’ done it blind;</l>
+               <l>We know all about ’em,</l>
+               <l> They’ve got all to find!</l>
+            </epigraph>
+            <quote>
+               <p>   Cheer for the Sergeant’s weddin’—<lb/>
+   Give ’em one cheer more!<lb/>
+   Grey gun-’orses in the lando,<lb/>
+   An’ a rogue is married to, etc.</p>
+            </quote>
+            <quote>
+               <p>What’s the use o’ tellin’<lb/>
+ ‘Arf the lot she’s been?<lb/>
+’E’s a bloomin’ robber,<lb/>
+ An’ ’e keeps canteen.<lb/>
+‘Ow did ’e get ’is buggy?<lb/>
+ Gawd, you needn’t ask!<lb/>
+‘Made ’is forty gallon<lb/>
+ Out of every cask!</p>
+            </quote>
+            <quote>
+               <p>Watch ’im, with ’is ’air cut,<lb/>
+ Count us filin’ by —<lb/>
+Won’t the Colonel praise ’is<lb/>
+ Pop — u — lar — i — ty!<lb/>
+We ’ave scores to settle —<lb/>
+ Scores for more than beer;<lb/>
+She’s the girl to pay ’em —<lb/>
+ That is why we’re ’ere!</p>
+            </quote>
+            <quote>
+               <p>See the chaplain thinkin’?<lb/>
+ See the women smile?<lb/>
+Twig the married winkin’<lb/>
+ As they take the aisle?<lb/>
+Keep your side-arms quiet,<lb/>
+ Dressin’ by the Band.<lb/>
+Ho! You ’oly beggars,<lb/>
+ Cough be’ind your ’and!</p>
+            </quote>
+            <quote>
+               <p>Now it’s done an’ over,<lb/>
+ ’Ear the organ squeak,<lb/>
+“‘Voice that breathed o’er Eden”—<lb/>
+ Ain’t she got the cheek!<lb/>
+White an’ laylock ribbons,<lb/>
+ Think yourself so fine!<lb/>
+I’d pray Gawd to take yer<lb/>
+ ‘Fore I made yer mine!</p>
+            </quote>
+            <quote>
+               <p>Escort to the kerridge,<lb/>
+ Wish ’im luck, the brute!<lb/>
+Chuck the slippers after —<lb/>
+ (Pity ‘tain’t a boot!)<lb/>
+Bowin’ like a lady,<lb/>
+ Blushin’ like a lad —<lb/>
+‘Oo would say to see ’em<lb/>
+ Both is rotten bad?</p>
+            </quote>
+            <quote>
+               <p>   Cheer for the Sergeant’s weddin’—<lb/>
+   Give ’em one cheer more!<lb/>
+   Grey gun-’orses in the lando,<lb/>
+   An’ a rogue is married to, etc.</p>
+            </quote>
+         </div>
+         <div>
+            <head>The Jacket</head>
+            <epigraph>
+               <l>Through the Plagues of Egyp’ we was chasin’ Arabi,</l>
+               <l> Gettin’ down an’ shovin’ in the sun;</l>
+               <l>An’ you might ’ave called us dirty, an’ you might ha’ called us dry,</l>
+               <l> An’ you might ’ave ’eard us talkin’ at the gun.</l>
+               <l>But the Captain ’ad ’is jacket, an’ the jacket it was new —</l>
+               <l> (‘Orse Gunners, listen to my song!)</l>
+               <l>An’ the wettin’ of the jacket is the proper thing to do,</l>
+               <l> Nor we didn’t keep ’im waitin’ very long.</l>
+            </epigraph>
+            <quote>
+               <p>One day they gave us orders for to shell a sand redoubt,<lb/>
+ Loadin’ down the axle-arms with case;<lb/>
+But the Captain knew ’is dooty, an’ he took the crackers out<lb/>
+ An’ he put some proper liquor in its place.<lb/>
+An’ the Captain saw the shrapnel, which is six-an’-thirty clear.<lb/>
+ (‘Orse Gunners, listen to my song!)<lb/>
+“Will you draw the weight,” sez ’e, “or will you draw the beer?”<lb/>
+ An’ we didn’t keep ’im waitin’ very long.<lb/>
+ For the Captain, etc.</p>
+            </quote>
+            <quote>
+               <p>Then we trotted gentle, not to break the bloomin’ glass,<lb/>
+ Though the Arabites ’ad all their ranges marked;<lb/>
+But we dursn’t ’ardly gallop, for the most was bottled Bass,<lb/>
+ An’ we’d dreamed of it since we was disembarked:<lb/>
+So we fired economic with the shells we ’ad in ’and,<lb/>
+ (‘Orse Gunners, listen to my song!)<lb/>
+But the beggars under cover ’ad the impidence to stand,<lb/>
+ An’ we couldn’t keep ’em waitin’ very long.<lb/>
+ And the Captain, etc.</p>
+            </quote>
+            <quote>
+               <p>So we finished ’arf the liquor (an’ the Captain took champagne),<lb/>
+ An’ the Arabites was shootin’ all the while;<lb/>
+An’ we left our wounded ’appy with the empties on the plain,<lb/>
+ An’ we used the bloomin’ guns for pro-jec-tile!<lb/>
+We limbered up an’ galloped — there were nothin’ else to do —<lb/>
+ (‘Orse Gunners, listen to my song!)<lb/>
+An’ the Battery came a-boundin’ like a boundin’ kangaroo,<lb/>
+ But they didn’t watch us comin’ very long.<lb/>
+ As the Captain, etc.</p>
+            </quote>
+            <quote>
+               <p>We was goin’ most extended — we was drivin’ very fine,<lb/>
+ An’ the Arabites were loosin’ ’igh an’ wide,<lb/>
+Till the Captain took the glassy with a rattlin’ right incline,<lb/>
+ An’ we dropped upon their ’eads the other side.<lb/>
+Then we give ’em quarter — such as ’adn’t up and cut,<lb/>
+ (‘Orse Gunners, listen to my song!)<lb/>
+An’ the Captain stood a limberful of fizzy — somethin’ Brutt,<lb/>
+ But we didn’t leave it fizzing very long.<lb/>
+ For the Captain, etc.</p>
+            </quote>
+            <quote>
+               <p>We might ha’ been court-martialled, but it all come out all right<lb/>
+ When they signalled us to join the main command.<lb/>
+There was every round expended, there was every gunner tight,<lb/>
+ An’ the Captain waved a corkscrew in ’is ’and.<lb/>
+ But the Captain ’ad ’is jacket, etc.</p>
+            </quote>
+         </div>
+         <div>
+            <head>The ’Eathen</head>
+            <epigraph>
+               <l>The ’eathen in ’is blindness bows down to wood an’ stone;</l>
+               <l>’E don’t obey no orders unless they is ’is own;</l>
+               <l>’E keeps ’is side-arms awful: ’e leaves ’em all about,</l>
+               <l>An’ then comes up the regiment an’ pokes the ’eathen out.</l>
+            </epigraph>
+            <quote>
+               <p>   All along o’ dirtiness, all along o’ mess,<lb/>
+   All along o’ doin’ things rather-more-or-less,<lb/>
+   All along of abby-nay, kul, an’ hazar-ho,<lb/>
+   Mind you keep your rifle an’ yourself jus’ so!<lb/>
+The young recruit is ’aughty —’e draf’s from Gawd knows where;<lb/>
+They bid ’im show ’is stockin’s an’ lay ’is mattress square;<lb/>
+’E calls it bloomin’ nonsense —’e doesn’t know no more —<lb/>
+An’ then up comes ’is Company an’ kicks ’im round the floor!</p>
+            </quote>
+            <quote>
+               <p>The young recruit is ’ammered —’e takes it very ’ard;<lb/>
+’E ’angs ’is ’ead an’ mutters —’e sulks about the yard;<lb/>
+’E talks o’ “cruel tyrants” ’e’ll swing for by-an’-by,<lb/>
+An’ the others ’ears an’ mocks ’im, an’ the boy goes orf to cry.</p>
+            </quote>
+            <quote>
+               <p>The young recruit is silly —’e thinks o’ suicide;<lb/>
+’E’s lost ’is gutter-devil; ’e ’asn’t got ’is pride;<lb/>
+But day by day they kicks ’im, which ’elps ’im on a bit,<lb/>
+Till ’e finds ’isself one mornin’ with a full an’ proper kit.</p>
+            </quote>
+            <quote>
+               <p>   Gettin’ clear o’ dirtiness, gettin’ done with mess,<lb/>
+   Gettin’ shut o’ doin’ things rather-more-or-less;<lb/>
+   Not so fond of abby-nay, kul, nor hazar-ho,<lb/>
+   Learns to keep ’is rifle an’ ’isself jus’ so!</p>
+            </quote>
+            <quote>
+               <p>The young recruit is ’appy —’e throws a chest to suit;<lb/>
+You see ’im grow mustaches; you ’ear ’im slap ’is boot;<lb/>
+’E learns to drop the “bloodies” from every word ’e slings,<lb/>
+An’ ’e shows an ’ealthy brisket when ’e strips for bars an’ rings.</p>
+            </quote>
+            <quote>
+               <p>The cruel-tyrant-sergeants they watch ’im ’arf a year;<lb/>
+They watch ’im with ’is comrades, they watch ’im with ’is beer;<lb/>
+They watch ’im with the women at the regimental dance,<lb/>
+And the cruel-tyrant-sergeants send ’is name along for “Lance”.</p>
+            </quote>
+            <quote>
+               <p>An’ now ’e’s ’arf o’ nothin’, an’ all a private yet,<lb/>
+‘Is room they up an’ rags ’im to see what they will get;<lb/>
+They rags ’im low an’ cunnin’, each dirty trick they can,<lb/>
+But ’e learns to sweat ’is temper an’ ’e learns to sweat ’is man.</p>
+            </quote>
+            <quote>
+               <p>An’, last, a Colour–Sergeant, as such to be obeyed,<lb/>
+’E schools ’is men at cricket, ’e tells ’em on parade;<lb/>
+They sees ’em quick an’ ’andy, uncommon set an’ smart,<lb/>
+An’ so ’e talks to orficers which ’ave the Core at ’eart.</p>
+            </quote>
+            <quote>
+               <p>’E learns to do ’is watchin’ without it showin’ plain;<lb/>
+’E learns to save a dummy, an’ shove ’im straight again;<lb/>
+’E learns to check a ranker that’s buyin’ leave to shirk;<lb/>
+An’ ’e learns to make men like ’im so they’ll learn to like their work.</p>
+            </quote>
+            <quote>
+               <p>An’ when it comes to marchin’ he’ll see their socks are right,<lb/>
+An’ when it comes to action ’e shows ’em ’ow to sight;<lb/>
+’E knows their ways of thinkin’ and just what’s in their mind;<lb/>
+’E knows when they are takin’ on an’ when they’ve fell be’ind.</p>
+            </quote>
+            <quote>
+               <p>’E knows each talkin’ corpril that leads a squad astray;<lb/>
+’E feels ’is innards ’eavin’, ’is bowels givin’ way;<lb/>
+’E sees the blue-white faces all tryin’ ’ard to grin,<lb/>
+An’ ’e stands an’ waits an’ suffers till it’s time to cap ’em in.</p>
+            </quote>
+            <quote>
+               <p>An’ now the hugly bullets come peckin’ through the dust,<lb/>
+An’ no one wants to face ’em, but every beggar must;<lb/>
+So, like a man in irons which isn’t glad to go,<lb/>
+They moves ’em off by companies uncommon stiff an’ slow.</p>
+            </quote>
+            <quote>
+               <p>Of all ’is five years’ schoolin’ they don’t remember much<lb/>
+Excep’ the not retreatin’, the step an’ keepin’ touch.<lb/>
+It looks like teachin’ wasted when they duck an’ spread an’ ’op,<lb/>
+But if ’e ’adn’t learned ’em they’d be all about the shop!</p>
+            </quote>
+            <quote>
+               <p>An’ now it’s “‘Oo goes backward?” an’ now it’s “‘Oo comes on?”<lb/>
+And now it’s “Get the doolies,” an’ now the captain’s gone;<lb/>
+An’ now it’s bloody murder, but all the while they ’ear<lb/>
+‘Is voice, the same as barrick drill, a-shepherdin’ the rear.</p>
+            </quote>
+            <quote>
+               <p>’E’s just as sick as they are, ’is ’eart is like to split,<lb/>
+But ’e works ’em, works ’em, works ’em till he feels ’em take the bit;<lb/>
+The rest is ’oldin’ steady till the watchful bugles play,<lb/>
+An’ ’e lifts ’em, lifts ’em, lifts ’em through the charge that wins the day!</p>
+            </quote>
+            <quote>
+               <p>   The ’eathen in ’is blindness bows down to wood an’ stone;<lb/>
+   ’E don’t obey no orders unless they is ’is own;<lb/>
+   The ’eathen in ’is blindness must end where ’e began,<lb/>
+   But the backbone of the Army is the non-commissioned man!</p>
+            </quote>
+            <quote>
+               <p>   Keep away from dirtiness — keep away from mess.<lb/>
+   Don’t get into doin’ things rather-more-or-less!<lb/>
+   Let’s ha’ done with abby-nay, kul, an’ hazar-ho;<lb/>
+   Mind you keep your rifle an’ yourself jus’ so!</p>
+            </quote>
+         </div>
+         <div>
+            <head>The Shut–Eye Sentry</head>
+            <epigraph>
+               <l>Sez the Junior Orderly Sergeant</l>
+               <l> To the Senior Orderly Man:</l>
+               <l>“Our Orderly Orf’cer’s hokee-mut,</l>
+               <l> You ’elp ’im all you can.</l>
+               <l>For the wine was old and the night is cold,</l>
+               <l> An’ the best we may go wrong,</l>
+               <l>So, ‘fore ’e gits to the sentry-box,</l>
+               <l> You pass the word along.”</l>
+            </epigraph>
+            <quote>
+               <p>   So it was “Rounds! What Rounds?” at two of a frosty night,<lb/>
+   ’E’s ’oldin’ on by the sergeant’s sash, but, sentry, shut your eye.<lb/>
+   An’ it was “Pass! All’s well!” Oh, ain’t ’e drippin’ tight!<lb/>
+   ’E’ll need an affidavit pretty badly by-an’-by.</p>
+            </quote>
+            <quote>
+               <p>The moon was white on the barricks,<lb/>
+ The road was white an’ wide,<lb/>
+An’ the Orderly Orf’cer took it all,<lb/>
+ An’ the ten-foot ditch beside.<lb/>
+An’ the corporal pulled an’ the sergeant pushed,<lb/>
+ An’ the three they danced along,<lb/>
+But I’d shut my eyes in the sentry-box,<lb/>
+ So I didn’t see nothin’ wrong.</p>
+            </quote>
+            <quote>
+               <p>   Though it was “Rounds! What Rounds?” O corporal, ’old ’im up!<lb/>
+   ’E’s usin’ ’is cap as it shouldn’t be used, but, sentry, shut your eye.<lb/>
+   An’ it was “Pass! All’s well!” Ho, shun the foamin’ cup!<lb/>
+   ’E’ll need, etc.</p>
+            </quote>
+            <quote>
+               <p>’Twas after four in the mornin’;<lb/>
+ We ’ad to stop the fun,<lb/>
+An’ we sent ’im ’ome on a bullock-cart,<lb/>
+ With ’is belt an’ stock undone;<lb/>
+But we sluiced ’im down an’ we washed ’im out,<lb/>
+ An’ a first-class job we made,<lb/>
+When we saved ’im, smart as a bombardier,<lb/>
+ For six-o’clock parade.</p>
+            </quote>
+            <quote>
+               <p>   It ’ad been “Rounds! What Rounds?” Oh, shove ’im straight again!<lb/>
+   ’E’s usin’ ’is sword for a bicycle, but, sentry, shut your eye.<lb/>
+   An’ it was “Pass! All’s well!” ’E’s called me “Darlin’ Jane”!<lb/>
+   ’E’ll need, etc.</p>
+            </quote>
+            <quote>
+               <p>The drill was long an’ ’eavy,<lb/>
+ The sky was ’ot an’ blue,<lb/>
+An’ ’is eye was wild an’ ’is ’air was wet,<lb/>
+ But ’is sergeant pulled ’im through.<lb/>
+Our men was good old trusties —<lb/>
+ They’d done it on their ’ead;<lb/>
+But you ought to ’ave ’eard ’em markin’ time<lb/>
+ To ’ide the things ’e said!</p>
+            </quote>
+            <quote>
+               <p>   For it was “Right flank — wheel!” for “‘Alt, an’ stand at ease!”<lb/>
+   An’ “Left extend!” for “Centre close!” O marker, shut your eye!<lb/>
+   An’ it was, “’Ere, sir, ’ere! before the Colonel sees!”<lb/>
+   So he needed affidavits pretty badly by-an’-by.</p>
+            </quote>
+            <quote>
+               <p>There was two-an’-thirty sergeants,<lb/>
+ There was corp’rals forty-one,<lb/>
+There was just nine ’undred rank an’ file<lb/>
+ To swear to a touch o’ sun.<lb/>
+There was me ’e’d kissed in the sentry-box,<lb/>
+ As I ’ave not told in my song,<lb/>
+But I took my oath, which were Bible truth,<lb/>
+ I ’adn’t seen nothin’ wrong.</p>
+            </quote>
+            <quote>
+               <p>There’s them that’s ’ot an’ ’aughty,<lb/>
+ There’s them that’s cold an’ ’ard,<lb/>
+But there comes a night when the best gets tight,<lb/>
+ And then turns out the Guard.<lb/>
+I’ve seen them ’ide their liquor<lb/>
+ In every kind o’ way,<lb/>
+But most depends on makin’ friends<lb/>
+ With Privit Thomas A.!</p>
+            </quote>
+            <quote>
+               <p>   When it is “Rounds! What Rounds?” ’E’s breathin’ through ’is nose.<lb/>
+   ’E’s reelin’, rollin’, roarin’ tight, but, sentry, shut your eye.<lb/>
+   An’ it is “Pass! All’s well!” An’ that’s the way it goes:<lb/>
+   We’ll ’elp ’im for ’is mother, an’ ’e’ll ’elp us by-an’-by!</p>
+            </quote>
+         </div>
+         <div>
+            <head>‘Mary, Pity Women!’</head>
+            <epigraph>
+               <l>You call yourself a man,</l>
+               <l> For all you used to swear,</l>
+               <l>An’ leave me, as you can,</l>
+               <l> My certain shame to bear?</l>
+               <l> I ’ear! You do not care —</l>
+               <l>You done the worst you know.</l>
+               <l> I ’ate you, grinnin’ there....</l>
+               <l>Ah, Gawd, I love you so!</l>
+            </epigraph>
+            <quote>
+               <p>   Nice while it lasted, an’ now it is over —<lb/>
+   Tear out your ’eart an’ good-bye to your lover!<lb/>
+   What’s the use o’ grievin’, when the mother that bore you<lb/>
+   (Mary, pity women!) knew it all before you?</p>
+            </quote>
+            <quote>
+               <p>It aren’t no false alarm,<lb/>
+ The finish to your fun;<lb/>
+You — you ’ave brung the ’arm,<lb/>
+ An’ I’m the ruined one;<lb/>
+ An’ now you’ll off an’ run<lb/>
+With some new fool in tow.<lb/>
+ Your ’eart? You ’aven’t none....<lb/>
+Ah, Gawd, I love you so!</p>
+            </quote>
+            <quote>
+               <p>   When a man is tired there is naught will bind ’im;<lb/>
+   All ’e solemn promised ’e will shove be’ind ’im.<lb/>
+   What’s the good o’ prayin’ for The Wrath to strike ’im<lb/>
+   (Mary, pity women!), when the rest are like ’im?</p>
+            </quote>
+            <quote>
+               <p>What ’ope for me or — it?<lb/>
+ What’s left for us to do?<lb/>
+I’ve walked with men a bit,<lb/>
+ But this — but this is you.<lb/>
+So ’elp me Christ, it’s true!<lb/>
+ Where can I ’ide or go?<lb/>
+You coward through and through!...<lb/>
+ Ah, Gawd, I love you so!</p>
+            </quote>
+            <quote>
+               <p>   All the more you give ’em the less are they for givin’—<lb/>
+   Love lies dead, an’ you cannot kiss ’im livin’.<lb/>
+   Down the road ’e led you there is no returnin’<lb/>
+   (Mary, pity women!), but you’re late in learnin’!</p>
+            </quote>
+            <quote>
+               <p>You’d like to treat me fair?<lb/>
+ You can’t, because we’re pore?<lb/>
+We’d starve? What do I care!<lb/>
+ We might, but this is shore!<lb/>
+ I want the name — no more —<lb/>
+The name, an’ lines to show,<lb/>
+ An’ not to be an ’ore....<lb/>
+Ah, Gawd, I love you so!</p>
+            </quote>
+            <quote>
+               <p>   What’s the good o’ pleadin’, when the mother that bore you<lb/>
+   (Mary, pity women!) knew it all before you?<lb/>
+   Sleep on ’is promises an’ wake to your sorrow<lb/>
+   (Mary, pity women!), for we sail tomorrow!</p>
+            </quote>
+         </div>
+         <div>
+            <head>For to Admire</head>
+            <epigraph>
+               <l>The Injian Ocean sets an’ smiles</l>
+               <l> So sof’, so bright, so bloomin’ blue;</l>
+               <l>There aren’t a wave for miles an’ miles</l>
+               <l> Excep’ the jiggle from the screw.</l>
+               <l>The ship is swep’, the day is done,</l>
+               <l> The bugle’s gone for smoke and play;</l>
+               <l>An’ black agin’ the settin’ sun</l>
+               <l> The Lascar sings, “Hum deckty hai!”</l>
+            </epigraph>
+            <quote>
+               <p>   For to admire an’ for to see,<lb/>
+   For to be’old this world so wide —<lb/>
+   It never done no good to me,<lb/>
+   But I can’t drop it if I tried!</p>
+            </quote>
+            <quote>
+               <p>I see the sergeants pitchin’ quoits,<lb/>
+ I ’ear the women laugh an’ talk,<lb/>
+I spy upon the quarter-deck<lb/>
+ The orficers an’ lydies walk.<lb/>
+I thinks about the things that was,<lb/>
+ An’ leans an’ looks acrost the sea,<lb/>
+Till spite of all the crowded ship<lb/>
+ There’s no one lef’ alive but me.</p>
+            </quote>
+            <quote>
+               <p>The things that was which I ’ave seen,<lb/>
+ In barrick, camp, an’ action too,<lb/>
+I tells them over by myself,<lb/>
+ An’ sometimes wonders if they’re true;<lb/>
+For they was odd — most awful odd —<lb/>
+ But all the same now they are o’er,<lb/>
+There must be ’eaps o’ plenty such,<lb/>
+ An’ if I wait I’ll see some more.</p>
+            </quote>
+            <quote>
+               <p>Oh, I ’ave come upon the books,<lb/>
+ An’ frequent broke a barrick rule,<lb/>
+An’ stood beside an’ watched myself<lb/>
+ Be’avin’ like a bloomin’ fool.<lb/>
+I paid my price for findin’ out,<lb/>
+ Nor never grutched the price I paid,<lb/>
+But sat in Clink without my boots,<lb/>
+ Admirin’ ’ow the world was made.</p>
+            </quote>
+            <quote>
+               <p>Be’old a crowd upon the beam,<lb/>
+ An’ ’umped above the sea appears<lb/>
+Old Aden, like a barrick-stove<lb/>
+ That no one’s lit for years an’ years!<lb/>
+I passed by that when I began,<lb/>
+ An’ I go ’ome the road I came,<lb/>
+A time-expired soldier-man<lb/>
+ With six years’ service to ’is name.</p>
+            </quote>
+            <quote>
+               <p>My girl she said, “Oh, stay with me!”<lb/>
+ My mother ’eld me to ’er breast.<lb/>
+They’ve never written none, an’ so<lb/>
+ They must ’ave gone with all the rest —<lb/>
+With all the rest which I ’ave seen<lb/>
+ An’ found an’ known an’ met along.<lb/>
+I cannot say the things I feel,<lb/>
+ And so I sing my evenin’ song:</p>
+            </quote>
+            <quote>
+               <p>   For to admire an’ for to see,<lb/>
+   For to be’old this world so wide —<lb/>
+   It never done no good to me,<lb/>
+   But I can’t drop it if I tried!</p>
+            </quote>
+         </div>
+      </body>
+  </text>
+</TEI>
+

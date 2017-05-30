@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Philosophy: A poem address'd to the ladies who attend Mr. Booth's lectures. By the bricklayer.</title>
+            <author>Jones, Henry, 1721-1770.</author>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>University of Oxford Text Archive</name>
+               <address>
+                  <addrLine>Oxford University Computing Services</addrLine>
+                  <addrLine>13 Banbury Road</addrLine>
+                  <addrLine>Oxford</addrLine>
+                  <addrLine>OX2 6NN</addrLine>
+               </address>
+               <email>ota@oucs.ox.ac.uk</email>
+            </distributor>
+            <idno type="ota">http://ota.ox.ac.uk/id/5097</idno>
+            <idno type="isbn10">1106020960</idno>
+            <idno type="isbn13">9781106020963</idno>
+            <idno type="TCP">K099681.000</idno>
+            <idno type="BIBNO">CW3310272482</idno>
+            <idno type="ECLL">0157502000</idno>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/3.0/">
+	  Distributed by the University of Oxford under a Creative Commons
+	  Attribution-ShareAlike 3.0 Unported License
+	</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Philosophy: A poem address'd to the ladies who attend Mr. Booth's lectures. By the bricklayer.</title>
+                  <author>Jones, Henry, 1721-1770.</author>
+               </titleStmt>
+               <extent>8p. ; 8⁰.</extent>
+               <publicationStmt>
+                  <publisher>printed by and for S. Powell,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1746.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Bricklayer = Henry Jones.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>Foxon, J94</note>
+                  <note>English Short Title Catalog, ESTCT124958.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">English</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:0157502000:015750200000010"/>
+            <p>PHILOSOPHY. A POEM Addreſs'd to the LADIES Who attend Mr. <hi>BOOTH</hi>'s LECTURES.</p>
+            <p>By the BRICKLAYER.</p>
+            <p>DUBLIN: <hi>Printed by and for S. POWELL, in</hi> Crane-Lane.</p>
+            <p>M DCC XLVI.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="3"
+                facs="tcp:0157502000:015750200000020"
+                rendition="simple:additions"/>
+            <head>PHILOSOPHY, A POEM.</head>
+            <lg>
+               <l>TO Science ſacred, Muſe, exalt thy Lays,</l>
+               <l>Science of Nature and to Nature's Praiſe:</l>
+               <l>Attend ye Virtuous, and rejoice to know</l>
+               <l>Her myſtic Labours, and her Laws below;</l>
+               <l>Her ways above with curious Eyes explore,</l>
+               <l>Admire her Treaſures, and her God adore.</l>
+            </lg>
+            <lg>
+               <pb n="4" facs="tcp:0157502000:015750200000030"/>
+               <l>BEHOLD ye FAIR how radiant Colours glow,</l>
+               <l>What dyes the Roſe, what paints the Heav'nly Bow,</l>
+               <l>The purpling Shade, the rich refracted Ray,</l>
+               <l>And all the bright Diverſity of Day.</l>
+               <l>Lo! here the Magne<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'s Magic charms the Sight,</l>
+               <l>And fills the Soul with Wonder and Delight,</l>
+               <l>In her coy Nature turns her Face aſide,</l>
+               <l>And mocks th' enquiring Sages learned Pride,</l>
+               <l>Here leſs reſerv'd ſhe ſhows her plainer Courſe</l>
+               <l>In mutual Conteſt of Elaſtic Force,</l>
+               <l>Saving each vital Frame from cruſhing Fate,</l>
+               <l>For inward Act ſuſtains external Weight.</l>
+               <l>Which holds reciprocal in ballanc'd Strife,</l>
+               <l>The Shield of Nature, and the Fence of Life:</l>
+               <l>The ambient Atmoſphere embracing all</l>
+               <l>The wide Circumf'rence of this circling Ball,</l>
+               <l>The Vehicle of Life to thoſe that breath</l>
+               <l>On ſolid Land, or liquid Waves beneath;</l>
+               <l>The Univerſe pervading, filling Space,</l>
+               <l>And like its Maker unconfin'd to Place.</l>
+            </lg>
+            <lg>
+               <pb n="5" facs="tcp:0157502000:015750200000040"/>
+               <l>WHAT pleaſing Fervours in my Boſom riſe,</l>
+               <l>What fix'd Attention and what deep Surprize,</l>
+               <l>When quick as Thought th' electric Vigour ſprings,</l>
+               <l>Swifter than Light'ning on its rapid Wings,</l>
+               <l>A Flight ſo inſtant to no Space confin'd,</l>
+               <l>Eludes Ideas, and outſtrips the Mind?</l>
+               <l>Lo! to the Brain the bright Effluvium flies,</l>
+               <l>Glows in the Heart and flaſhes from the Eyes:</l>
+               <l>Here the fond Youth wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>p<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>'d Eye ſhall gaze,</l>
+               <l>And proudly warm, enjoy th' extatic Blaze:</l>
+               <l>See the proud Nymph partake his Flame by Turns,</l>
+               <l>See! like a Seraph, how ſhe ſmiles and burns.</l>
+               <l>Contracted here by wond'rous Art is ſeen</l>
+               <l>A boundleſs Syſtem in a ſmall Machine;</l>
+               <l>Here human Skill to proud Perfection brought,</l>
+               <l>The mortal Mimic of Omnific Thought,</l>
+               <l>Th' Almighty's Model to the Mind conveys,</l>
+               <l>The Univerſe, and all it's Pow'rs diſplays:</l>
+               <l>How wander Planets, how revolves the Year,</l>
+               <l>The Moon how changes, and how Comets glare.</l>
+               <l>
+                  <pb n="6" facs="tcp:0157502000:015750200000050"/>The Sun's bright Globe illumes th' unmeaſur'd Space,</l>
+               <l>While waiting Worlds enjoy by Turns his Face,</l>
+               <l>From his bright Preſence drink enliv'ning Rays,</l>
+               <l>From him their Seaſons gain, from him their Days;</l>
+               <l>See Wiſdom here her brighteſt Beams diſplay,</l>
+               <l>To fill the Soul with philoſophic Day,</l>
+               <l>The Springs unfolding of mechanic Laws,</l>
+               <l>Tracing through known Effects th' eternal Cauſe,</l>
+               <l>Whoſe pow'rful <hi>Fiat<g ref="char:punc">▪</g>
+                  </hi> whoſe creative Will</l>
+               <l>Firſt founded Nature, and ſupports her ſtill.</l>
+               <l>Here godlike <hi>NEWTON</hi>'s all capacious Mind,</l>
+               <l>(The Glory and the Guide of human Kind)</l>
+               <l>Shows wedded Worlds far diſtant Worlds embrace</l>
+               <l>With mutual Bands, yet keep their deſtin'd Space,</l>
+               <l>Roll endleſs Meaſures through th' etherial Plain,</l>
+               <l>Link'd by the ſocial ſtrong attractive Chain,</l>
+               <l>Whoſe latent Springs exert all Nature's Force,</l>
+               <l>Inwrap the Poles, and point the Stars their Courſe.</l>
+               <l>Myſterious Energy! ſtupendous Theme!</l>
+               <l>Immediate Mover of this boundleſs Frame,</l>
+               <l>
+                  <pb n="7" facs="tcp:0157502000:015750200000060"/>Who can thy Eſſence, or thy Pow'r explain?</l>
+               <l>The Sons of Wiſdom ſeek thy Source in vain;</l>
+               <l>Thyſelf inviſible, yet ſeen thy Laws,</l>
+               <l>This goodly Fabrick thy Effect, and GOD thy Cauſe.</l>
+            </lg>
+            <lg>
+               <l>THRICE happy few who wiſely here attend</l>
+               <l>The Voice of Science, and her Cauſe befriend:</l>
+               <l>Let others, heedleſs of their youthful Prime,</l>
+               <l>Squander on empty Toys their fleeting Time;</l>
+               <l>'Tis yours with Reaſon's ſearching Eye to view</l>
+               <l>Great Nature's Laws, and trace her winding Clue;</l>
+               <l>Behold her Book the op'ning Page expand,</l>
+               <l>Fill'd with the Wonders of her Maker's Hand,</l>
+               <l>In awful Characters, which clearly ſhine,</l>
+               <l>Worthy of Wiſdom, and of Pow'r divine.</l>
+               <l>Peruſe GOD's Ways, his perfect Workings trace,</l>
+               <l>In Nature's Mirrour ſhines his heavenly Face.</l>
+            </lg>
+            <lg>
+               <l>To you, bright Nymphs, where Goodneſs charms us moſt,</l>
+               <l>The Pride of Nature, and Creation's Boaſt,</l>
+               <l>To you Philoſophy enamour'd flies,</l>
+               <l>And triumphs in the Plaudit of your Eyes.</l>
+               <l>
+                  <pb n="8" facs="tcp:0157502000:015750200000070"/>When Worth like yours her ſapient Throne ſuſtains,</l>
+               <l>The Queen of Science with true Splendour reigns;</l>
+               <l>By Beauty aided ſhe extends her Sway,</l>
+               <l>And, won by you, Mankind glad Homage pay.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
+

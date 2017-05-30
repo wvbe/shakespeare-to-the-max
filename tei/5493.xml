@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sally of our alley</title>
+            <title>Sally in our alley</title>
+            <author>Carey, Henry, 1687?-1743.</author>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>University of Oxford Text Archive</name>
+               <address>
+                  <addrLine>Oxford University Computing Services</addrLine>
+                  <addrLine>13 Banbury Road</addrLine>
+                  <addrLine>Oxford</addrLine>
+                  <addrLine>OX2 6NN</addrLine>
+               </address>
+               <email>ota@oucs.ox.ac.uk</email>
+            </distributor>
+            <idno type="ota">http://ota.ox.ac.uk/id/5493</idno>
+            <idno type="isbn10">1106024923</idno>
+            <idno type="isbn13">9781106024923</idno>
+            <idno type="TCP">K131924.000</idno>
+            <idno type="BIBNO">CW3316204565</idno>
+            <idno type="ECLL">1087800800</idno>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/3.0/">
+	  Distributed by the University of Oxford under a Creative Commons
+	  Attribution-ShareAlike 3.0 Unported License
+	</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sally of our alley</title>
+                  <title>Sally in our alley</title>
+                  <author>Carey, Henry, 1687?-1743.</author>
+               </titleStmt>
+               <extent>1 sheet ; 1/4⁰.</extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by J Davenport, London,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1795?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Anonymous. By Henry Carey.</note>
+                  <note>A slip-song - "Of all the girls in our town".</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>English Short Title Catalog, ESTCT224811.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">English</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:1087800800:1" rendition="simple:additions"/>
+            <head>Sally of our Alley.</head>
+            <lg>
+               <l>OF all the girls in our town</l>
+               <l>There's none like pretty Sally,</l>
+               <l>She is the darling of my heart;</l>
+               <l>And lives in our alley:</l>
+               <l>There's ne'er a lady in the land</l>
+               <l>Is half ſo ſweet as Sally,</l>
+               <l>She is the darling of my heart,</l>
+               <l>And lives in our alley.</l>
+            </lg>
+            <lg>
+               <l>Her father he makes cabbage nets,</l>
+               <l>And in the ſtreets does cry them,</l>
+               <l>Her mother ſhe ſells laces long,</l>
+               <l>To all who chuſe to buy them;</l>
+               <l>But ſure ſuch folks could ne'er beget</l>
+               <l>So ſweet a girl as Sally,</l>
+               <l>She is the darling, &amp;c.</l>
+            </lg>
+            <lg>
+               <l>When Sally's by I leave my work,</l>
+               <l>I love her ſo ſincerely,</l>
+               <l>My maſter comes like any Turk,</l>
+               <l>And bangs me moſt ſeverely,</l>
+               <l>But let him bang his belly full,</l>
+               <l>I'll bear it all for Sally, ſhe is, &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Of all the days that's in the week,</l>
+               <l>I dearly love but one day,</l>
+               <l>And that's the day that comes between</l>
+               <l>A Saturday and Monday:</l>
+               <l>O then I'm dreſt in all my beſt,</l>
+               <l>To walk abroad with Sally, ſhe is, &amp;c.</l>
+            </lg>
+            <lg>
+               <l>My maſter carries me to church,</l>
+               <l>And often I am blamed,</l>
+               <l>Becauſe I leave him in the lurch,</l>
+               <l>As ſoon as text is named:</l>
+               <l>I leave the church in ſermon time,</l>
+               <l>And ſlink away to Sally, ſhe is, &amp;c.</l>
+            </lg>
+            <lg>
+               <l>When Chriſtmas comes about again,</l>
+               <l>O then I ſhall have money,</l>
+               <l>I'll hoard it up, and box and all,</l>
+               <l>I'll give it to my Sally,</l>
+               <l>And would it were a thouſand pounds,</l>
+               <l>I'd give it all to Sally, ſhe is, &amp;c.</l>
+            </lg>
+            <lg>
+               <l>My maſter and the neighbours all</l>
+               <l>Make game of me and Sally,</l>
+               <l>And but for her I'd better be</l>
+               <l>A ſlave, and row a galley;</l>
+               <l>But when my ſeven long years are out,</l>
+               <l>O then I'll marry Sally,</l>
+               <l>O then we'll wed, and then we'll bed,</l>
+               <l>But not in our alley.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed and ſold by <hi>J DAVENPORT,</hi> No. 6, Little Chatherine-ſtreet, Strand, London.</p>
+            <pb facs="tcp:1087800800:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </back>
+   </text>
+</TEI>
+

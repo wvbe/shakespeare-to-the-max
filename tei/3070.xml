@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="uniform">Poems. Selections</title>
+            <title type="main">The book of Thel</title>
+            <author>Blake, William, 1757-1827</author>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>University of Oxford Text Archive</name>
+               <address>
+                  <addrLine>Oxford University Computing Services</addrLine>
+                  <addrLine>13 Banbury Road</addrLine>
+                  <addrLine>Oxford</addrLine>
+                  <addrLine>OX2 6NN</addrLine>
+               </address>
+               <email>ota@oucs.ox.ac.uk</email>
+            </distributor>
+            <idno type="ota">http://ota.ox.ac.uk/id/3070</idno>
+            <idno type="isbn10">1106000692</idno>
+            <idno type="isbn13">9781106000699</idno>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/3.0/">
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License
+      </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Revised version of  <relatedItem type="older" target="http://ota.ox.ac.uk/id/2113"/>
+            </bibl>
+            <bibl>Not recorded. 
+<note anchored="true">First printed in 1789.</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="OTASH">
+               <bibl>University of Oxford Text Archive Subject Headings</bibl>
+            </taxonomy>
+            <taxonomy xml:id="LCSH">
+               <bibl>Library of Congress Subject Headings</bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <creation>
+            <date notAfter="1788"/>
+         </creation>
+         <langUsage>
+            <language ident="eng">English</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="#LCSH">
+               <term type="genre">Poems -- Great Britain -- 18th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2010-09-27">Header normalised</change>
+      </revisionDesc>
+  </teiHeader>
+  <text>
+      <front>
+         <titlePage>
+            <docTitle>
+               <titlePart type="main">
+                  <title type="main">The Book of Thel</title>
+               </titlePart>
+            </docTitle>
+            <byline>by 
+<docAuthor>William Blake</docAuthor>
+            </byline>
+         </titlePage>
+      </front>
+      <body>
+         <div type="Epigraph">
+            <head>THEL'S Motto</head>
+            <lg type="stanza">
+               <l>Does the Eagle know what is in the pit? </l>
+               <l>Or wilt thou go ask the Mole: </l>
+               <l>Can Wisdom be put in a silver rod? </l>
+               <l>Or Love in a golden bowl? </l>
+            </lg>
+         </div>
+         <div xml:id="p1" type="part">
+            <head>I</head>
+            <lg type="stanza">
+               <l>The daughters of Mne Seraphim led round their sunny flocks, </l>
+               <l>All but the youngest: she in paleness sought the secret air. </l>
+               <l>To fade away like morning beauty from her mortal day: </l>
+               <l>Down by the river of Adona her soft voice is heard; </l>
+               <l>And thus her gentle lamentation falls like morning dew. </l>
+            </lg>
+            <lg type="stanza">
+               <l>O life of this our spring!  why fades the lotus of the water? </l>
+               <l>Why fade these children of the spring? born but to smile &amp; fall. </l>
+               <l>Ah! Thel is like a watry bow, and like a parting cloud, </l>
+               <l>Like a reflection in a glass: like shadows in the water </l>
+               <l>Like dreams of infants, like a smile upon an infants face. </l>
+               <l>Like the doves voice, like transient day, like music in the air: </l>
+               <l>Ah! gentle may I lay me down and gentle rest my head. </l>
+               <l>And gentle sleep the sleep of death, and gently hear the voice </l>
+               <l>Of him that walketh in the garden in the evening time. </l>
+            </lg>
+            <lg type="stanza">
+               <l>The Lilly of the valley breathing in the humble grass </l>
+               <l>Answerd the lovely maid and said: I am a watry weed, </l>
+               <l>And I am very small and love to dwell in lowly vales: </l>
+               <l>So weak the gilded butterfly scarce perches on my head </l>
+               <l>Yet I am visited from heaven and he that smiles on all </l>
+               <l>Walks in the valley, and each morn over me spreads his hand </l>
+               <l>Saying, rejoice thou humble grass, thou new-born lily flower. </l>
+               <l>Thou gentle maid of silent valleys and of modest brooks: </l>
+               <l>For thou shall be clothed in light, and fed with morning manna: </l>
+               <l>Till summers heat melts thee beside the fountains and the springs </l>
+               <l>To flourish in eternal vales: they why should Thel complain. </l>
+               <l>Why should the mistress of the vales of Har, utter a sigh. </l>
+            </lg>
+            <lg type="stanza">
+               <l>She ceasd &amp; smild in tears, then sat down in her silver shrine. </l>
+            </lg>
+            <lg type="stanza">
+               <l>Thel answerd, O thou little virgin of the peaceful valley. </l>
+               <l>Giving to those that cannot crave, the voiceless, the o'er tired </l>
+               <l>The breath doth nourish the innocent lamb, he smells the milky garments </l>
+               <l>He crops thy flowers while thou sittest smiling in his face, </l>
+               <l>Wiping his mild and meekin mouth from all contagious taints. </l>
+               <l>Thy wine doth purify the golden honey; thy perfume. </l>
+               <l>Which thou dost scatter on every little blade of grass that springs </l>
+               <l>Revives the milked cow, &amp; tames the fire-breathing steed. </l>
+               <l>But Thel is like a faint cloud kindled at the rising sun: </l>
+               <l>I vanish from my pearly throne, and who shall find my place. </l>
+            </lg>
+            <lg type="stanza">
+               <l>Queen of the vales the Lily answered, ask the tender cloud, </l>
+               <l>And it shall tell thee why it glitters in the morning sky. </l>
+               <l>And why it scatters its bright beauty thro the humid air. </l>
+               <l>Descend O little cloud &amp; hover before the eyes of Thel. </l>
+            </lg>
+            <lg type="stanza">
+               <l>The Cloud descended and the Lily bowd her modest head: </l>
+               <l>And went to mind her numerous charge among the verdant grass. </l>
+            </lg>
+         </div>
+         <div xml:id="p2" type="part">
+            <head>II.</head>
+            <lg type="stanza">
+               <l>O little Cloud the virgin said, I charge thee to tell me </l>
+               <l>Why thou complainest now when in one hour thou fade away: </l>
+               <l>Then we shall seek thee but not find: ah Thel is like to thee. </l>
+               <l>I pass away, yet I complain, and no one hears my voice. </l>
+            </lg>
+            <lg type="stanza">
+               <l>The Cloud then shewd his golden head &amp; his bright form emerg'd. </l>
+               <l>Hovering and glittering on the air before the face of Thel. </l>
+            </lg>
+            <lg type="stanza">
+               <l>O virgin know'st thou not our steeds drink of the golden springs </l>
+               <l>Where Luvah doth renew his horses: lookst thou on my youth. </l>
+               <l>And fearest thou because I vanish and am seen no more. </l>
+               <l>Nothing remains; O maid I tell thee, when I pass away. </l>
+               <l>It is to tenfold life, to love, to peace, and raptures holy: </l>
+               <l>Unseen descending, weigh my light wings upon balmy flowers: </l>
+               <l>And court the fair eyed dew, to take me to her shining tent </l>
+               <l>The weeping virgin, trembling kneels before the risen sun. </l>
+               <l>Till we arise link'd in a golden band and never part: </l>
+               <l>But walk united bearing food to all our tender flowers. </l>
+            </lg>
+            <lg type="stanza">
+               <l>Dost thou O little cloud?  I fear that I am not like thee: </l>
+               <l>For I walk through the vales of Har, and smell the sweetest flowers: </l>
+               <l>But I feed not the little flowers: I hear the warbling birds, </l>
+               <l>But I feed not the warbling birds, they fly and seek their food: </l>
+               <l>But Thel delights in these no more because I fade away </l>
+               <l>And all shall say, without a use this shining women liv'd, </l>
+               <l>Or did she only live to be at death the food of worms. </l>
+            </lg>
+            <lg type="stanza">
+               <l>The Cloud reclind upon his airy throne and answerd thus. </l>
+            </lg>
+            <lg type="stanza">
+               <l>Then if thou art the food of worms, O virgin of the skies, </l>
+               <l>How great thy use, how great thy blessing, every thing that lives. </l>
+               <l>Lives not alone nor or itself: fear not and I will call, </l>
+               <l>The weak worm from its lowly bed, and thou shalt hear its voice. </l>
+               <l>Come forth worm and the silent valley, to thy pensive queen. </l>
+            </lg>
+            <lg type="stanza">
+               <l>The helpless worm arose and sat upon the Lillys leaf, </l>
+               <l>And the bright Cloud saild on, to find his partner in the vale. </l>
+            </lg>
+         </div>
+         <div xml:id="p3" type="part">
+            <head>III.</head>
+            <lg type="stanza">
+               <l>Then Thel astonish'd view'd the Worm upon its dewy bed. </l>
+            </lg>
+            <lg type="stanza">
+               <l>Art thou a Worm?  image of weakness.  art thou but a Worm? </l>
+               <l>I see thee like an infant wrapped in the Lillys leaf; </l>
+               <l>Ah weep not little voice, thou can'st not speak, but thou can'st weep: </l>
+               <l>Is this a Worm?  I see they lay helpless &amp; naked: weeping </l>
+               <l>And none to answer, none to cherish thee with mothers smiles. </l>
+            </lg>
+            <lg type="stanza">
+               <l>The Clod of Clay heard the Worms voice &amp; rais'd her pitying head: </l>
+               <l>She bowd over the weeping infant, and her life exhald </l>
+               <l>In milky fondness, then on Thel she fix'd her humble eyes </l>
+            </lg>
+            <lg type="stanza">
+               <l>O beauty of the vales of Har, we live not for ourselves, </l>
+               <l>Thou seest me the meanest thing, and so I am indeed: </l>
+               <l>My bosom of itself is cold, and of itself is dark, </l>
+            </lg>
+            <lg type="stanza">
+               <l>But he that loves the lowly, pours his oil upon my head </l>
+               <l>And kisses me, and binds his nuptial bands around my breast. </l>
+               <l>And says; Thou mother of my children, I have loved thee </l>
+               <l>And I have given thee a crown that none can take away. </l>
+               <l>But how this is sweet maid, I know not, and I cannot know </l>
+               <l>I ponder, and I cannot ponder; yet I live and love. </l>
+            </lg>
+            <lg type="stanza">
+               <l>The daughter of beauty wip'd her pitying tears with her white veil, </l>
+               <l>And said, Alas!  I knew not this, and therefore did I weep: </l>
+               <l>That God would love a Worm I knew, and punish the evil foot </l>
+               <l>That wilful bruis'd its helpless form: but that he cherish'd it </l>
+               <l>With milk and oil I never knew, and therefore did I weep, </l>
+               <l>And I complaind in the mild air, because I fade away. </l>
+               <l>And lay me down in thy cold bed, and leave my shining lot. </l>
+            </lg>
+            <lg type="stanza">
+               <l>Queen of the vales, the matron Clay answered: I heard thy sighs. </l>
+               <l>And all thy moans flew o'er my roof, but I have call'd them down: </l>
+               <l>Wilt thou O Queen enter my house, tis given thee to enter, </l>
+               <l>And to return: fear nothing, enter with thy virgin feet. </l>
+            </lg>
+         </div>
+         <div xml:id="p4" type="part">
+            <head>IV.</head>
+            <lg type="stanza">
+               <l>The eternal gates terrific porter lifted the northern bar: </l>
+               <l>Thel enter'd in &amp; saw the secrets of the land unknown; </l>
+               <l>She saw the couches of the dead, &amp; where the fibrous roots </l>
+               <l>Of every heart on earth infixes deep its restless twists: </l>
+               <l>A land of sorrows &amp; of tears where never smile was seen. </l>
+            </lg>
+            <lg type="stanza">
+               <l>She wandered in the land of clouds thro' valleys dark, listning </l>
+               <l>Dolors &amp; lamentations: waiting oft beside the dewy grave </l>
+               <l>She stood in silence, listning to the voices of the ground, </l>
+               <l>Till to her own grave plot she came, &amp; there she sat down. </l>
+               <l>And heard this voice of sorrow breathed from the hollow pit. </l>
+            </lg>
+            <lg type="stanza">
+               <l>Why cannot the Ear be closed to its own destruction? </l>
+               <l>Or the glistening Eye to the poison of a smile! </l>
+               <l>Why are Eyelids stord with arrows ready drawn, </l>
+               <l>Where a thousand fighting men in ambush lie! </l>
+               <l>Or an Eye of gifts &amp; graces showring fruits &amp; coined gold! </l>
+            </lg>
+            <lg type="stanza">
+               <l>Why a Tongue impress'd with honey from every wind? </l>
+               <l>Why an Ear, a whirlpool fierce to draw creations in? </l>
+               <l>Why a Nostril wide inhaling terror trembling &amp; affright </l>
+               <l>Why a tender curb upon the youthful burning boy? </l>
+               <l>Why a little curtain of flesh on the bed of our desire? </l>
+            </lg>
+            <lg type="stanza">
+               <l>The Virgin started from her seat, &amp; with a shriek, </l>
+               <l>Fled back unhinderd till she came into the vales of Har </l>
+            </lg>
+         </div>
+      </body>
+  </text>
+</TEI>
+

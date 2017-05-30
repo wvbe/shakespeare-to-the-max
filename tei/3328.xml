@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to The tale of a nettle: Written by D. D'Foe.</title>
+            <author>Defoe, Daniel, 1661?-1731.</author>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>University of Oxford Text Archive</name>
+               <address>
+                  <addrLine>Oxford University Computing Services</addrLine>
+                  <addrLine>13 Banbury Road</addrLine>
+                  <addrLine>Oxford</addrLine>
+                  <addrLine>OX2 6NN</addrLine>
+               </address>
+               <email>ota@oucs.ox.ac.uk</email>
+            </distributor>
+            <idno type="ota">http://ota.ox.ac.uk/id/3328</idno>
+            <idno type="isbn10">1106003276</idno>
+            <idno type="isbn13">9781106003270</idno>
+            <idno type="TCP">K001048.000</idno>
+            <idno type="BIBNO">CW3310437202</idno>
+            <idno type="ECLL">0159701700</idno>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/3.0/">
+	  Distributed by the University of Oxford under a Creative Commons
+	  Attribution-ShareAlike 3.0 Unported License
+	</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to The tale of a nettle: Written by D. D'Foe.</title>
+                  <author>Defoe, Daniel, 1661?-1731.</author>
+               </titleStmt>
+               <extent>1 sheet ; 1/2⁰.</extent>
+               <publicationStmt>
+                  <publisher>printed in the year,</publisher>
+                  <pubPlace>Oxford [i.e.London?] :</pubPlace>
+                  <date>1710.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Not discussed by any bibliographer of Defoe, but most improbably by him."(Foxon).</note>
+                  <note>Verse.</note>
+                  <note>Imprint is false; possibly printed in London.</note>
+                  <note>Reproduction of original from the Harvard University Houghton Library.</note>
+                  <note>Foxon, D89</note>
+                  <note>English Short Title Catalog, ESTCN1651.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">English</language>
+         </langUsage>
+      </profileDesc>
+  </teiHeader>
+  <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:0159701700:1" rendition="simple:additions"/>
+            <head>An ANSWER To The Tale of a Nettle.</head>
+            <byline>Written by D. D'FOE.</byline>
+            <lg>
+               <l>WHen the Good Man was won to ſo Gracious a Deed,</l>
+               <l>As to Tolerate the <hi>Nettle</hi> and his Curſed Seed,</l>
+               <l>He ne'er imagin'd this <hi>Vip'rous Brood</hi>
+               </l>
+               <l>Wou'd be ſo Ungrateful and monſtrouſly Rude,</l>
+               <l>As to plead any Title to the <hi>Right of his Ground</hi>;</l>
+               <l>Which had Coſt the <hi>Juſt Man</hi> ſo many fair Pound.</l>
+               <l>He then caſt about what to do in the main,</l>
+               <l>And <hi>Council</hi> he call'd to adviſe with the ſame.</l>
+               <l>
+                  <hi>Good Sir,</hi> ſays the Council, <hi>do but try 'um with ſpeed.</hi>
+               </l>
+               <l>
+                  <hi>They pretend to much Sanctity, call em ſelves the Lords ſeed</hi>
+               </l>
+               <l>
+                  <hi>And none are ſo righteous and ſeemingls Holly,</hi>
+               </l>
+               <l>
+                  <hi>As the Offſpring of</hi> Nettle. <hi>Hypocritical Folly</hi>
+               </l>
+               <l>
+                  <hi>I preſume you have gotten, and inſtead of being juſt,</hi>
+               </l>
+               <l>
+                  <hi>I doubt they'll Betrap you on any diſgust:</hi>
+               </l>
+               <l>
+                  <hi>Therefore I adviſe you without more ado,</hi>
+               </l>
+               <l>
+                  <hi>You now being old, may grow wiſer too;</hi>
+               </l>
+               <l>
+                  <hi>For Experience will teach, what I now ſhall declare,</hi>
+               </l>
+               <l>
+                  <hi>Let none in your Ground any port of it ſhare,</hi>
+               </l>
+               <l>
+                  <hi>But ſuch as will ſwear to be True to your Heir,</hi>
+               </l>
+               <l>
+                  <hi>And Support You and Him against all Invaders</hi>
+               </l>
+               <l>
+                  <hi>Of Yours and his Right; let no deſperate Bravado's</hi>
+               </l>
+               <l>
+                  <hi>Make you the more fear them, or eſteem your ſelf little,</hi>
+               </l>
+               <l>
+                  <hi>For they'll ſoon cut you out by the Scythe or the Sickle:</hi>
+               </l>
+               <l>
+                  <hi>If once they are ſure that you dread their Power,</hi>
+               </l>
+               <l>
+                  <hi>You nor Yours ſhall never be quiet one Hour.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>I thank you, good Friend, for your good Advice,</l>
+               <l>I'll follow your Counſel, and ſtrait in a trice</l>
+               <l>He ſummon'd the <hi>Nettles,</hi> and told them the Cauſe.</l>
+               <l>A Motion he made for to bind them in Laws,</l>
+               <l>For their good and's own; and ſo would in ſhort</l>
+               <l>Admit them to hold that Poſſeſſion in part</l>
+               <l>Of his Ground they poſſeſſed, if they would with ſpeed</l>
+               <l>Swear to preſerve it to him and his Seed.</l>
+               <l>They unanimouſly conſented, and without more ado,</l>
+               <l>Took the Oaths unto Him, and his Succeffor too;</l>
+               <l>Thus being admitted to a free Toleration,</l>
+               <l>A handle they got for their preſent Poſſeſſion,</l>
+               <l>And now they began to diſpute with their <hi>Maſtêr,</hi>
+               </l>
+               <l>And incroached on him, even faſter and faſter,</l>
+               <l>And told him in ſhort they'd aright to his Land,</l>
+               <l>For he gave 'em Poſſeſſion under his own Hand.</l>
+               <l>And thus they daily created Him trouble,</l>
+               <l>And plaguly vex'd the good Man that was Noble;</l>
+               <l>They mighty Combuſtion did raiſe in his Ground,</l>
+               <l>And <hi>Cedars</hi> and <hi>Elms</hi> they met their Deaths Wound,</l>
+               <l>And all ſorts of Trees that were <hi>Royally</hi> given,</l>
+               <l>Were rooted up quite, tho' their Tops reach'd to Heaven:</l>
+               <l>And after they had thus deſtroy'd his Poſſeſſion,</l>
+               <l>The <hi>Royal-Oaks-Head</hi> was cut off by Commiſſion,</l>
+               <l>And nothing there left but <hi>Brdmbles</hi> and <hi>Buſhes,</hi>
+               </l>
+               <l>Viporous Stinging <hi>Nettles</hi> and ſilly poor <hi>Ruſhes</hi>;</l>
+               <l>The <hi>Bramble</hi> bore ſway, and beat down the reſt</l>
+               <l>Of all his fine Plants, and Fruits of the beſt,</l>
+               <l>And ſo it continued in Confuſion ſo long,</l>
+               <l>Till <hi>Right</hi> did take Place and o'ercome <hi>Wrong.</hi>
+               </l>
+               <l>And now ſince the <hi>Ground</hi> is reſtored as before,</l>
+               <l>Take care how the <hi>Nettle</hi> Stings you any more:</l>
+               <l>And ſince the <hi>Handle</hi> you have once again got,</l>
+               <l>Keep it faſt leſt your <hi>Ground</hi> goes once more to Pot.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Oxford,</hi> Printed in the Year, 1710.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
+

@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The maiden's bloody garland: or, High-Street tragedy: shewing how Sarah Holly, a poor unfortunate serving maid of the city of Oxford, being wronged by her sweetheart, cut her throat from ear to ear, was next morning found dead in her bed, and afterwards buried in the King's highway. Tune, There were three pilgrims.</title>
+            <author>Warton, Thomas, 1728-1790.</author>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>University of Oxford Text Archive</name>
+               <address>
+                  <addrLine>Oxford University Computing Services</addrLine>
+                  <addrLine>13 Banbury Road</addrLine>
+                  <addrLine>Oxford</addrLine>
+                  <addrLine>OX2 6NN</addrLine>
+               </address>
+               <email>ota@oucs.ox.ac.uk</email>
+            </distributor>
+            <idno type="ota">http://ota.ox.ac.uk/id/3351</idno>
+            <idno type="isbn10">1106003500</idno>
+            <idno type="isbn13">9781106003508</idno>
+            <idno type="TCP">K002508.000</idno>
+            <idno type="BIBNO">CW3307139068</idno>
+            <idno type="ECFA">0150102900</idno>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/3.0/">
+	  Distributed by the University of Oxford under a Creative Commons
+	  Attribution-ShareAlike 3.0 Unported License
+	</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The maiden's bloody garland: or, High-Street tragedy: shewing how Sarah Holly, a poor unfortunate serving maid of the city of Oxford, being wronged by her sweetheart, cut her throat from ear to ear, was next morning found dead in her bed, and afterwards buried in the King's highway. Tune, There were three pilgrims.</title>
+                  <author>Warton, Thomas, 1728-1790.</author>
+               </titleStmt>
+               <extent>1 sheet : ill. ; 1/2⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>[London?,</pubPlace>
+                  <date>1767?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Anonymous. By Thomas Warton.</note>
+                  <note>Verse - "A mournful ditty I will tell".</note>
+                  <note>Reproduction of original from the Harvard University Houghton Library.</note>
+                  <note>English Short Title Catalog, ESTCN3888.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">English</language>
+         </langUsage>
+      </profileDesc>
+  </teiHeader>
+  <text xml:lang="unk">
+      <body>
+         <div type="text">
+            <pb facs="tcp:0150102900:1"/>
+            <head>The Maiden's Bloody Garland; Or, <hi>HIGH-STREET TRAGEDY:</hi> Shewing how <hi>SARAH HOLLY,</hi> a poor unfortunate Serving Maid of the City of <hi>Oxford,</hi> being wronged by her Sweetheart, cut her Throat from Ear to Ear, was next Morning found dead in her Bed, and afterwards buried in the King's Highway.</head>
+            <opener>Tune, There were Three Pilgrims.</opener>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>A Mournful Ditty I will tell,</l>
+               <l>Ye knew poor <hi>Sarah Holly</hi> well,</l>
+               <l>Who at the <hi>Golden Leg</hi> did dwell.</l>
+               <l>
+                  <hi>Heigh-ho, Heigh-ho:</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>She was in Love, as ſome do ſay,</l>
+               <l>Her Sweetheart made her go aſtray,</l>
+               <l>And at the laſt did her betray.</l>
+               <l>
+                  <hi>Heigh-ho,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>The Babe within her Womb did cry,</l>
+               <l>Unto her Sweetheart ſhe did hie,</l>
+               <l>And Tears like Rain fell from her Eye.</l>
+               <l>
+                  <hi>Heigh-ho,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>But oh! the Wretch's Heart was hard,</l>
+               <l>He to her Cries gave no Regard,</l>
+               <l>Is this, ſays ſhe, my Love's Reward?</l>
+               <l>
+                  <hi>Heigh-ho,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Oh! woe is me! I am betray'd,</l>
+               <l>Oh! had I liv'd a ſpotleſs Maid,</l>
+               <l>I ne'er with Sobs and Sighs had ſaid.</l>
+               <l>
+                  <hi>Heigh-ho,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>But now I'm preſs'd with Grief and Woe</l>
+               <l>And Quiet ne'er again can know,</l>
+               <l>God grant my Soul to Heaven may go.</l>
+               <l>
+                  <hi>Heigh-ho,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>For I my wretched Days muſt end,</l>
+               <l>Yet e'en for thee my Prayers I'll ſend,</l>
+               <l>I die to all the Word a Friend.</l>
+               <l>
+                  <hi>Heigh-ho,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Then to her Friends ſhe bid adieu,</l>
+               <l>And gave to each ſome Token true,</l>
+               <l>With, "think on me when this you view."</l>
+               <l>
+                  <hi>Heigh-ho,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Unto the Oſtler at the <hi>Bear,</hi>
+               </l>
+               <l>She gave a Ringlet of her Hair,</l>
+               <l>And ſaid, Farewell my Deareſt Dear.</l>
+               <l>
+                  <hi>Heigh-ho,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>O then to <hi>Madam Luff</hi> ſhe ſaid,</l>
+               <l>To-morrow Morn come to my Bed,</l>
+               <l>And there you'll find me quite Stone dead.</l>
+               <l>
+                  <hi>Heigh-ho,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Too true ſhe ſpoke, it did appear,</l>
+               <l>Next Morn they call'd, ſhe could not hear:</l>
+               <l>Her Throat was cut from Ear to Ear.</l>
+               <l>
+                  <hi>Heigh-ho,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>No Spark of Life was in her ſhown,</l>
+               <l>No Breath they ſaw, nor heard a Groan,</l>
+               <l>Her precious Soul was from her flown.</l>
+               <l>
+                  <hi>Heigh-ho,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>She was not as I once have ſeen</l>
+               <l>Her trip in <hi>Martin Gardens</hi> green,</l>
+               <l>With Apron ſtarch'd, and Ruffles clean.</l>
+               <l>
+                  <hi>Heigh-ho,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>With Bonnet trimm'd and flounc'd and all,</l>
+               <l>Which they a <hi>Dulcimer</hi> do call,</l>
+               <l>And Stockings white as Snows that fall.</l>
+               <l>
+                  <hi>Heigh-ho,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>But dull was that black laughing Eye,</l>
+               <l>And pale thoſe Lips of Cherry-Dye,</l>
+               <l>And ſet thoſe Teeth of Ivory.</l>
+               <l>
+                  <hi>Heigh-ho,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Thoſe Limbs which well the Dance have led,</l>
+               <l>When Simmons <hi>Btuter'd Peaſe</hi> hath play'd,</l>
+               <l>Were bloody, lifeleſs, cold and dead.</l>
+               <l>
+                  <hi>Heigh-ho</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>The Crowner and the Jury came,</l>
+               <l>To give their Verdict on the ſame;</l>
+               <l>They doomed her harmleſs Corpſe to Shame.</l>
+               <l>
+                  <hi>Heigh-ho,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>At Midnight, ſo the Law doth ſay,</l>
+               <l>They did her mangled Limbs convey,</l>
+               <l>And bury in the King's Highway.</l>
+               <l>
+                  <hi>Heigh-ho,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>No Prieſt in W<gap reason="illegible" resp="#OXF" extent="3+ letters">
+                     <desc>•••…</desc>
+                  </gap> did there attend,</l>
+               <l>His kind Aſſiſtance for to lend,</l>
+               <l>Her Soui to Paradiſe to ſend.</l>
+               <l>
+                  <hi>Heigh-ho,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>No Shroud her ghaſtly Face did hide,</l>
+               <l>No Winding Sheet was round her ty'd,</l>
+               <l>Like Dogs, ſhe to her Grave was hied.</l>
+               <l>
+                  <hi>Heigh-ho,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>And then, your Pity let it move,</l>
+               <l>Oh pity her who dy'd for Love,</l>
+               <l>A Stake they through her Body drove.</l>
+               <l>
+                  <hi>Heigh-ho,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>It would have melted Stones to ſee</l>
+               <l>Such Savageneſs and Cruelty</l>
+               <l>Us'd to a Maid of Twenty-three.</l>
+               <l>
+                  <hi>Heigh-ho,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Ye Maidens an Example take,</l>
+               <l>For <hi>Sarah Holly</hi>'s wretched Sake,</l>
+               <l>O never Virtue's Ways forſake.</l>
+               <l>
+                  <hi>Heigh-ho,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Ye Maidens all of <hi>Oxford</hi> Town,</l>
+               <l>O never yield your chaſte Renown</l>
+               <l>To Velvet Cap, or tufted Gown.</l>
+               <l>
+                  <hi>Heigh-ho,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>And when they do to Love pretend,</l>
+               <l>No Ear unto their Fables lend,</l>
+               <l>But think on <hi>Sally</hi>'s diſmal End.</l>
+               <l>
+                  <hi>Heigh-ho, Heigh-ho.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
+

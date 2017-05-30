@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>King Stephen's watch: A tale, founded on fact. By the author of the Heroic epistle to Sir William Chambers, Knt.</title>
+            <author>Mason, William, 1725-1797.</author>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>University of Oxford Text Archive</name>
+               <address>
+                  <addrLine>Oxford University Computing Services</addrLine>
+                  <addrLine>13 Banbury Road</addrLine>
+                  <addrLine>Oxford</addrLine>
+                  <addrLine>OX2 6NN</addrLine>
+               </address>
+               <email>ota@oucs.ox.ac.uk</email>
+            </distributor>
+            <idno type="ota">http://ota.ox.ac.uk/id/3415</idno>
+            <idno type="isbn10">1106004140</idno>
+            <idno type="isbn13">9781106004147</idno>
+            <idno type="TCP">K007597.000</idno>
+            <idno type="BIBNO">CW3309995317</idno>
+            <idno type="ECLL">0128702700</idno>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/3.0/">
+	  Distributed by the University of Oxford under a Creative Commons
+	  Attribution-ShareAlike 3.0 Unported License
+	</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>King Stephen's watch: A tale, founded on fact. By the author of the Heroic epistle to Sir William Chambers, Knt.</title>
+                  <author>Mason, William, 1725-1797.</author>
+               </titleStmt>
+               <extent>13,[1]p. ; 8⁰.</extent>
+               <publicationStmt>
+                  <publisher>printed for T. Longman,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1782.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse.</note>
+                  <note>The author of the Heroic epistle to Sir William Chambers = William Mason.</note>
+                  <note>Reproduction of original from the Harvard University Houghton Library.</note>
+                  <note>English Short Title Catalog, ESTCN12426.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">English</language>
+         </langUsage>
+      </profileDesc>
+  </teiHeader>
+  <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:0128702700:1" rendition="simple:additions"/>
+            <p>KING STEPHEN'S WATCH. A TALE, FOUNDED ON FACT.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:0128702700:2" rendition="simple:additions"/>
+            <p>KING STEPHEN'S WATCH. A TALE, FOUNDED ON FACT. BY THE AUTHOR OF THE HEROIC EPISTLE TO SIR WILLIAM CHAMBERS, KNT.</p>
+            <p>LONDON: PRINTED FOR T. LONGMAN, PATERNOSTER-ROW. M D CC LXXXII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:0128702700:3"/>
+            <head>KING STEPHEN'S WATCH. A TALE, FOUNDED ON FACT. <note n="*" place="bottom">King Stephen preſented a Watch to one of his courtiers, ycleped Sm—t, and condeſcended to regulate it with his own royal hands. Sm—t being in a promiſcuous company, enquiry was made after the hour of the day. Watches were drawn out, when the differences were marked, and conſiſted, as uſual, in the variation of ſome minutes, from one to ten or fifteen. The royal watch alone was before the foremoſt an hour and a half, and was conſequently reprobated as heretical. Sm—t, however, in<g ref="char:EOLhyphen"/>ſiſted that his was right, and <hi>muſt</hi> be right, being regulated by infallible royalty, &amp;c. &amp;c.</note>
+            </head>
+            <lg>
+               <l>AVAUNT! ye wiſe, diſloyal throng,</l>
+               <l>Who think a monarch may do wrong!</l>
+               <l>I'll prove, in every rebel's ſpite,</l>
+               <l>Ev'n all he touches muſt do right.</l>
+            </lg>
+            <lg>
+               <pb n="8" facs="tcp:0128702700:4" rendition="simple:additions"/>
+               <l>King Stephen was a worthy peer,</l>
+               <l>His breeches coſt him half a crown,</l>
+               <l>In which a watch this King did wear,</l>
+               <l>All in a fob of fuſtian brown.</l>
+            </lg>
+            <lg>
+               <l>"Heavens!" cries Dean M—ll—s in ſage amaze,</l>
+               <l>"A watch, and worn in Stephen's days!"</l>
+               <l>This anecdote we do not read,</l>
+               <l>In <hi>Baker, Hollingſhed,</hi> or <hi>Speed.</hi>
+               </l>
+               <l>Watches, when firſt invented—ſeek 'em,</l>
+               <l>In brother Truſler's <hi>Vade Mecum.</hi>
+               </l>
+               <l>—See here—firſt brought to England—ev'n</l>
+               <l>So late as fifteen ninety-ſeven,</l>
+               <l>—Now Stephen reign'd,"—</l>
+            </lg>
+            <lg>
+               <l>I care not when;</l>
+               <l>Doctor, you interrupt my pen.</l>
+               <l>
+                  <pb n="9" facs="tcp:0128702700:5"/>
+'Tis rude to ſtop a ſtaunch old tory</l>
+               <l>Thus at the out-ſet of his ſtory.</l>
+               <l>If other folks me tripping catch,</l>
+               <l>About King Stephen and his watch,</l>
+               <l>You prudently ſhould wink, I ween;</l>
+               <l>You—a grave Churchman, nay a Dean!</l>
+               <l>With watch in fob, as firſt I ſaid,</l>
+               <l>King Stephen ſtrutted o'er the mead,</l>
+               <l>And met a courtier ſlim, yet ſleek,</l>
+               <l>With foretop high, and ſmirking cheek,</l>
+               <l>Supple his loins, his ham-ſtrings weak;</l>
+               <l>Who crouch'd, and ſtretch'd his beak before,</l>
+               <l>Like gooſe approaching a barn-door.</l>
+               <l>"Hold up thy head," King Stephen cried,</l>
+               <l>"And walk a while at our left ſide.</l>
+               <l>
+                  <pb n="10" facs="tcp:0128702700:6"/>
+Sir courtier! of our courtly train,</l>
+               <l>We hold thee, the moſt gallant ſwain;</l>
+               <l>Nor is there any ſquire we know,</l>
+               <l>Who ſpeaks ſo ſmooth, or bows ſo low;</l>
+               <l>Whether from nature, or from art,</l>
+               <l>Yet ſure we are thou topp'ſt thy part.</l>
+               <l>Here, take this watch, we've ſet it ſo,</l>
+               <l>To tell thee when to come and go,</l>
+               <l>To fetch and carry as we pleaſe."</l>
+               <l>He bow'd, then took it on his knees.</l>
+               <l>Some ſix months after (ſcene the ſame)</l>
+               <l>With cap in hand our courtier came</l>
+               <l>To meet King Stephen in his walk,</l>
+               <l>When, as fit prelude to more talk,</l>
+               <l>
+                  <pb n="11" facs="tcp:0128702700:7"/>
+The King ſaid, "Courtier, what's o'clock?"</l>
+               <l>The courtier, in his true blue frock,</l>
+               <l>Making a moſt obſequious ſlide,</l>
+               <l>Produc'd his watch with humble pride,</l>
+               <l>And, in a ſoft and ſilken tone,</l>
+               <l>Cried, "Sire, 'tis half an hour paſt one."</l>
+               <l>"Paſt one! odds body," ſaid the King,</l>
+               <l>"Look at the ſun, 'tis no ſuch thing,</l>
+               <l>"He is not near his noon-tide height,</l>
+               <l>"Beſhrew me, 'tis not much paſt eight."</l>
+               <l>"My Liege," reply'd the dainty creature,</l>
+               <l>"I reſt upon my regulator;</l>
+               <l>This beſt of watches, beſt of things,</l>
+               <l>Giv'n by the very beſt of Kings,</l>
+               <l>
+                  <pb n="12" facs="tcp:0128702700:8"/>
+Is ever preſent to my view;</l>
+               <l>The ſun may err<hi>—It</hi> muſt be true.</l>
+               <l>O ne'er ſhall my diſloyal eyes</l>
+               <l>Truſt yon vague time-piece of the ſkies;</l>
+               <l>That ſun—I thank him for his light,</l>
+               <l>It ſhews me this more ſplendid ſight,</l>
+               <l>This pledge of your refulgent favour.</l>
+               <l>But let not the vain thing endeavour</l>
+               <l>To ſhine the ruler of my time;</l>
+               <l>No, gracious Sire, both eve and prime</l>
+               <l>Your gift ſhall regulate my motions,</l>
+               <l>My meals, ſecretions, nay devotions.</l>
+               <l>And may you, Sire! (which Heaven forefend)</l>
+               <l>With one dread frown my being end,</l>
+               <l>
+                  <pb n="13" facs="tcp:0128702700:9" rendition="simple:additions"/>
+If e'er my faith ſo far ſhould faulter,</l>
+               <l>As dare the watch you ſet, to alter!</l>
+               <l>Which, like its donor, day and night</l>
+               <l>Still tick-tacks obſtinately right;</l>
+               <l>Whoſe every wheel diſdains to run,</l>
+               <l>Directed by yon factious ſun;</l>
+               <l>And goes, my Sovereign, I aſſure ye,</l>
+               <l>As well <hi>de facto,</hi> as <hi>de jure."</hi>
+               </l>
+               <l>King Stephen ſmil'd, and gracious cried,</l>
+               <l>"Troth, thou haſt taken the right ſide;</l>
+               <l>The ſun's a whig—as I'm a ſinner,</l>
+               <l>'Tis time to dreſs and go to dinner."</l>
+            </lg>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
+

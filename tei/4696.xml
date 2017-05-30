@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ode on His Majesty's recovery: by the author of Sympathy and humanity.</title>
+            <author>Pratt, Mr. (Samuel Jackson), 1749-1814.</author>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>University of Oxford Text Archive</name>
+               <address>
+                  <addrLine>Oxford University Computing Services</addrLine>
+                  <addrLine>13 Banbury Road</addrLine>
+                  <addrLine>Oxford</addrLine>
+                  <addrLine>OX2 6NN</addrLine>
+               </address>
+               <email>ota@oucs.ox.ac.uk</email>
+            </distributor>
+            <idno type="ota">http://ota.ox.ac.uk/id/4696</idno>
+            <idno type="isbn10">1106016955</idno>
+            <idno type="isbn13">9781106016959</idno>
+            <idno type="TCP">K069565.000</idno>
+            <idno type="BIBNO">cw3313803360</idno>
+            <idno type="ECLL">0670901100</idno>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/3.0/">
+	  Distributed by the University of Oxford under a Creative Commons
+	  Attribution-ShareAlike 3.0 Unported License
+	</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ode on His Majesty's recovery: by the author of Sympathy and humanity.</title>
+                  <author>Pratt, Mr. (Samuel Jackson), 1749-1814.</author>
+               </titleStmt>
+               <extent>[4],7,[1]p. ; 4⁰.</extent>
+               <publicationStmt>
+                  <publisher>printed at the Logographic Press; and sold by J. Watter,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1789.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Author of Sympathy and humanity = Samuel Jackson Pratt.</note>
+                  <note>With a half-title.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>English Short Title Catalog, ESTCT85345.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">English</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:0670901100:1" rendition="simple:additions"/>
+            <p>ODE ON <hi>HIS MAJESTY'S RECOVERY.</hi>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:0670901100:2" rendition="simple:additions"/>
+            <pb facs="tcp:0670901100:3"/>
+            <p>ODE ON <hi>HIS MAJESTY'S RECOVERY;</hi> BY THE AUTHOR OF SYMPATHY AND HUMANITY.</p>
+            <p>
+               <hi>LONDON:</hi> PRINTED AT THE <hi>LOGOGRAPHIC PRESS;</hi> AND SOLD BY J. WALTER, No. 169, OPPOSITE OLD BOND-STREET, PICCADILLY.</p>
+            <p>M.DCC.LXXXIX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="ode">
+            <pb facs="tcp:0670901100:4"/>
+            <head>ODE.</head>
+            <lg>
+               <l>AVAUNT, ye Deities <hi>profane,</hi>
+               </l>
+               <l>And all ye ſhadowy Powers,</l>
+               <l>Imagination's airy Train,</l>
+               <l>That dwell in fabled Bowers!</l>
+            </lg>
+            <lg>
+               <l>Thou Heliconian Fount,</l>
+               <l>Whence Poeſy's rich Torrents flow;</l>
+               <l>And thou, Parnaſſian Mount,</l>
+               <l>Where Fancy ſees her Myrtles blow!</l>
+            </lg>
+            <lg>
+               <pb n="2" facs="tcp:0670901100:5"/>
+               <l>I bear no votive Off'ring to your Shrine,</l>
+               <l>No Incenſe to the bard-created Nine.</l>
+               <l>Nor e'en to thee, O Jove, whoſe high-thron'd State,</l>
+               <l>The Muſe of Greece has drawn ſublimely great,</l>
+               <l>High o'er the Pagan Heav'n, whilſt the bleſt Synod near,</l>
+               <l>Hymn the dread Thunderer's Name throughout th' ima<g ref="char:EOLhyphen"/>gin'd Sphere!</l>
+            </lg>
+            <lg>
+               <l>Thee, holy Power! whoſe awe-impreſſing Sway,</l>
+               <l>Earth, Air, and Sea, and Heav'n's bright Realms obey;</l>
+               <l>ESSENCE OF TRUTH! Thee, in thy bleſt Abode,</l>
+               <l>Sole we invoke—the ſole, the LIVING GOD!</l>
+            </lg>
+            <lg>
+               <l>O LIVING GOD! from Thee alone,</l>
+               <l>Bright beaming from thy Sapphire Throne,</l>
+               <l>Can heav'nly Inſpiration flow,</l>
+               <l>And give our melting Hearts with holy Flames to glow!</l>
+            </lg>
+            <lg>
+               <pb n="3" facs="tcp:0670901100:6"/>
+               <l>For, ah! not Touch of Wizard Wand,</l>
+               <l>Nor wild Romance from Legends old,</l>
+               <l>Nor moon-light Spell of Elfin Band,</l>
+               <l>Nor Spectre-Tales, by Poets told;</l>
+            </lg>
+            <lg>
+               <l>Nor Necromancer's magic Skill,</l>
+               <l>Whoſe Voice the <hi>Hero's</hi> Blood can chill;</l>
+               <l>Nor Knights, in terrible Array,</l>
+               <l>Did e'er ſuch wond'rous Acts diſplay,</l>
+               <l>As thoſe which late Britannia ſaw,</l>
+               <l>Her trembling Heart deep ſtruck with pious Awe,</l>
+               <l>Now to Agony oppreſt,</l>
+               <l>And now to Rapture bleſt,</l>
+               <l>When with her Parent King ſhe felt th' Almighty Rod,</l>
+               <l>And the reſtoring Arm, of Thee the LIVING GOD!</l>
+            </lg>
+            <lg>
+               <l>Yes, GOD of Gods! 'twas thine to try—</l>
+               <l>Judgment and Righteouſneſs thy Throne uphold,</l>
+               <l>Tho' Clouds and Darkneſs are around Thee roll'd,</l>
+               <l>—A choſen Nation's Sympathy.</l>
+            </lg>
+            <lg>
+               <pb n="4" facs="tcp:0670901100:7"/>
+               <l>Deſtiny thy dread Command,</l>
+               <l>As erſt in Iſrael's Land,</l>
+               <l>Obey'd, and came from Heav'n to prove,</l>
+               <l>A mighty People's Loyalty and Love.</l>
+            </lg>
+            <lg>
+               <l>Streaming oft from Beauty's Eye,</l>
+               <l>O filial Love! thy graceful Tear was ſeen,</l>
+               <l>Thy Pray'r was heard—and many a Sigh,</l>
+               <l>Broke from the faithful Boſom of a QUEEN:</l>
+               <l>From Breaſt to Breaſt the Softneſs ſtole,</l>
+               <l>And Sorrow touch'd the PRINCELY Soul;</l>
+               <l>PUBLIC ALLEGIANCE join'd the Pray'r,</l>
+               <l>With FEALTY unchang'd, amidſt ſevere Deſpair!</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Then,</hi> LIVING GOD, 'twas Thine to prove,</l>
+               <l>By Grief ſincere, an Empire's Love!</l>
+               <l>Thine by Adverſity to try,</l>
+               <l>A mighty People's Loyalty.</l>
+               <l>
+                  <pb n="5" facs="tcp:0670901100:8"/>And who, Thou GOD of Gods, ſave Thee, can tell,</l>
+               <l>How Albion to her inmoſt Heart was cheer'd;</l>
+               <l>Ah! who but Thou her Extacy reveal,</l>
+               <l>When thy RESTORING CHERUBIM appear'd?</l>
+            </lg>
+            <lg>
+               <l>Not Egypt's ſuff'ring Tribe of yore,</l>
+               <l>Plague-ſtruck, a keener Anguiſh bore,</l>
+               <l>When, with our Parent King, we felt th' Almighty Rod;</l>
+               <l>Nor ſuch ſoul-born Tranſport knew,</l>
+               <l>In the Hour the Peſt withdrew,</l>
+               <l>As when that King was ſav'd by Thee the LIVING GOD!</l>
+            </lg>
+            <lg>
+               <l>Strike the Lyre to bliſsful Meaſure,</l>
+               <l>Albion holds once more her Treaſure;</l>
+               <l>Brunſwick's illuſtrious Star now ſhines again!</l>
+               <l>Let the Notes thro' Earth reſound,</l>
+               <l>Waft them, triumphant Winds, acroſs the Main,</l>
+               <l>'Till ev'ry Land returns the Sound:</l>
+               <l>
+                  <pb n="6" facs="tcp:0670901100:9"/>For ev'ry Land—O Theme without Alloy!—</l>
+               <l>
+                  <hi>In one full Chorus joins Britannia's Joy!</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Now ſwell the Chords, and in ſublimer Numbers own,</l>
+               <l>The mighty Bleſſing comes from Heaven alone!</l>
+            </lg>
+            <lg>
+               <l>Avaunt! ye Deities <hi>profane,</hi>
+               </l>
+               <l>And all ye ſhadowy Powers;</l>
+               <l>Imagination's airy Train,</l>
+               <l>That dwell in fabled Bowers!</l>
+            </lg>
+            <lg>
+               <l>We know 'tis GOD, the LIVING GOD that giveth</l>
+               <l>To our Pray'rs a Parent King;</l>
+               <l>We know, we know, that "OUR REDEEMER liveth,"</l>
+               <l>TO HIM—the MIGHTY ONE we ſing!</l>
+            </lg>
+            <lg>
+               <l>O for the heav'n-inſtructed David's Lyre!</l>
+               <l>O for the wrapt Iſaiah's hallow'd Fire!</l>
+               <l>
+                  <pb n="7" facs="tcp:0670901100:10"/>That ſo the ſacred <hi>Airs</hi> of Harmony may riſe,</l>
+               <l>And waft a Nation's Incenſe to the Skies,</l>
+               <l>'Till Angels catch the Strain, and with Arch-angels ſing,</l>
+               <l>GLORY TO GOD ON HIGH—TO HEAV'N'S ETERNAL KING!</l>
+            </lg>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
+

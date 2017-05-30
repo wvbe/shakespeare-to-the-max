@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Prologue to the court: on the Queen's birth-day, 1704.</title>
+            <author>Congreve, William, 1670-1729.</author>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>University of Oxford Text Archive</name>
+               <address>
+                  <addrLine>Oxford University Computing Services</addrLine>
+                  <addrLine>13 Banbury Road</addrLine>
+                  <addrLine>Oxford</addrLine>
+                  <addrLine>OX2 6NN</addrLine>
+               </address>
+               <email>ota@oucs.ox.ac.uk</email>
+            </distributor>
+            <idno type="ota">http://ota.ox.ac.uk/id/3309</idno>
+            <idno type="isbn10">110600308X</idno>
+            <idno type="isbn13">9781106003089</idno>
+            <idno type="TCP">K000152.000</idno>
+            <idno type="BIBNO">CW3310101055</idno>
+            <idno type="ECLL">0110402500</idno>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/3.0/">
+	  Distributed by the University of Oxford under a Creative Commons
+	  Attribution-ShareAlike 3.0 Unported License
+	</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Prologue to the court: on the Queen's birth-day, 1704.</title>
+                  <author>Congreve, William, 1670-1729.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.) ; 1/2⁰.</extent>
+               <publicationStmt>
+                  <publisher>printed for J. Tonson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1705.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Anonymous. By William Congreve.</note>
+                  <note>Verse - "The happy muse, to this high scene preferr'd,".</note>
+                  <note>Reproduction of original from the Harvard University Houghton Library.</note>
+                  <note>Foxon, C378</note>
+                  <note>English Short Title Catalog, ESTCN260.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">English</language>
+         </langUsage>
+      </profileDesc>
+  </teiHeader>
+  <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:0110402500:1"/>
+            <head>PROLOGUE
+TO THE
+COURT;
+On the QUEEN's Birth-Day, 1704.</head>
+            <lg>
+               <l>THE Happy Muſe to this high Scene preferr'd,</l>
+               <l>Hereafter ſhall in Loftier Strains be heard;</l>
+               <l>And, ſoaring to tranſcend her uſual Theme,</l>
+               <l>Shall Sing of Virtue and Heroick Fame.</l>
+               <l>No longer ſhall ſhe Toil upon the Stage,</l>
+               <l>And fruitleſs War with Vice and Folly wage;</l>
+               <l>No more in mean Diſguiſe ſhe ſhall appear,</l>
+               <l>And Shapes ſhe would reform be forc'd to wear:</l>
+               <l>While Ignorance and Malice join to blame,</l>
+               <l>And break the Mirror that reflects their Shame.</l>
+               <l>Henceforth ſhe ſhall purſue a Nobler Task,</l>
+               <l>Shew her bright Virgin Face, and ſcorn the Satyr's Mask.</l>
+               <l>Happy her future Days! which are deſign'd</l>
+               <l>Alone to Paint the Beauties of the Mind.</l>
+               <l>By Juſt Originals to draw with Care,</l>
+               <l>And Copy from the Court a Faultleſs Fair:</l>
+               <l>
+                  <pb n="2" facs="tcp:0110402500:2"/>Such Labours with Succeſs her Hopes may crown,</l>
+               <l>And ſhame to Manners an incorrigible Town.</l>
+            </lg>
+            <lg>
+               <l>While this Deſign her eager Thought purſues,</l>
+               <l>Such various Virtues all around she views,</l>
+               <l>She knows not where to fix, or which to chuſe.</l>
+               <l>Yet ſtill ambitious of the daring Flight,</l>
+               <l>ONE only awes her with Superior Light.</l>
+               <l>From that Attempt the Conſcious Muſe retires,</l>
+               <l>Nor to Inimitable Worth aſpires;</l>
+               <l>But ſecretly Applauds, and ſilently Admires.</l>
+            </lg>
+            <lg>
+               <l>Hence ſhe reflects upon the genial Ray</l>
+               <l>That firſt enliven'd this Auſpicious Day:</l>
+               <l>On that Bright Star, to whoſe Indulgent Pow'r</l>
+               <l>We owe the Bleſſings of the Preſent Hour.</l>
+               <l>Concurring Omens of propitious Fate</l>
+               <l>Bore, with One Sacred Birth, an equal Date;</l>
+               <l>Whence we derive whatever we poſſeſs,</l>
+               <l>By Foreign Conqueſt, or Domeſtick Peace.</l>
+            </lg>
+            <lg>
+               <l>Then, <hi>Britain,</hi> then thy Dawn of Bliſs begun!</l>
+               <l>Then broke the Morn that lighted up this Sun!</l>
+               <l>Then was it doom'd whoſe Councils ſhould ſucceed;</l>
+               <l>And by whoſe Arm the Chriſtian World be freed;</l>
+               <l>Then the fierce Foe was pre-ordain'd to yield,</l>
+               <l>And then the Battel won at BLENHEIM'S Glorious Field.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>J. Tonſon,</hi> 1705.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
+

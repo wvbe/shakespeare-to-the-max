@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Verses upon the late D----ss of M----: By Mr. P------.</title>
+            <author>Pope, Alexander, 1688-1744.</author>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>University of Oxford Text Archive</name>
+               <address>
+                  <addrLine>Oxford University Computing Services</addrLine>
+                  <addrLine>13 Banbury Road</addrLine>
+                  <addrLine>Oxford</addrLine>
+                  <addrLine>OX2 6NN</addrLine>
+               </address>
+               <email>ota@oucs.ox.ac.uk</email>
+            </distributor>
+            <idno type="ota">http://ota.ox.ac.uk/id/3703</idno>
+            <idno type="isbn10">1106007026</idno>
+            <idno type="isbn13">9781106007025</idno>
+            <idno type="TCP">K023201.000</idno>
+            <idno type="BIBNO">CW3313385661</idno>
+            <idno type="ECLL">0583700700</idno>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/3.0/">
+	  Distributed by the University of Oxford under a Creative Commons
+	  Attribution-ShareAlike 3.0 Unported License
+	</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Verses upon the late D----ss of M----: By Mr. P------.</title>
+                  <author>Pope, Alexander, 1688-1744.</author>
+               </titleStmt>
+               <extent>5,[1]p. ; 2⁰.</extent>
+               <publicationStmt>
+                  <publisher>printed for W. Webb,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1746.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Mr. P------ = Alexander Pope.</note>
+                  <note>A suppressed passage from Pope's 'Of the characters of women', probably referring to Katherine, Duchess of Buckingham, rather than to Sarah, Duchess of Marlborough.</note>
+                  <note>In this impression "Spacing of 11 and 13.5 mm. between V, E, R on p.3" (Foxon).</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>Foxon, P.986</note>
+                  <note>Griffith, 613</note>
+                  <note>English Short Title Catalog, ESTCT5762.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">English</language>
+         </langUsage>
+      </profileDesc>
+  </teiHeader>
+  <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:0583700700:1" rendition="simple:additions"/>
+            <p>VERSES Upon the Late D<gap reason="blank" resp="#OXF" extent="1+ letters">
+                  <desc>_…</desc>
+               </gap>ſs of <hi>M<gap reason="blank" resp="#OXF" extent="1+ letters">
+                     <desc>_…</desc>
+                  </gap>.</hi>
+            </p>
+            <p>By Mr. <hi>P<gap reason="blank" resp="#OXF" extent="1+ letters">
+                     <desc>_…</desc>
+                  </gap>.</hi>
+            </p>
+            <figure/>
+            <p>
+               <hi>LONDON:</hi> Printed for W. WEBB, near St. <hi>Paul</hi>'s, 1746. (Price Sixpence.)</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="3" facs="tcp:0583700700:2"/>
+            <head>VERSES Upon the Late D<gap reason="blank" resp="#OXF" extent="1+ letters">
+                  <desc>_…</desc>
+               </gap>ſs of <hi>M<gap reason="blank" resp="#OXF" extent="1+ letters">
+                     <desc>_…</desc>
+                  </gap>.</hi>
+            </head>
+            <lg>
+               <l>BUT what are theſe to great <hi>Atoſſa</hi>'s Mind,</l>
+               <l>Scarce once herſelf, by Turns all Womankind?</l>
+               <l>Who with herſelf, and others from her Birth,</l>
+               <l>Finds all her Life one Warfare upon Earth;</l>
+               <l>Shines in expoſing Knaves and painting Fools,</l>
+               <l>Yet is whate'er ſhe hates or ridicules.</l>
+               <l>No Thought advances, but her eddy Brain</l>
+               <l>Whirls it about, and down it goes again.</l>
+               <l>Full ſixty Years the World has been her Trade,</l>
+               <l>The wiſeſt Fool much Time has ever made:</l>
+               <l>From Loveleſs Youth to unreſpected Age,</l>
+               <l>No Paſſion gratify'd except her Rage;</l>
+               <l>
+                  <pb n="4" facs="tcp:0583700700:3"/>
+So much the Fury ſtill out-ran the Wit,</l>
+               <l>The Pleaſure miſs'd her, and the Scandal hit;</l>
+               <l>Who breaks with her, provokes Revenge from Hell,</l>
+               <l>But he's a bolder Man who dares be well;</l>
+               <l>Her ev'ry Turn with Violence purſu'd,</l>
+               <l>Nor more a Storm her Hate, than Gratitude:</l>
+               <l>To that each Paſſion turns or ſoon or late,</l>
+               <l>Love, if it make her yield, muſt make her hate,</l>
+               <l>Superior 's Death! an Equal, what a Curſe!</l>
+               <l>But an Inferior, not Dependant, worſe.</l>
+               <l>Offend her, and ſhe knows not to forgive,</l>
+               <l>Oblige her, and ſhe'll hate you while you live.</l>
+               <l>But die, and ſhe'll adore you<note n="*" place="bottom">Alludes to a Temple ſhe erected with a Buſt of Queen <hi>Anne</hi> in it, which mouldered away in a few Years.</note>—Then the Buſt</l>
+               <l>And Temple riſe,—then fall again to Duſt.</l>
+               <l>Laſt Night her Lord was all that's good and great;</l>
+               <l>A Knave this Morning, and his Will a Cheat.</l>
+               <l>Strange! by the Means defeated of the Ends.</l>
+               <l>By Spirit, robb'd of Power; by Warmth, of Friends;</l>
+               <l>By Wealth, of Followers; without one Diſtreſs,</l>
+               <l>Sick of herſelf thro' very Selfiſhneſs,</l>
+            </lg>
+            <lg>
+               <pb n="5" facs="tcp:0583700700:4"/>
+               <l>
+                  <hi>Atoſſa</hi>'s curs'd with ev'ry granted Prayer,</l>
+               <l>Childleſs with all her Children, wants an Heir:</l>
+               <l>To Heirs unknown, deſcends th' unnumber'd Store,</l>
+               <l>Or wanders, Heaven directed, to the Poor.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="note">
+            <pb facs="tcp:0583700700:5"/>
+            <p>THESE Verſes are Part of a Poem, entitled <hi>Characters of Women.</hi> It is generally ſaid, the D<gap reason="blank" resp="#OXF" extent="1+ letters">
+                  <desc>_…</desc>
+               </gap>ſs gave Mr. <hi>P.</hi> 1000<hi>l.</hi> to ſuppreſs them: He took the Money, yet the World ſees the Verſes; but this is not the firſt Inſtance where Mr. <hi>P</hi>'s practical Virtue has fallen very ſhort of thoſe pompous Profeſ<g ref="char:EOLhyphen"/>ſions of it he makes in his Writings.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
+

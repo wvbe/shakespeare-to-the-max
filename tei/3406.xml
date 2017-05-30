@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A poem to His Majesty King George, II. on the present state of affairs in England: with remarks on the alterations expected at court, after the rise of the Parliament. By the Rev. Dr. J. Swift, ... In Lilliputian verse.</title>
+            <title>Lilliputian ode on King George the IId's and Queen Caroline's happy accession to the throne</title>
+            <author>Carey, Henry, 1687?-1743.</author>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>University of Oxford Text Archive</name>
+               <address>
+                  <addrLine>Oxford University Computing Services</addrLine>
+                  <addrLine>13 Banbury Road</addrLine>
+                  <addrLine>Oxford</addrLine>
+                  <addrLine>OX2 6NN</addrLine>
+               </address>
+               <email>ota@oucs.ox.ac.uk</email>
+            </distributor>
+            <idno type="ota">http://ota.ox.ac.uk/id/3406</idno>
+            <idno type="isbn10">1106004051</idno>
+            <idno type="isbn13">9781106004055</idno>
+            <idno type="TCP">K007016.000</idno>
+            <idno type="BIBNO">CW3311154010</idno>
+            <idno type="ECLL">0250502800</idno>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/3.0/">
+	  Distributed by the University of Oxford under a Creative Commons
+	  Attribution-ShareAlike 3.0 Unported License
+	</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A poem to His Majesty King George, II. on the present state of affairs in England: with remarks on the alterations expected at court, after the rise of the Parliament. By the Rev. Dr. J. Swift, ... In Lilliputian verse.</title>
+                  <title>Lilliputian ode on King George the IId's and Queen Caroline's happy accession to the throne</title>
+                  <author>Carey, Henry, 1687?-1743.</author>
+                  <author>Swift, Jonathan, 1667-1745.</author>
+               </titleStmt>
+               <extent>1 sheet ; 1/4⁰.</extent>
+               <publicationStmt>
+                  <publisher>printed by little George Faulkner,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1727.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Not in fact by Swift, but by Henry Carey.</note>
+                  <note>A slip-song - "Smile, smile,/Blest isle,".</note>
+                  <note>First issued as 'A Lilliputian ode on King George the IId's and Queen Caroline's happy accession to the throne'.</note>
+                  <note>Reprinted in: Carey's 'Poems on several occasions', 3rd ed., 1729.</note>
+                  <note>Reproduction of original from the Huntington Library.</note>
+                  <note>Foxon, C46</note>
+                  <note>Teerink-Scouten, 1230</note>
+                  <note>English Short Title Catalog, ESTCN11663.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">English</language>
+         </langUsage>
+      </profileDesc>
+  </teiHeader>
+  <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:0250502800:1" rendition="simple:additions"/>
+            <head>A POEM</head>
+            <p>To his Majeſty King George, II. on the preſent State of Affairs in <hi>England,</hi> with Remarks on the Alterations expected at Court, after the Riſe of the Parliament.</p>
+            <p>By the Rev. Dr. J. Swift, Dean of St. Patrick's. In Lilliputian Verſe.</p>
+            <l>SMILE, ſmile,</l>
+            <l>Bleſt Iſle.</l>
+            <l>Grief paſt</l>
+            <l>At laſt.</l>
+            <l>Halcyon</l>
+            <l>Comes on.</l>
+            <l>New KING,</l>
+            <l>Bells ring,</l>
+            <l>New QUEEN,</l>
+            <l>Bleſt Scene!</l>
+            <l>
+               <hi>Britain</hi>
+            </l>
+            <l>Again</l>
+            <l>Revives,</l>
+            <l>And thrives.</l>
+            <l>Trade brisk,</l>
+            <l>All frisk.</l>
+            <l>Fear flies,</l>
+            <l>Stocks riſe.</l>
+            <l>Wealth flows,</l>
+            <l>Art grows.</l>
+            <l>Bards write,</l>
+            <l>Things bright.</l>
+            <l>Strange Pack,</l>
+            <l>Sent back.</l>
+            <l>Own Folks,</l>
+            <l>Crack Jokes.</l>
+            <l>Thoſe out,</l>
+            <l>May pout.</l>
+            <l>Thoſe in,</l>
+            <l>Will grin.</l>
+            <l>Great, Small,</l>
+            <l>Pleas'd all.</l>
+            <l>God ſend</l>
+            <l>No End</l>
+            <l>To Line</l>
+            <l>Divine,</l>
+            <p>Of GEORGE and CAROLINE.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p> 
+               <hi>Dublin:</hi>Printed by little  <hi>George Faulkner</hi> in <hi>Chriſt-Church-Yard,</hi> 1727.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
+

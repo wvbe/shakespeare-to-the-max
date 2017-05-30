@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Burke's address to the "swinish*" multitude! Tune "Derry down, down," &amp;c</title>
+            <author>Spence, Thomas, 1750-1814.</author>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>University of Oxford Text Archive</name>
+               <address>
+                  <addrLine>Oxford University Computing Services</addrLine>
+                  <addrLine>13 Banbury Road</addrLine>
+                  <addrLine>Oxford</addrLine>
+                  <addrLine>OX2 6NN</addrLine>
+               </address>
+               <email>ota@oucs.ox.ac.uk</email>
+            </distributor>
+            <idno type="ota">http://ota.ox.ac.uk/id/3737</idno>
+            <idno type="isbn10">1106007360</idno>
+            <idno type="isbn13">9781106007360</idno>
+            <idno type="TCP">K023755.000</idno>
+            <idno type="BIBNO">cw3300486754</idno>
+            <idno type="ECHG">0185702900</idno>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/3.0/">
+	  Distributed by the University of Oxford under a Creative Commons
+	  Attribution-ShareAlike 3.0 Unported License
+	</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Burke's address to the "swinish*" multitude! Tune "Derry down, down," &amp;c</title>
+                  <author>Spence, Thomas, 1750-1814.</author>
+               </titleStmt>
+               <extent>1 sheet ; 1/4⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>[London,</pubPlace>
+                  <date>1793?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Anonymous. By Thomas Spence.</note>
+                  <note>A slip-song - "Ye vile swinish herd, in the sty of taxation,".</note>
+                  <note>The asterisk refers to a footnote.</note>
+                  <note>Reproduction of original from the British Library.</note>
+                  <note>English Short Title Catalog, ESTCT6734.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">English</language>
+         </langUsage>
+      </profileDesc>
+  </teiHeader>
+  <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:0185702900:1" rendition="simple:additions"/>
+            <head>
+               <hi>BURKE</hi>'s ADDRESS TO The "SWINISH<note n="*" place="bottom">☞ The following Paſſage is extracted ver<g ref="char:EOLhyphen"/>batim from Mr. BURKE's Reflections on the French <hi>Revolution,</hi> p. 117. "Along with its natural Protectors and Guardians, Learning will be caſt into the mire, and trodden down under the hoofs of a <hi>Swiniſh</hi> Multitude."</note>" Multitude!</head>
+            <opener>Tune <hi>"Derry down, down."</hi> &amp;c.</opener>
+            <lg>
+               <l>YE vile SWINISH Herd, in the Sty of Taxation,</l>
+               <l>What would ye be after?—diſturbing the Nation?</l>
+               <l>Give over your grunting—Be off—To your Sty!</l>
+               <l>Nor dare to look out, if a KING paſſes by:</l>
+               <l>Get ye down! down! down!—Keep ye down!</l>
+            </lg>
+            <lg>
+               <l>Do ye know what a KING is? By <hi>Patrick</hi> I'll tell you;</l>
+               <l>He has power in his pocket, to buy you and ſell you:</l>
+               <l>To make you all Soldiers, or keep you at work;</l>
+               <l>To hang you, and cure you for Ham or Salt Pork!</l>
+               <l>Get ye down! &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Do you think that a KING is no more than a Man?</l>
+               <l>Ye Brutiſh, Ye Swiniſh, irrational Clan?</l>
+               <l>I ſwear by his Office, his Right is divine,</l>
+               <l>To flog you, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eed you, and treat you like Swine!</l>
+               <l>Get ye down! &amp;c.</l>
+            </lg>
+            <lg>
+               <l>To be ſure, I have ſaid—but I ſpoke it abrupt—</l>
+               <l>That "the State is <hi>defective,</hi> and alſo <hi>corrupt.</hi>"</l>
+               <l>Yet remember I told you with caution to peep,</l>
+               <l>For <hi>Swine</hi> at a diſtance WE prudently keep—</l>
+               <l>Get ye down! <hi>&amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Now the <hi>Church</hi> and the <hi>State,</hi> to keep each other warm,</l>
+               <l>Are <hi>married</hi> together. And where is the harm?</l>
+               <l>How healthy and wealthy are Huſband and Wife!</l>
+               <l>But <hi>Swine</hi> are excluded the conjugal Life—</l>
+               <l>Get YE down! <hi>&amp;c</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The <hi>State,</hi> it is true, has grown fat upon SWINE,</l>
+               <l>And <hi>Church</hi>'s weak Stomach on TYTHE-PIG can dine;</l>
+               <l>But neither, you know, as they <hi>roaſt,</hi> at the fire,</l>
+               <l>Have a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ight to find fault with the <hi>Cooks,</hi> or enquire.</l>
+               <l>Get Ye down! <hi>&amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>"What uſe do we make of your Money"—You ſay?</l>
+               <l>Why, the firſt law of Nature:—<hi>We take our own Pay</hi>—</l>
+               <l>And next on our Friends a few <hi>Penſions</hi> beſtow—</l>
+               <l>And to you we apply when our <hi>Treasure</hi> runs low.</l>
+               <l>Get ye down! <hi>&amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Conſider our <hi>Boroughs,</hi> Ye grumbling SWINE!</l>
+               <l>At Corruption and Taxes, they never repine:</l>
+               <l>If we only <hi>Proclaim,</hi> "YE ARE HAPPY!"—They ſay</l>
+               <l>"<hi>WE</hi> ARE <hi>Happy!</hi>"—Believe and be <hi>Happy</hi> as they!</l>
+               <l>Get ye down! <hi>&amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>What know ye of COMMONS, of KINGS, or of LORDS,</l>
+               <l>But what the dim <hi>Light</hi> of TAXATION affords?</l>
+               <l>Be contented with that—and no more of your rout:</l>
+               <l>Or a new <hi>Proclamation</hi> ſhall muzzle your Snout!</l>
+               <l>Get ye down! <hi>&amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>And now for the <hi>SUN</hi>—or the <hi>LIGHT</hi> OF THE DAY!</l>
+               <l>"IT doth not belong to a PIT?"—You will ſay.</l>
+               <l>I tell you be ſilent, and huſh all your Jars:</l>
+               <l>Or he'll charge you a <hi>Farthing</hi> a-piece for the Stars.</l>
+               <l>Get ye down! <hi>&amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Here's MYSELF, and <hi>His Darkneſs,</hi> and <hi>Harry Dundaſs;</hi>
+               </l>
+               <l>
+                  <hi>Scotch, Engliſh,</hi> and <hi>Iriſh,</hi> with Fronts made of Braſs—</l>
+               <l>A cord platied three-fold will ſtand a good pull,</l>
+               <l>Againſt SAWNEY, and PATRICK, and old <hi>Johnny Bull III</hi>
+               </l>
+               <l>Get ye down! &amp;c.</l>
+            </lg>
+            <lg>
+               <l>To conclude<g ref="char:punc">▪</g> Then no more about MAN and his RIGHTS,</l>
+               <l>TOM PAINE, and a Rabble of <hi>Liberty Lights:</hi>
+               </l>
+               <l>That you are but our "SWINE," if ye ever forget,</l>
+               <l>We'll throw you alive to the HORRIBLE PIT!</l>
+               <l>Get ye down! down! down!—Keep ye down!</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>
+

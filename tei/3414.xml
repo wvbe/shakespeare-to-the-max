@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proposals for publishing a new and improved edition of Shakspeare illustrated. By Charlotte Lennox</title>
+            <author>Lennox, Charlotte, ca. 1729-1804.</author>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>University of Oxford Text Archive</name>
+               <address>
+                  <addrLine>Oxford University Computing Services</addrLine>
+                  <addrLine>13 Banbury Road</addrLine>
+                  <addrLine>Oxford</addrLine>
+                  <addrLine>OX2 6NN</addrLine>
+               </address>
+               <email>ota@oucs.ox.ac.uk</email>
+            </distributor>
+            <idno type="ota">http://ota.ox.ac.uk/id/3414</idno>
+            <idno type="isbn10">1106004132</idno>
+            <idno type="isbn13">9781106004130</idno>
+            <idno type="TCP">K007545.000</idno>
+            <idno type="BIBNO">CW3310407239</idno>
+            <idno type="ECLL">0111401800</idno>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/3.0/">
+	  Distributed by the University of Oxford under a Creative Commons
+	  Attribution-ShareAlike 3.0 Unported License
+	</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proposals for publishing a new and improved edition of Shakspeare illustrated. By Charlotte Lennox</title>
+                  <author>Lennox, Charlotte, ca. 1729-1804.</author>
+                  <author>Boswell, James, 1740-1795.</author>
+               </titleStmt>
+               <extent>1 sheet ; 1/2⁰.</extent>
+               <publicationStmt>
+                  <pubPlace>[London,</pubPlace>
+                  <date>1796?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Charlotte Lennox's copy bears MS. note: "These proposals were drawn up by the late James Boswell Esqr." - "Subscriptions received at Mr. Cadell's, .. Mr. Dilly's, .. Mr. Hookham's, .. Mr. Beckett's, ..".</note>
+                  <note>The proposed edition was not published.</note>
+                  <note>Reproduction of original from the Harvard University Houghton Library.</note>
+                  <note>English Short Title Catalog, ESTCN12361.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">English</language>
+         </langUsage>
+      </profileDesc>
+  </teiHeader>
+  <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:0111401800:1" rendition="simple:additions"/>
+            <head>PROPOSALS <hi>FOR PUBLISHING</hi> A NEW AND IMPROVED EDITION OF SHAKSPEARE ILLUSTRATED.</head>
+            <byline>BY <hi>CHARLOTTE LENNOX.</hi>
+            </byline>
+            <p>AT a very early period of the Author's life this Work was written, and publiſhed with all the vivacity and confidence of youth: Elated by diſcovering that ſhe had traced from whence the immortal dramatic Poet of our nation had borrowed many of his plots, and fond of diſplaying her critical ſagacity in ſhewing that he made uſe of the old tranſla<g ref="char:EOLhyphen"/>tions of CYNTHIO, BANDELLO, and ARIOSTO'S Tales and Novels, and not of the originals, of which ſhe gives a new tranſlation in this Work, ſhe was thought by ſome to have treated SHAKSPEARE with leſs reverence than might have been wiſhed. Nevertheleſs the Public was pleaſed to ſee ſo much merit in the performance, that it was received with very general favour, and was honoured by ſuch marks of attention, as not to acknowledge would argue rather arrogance than modeſty. The learned Profeſſor GOTSCHED of LEIPSIC tranſlated her remarks into the German language, and the illuſtrious Dr. JOHNSON adopted ſome of them in his edition of SHAKSPEARE. He preſented her book to the Univerſity of Oxford, depoſiting it in the Bodleian library; and quoted it as one of the authorities in his Dictionary.</p>
+            <p>Now, when the fame of SHAKSPEARE has had conſiderable acceſſions by the labours of various commentators, and when, by a wide diffuſion of good taſte, his works juſtly enjoy a popularity ſo extenſive, that the world is ready to afford the moſt liberal patronage to correct, elegant, and ſplendid editions of them, ſhe is willing to flatter herſelf that her friends are not miſtaken in thinking that her book, entitled, SHAKSPEARE ILLUSTRATED, may now advantageouſly be produced in a more reſpectable form, and with the improvements which, at a mature age, ſhe truſts ſhe can give it: She therefore propoſes to publiſh it on the following
+<list>
+                  <head>CONDITIONS.</head>
+                  <item>I. THE Work to be elegantly printed in Two Volumes octavo; the price to Subſcribers to be Twelve Shillings in boards.</item>
+                  <item>II. The Work to be put to the preſs as ſoon as there is a ſufficient number of Subſcrib<g ref="char:EOLhyphen"/>ers; and it is to be hoped it will be ready for delivery in January 1794.</item>
+               </list>
+            </p>
+            <p>SUBSCRIPTIONS received at <hi>Mr. CADELL'S,</hi> in the Strand; <hi>Mr. DILLY'S,</hi> in the Poultry; <hi>Mr. HOOKHAM'S,</hi> in Bond Street; and <hi>Mr. BECKETT'S,</hi> in Pall-mall.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
+

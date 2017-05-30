@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The apprentice's monitor; or, indentures in verse, shewing what they are bound to do</title>
+            <author>More, Hannah, 1745-1833.</author>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>University of Oxford Text Archive</name>
+               <address>
+                  <addrLine>Oxford University Computing Services</addrLine>
+                  <addrLine>13 Banbury Road</addrLine>
+                  <addrLine>Oxford</addrLine>
+                  <addrLine>OX2 6NN</addrLine>
+               </address>
+               <email>ota@oucs.ox.ac.uk</email>
+            </distributor>
+            <idno type="ota">http://ota.ox.ac.uk/id/3848</idno>
+            <idno type="isbn10">1106008472</idno>
+            <idno type="isbn13">9781106008473</idno>
+            <idno type="TCP">K031003.000</idno>
+            <idno type="BIBNO">CW3313475707</idno>
+            <idno type="ECLL">0790001000</idno>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/3.0/">
+	  Distributed by the University of Oxford under a Creative Commons
+	  Attribution-ShareAlike 3.0 Unported License
+	</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The apprentice's monitor; or, indentures in verse, shewing what they are bound to do</title>
+                  <author>More, Hannah, 1745-1833.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) ; 1⁰.</extent>
+               <publicationStmt>
+                  <publisher>Sold by S. Hazard, printer to the Cheap Repository for religious and moral tracts) at Bath; J. Marshall, at the Cheap Repositories, No. 27 Queen-street, Cheap-side, and No. 4, Aldermary Churchyard; and R. White, Piccadilly, London; and by all booksellers, newsmen, and hawkers, in town and country,</publisher>
+                  <pubPlace>[Bath] :</pubPlace>
+                  <date>[1795]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed Z, i.e. Hannah More.</note>
+                  <note>Cheap Repository tract.</note>
+                  <note>Verse - "Each young apprentice, when he's bound to trade".</note>
+                  <note>Reproduction of original from the Harvard University Graduate School of Business.</note>
+                  <note>Reproduction of original from the Bodleian Library (Oxford).</note>
+                  <note>English Short Title Catalog, ESTCT22341.</note>
+                  <note>Electronic data. Farmington Hills, Mich. : Thomson Gale, 2003. Page image (PNG). Digitized image of the microfilm version produced in Woodbridge, CT by Research Publications, 1982-2002 (later known as Primary Source Microfilm, an imprint of the Gale Group).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2p5.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>This electronic text file was keyed from page images and partially proofread for accuracy. Character capture and encoding have been done following the guidelines of the ECCO Text Creation Partnership, which correspond roughly to the recommendations found in Level 4 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">English</language>
+         </langUsage>
+      </profileDesc>
+  </teiHeader>
+  <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:0790001000:1"/>
+            <head>The APPRENTICE'S MONITOR; OR, INDENTURES IN VERSE, Shewing what they are bound to do.</head>
+            <head type="sub">Proper to be hung up in all Shops.</head>
+            <lg>
+               <l>EACH young Apprentice, when he's bound to Trade,</l>
+               <l>This ſolemn vow to GOD and Man has made.</l>
+               <l>To do with joy his Maſter's juſt commands,</l>
+               <l>Nor truſt his ſecrets into other hands.</l>
+               <l>He muſt no damage to his ſubſtance do,</l>
+               <l>And ſee that others do not wrong him too.</l>
+               <l>His Maſter's goods he ſhall not waſte nor lend,</l>
+               <l>But all his property with care defend.</l>
+               <l>He ſhall not buy nor ſell without his leave,</l>
+               <l>Nor lie, nor injure, nor at all deceive.</l>
+               <l>Taverns and ALE-HOUSES he ſhall not haunt,</l>
+               <l>Thoſe ſnares to Youth, thoſe ſcenes of vice and want.</l>
+               <l>At CARDS and DICE he ſhall not dare to play,</l>
+               <l>But fly from ſuch temptations far away.</l>
+            </lg>
+            <lg>
+               <l>O Youth! remember thou to this art BOUND,</l>
+               <l>See that no breach of this in thee be found.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>The GOLDEN RULE <hi>IN VERSE.</hi>
+            </head>
+            <l>MY Son, behold what GODS commands impart;</l>
+            <l>Love GOD with all your ſtrength, and mind, and heart.</l>
+            <l>Take care that you unto another do</l>
+            <l>What you wou'd have another do to you.</l>
+            <l>On theſe as on their great deſign and end,</l>
+            <l>The Prophets and the Law alike depend.</l>
+            <closer>
+               <signed>Z.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Sold by S. HAZARD, (PRINTER to the CHEAP REPOSITORY for Religious and Moral Tract) at BATH; <hi>J. MARSHALL,</hi> at the <hi>Cheap Repoſitories,</hi> No, 27, Queen-Street, Cheap-Side, and No. 4, Aldermary Church Yard; and <hi>R. WHITE,</hi> Piccadilly, <hi>LONDON</hi>; and by all Bookſellers, Newſmen, and Hawkers, in Town and Country.</p>
+            <p>☞ Great Allowance to Shopkeepers and Hawkers.</p>
+            <p>Price an Half-penny, or 2s. 3d. per 100.—1s. 3d. for 50.—9d. for 25.</p>
+            <p>[<hi>Entered at Stationers Hall.</hi>]</p>
+         </div>
+      </back>
+   </text>
+</TEI>
+
